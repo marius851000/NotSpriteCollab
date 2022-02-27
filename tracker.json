@@ -80,9 +80,7 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/947563248398532608/sprite-0000.zip",
     "sprite_modified": "2022-02-27 18:38:02.815931",
-    "sprite_pending": {
-      "947563239967948901": 899620594251882496
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
