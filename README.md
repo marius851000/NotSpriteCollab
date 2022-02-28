@@ -24,6 +24,8 @@ You are still encouraged to put your work under a license that allow reuse. You 
 
 If the author added a license for their work, it'll be displayed on https://hacknews.pmdcollab.org/page:notspritecollab_credit . If you are an author, indicate the license in #notspritecollab-discussion before submitting your work, and I'll update the page.
 
+Remember to check the license/ask the author before submitting a derivative !
+
 Be aware that I'll by default upload some finished sprites and portraits that I found and the author didn't added in NotSpriteCollab. If you want them remove, contact marius.
 
 **!add**
