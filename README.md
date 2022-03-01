@@ -34,6 +34,8 @@ Be aware that I'll by default upload some finished sprites and portraits that we
 
 This version of SpriteBot permit anyone to a new creature entry. You can use the `!help add` command to see how to use it.
 
-**Mirror**
+**Other**
 
 The GitHub repository containing sprites, portraits and creature metadata can be found here : https://github.com/marius851000/NotSpriteCollab
+
+Picture profile of NotSpriteCollab commissioned by Sanglorian from DevilDman, under CC BY-SA 4.0, from an original design by Leo, modified by marius851000.
