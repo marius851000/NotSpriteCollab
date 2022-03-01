@@ -9,13 +9,13 @@
 
 **NotSpriteCollab**
 
-NotSpriteCollab is an instance of SpriteBot, maintained by <@!311408582128173056>. It is not to be confused with the primary instance of SpriteBot, SpriteCollab, which can be found in the SkyTemple Discord server, as well as PMDO's one.
+NotSpriteCollab is an instance of SpriteBot, maintained by <@!311408582128173056>. It is not to be confused with the primary instance of SpriteBot, SpriteCollab, which can be found in the SkyTemple's Discord server, as well as PMDO's one.
 
-You can upload sprites and portraits that does not fit into SpriteCollab here. Most notably, non-official pokémon and non-pokeéon are accepted, with little regard to quality. You are still prohibited of published sexually explicit image here.
+You can upload sprites and portraits that does not fit into SpriteCollab here. Most notably, non-official pokémon and non-pokémon are accepted, with little regard to quality. You are still prohibited of publishing sexually explicit image here.
 
-There still are a moderation phase, but that is mostly to prevent spam.
+There still are a moderation phase, but I should not reject sprites/portraits except for blatant issue (I'm not a critique).
 
-**permission granted**
+**Author's right**
 
 Unlike in SpriteCollab, there are no special right to grant when uploading a sprite here, except the basic right to copy it to make it avalaible inside NotSpriteCollab (that is, it'll be avalaible to user with ``!portrait`` or ``!sprite``, or via GitHub, on which a copy of sprites and portraits are hosted and publicly accessible).
 
@@ -26,11 +26,13 @@ If the author added a license for their work, it'll be displayed on https://hack
 
 Remember to check the license/ask the author before submitting a derivative !
 
-Be aware that I'll by default upload some finished sprites and portraits that I found and the author didn't added in NotSpriteCollab. If you want them remove, contact marius.
+Be aware that I'll by default upload some finished sprites and portraits that weren't added by the author in NotSpriteCollab. If you want them remove, contact marius.
+
+*Also, I'll use also use this repository to put the weekly change in the newsletter*
 
 **!add**
 
-This version of SpriteBot permit anyone to a new monster entry. You can use the `!help add` command to see how to use it.
+This version of SpriteBot permit anyone to a new creature entry. You can use the `!help add` command to see how to use it.
 
 **Mirror**
 
