@@ -398,8 +398,10 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!724070439051329616>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "PRGUITARMAN"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Inspired": false,
@@ -419,8 +421,8 @@
       "Worried": false,
       "Dizzy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/948543734323245106/portrait-0003.png",
-    "portrait_modified": "2022-03-02 11:34:09.133599",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/948550350481264670/portrait-0003.png",
+    "portrait_modified": "2022-03-02 12:00:26.513067",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
