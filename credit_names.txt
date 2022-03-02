@@ -2,4 +2,4 @@ Name	Discord	Contact
 Emmuffin	<@!356635814668664832>	https://twitter.com/Ernmuffin
 Edael	<@!300803467637817354>	https://twitter.com/Exodus_Drake
 <@!170593611329699850>	<@!311408582128173056>	Piksidust
-Piksidust	<@!170593611329699850>	IsThatFieldRequired
+<@!170593611329699850>	<@!170593611329699850>	Piksidust
