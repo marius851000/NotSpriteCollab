@@ -737,5 +737,105 @@
         }
       }
     }
+  },
+  "0006": {
+    "canon": true,
+    "modreward": false,
+    "name": "Miko_Dai_Hozon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "<@!935570344054513734>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Angry": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/950122500858196029/portrait-0006.png",
+    "portrait_modified": "2022-03-06 20:07:36.343350",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
