@@ -846,8 +846,10 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!276369635304275968>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!217899432652308480>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Sad^": false,
@@ -883,8 +885,8 @@
       "Dizzy": false,
       "Teary-Eyed^": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/954313641581236284/portrait-0007.png",
-    "portrait_modified": "2022-03-18 09:41:42.124268",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/954315136611549194/portrait-0007.png",
+    "portrait_modified": "2022-03-18 09:47:38.556677",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -913,7 +915,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954313844086427708/sprite-0007.zip",
     "sprite_modified": "2022-03-18 09:42:30.225510",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/954314967300079677/sprite_recolor-0007-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
