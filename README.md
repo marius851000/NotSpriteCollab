@@ -39,3 +39,13 @@ This version of SpriteBot permit anyone to a new creature entry. You can use the
 The GitHub repository containing sprites, portraits and creature metadata can be found here : https://github.com/marius851000/NotSpriteCollab
 
 Picture profile of NotSpriteCollab commissioned by Sanglorian from DevilDman, under CC BY-SA 4.0, from an original design by Leo, modified by marius851000.
+
+**Quick "how to add a portrait/sprite guide"**
+
+*I won't speak about the specific of making the sprites or portraits, just how to upload them. Emmuffin made a guide on how to make sprites, and making portrait is very simple*
+
+1. check if the pokémon already exist. You can take a look at the list in #nospritecollab-info
+2. If it doesn't exist, use the command ``!add <pokemon name>``. The pokemon name shouldn't have space in the name. For example, you could use ``!add Feraligtr_pirate``
+3. You can then use ``!portrait <pokemon name>`` or ``!sprite <pokemon name>``. You can change the template or existing sprite/portraits, or just rename your existing sprite/portraits to the name of the template file.
+4. If you are the original 
+4. Upload the file in the #notspritecollab-submit channel. If you aren't

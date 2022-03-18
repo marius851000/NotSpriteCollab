@@ -202,7 +202,7 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954229921461444628/sprite-0001.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -432,7 +432,7 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954230020166025236/sprite-0003.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -768,6 +768,139 @@
     "sprite_link": "",
     "sprite_modified": "",
     "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0007": {
+    "canon": true,
+    "modreward": false,
+    "name": "Feraligatr_Pirate",
+    "portrait_bounty": {},
+    "portrait_complete": 2,
+    "portrait_credit": {
+      "primary": "<@!276369635304275968>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Sad^": false,
+      "Inspired": false,
+      "Crying": false,
+      "Stunned": false,
+      "Pain": false,
+      "Happy^": false,
+      "Joyous^": false,
+      "Dizzy^": false,
+      "Worried^": false,
+      "Pain^": false,
+      "Joyous": false,
+      "Teary-Eyed": false,
+      "Shouting^": false,
+      "Normal^": false,
+      "Surprised": false,
+      "Surprised^": false,
+      "Sad": false,
+      "Happy": false,
+      "Angry": false,
+      "Sigh^": false,
+      "Shouting": false,
+      "Normal": false,
+      "Determined": false,
+      "Crying^": false,
+      "Inspired^": false,
+      "Determined^": false,
+      "Sigh": false,
+      "Stunned^": false,
+      "Worried": false,
+      "Angry^": false,
+      "Dizzy": false,
+      "Teary-Eyed^": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/954313641581236284/portrait-0007.png",
+    "portrait_modified": "2022-03-18 09:41:42.124268",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954312297663299596/sprite-0007.zip",
+    "sprite_modified": "",
+    "sprite_pending": {
+      "954313637718269963": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
