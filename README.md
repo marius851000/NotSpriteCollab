@@ -47,5 +47,5 @@ Picture profile of NotSpriteCollab commissioned by Sanglorian from DevilDman, un
 1. check if the pokémon already exist. You can take a look at the list in #nospritecollab-info
 2. If it doesn't exist, use the command ``!add <pokemon name>``. The pokemon name shouldn't have space in the name. For example, you could use ``!add Feraligtr_pirate``
 3. You can then use ``!portrait <pokemon name>`` or ``!sprite <pokemon name>``. You can change the template or existing sprite/portraits, or just rename your existing sprite/portraits to the name of the template file.
-4. If you are the original 
-4. Upload the file in the #notspritecollab-submit channel. If you aren't
+4. If you are the original author register yourself with the ``!register`` command (``!help register`` for info)
+5. Upload the file in the #notspritecollab-submit channel. If you aren't the author, use the ``--author @author`` if the user is on Discord. Otherwise, message me (<@!311408582128173056>). If there are additional author, also message me (or ping me in the #notspritecollab-discussion channel)
