@@ -43,6 +43,7 @@ The GitHub repository containing sprites, portraits and creature metadata can be
 
 Picture profile of NotSpriteCollab commissioned by Sanglorian from DevilDman, under CC BY-SA 4.0, from an original design by Leo, modified by marius851000.
 
+Server picture also by DevilDman. mail icon by rg1024, public domain.
 
 **Quick "how to add a portrait/sprite guide"**
 
