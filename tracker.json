@@ -2807,8 +2807,10 @@
     "sprite_complete": 1,
     "sprite_credit": {
       "primary": "<@!319945906600411179>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!276369635304275968>"
+      ],
+      "total": 2
     },
     "sprite_files": {
       "Walk": false,
@@ -2826,8 +2828,8 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/999417647697494016/sprite-0025.zip",
-    "sprite_modified": "2022-07-20 20:48:54.920977",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/999418204592021594/sprite-0025.zip",
+    "sprite_modified": "2022-07-20 20:51:07.870560",
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
