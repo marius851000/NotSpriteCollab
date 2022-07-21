@@ -7,7 +7,7 @@
 :grey_question: Pending Submission
 :interrobang: Finished, with Pending Revision
 
-Online preview avalaible here : https://hacknews.pmdcollab.org/notspritecollab/
+Online preview avalaible here : https://nsc.pmdcollab.org/
 
 **NotSpriteCollab**
 
