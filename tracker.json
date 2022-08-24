@@ -3028,8 +3028,8 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1007921959222399016/portrait-0026-0001.png",
-        "portrait_modified": "2022-08-13 08:02:01.048993",
+        "portrait_link": "",
+        "portrait_modified": "2022-08-24 17:04:49.347162",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -3095,8 +3095,8 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1007921937676259348/portrait-0026-0002.png",
-        "portrait_modified": "2022-08-13 08:01:55.938762",
+        "portrait_link": "",
+        "portrait_modified": "2022-08-24 17:04:49.341162",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -3162,8 +3162,8 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1007921981636751450/portrait-0026-0003.png",
-        "portrait_modified": "2022-08-13 08:02:06.429272",
+        "portrait_link": "",
+        "portrait_modified": "2022-08-24 17:04:49.353162",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -3234,8 +3234,8 @@
       "Angry": false,
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1012040026026156142/portrait-0027.png",
-    "portrait_modified": "2022-08-24 16:45:44.708269",
+    "portrait_link": "",
+    "portrait_modified": "2022-08-24 17:04:49.361162",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -3264,8 +3264,8 @@
       "Injured": false,
       "StandingUp": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1012040601891520522/sprite-0027.zip",
-    "sprite_modified": "2022-08-24 16:48:01.662594",
+    "sprite_link": "",
+    "sprite_modified": "2022-08-24 17:04:49.388163",
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
