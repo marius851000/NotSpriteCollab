@@ -3636,15 +3636,17 @@
     "modreward": false,
     "name": "Baashaun",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1018619499303411733/portrait-0030.png",
+    "portrait_modified": "2022-09-11 20:30:13.334394",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
