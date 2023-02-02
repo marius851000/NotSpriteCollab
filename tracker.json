@@ -5270,18 +5270,34 @@
         "modreward": false,
         "name": "Antipode",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!330751862590406656>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1070414767996539041": 948263579805683752
+        "portrait_files": {
+          "Inspired": false,
+          "Crying": false,
+          "Stunned": false,
+          "Pain": false,
+          "Joyous": false,
+          "Teary-Eyed": false,
+          "Surprised": false,
+          "Sad": false,
+          "Happy": false,
+          "Angry": false,
+          "Shouting": false,
+          "Normal": false,
+          "Determined": false,
+          "Sigh": false,
+          "Special0": false,
+          "Worried": false,
+          "Dizzy": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1070599114984792074/portrait-0039-0004.png",
+        "portrait_modified": "2023-02-02 06:58:39.433199",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
