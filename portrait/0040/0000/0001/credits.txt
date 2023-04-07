@@ -1,1 +1,2 @@
 2023-03-13 06:23:33.572544	<@!305551235593797633>	Normal
+2023-04-07 10:55:45.007574	<@!305551235593797633>	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
