@@ -625,7 +625,7 @@
     "modreward": false,
     "name": "Smiley",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!350050109741858829>",
       "secondary": [],
@@ -650,10 +650,11 @@
       "Sigh": false,
       "Special0": false,
       "Worried": false,
-      "Dizzy": false
+      "Dizzy": false,
+      "Inspired": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/949349007392649216/portrait-0005.png",
-    "portrait_modified": "2022-03-04 16:54:01.118148",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1098650346122915910/portrait-0005.png",
+    "portrait_modified": "2023-04-20 16:44:14.116141",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
