@@ -7278,18 +7278,22 @@
     "modreward": false,
     "name": "Joe",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1112587610091692092/portrait-0053.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1112588191078297611": 948263579805683752
+    "portrait_files": {
+      "Inspired": false,
+      "Joyous": false,
+      "Happy": false,
+      "Angry": false,
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1112664668222263398/portrait-0053.png",
+    "portrait_modified": "2023-05-29 08:52:08.917198",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
