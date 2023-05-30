@@ -7281,21 +7281,22 @@
     "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!330751862590406656>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!662304890143375391>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Inspired": false,
       "Joyous": false,
       "Happy": false,
       "Angry": false,
-      "Normal": false
+      "Normal": false,
+      "Sigh": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1112664668222263398/portrait-0053.png",
-    "portrait_modified": "2023-05-29 08:52:08.917198",
-    "portrait_pending": {
-      "1112775509319884870": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1112988536753377310/portrait-0053.png",
+    "portrait_modified": "2023-05-30 06:19:04.240158",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
