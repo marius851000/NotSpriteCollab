@@ -8029,7 +8029,9 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1132869442699800587": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -8105,15 +8107,32 @@
     "modreward": false,
     "name": "Mafia_Eevee",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1132866440274395278/portrait-0060.png",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1132869672711225404/portrait-0060.png",
+    "portrait_modified": "2023-07-24 02:59:37.302551",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
