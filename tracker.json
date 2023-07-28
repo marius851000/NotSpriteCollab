@@ -7876,15 +7876,25 @@
     "modreward": false,
     "name": "Pikachu_Mafla",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1080720022617456670>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1132626705559855114/portrait-0058.png",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Worried": false,
+      "Shouting": false,
+      "Determined": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Special2": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1134523522128019516/portrait-0058.png",
+    "portrait_modified": "2023-07-28 16:31:25.755585",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -7932,6 +7942,71 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "canon": true,
+        "modreward": false,
+        "name": "Noscarf",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
         "subgroups": {
           "0001": {
             "canon": true,
