@@ -7982,15 +7982,25 @@
         "modreward": false,
         "name": "Noscarf",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!1080720022617456670>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false,
+          "Happy": false,
+          "Worried": false,
+          "Shouting": false,
+          "Determined": false,
+          "Special0": false,
+          "Special1": false,
+          "Sigh": false,
+          "Special2": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1134546810820624464/portrait-0058-0001.png",
+        "portrait_modified": "2023-07-28 18:03:58.214120",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
