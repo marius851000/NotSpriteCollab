@@ -19963,17 +19963,25 @@
   "0178": {
     "canon": true,
     "modreward": false,
-    "name": "Allseer",
+    "name": "Magneton_Joes",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!216640380408430592>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Sad": false,
+      "Teary-Eyed": false,
+      "Dizzy": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1153060955761152094/portrait-0178.png",
+    "portrait_modified": "2023-09-17 20:12:34.313313",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -19985,9 +19993,11 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1153058940268056727/sprite-0178.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1153060889012998346": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
