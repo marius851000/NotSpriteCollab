@@ -1,7 +1,7 @@
 Name	Discord	Contact
 Emmuffin	<@!356635814668664832>	https://twitter.com/Ernmuffin
 Edael	<@!300803467637817354>	https://twitter.com/Exodus_Drake
-<!@571847167489343507>	<@!311408582128173056>	Minarchu
+AURA	<@!311408582128173056>	
 Piksidust	<@!170593611329699850>	
 PRguitarman	PRGUITARMAN	https://twitter.com/PRguitarman
 FantasyGuy	<@!724070439051329616>	https://www.deviantart.com/adam1258
@@ -31,3 +31,4 @@ toatallyasnowpea	<@!1080720022617456670>	https://youtube.com/@Toatallyaglaceon
 MadridPawmot	<@!905185666588098602>	
 Chehra	<@!1043453142655832094>	
 TawnySoup	<@!216640380408430592>	https://linktr.ee/tawnysoup
+Aura	AURA	someurl

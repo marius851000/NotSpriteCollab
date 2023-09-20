@@ -7165,8 +7165,10 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!265982709371895808>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "AURA"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Inspired": false,
@@ -7187,8 +7189,8 @@
       "Worried": false,
       "Dizzy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1150448485825511434/portrait-0052.png",
-    "portrait_modified": "2023-07-02 16:37:44.264821",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1154152441911193702/portrait-0052.png",
+    "portrait_modified": "2023-09-20 20:29:43.160557",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
