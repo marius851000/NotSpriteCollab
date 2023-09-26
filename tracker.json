@@ -20117,7 +20117,7 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 2,
     "sprite_credit": {
       "primary": "<@!469246358180593668>",
       "secondary": [],
@@ -20161,7 +20161,7 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1156365010751209502/sprite-0179.zip?ex=6514b456&is=651362d6&hm=0ee3e70fced5e2c60781cffe2d1874f21c6dba39b8f4607263324db9ddfcf7a8&",
     "sprite_modified": "2023-09-26 23:01:40.299310",
     "sprite_pending": {},
     "sprite_recolor_link": "",
