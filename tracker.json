@@ -6268,15 +6268,17 @@
     "modreward": false,
     "name": "Lamball",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!305551235593797633>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1163529305939259492/portrait-0045.png?ex=653fe81b&is=652d731b&hm=915b903264cde9076caf863464718da713f31024cc21ee2f006d642d7383d2cc&",
+    "portrait_modified": "2023-10-16 17:30:03.556211",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
