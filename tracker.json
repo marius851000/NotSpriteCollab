@@ -7,10 +7,8 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!356635814668664832>",
-      "secondary": [
-        "<@!300803467637817354>"
-      ],
-      "total": 2
+      "secondary": [],
+      "total": 0
     },
     "portrait_files": {
       "Inspired": false,
@@ -41,7 +39,7 @@
     "sprite_credit": {
       "primary": "<@!356635814668664832>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "sprite_files": {
       "Walk": false,
@@ -147,11 +145,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0001": {
     "canon": true,
@@ -162,7 +166,7 @@
     "portrait_credit": {
       "primary": "<@!170593611329699850>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Special3": false,
@@ -269,11 +273,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0002": {
     "canon": true,
@@ -284,7 +294,7 @@
     "portrait_credit": {
       "primary": "<@!356635814668664832>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Inspired": false,
@@ -384,11 +394,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0003": {
     "canon": true,
@@ -399,7 +415,7 @@
     "portrait_credit": {
       "primary": "<@!724070439051329616>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Inspired": false,
@@ -499,11 +515,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0004": {
     "canon": true,
@@ -514,7 +536,7 @@
     "portrait_credit": {
       "primary": "<@!672586621459365888>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Inspired": false,
@@ -614,11 +636,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0005": {
     "canon": true,
@@ -748,11 +776,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0006": {
     "canon": true,
@@ -763,7 +797,7 @@
     "portrait_credit": {
       "primary": "<@!935570344054513734>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Angry": false
@@ -848,11 +882,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0007": {
     "canon": true,
@@ -862,10 +902,8 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!276369635304275968>",
-      "secondary": [
-        "<@!217899432652308480>"
-      ],
-      "total": 2
+      "secondary": [],
+      "total": 0
     },
     "portrait_files": {
       "Sad^": false,
@@ -911,7 +949,7 @@
     "sprite_credit": {
       "primary": "<@!276369635304275968>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "sprite_files": {
       "Walk": false,
@@ -995,11 +1033,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0008": {
     "canon": true,
@@ -1010,7 +1054,7 @@
     "portrait_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -1095,11 +1139,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0009": {
     "canon": true,
@@ -1110,7 +1160,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Special3": false,
@@ -1214,11 +1264,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0010": {
     "canon": true,
@@ -1229,7 +1285,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -1314,11 +1370,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0011": {
     "canon": true,
@@ -1329,7 +1391,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -1414,11 +1476,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0012": {
     "canon": true,
@@ -1429,7 +1497,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -1514,11 +1582,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0013": {
     "canon": true,
@@ -1529,7 +1603,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Special3": false,
@@ -1630,11 +1704,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0014": {
     "canon": true,
@@ -1645,7 +1725,7 @@
     "portrait_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Surprised": false,
@@ -1731,11 +1811,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0015": {
     "canon": true,
@@ -1746,7 +1832,7 @@
     "portrait_credit": {
       "primary": "<@!329980673895038976>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -1831,11 +1917,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0016": {
     "canon": true,
@@ -1846,7 +1938,7 @@
     "portrait_credit": {
       "primary": "<@!801938240562397194>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Pain": false,
@@ -1933,11 +2025,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0017": {
     "canon": true,
@@ -1948,7 +2046,7 @@
     "portrait_credit": {
       "primary": "<@!276369635304275968>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -2033,11 +2131,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0018": {
     "canon": true,
@@ -2048,7 +2152,7 @@
     "portrait_credit": {
       "primary": "<@!672586621459365888>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Inspired": false,
@@ -2148,11 +2252,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0019": {
     "canon": true,
@@ -2163,7 +2273,7 @@
     "portrait_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal^": false,
@@ -2179,7 +2289,7 @@
     "sprite_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "sprite_files": {
       "Walk": false,
@@ -2259,11 +2369,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0020": {
     "canon": true,
@@ -2274,7 +2390,7 @@
     "portrait_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "portrait_files": {
       "Normal": false
@@ -2359,11 +2475,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0021": {
     "canon": true,
@@ -2389,7 +2511,7 @@
     "sprite_credit": {
       "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
     "sprite_files": {
       "Walk": false,
@@ -2467,11 +2589,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0022": {
     "canon": true,
@@ -2565,11 +2693,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0023": {
     "canon": true,
@@ -2681,11 +2815,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0024": {
     "canon": true,
@@ -2796,11 +2936,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0025": {
     "canon": true,
@@ -2928,11 +3074,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0026": {
     "canon": true,
@@ -3026,9 +3178,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -3093,9 +3249,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0002": {
         "canon": true,
@@ -3160,9 +3320,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0003": {
         "canon": true,
@@ -3227,11 +3391,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0027": {
     "canon": true,
@@ -3347,11 +3517,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0028": {
     "canon": true,
@@ -3475,11 +3651,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0029": {
     "canon": true,
@@ -3626,11 +3808,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0030": {
     "canon": true,
@@ -3763,11 +3951,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0031": {
     "canon": true,
@@ -3861,11 +4055,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0032": {
     "canon": true,
@@ -3993,9 +4193,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -4092,11 +4296,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0033": {
     "canon": true,
@@ -4245,11 +4455,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0034": {
     "canon": true,
@@ -4361,11 +4577,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0035": {
     "canon": true,
@@ -4506,11 +4728,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0036": {
     "canon": true,
@@ -4606,11 +4834,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0037": {
     "canon": true,
@@ -4736,11 +4970,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0038": {
     "canon": true,
@@ -4866,11 +5106,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0039": {
     "canon": true,
@@ -5026,9 +5272,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1070412980644237353/sprite_recolor-0039-0000-0001.png",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -5153,9 +5403,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0002": {
         "canon": true,
@@ -5280,9 +5534,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0003": {
         "canon": true,
@@ -5407,9 +5665,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0004": {
         "canon": true,
@@ -5503,9 +5765,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0005": {
         "canon": true,
@@ -5568,9 +5834,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0006": {
         "canon": true,
@@ -5633,11 +5903,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0040": {
     "canon": true,
@@ -5795,11 +6071,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0041": {
     "canon": true,
@@ -5927,11 +6209,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0042": {
     "canon": true,
@@ -6041,11 +6329,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0043": {
     "canon": true,
@@ -6154,11 +6448,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0044": {
     "canon": true,
@@ -6257,11 +6557,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0045": {
     "canon": true,
@@ -6357,11 +6663,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0046": {
     "canon": true,
@@ -6489,9 +6801,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -6588,11 +6904,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0047": {
     "canon": true,
@@ -6686,11 +7008,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0048": {
     "canon": true,
@@ -6784,11 +7112,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0049": {
     "canon": true,
@@ -6915,11 +7249,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0050": {
     "canon": true,
@@ -7023,11 +7363,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0051": {
     "canon": true,
@@ -7153,11 +7499,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0052": {
     "canon": true,
@@ -7271,11 +7623,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0053": {
     "canon": true,
@@ -7378,11 +7736,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0054": {
     "canon": true,
@@ -7493,11 +7857,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0055": {
     "canon": true,
@@ -7624,11 +7994,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0056": {
     "canon": true,
@@ -7755,11 +8131,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0057": {
     "canon": true,
@@ -7869,11 +8251,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0058": {
     "canon": true,
@@ -8013,9 +8401,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -8088,11 +8480,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0059": {
     "canon": true,
@@ -8233,11 +8631,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0060": {
     "canon": true,
@@ -8363,11 +8767,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0061": {
     "canon": true,
@@ -8463,11 +8873,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0062": {
     "canon": true,
@@ -8561,11 +8977,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0063": {
     "canon": true,
@@ -8659,11 +9081,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0064": {
     "canon": true,
@@ -8757,11 +9185,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0065": {
     "canon": true,
@@ -8855,11 +9289,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0066": {
     "canon": true,
@@ -8953,11 +9393,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0067": {
     "canon": true,
@@ -9051,11 +9497,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0068": {
     "canon": true,
@@ -9149,11 +9601,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0069": {
     "canon": true,
@@ -9247,11 +9705,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0070": {
     "canon": true,
@@ -9345,11 +9809,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0071": {
     "canon": true,
@@ -9443,11 +9913,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0072": {
     "canon": true,
@@ -9541,11 +10017,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0073": {
     "canon": true,
@@ -9639,11 +10121,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0074": {
     "canon": true,
@@ -9737,11 +10225,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0075": {
     "canon": true,
@@ -9835,11 +10329,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0076": {
     "canon": true,
@@ -9933,11 +10433,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0077": {
     "canon": true,
@@ -10031,11 +10537,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0078": {
     "canon": true,
@@ -10129,11 +10641,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0079": {
     "canon": true,
@@ -10227,11 +10745,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0080": {
     "canon": true,
@@ -10325,11 +10849,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0081": {
     "canon": true,
@@ -10423,11 +10953,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0082": {
     "canon": true,
@@ -10521,11 +11057,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0083": {
     "canon": true,
@@ -10619,11 +11161,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0084": {
     "canon": true,
@@ -10717,11 +11265,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0085": {
     "canon": true,
@@ -10815,11 +11369,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0086": {
     "canon": true,
@@ -10913,11 +11473,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0087": {
     "canon": true,
@@ -11011,11 +11577,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0088": {
     "canon": true,
@@ -11109,11 +11681,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0089": {
     "canon": true,
@@ -11207,11 +11785,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0090": {
     "canon": true,
@@ -11305,11 +11889,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0091": {
     "canon": true,
@@ -11403,11 +11993,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0092": {
     "canon": true,
@@ -11501,11 +12097,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0093": {
     "canon": true,
@@ -11599,11 +12201,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0094": {
     "canon": true,
@@ -11697,11 +12305,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0095": {
     "canon": true,
@@ -11795,11 +12409,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0096": {
     "canon": true,
@@ -11893,11 +12513,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0097": {
     "canon": true,
@@ -11991,11 +12617,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0098": {
     "canon": true,
@@ -12089,11 +12721,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0099": {
     "canon": true,
@@ -12187,11 +12825,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0100": {
     "canon": true,
@@ -12285,11 +12929,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0101": {
     "canon": true,
@@ -12383,11 +13033,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0102": {
     "canon": true,
@@ -12481,11 +13137,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0103": {
     "canon": true,
@@ -12579,11 +13241,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0104": {
     "canon": true,
@@ -12677,11 +13345,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0105": {
     "canon": true,
@@ -12775,11 +13449,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0106": {
     "canon": true,
@@ -12873,11 +13553,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0107": {
     "canon": true,
@@ -12971,11 +13657,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0108": {
     "canon": true,
@@ -13069,11 +13761,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0109": {
     "canon": true,
@@ -13167,11 +13865,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0110": {
     "canon": true,
@@ -13265,11 +13969,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0111": {
     "canon": true,
@@ -13363,11 +14073,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0112": {
     "canon": true,
@@ -13461,11 +14177,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0113": {
     "canon": true,
@@ -13559,11 +14281,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0114": {
     "canon": true,
@@ -13657,11 +14385,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0115": {
     "canon": true,
@@ -13755,11 +14489,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0116": {
     "canon": true,
@@ -13853,11 +14593,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0117": {
     "canon": true,
@@ -13951,9 +14697,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       },
       "0001": {
         "canon": true,
@@ -14016,11 +14766,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0118": {
     "canon": true,
@@ -14114,11 +14870,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0119": {
     "canon": true,
@@ -14212,11 +14974,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0120": {
     "canon": true,
@@ -14331,11 +15099,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0121": {
     "canon": true,
@@ -14470,11 +15244,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0122": {
     "canon": true,
@@ -14568,11 +15348,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0123": {
     "canon": true,
@@ -14666,11 +15452,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0124": {
     "canon": true,
@@ -14764,11 +15556,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0125": {
     "canon": true,
@@ -14862,11 +15660,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0126": {
     "canon": true,
@@ -14960,11 +15764,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0127": {
     "canon": true,
@@ -15058,11 +15868,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0128": {
     "canon": true,
@@ -15156,11 +15972,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0129": {
     "canon": true,
@@ -15254,11 +16076,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0130": {
     "canon": true,
@@ -15352,11 +16180,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0131": {
     "canon": true,
@@ -15450,11 +16284,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0132": {
     "canon": true,
@@ -15548,11 +16388,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0133": {
     "canon": true,
@@ -15646,11 +16492,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0134": {
     "canon": true,
@@ -15744,11 +16596,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0135": {
     "canon": true,
@@ -15842,11 +16700,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0136": {
     "canon": true,
@@ -15940,11 +16804,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0137": {
     "canon": true,
@@ -16038,11 +16908,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0138": {
     "canon": true,
@@ -16136,11 +17012,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0139": {
     "canon": true,
@@ -16234,11 +17116,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0140": {
     "canon": true,
@@ -16332,11 +17220,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0141": {
     "canon": true,
@@ -16430,11 +17324,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0142": {
     "canon": true,
@@ -16528,11 +17428,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0143": {
     "canon": true,
@@ -16626,11 +17532,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0144": {
     "canon": true,
@@ -16724,11 +17636,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0145": {
     "canon": true,
@@ -16822,11 +17740,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0146": {
     "canon": true,
@@ -16920,11 +17844,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0147": {
     "canon": true,
@@ -17018,11 +17948,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0148": {
     "canon": true,
@@ -17116,11 +18052,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0149": {
     "canon": true,
@@ -17214,11 +18156,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0150": {
     "canon": true,
@@ -17312,11 +18260,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0151": {
     "canon": true,
@@ -17410,11 +18364,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0152": {
     "canon": true,
@@ -17508,11 +18468,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0153": {
     "canon": true,
@@ -17606,11 +18572,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0154": {
     "canon": true,
@@ -17704,11 +18676,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0155": {
     "canon": true,
@@ -17802,11 +18780,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0156": {
     "canon": true,
@@ -17900,11 +18884,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0157": {
     "canon": true,
@@ -17998,11 +18988,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0158": {
     "canon": true,
@@ -18096,11 +19092,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0159": {
     "canon": true,
@@ -18194,11 +19196,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0160": {
     "canon": true,
@@ -18292,11 +19300,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0161": {
     "canon": true,
@@ -18390,11 +19404,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0162": {
     "canon": true,
@@ -18488,11 +19508,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0163": {
     "canon": true,
@@ -18586,11 +19612,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0164": {
     "canon": true,
@@ -18684,11 +19716,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0165": {
     "canon": true,
@@ -18782,11 +19820,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0166": {
     "canon": true,
@@ -18880,11 +19924,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0167": {
     "canon": true,
@@ -18978,11 +20028,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0168": {
     "canon": true,
@@ -19076,11 +20132,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0169": {
     "canon": true,
@@ -19174,11 +20236,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0170": {
     "canon": true,
@@ -19272,11 +20340,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0171": {
     "canon": true,
@@ -19370,11 +20444,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0172": {
     "canon": true,
@@ -19468,11 +20548,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0173": {
     "canon": true,
@@ -19566,11 +20652,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0174": {
     "canon": true,
@@ -19664,11 +20756,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0175": {
     "canon": true,
@@ -19762,11 +20860,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0176": {
     "canon": true,
@@ -19860,11 +20964,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0177": {
     "canon": true,
@@ -19958,11 +21068,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0178": {
     "canon": true,
@@ -20078,11 +21194,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0179": {
     "canon": true,
@@ -20284,11 +21406,17 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   },
   "0180": {
     "canon": true,
@@ -20384,10 +21512,16 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {},
+            "sprite_talk": {},
+            "portrait_talk": {}
           }
-        }
+        },
+        "sprite_talk": {},
+        "portrait_talk": {}
       }
-    }
+    },
+    "sprite_talk": {},
+    "portrait_talk": {}
   }
 }
