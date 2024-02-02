@@ -4266,7 +4266,7 @@
           "Worried": false,
           "Dizzy": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1199562508982300704/portrait-0032-0001.png",
         "portrait_modified": "2023-07-02 16:37:44.198818",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -21520,6 +21520,149 @@
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0181": {
+    "canon": true,
+    "modreward": false,
+    "name": "H",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 2,
+    "sprite_credit": {
+      "primary": "<@!530939837839310849>",
+      "secondary": [],
+      "total": 1
+    },
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "QuickStrike": false,
+      "Strike": false,
+      "SpAttack": false,
+      "RearUp": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
+    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1202885048202694666/sprite-0181.zip",
+    "sprite_modified": "2024-02-02 07:55:43.277724",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {
+      "918857608591458364": 1201755008987832320
+    },
     "subgroups": {
       "0000": {
         "canon": true,
