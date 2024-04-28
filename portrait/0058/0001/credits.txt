@@ -1,1 +1,1 @@
-2023-07-28 18:03:58.192727	<@!1080720022617456670>	Normal,Special1,Happy,Sigh,Shouting,Special2,Worried,Determined,Special0
+2023-07-28 18:03:58.192727	<@!1080720022617456670>	CUR		Normal,Special1,Happy,Sigh,Shouting,Special2,Worried,Determined,Special0

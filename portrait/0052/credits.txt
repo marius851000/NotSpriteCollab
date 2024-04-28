@@ -1,2 +1,2 @@
-2023-05-28 19:49:00.497794	<@!265982709371895808>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-2023-09-20 20:29:43.141363	AURA	"
+2023-05-28 19:49:00.497794	<@!265982709371895808>	CUR		Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+2023-09-20 20:29:43.141363	AURA	CUR		"

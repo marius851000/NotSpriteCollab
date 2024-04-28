@@ -1,2 +1,2 @@
-2024-01-24 03:06:15.420668	<@!330751862590406656>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
-2024-01-24 03:21:07.682721	<@!330751862590406656>	CUR	"
+2024-01-24 03:06:15.420668	<@!330751862590406656>	CUR		Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+2024-01-24 03:21:07.682721	<@!330751862590406656>	CUR		"

@@ -1,1 +1,1 @@
-2023-03-13 06:23:38.333328	<@!305551235593797633>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+2023-03-13 06:23:38.333328	<@!305551235593797633>	CUR		Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop

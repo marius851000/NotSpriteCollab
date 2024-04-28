@@ -1,1 +1,1 @@
-2023-04-21 16:29:32.247621	<@!479305531522154507>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,Special0
+2023-04-21 16:29:32.247621	<@!479305531522154507>	CUR		Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,Special0

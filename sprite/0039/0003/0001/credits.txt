@@ -1,1 +1,1 @@
-2022-12-19 22:01:46.149306	<@!452153823012847636>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2022-12-19 22:01:46.149306	<@!452153823012847636>	CUR		Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop

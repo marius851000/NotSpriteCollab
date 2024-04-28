@@ -1,1 +1,1 @@
-2023-09-26 23:01:41.955731	<@!469246358180593668>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2023-09-26 23:01:41.955731	<@!469246358180593668>	CUR		Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined

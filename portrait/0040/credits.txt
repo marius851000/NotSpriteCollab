@@ -1,2 +1,2 @@
-2023-02-01 12:15:16.706869	<@!305551235593797633>	Normal
-2023-04-07 10:55:27.482019	<@!305551235593797633>	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2023-02-01 12:15:16.706869	<@!305551235593797633>	CUR		Normal
+2023-04-07 10:55:27.482019	<@!305551235593797633>	CUR		Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
