@@ -86,7 +86,9 @@
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/969828004719104040/sprite_recolor-0000-0000-0001.png",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1234151362548203601
+    },
     "subgroups": {
       "0000": {
         "canon": true,
@@ -21744,19 +21746,39 @@
     "modreward": false,
     "name": "Paradox_Mew",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!496039052370509824>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1227306558333915136/portrait-0182.png",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Sigh": false,
+      "Stunned": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1234951808720306248/portrait-0182.png?ex=663299ff&is=6631487f&hm=b8c4f7ff748e2d964770558e598e0c5785d6c6c705d24a694514b0429167a729&",
+    "portrait_modified": "2024-04-30 19:37:34.948116",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1234933786005868608
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
