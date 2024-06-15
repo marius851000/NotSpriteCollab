@@ -18663,18 +18663,18 @@
     "modreward": false,
     "name": "Macabra",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1251377329800740954": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1251377484612763738/portrait-0154.png?ex=666e5b99&is=666d0a19&hm=bcfcad38edf0859c7976701bd5e9492a201d813594a67fdd1a7c195915f90075&",
+    "portrait_modified": "2024-06-15 03:27:21.510356",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
