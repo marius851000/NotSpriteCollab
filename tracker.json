@@ -21991,18 +21991,37 @@
     "modreward": false,
     "name": "Omnicron",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!342459010865430530>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1251776546096545802/portrait-0184.png?ex=666fcf41&is=666e7dc1&hm=0da1dae309286577ed50531b272f562a058ffdbefdb9c768bd2c73cb3b8e112d&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1251781838741966878": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false,
+      "Special3": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1251951661237272729/portrait-0184.png?ex=66707258&is=666f20d8&hm=34ac8161f0a30260cd001fced027b68725b320ac7a89efc6e1dda77f16624161&",
+    "portrait_modified": "2024-06-16 17:28:55.777476",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
