@@ -1,0 +1,261 @@
+All custom graphics not originating from official PMD games are licensed under Attribution-NonCommercial 4.0 International http://creativecommons.org/licenses/by/4.0/.
+All graphics referred to in this file can be found in http://sprites.pmdcollab.org/
+
+Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
+	Portrait:
+		Duskako: OLD
+		Chocobo: OLD
+		Cinderace_Pirate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Paradox_Mew: "
+	Sprite:
+		Duskako: OLD
+
+Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caitemis
+	Portrait:
+		Ghost: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Baashaun: Normal
+		Baariette: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Baariette Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Baariette Nuclear: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Baariette Nuclear Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Mudkip_Mark: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Magikarp_Gun: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Mamel: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Pit: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Gitan: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Antipode: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Owten: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Owten Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Owten Nuclear: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Owten Nuclear Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Herolune: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Joe: Normal,Joyous,Happy,Inspired,Angry
+		Macabra: Normal
+		Koppa: Normal,Happy,Surprised,Stunned,Angry,Worried,Determined,Special0
+	Sprite:
+		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Baashaun: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Baariette: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Baariette Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,"
+		Baariette Nuclear: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Baariette Nuclear Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Mudkip_Mark: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Magikarp_Gun: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Mamel: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Gitan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Antipode: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Stardappor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
+		Fugitive_Birb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
+
+FunnyKecleonMeme	Discord:<@!276369635304275968>	Contact:FunnyKecleonMeme#1075
+	Portrait:
+		Feraligatr_Pirate: OLD
+		Bidoof_Spamton: OLD
+	Sprite:
+		Feraligatr_Pirate: OLD
+		Cinderace_Pirate: "
+
+JFain	Discord:<@!702275233125630042>
+	Portrait:
+		Mr_Saturn: OLD
+		Slime_Dragon_Quest: OLD
+		Cameramite: OLD
+		Waddle_Doo: OLD
+		Journalass: OLD,Normal
+		Bombette: Normal,Joyous,Worried
+		Crypto: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pikmin Red: Normal
+		Pikmin Yellow: Normal
+		Pikmin Blue: Normal
+		Sparky: Normal,Teary-Eyed
+		Fancy_Glec: Normal
+		Skiploom_Alternate_Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Mafia_Eevee: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Cameramite: OLD
+		Journalass: OLD
+		Bombette: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Sparky: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,SpAttack,Swing,Double,Rotate,Hop
+		Mafia_Togepi: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Dance,Swing,Double,Rotate,Hop
+		Mafia_Eevee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop,Pain
+
+NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntruder
+	Sprite:
+		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
+
+JuanmaSG	Discord:<@!479305531522154507>	Contact:https://twitter.com/JuanmaSG55
+	Portrait:
+		Fawfulcopter: Normal,Pain,Surprised,Angry
+	Sprite:
+		Fawfulcopter: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop,StandingUp,Injured
+		Luigia: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,Special0
+
+XModxGodX	Discord:<@!365627932888268800>
+	Portrait:
+		Togetic_Alternate_Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Togetic_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Dance,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
+ShyQuietRain	Discord:<@!576876006636519434>
+	Portrait:
+		Jumpluff_Alternate_Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+	Sprite:
+		Skiploom_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,FlapAround,Swing,Double,Rotate,Hop
+		Jumpluff_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+
+Sunk	Discord:<@!452153823012847636>
+	Portrait:
+		Mamel Pit Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Cave: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Cave Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mamel Gitan Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+	Sprite:
+		Mamel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Pit: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Pit Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Cave: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Cave Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Mamel Gitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+
+Nadiya8040	Discord:<@!305551235593797633>	Contact:https://nadiya8040.neocities.org/
+	Portrait:
+		Pow_Pow: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pow_Pow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Oh_Chan: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Lifmunk: Normal,Sad,Happy,Teary-Eyed
+		Lamball: Normal
+		Notebeat: Normal
+	Sprite:
+		Pow_Pow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Pow_Pow Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Oh_Chan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Special0,Special1
+		Notebeat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+
+AURA	Discord:<@!311408582128173056>
+	Portrait:
+		Zniw: Normal,Happy,Angry,Special0
+	Sprite:
+		Zniw: Idle,Walk
+
+Gayschlatt	Discord:<@!560604377203736617>
+	Portrait:
+		Jen: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Jen: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Pose
+
+toatallyasnowpea	Discord:<@!1080720022617456670>	Contact:https://youtube.com/@Toatallyaglaceon
+	Portrait:
+		Pikachu_Mafla: Normal,Special1,Happy,Sigh,Shouting,Special2,Worried,Determined,Special0
+		Pikachu_Mafla Noscarf: Normal,Special1,Happy,Sigh,Shouting,Special2,Worried,Determined,Special0
+		Toatallyasnowpea: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Special3,Worried^,Determined^,Special0^,Special3^
+	Sprite:
+		Pikachu_Mafla: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
+TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
+	Portrait:
+		Magneton_Joes: Normal,Sad,Happy,Pain,Angry,Teary-Eyed,Dizzy
+	Sprite:
+		Magneton_Joes: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+
+EeveeandVulpix2000	Discord:<@!469246358180593668>	Contact:https://www.instagram.com/eeveeandvulpix2000/
+	Portrait:
+		Eevee_Alola: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Eevee_Alola Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Eevee_Alola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Eevee_Alola Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
+Mudkid	Discord:<@!530939837839310849>	Contact:https://twitter.com/OnePunchMudkip
+	Sprite:
+		H: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
+Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
+	Portrait:
+		Duskako: OLD
+
+Piksidust	Discord:<@!170593611329699850>
+	Portrait:
+		Sans: OLD
+
+FantasyGuy	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
+	Portrait:
+		Nyancat: OLD
+
+DestructiveMarill	Discord:<@!672586621459365888>
+	Portrait:
+		Kyle_Broflovski: OLD
+		K1_B0: OLD
+
+Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
+	Portrait:
+		Smiley: OLD,Inspired,Special0
+
+DigiSpaceProductions	Discord:<@!935570344054513734>	Contact:baserisk@outlook.com
+	Portrait:
+		Miko_Dai_Hozon: OLD
+
+Nooga	Discord:<@!217899432652308480>	Contact:https://www.deviantart.com/ubernooga
+	Portrait:
+		Feraligatr_Pirate: OLD
+
+Fearless-Quit	Discord:<@!801938240562397194>
+	Portrait:
+		Kitsunoh: OLD
+		Nohface: OLD
+		Rebble: OLD
+		Tactite: OLD
+		Stratagem: OLD
+		Voodoom: OLD
+
+Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
+	Portrait:
+		Riolu_Dothack_Tsukasa: OLD
+
+Discord:<@!238146046146904069>
+	Portrait:
+		Stardappor: Normal
+
+Minarchu	Discord:<@!571847167489343507>
+	Portrait:
+		Zniw: "
+
+Bird_Obsession	Discord:<@!521875202389311489>	Contact:""
+	Portrait:
+		Fugitive_Birb: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+
+glec	Discord:<@!265982709371895808>
+	Portrait:
+		Jardo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+
+Aura	Contact:someurl
+	Portrait:
+		Jardo: "
+
+Axcel	Discord:<@!662304890143375391>
+	Portrait:
+		Joe: Sigh
+		Mafia_Togepi: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+
+eLTeh	Discord:<@!120852359676035072>	Contact:https://eltehh.tumblr.com/
+	Portrait:
+		Kiryu: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Majima: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+
+MadridPawmot	Discord:<@!905185666588098602>
+	Portrait:
+		Mossloth: Normal
+
+Chehra	Discord:<@!1043453142655832094>
+	Portrait:
+		Sacabambaspis: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+
+NOLASMOR	Discord:<@!833717817445974046>
+	Portrait:
+		John_Homestuck: Normal
+
+Akai	Discord:<@!496039052370509824>
+	Portrait:
+		Paradox_Mew: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+
