@@ -168,6 +168,8 @@ EeveeandVulpix2000	Discord:<@!469246358180593668>	Contact:https://www.instagram.
 		Eevee_Alola Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Mudkid	Discord:<@!530939837839310849>	Contact:https://twitter.com/OnePunchMudkip
+	Portrait:
+		H: Normal,Sad,Joyous,Happy,Crying,Sigh,Pain,Surprised,Angry,Worried
 	Sprite:
 		H: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
