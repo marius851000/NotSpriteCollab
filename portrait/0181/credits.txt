@@ -1,0 +1,1 @@
+2024-07-07 20:27:54.779906	<@!530939837839310849>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Happy,Crying,Sigh,Pain,Surprised,Angry,Worried
