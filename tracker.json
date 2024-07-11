@@ -22131,7 +22131,7 @@
     "modreward": false,
     "name": "Altaria_Scarf",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!521875202389311489>",
       "secondary": [],
@@ -22140,7 +22140,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1260980146404589740/portrait-0185.png?ex=66914ac6&is=668ff946&hm=7385ab4e26287ac06ae236664ec87dd30714f7f32fd2d245fb39b8d7d7b92344&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1260988158020030555/portrait-0185.png?ex=6691523c&is=669000bc&hm=75424218659eeb51795ce42f4adc98e6f45c66b94c7e4990d385887ba13e2ee3&",
     "portrait_modified": "2024-07-11 15:56:31.191050",
     "portrait_pending": {},
     "portrait_recolor_link": "",
