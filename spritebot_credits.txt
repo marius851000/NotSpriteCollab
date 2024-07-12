@@ -176,7 +176,7 @@ Mudkid	Discord:<@!530939837839310849>	Contact:https://twitter.com/OnePunchMudkip
 Bird_Obsession	Discord:<@!521875202389311489>	Contact:""
 	Portrait:
 		Fugitive_Birb: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
-		Altaria_Scarf: Normal
+		Altaria_Scarf: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 	Sprite:
 		Altaria_Scarf: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 
