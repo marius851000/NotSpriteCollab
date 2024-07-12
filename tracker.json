@@ -22131,21 +22131,34 @@
     "modreward": false,
     "name": "Altaria_Scarf",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!521875202389311489>",
       "secondary": [],
       "total": 1
     },
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Sigh": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1260988158020030555/portrait-0185.png?ex=6691523c&is=669000bc&hm=75424218659eeb51795ce42f4adc98e6f45c66b94c7e4990d385887ba13e2ee3&",
-    "portrait_modified": "2024-07-11 15:56:31.191050",
-    "portrait_pending": {
-      "1261207287608119321": 948263579805683752,
-      "1261210687317868564": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1261248029445459979/portrait-0185.png?ex=66924443&is=6690f2c3&hm=d1197dbef72da54f7d335e30e0c23643bc32b58447c32aac4c9c9b3d46dfcc32&",
+    "portrait_modified": "2024-07-12 09:09:22.736414",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
