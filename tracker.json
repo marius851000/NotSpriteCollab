@@ -16063,19 +16063,23 @@
     "modreward": false,
     "name": "Ripterra",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1282448335365476504/portrait-0129.png?ex=66df6495&is=66de1315&hm=0cb014c34dd4586e7f3528af6ae3f520f8d07d7c490f7d33eaea675543a0a976&",
+    "portrait_modified": "2024-09-08 21:11:49.560723",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1282448291228815427
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
