@@ -18043,19 +18043,23 @@
     "modreward": false,
     "name": "Zombleat",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1282529347638661120/portrait-0148.png?ex=66dfb008&is=66de5e88&hm=655b914e7d435c6a9dc2993f6dc9996df505146057e4b299dd3a020319b9dc90&",
+    "portrait_modified": "2024-09-09 02:33:44.419545",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1282529316797808641
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
