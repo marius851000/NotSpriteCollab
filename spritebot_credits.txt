@@ -182,6 +182,10 @@ Bird_Obsession	Discord:<@!521875202389311489>	Contact:""
 	Sprite:
 		Altaria_Scarf: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 
+BobTheBobCatt	Discord:<@!257709582422507530>
+	Sprite:
+		Leafeon_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
 	Portrait:
 		Duskako: OLD
