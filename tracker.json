@@ -22602,18 +22602,34 @@
     "modreward": false,
     "name": "Espeon_Alternate_Shiny",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!257709582422507530>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1308682785803866112": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1308767436606144572/portrait-0188.png?ex=673f2428&is=673dd2a8&hm=9c856a4dfac178870da2e1fc732fcccce6e7cd173dc25cb56e62c0e9a98b2e57&",
+    "portrait_modified": "2024-11-20 12:14:14.483172",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -22622,16 +22638,28 @@
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!257709582422507530>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Twirl": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
+    },
     "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1308683481064411278": 948263579805683752
-    },
+    "sprite_modified": "2024-11-20 12:14:24.758609",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
