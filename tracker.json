@@ -22926,10 +22926,12 @@
       "Surprised": false,
       "Dizzy": false,
       "Sigh": false,
-      "Stunned": false
+      "Stunned": false,
+      "Special0": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309117612168581200/portrait-0190.png?ex=67406a48&is=673f18c8&hm=69f46b214aa2e49e00445f793c5d01c2b40ad0497eb33a7fcb81330be9c4c154&",
-    "portrait_modified": "2024-11-21 11:25:59.158864",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309273528931188889/portrait-0190.png?ex=6740fb7e&is=673fa9fe&hm=c0dbb60edafa7be3ceee8c3f6e92c32972eeb2c8bc5f0e71d91d1f0887f8b523&",
+    "portrait_modified": "2024-11-21 21:45:33.247323",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
