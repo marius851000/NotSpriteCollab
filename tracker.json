@@ -22982,11 +22982,9 @@
       "HitGround": false,
       "Fainted": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309117699800039515/sprite-0190.zip?ex=67406a5d&is=673f18dd&hm=17b00a9310cd4610e804666698734b9ede83964ed172e273b916b5ebc7493d73&",
-    "sprite_modified": "2024-11-21 11:26:19.500340",
-    "sprite_pending": {
-      "1309222554627739739": 948263579805683752
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309223720526544946/sprite-0190.zip?ex=6740cd1b&is=673f7b9b&hm=61b20f5dbf700b3e8842a48ac5fa076f2f4ec66f07db5307d007bdc9be737760&",
+    "sprite_modified": "2024-11-21 18:27:33.256373",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {

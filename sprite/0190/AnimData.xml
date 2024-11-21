@@ -518,14 +518,5 @@
         <Duration>4</Duration>
       </Durations>
     </Anim>
-    <Anim>
-      <Name>Fainted</Name>
-      <Index>35</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>24</FrameHeight>
-      <Durations>
-        <Duration>12</Duration>
-      </Durations>
-    </Anim>
   </Anims>
 </AnimData>
