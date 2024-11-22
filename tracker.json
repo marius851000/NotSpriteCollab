@@ -23466,18 +23466,37 @@
     "modreward": false,
     "name": "Gengar_Alternate_Shiny",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!257709582422507530>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1309390246370344993": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false,
+      "Special3": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309458996754911262/portrait-0193.png?ex=6741a839&is=674056b9&hm=93b4ee03e9a3c5a104fe01b12992d86f75496dc5c3345c6966f6429b3fe4f7d5&",
+    "portrait_modified": "2024-11-22 10:02:32.435418",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
