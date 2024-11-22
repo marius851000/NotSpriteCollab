@@ -23356,7 +23356,7 @@
       "918857608591458364": 1309341211827372052
     },
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": {
       "primary": "<@!257709582422507530>",
       "secondary": [],
@@ -23381,7 +23381,7 @@
       "Special0": false,
       "Fainted": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1309345661480603780/sprite-0192.zip?ex=67413eac&is=673fed2c&hm=dbfde371a7850830d5ac418c3b6a870b61b9c8d7fe07c06532ad35170e006af0&",
     "sprite_modified": "2024-11-22 02:32:11.008459",
     "sprite_pending": {},
     "sprite_recolor_link": "",
