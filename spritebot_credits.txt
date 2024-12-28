@@ -121,20 +121,6 @@ Sunk	Discord:<@!452153823012847636>
 		Mamel Cave Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Mamel Gitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
-Nadiya8040	Discord:<@!305551235593797633>	Contact:https://nadiya8040.neocities.org/
-	Portrait:
-		Pow_Pow: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Pow_Pow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Oh_Chan: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Lifmunk: Normal,Sad,Happy,Teary-Eyed
-		Lamball: Normal
-		Notebeat: Normal
-	Sprite:
-		Pow_Pow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
-		Pow_Pow Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
-		Oh_Chan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Special0,Special1
-		Notebeat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-
 AURA	Discord:<@!311408582128173056>
 	Portrait:
 		Zniw: Normal,Happy,Angry,Special0
