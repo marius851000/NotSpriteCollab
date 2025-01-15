@@ -21281,19 +21281,36 @@
       "918857608591458364": 1251374889466855546
     },
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "TailWhip": false,
+      "Appeal": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
+    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1328937971260330034/sprite-0183.zip?ex=6788856e&is=678733ee&hm=84b52b7b5c915b2d31d406a244b08542097f45c6bd91b3ff301e4750779f58bf&",
+    "sprite_modified": "2025-01-15 04:05:02.157274",
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1328937867887644682
+    },
     "subgroups": {
       "0000": {
         "canon": true,
