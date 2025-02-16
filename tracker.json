@@ -23254,18 +23254,33 @@
     "modreward": false,
     "name": "Chillet",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1340813598867456052": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1340815704202416200/portrait-0195.png?ex=67b3bb6f&is=67b269ef&hm=8a66dd79bbe07f1a70b07a1bfb611b5bab787aad8c27317ef46288fb711bb224&",
+    "portrait_modified": "2025-02-16 22:42:54.550967",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
