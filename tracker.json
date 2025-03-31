@@ -24295,5 +24295,129 @@
         }
       }
     }
+  },
+  "0204": {
+    "canon": true,
+    "modreward": false,
+    "name": "Dillon",
+    "portrait_bounty": {},
+    "portrait_complete": 2,
+    "portrait_credit": {
+      "primary": "<@!262065429109932035>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1356110360180166726/portrait-0204.png?ex=67eb5fb1&is=67ea0e31&hm=b87a06f8b829412be3cba139cd953f1d44a76a23c4d7894308d9e38e347b11b9&",
+    "portrait_modified": "2025-03-31 03:38:24.759054",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {
+      "918857608591458364": 1356110168508727439
+    },
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
