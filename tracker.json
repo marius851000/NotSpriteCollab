@@ -24051,18 +24051,37 @@
     "modreward": false,
     "name": "Magnetmill",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1354658716707979324/portrait-0202.png?ex=67e617be&is=67e4c63e&hm=8f0e62ba25843da16cd8ebe35250fe713251a674cdf599eb90511ddb3df49b75&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1356059722008105000": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false,
+      "Special3": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1356062907368210524/portrait-0202.png?ex=67eb337f&is=67e9e1ff&hm=b3e2c4261fb87a07c708827853d3950f9e3c9712a8de832790bce184b1901fed&",
+    "portrait_modified": "2025-03-31 00:29:50.852200",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
