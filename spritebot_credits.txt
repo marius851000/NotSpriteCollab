@@ -291,3 +291,7 @@ Xman101	Discord:<@!342459010865430530>
 	Portrait:
 		Omnicron: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 
+LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
+	Portrait:
+		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+
