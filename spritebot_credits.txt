@@ -38,6 +38,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Koppa: Normal,Happy,Surprised,Stunned,Angry,Worried,Determined,Special0
 		Macarim: Normal
 		Flaguar: Normal
+		Suriqua: Normal
 	Sprite:
 		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
