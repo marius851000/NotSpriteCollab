@@ -24991,18 +24991,18 @@
     "modreward": false,
     "name": "Kokoala",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1358524912251441254": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358528172647383221/portrait-0210.png?ex=67f42b74&is=67f2d9f4&hm=07cf56f5020e1bc06b7976e12d0b23ed93b28d9939f33021c3f874a35e2665e4&",
+    "portrait_modified": "2025-04-06 19:45:56.259835",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
