@@ -25106,13 +25106,25 @@
       "total": 1
     },
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358621439070179378/portrait-0211.png?ex=67f48251&is=67f330d1&hm=c85e4e0b4be30de6cfad56cad3f6cdcfea73a0173488acdaab8d7d095c9b39ba&",
-    "portrait_modified": "2025-04-07 01:56:32.642116",
-    "portrait_pending": {
-      "1358641846791831552": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358643709574647991/portrait-0211.png?ex=67f4970e&is=67f3458e&hm=43176e12f3e3935b04396fe4b09955e48ea26114f7cffee82fa97995e1f63efe&",
+    "portrait_modified": "2025-04-07 03:25:02.221372",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
