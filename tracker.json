@@ -25099,7 +25099,7 @@
     "modreward": false,
     "name": "Pyroo",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!262065429109932035>",
       "secondary": [],
@@ -25120,13 +25120,12 @@
       "Inspired": false,
       "Surprised": false,
       "Dizzy": false,
-      "Sigh": false
+      "Sigh": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358643709574647991/portrait-0211.png?ex=67f4970e&is=67f3458e&hm=43176e12f3e3935b04396fe4b09955e48ea26114f7cffee82fa97995e1f63efe&",
-    "portrait_modified": "2025-04-07 03:25:02.221372",
-    "portrait_pending": {
-      "1358649373919281173": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358652030582919288/portrait-0211.png?ex=67f49ece&is=67f34d4e&hm=e1331776d6b7c08aebbb4ac4580923977ca6d667f242de345493edaac37aa412&",
+    "portrait_modified": "2025-04-07 03:58:06.146767",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
