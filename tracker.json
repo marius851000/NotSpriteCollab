@@ -25124,7 +25124,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358643709574647991/portrait-0211.png?ex=67f4970e&is=67f3458e&hm=43176e12f3e3935b04396fe4b09955e48ea26114f7cffee82fa97995e1f63efe&",
     "portrait_modified": "2025-04-07 03:25:02.221372",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1358649373919281173": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
