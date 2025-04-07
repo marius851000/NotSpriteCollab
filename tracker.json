@@ -25207,18 +25207,18 @@
     "modreward": false,
     "name": "Taplat",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1358607545618665512": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1358616016778694898/portrait-0212.png?ex=67f47d44&is=67f32bc4&hm=7023c5fc0dda03f2810c0fe254095b9b6c85b1d18df077d181ddaff883c002d2&",
+    "portrait_modified": "2025-04-07 01:34:59.794284",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
