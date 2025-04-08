@@ -246,6 +246,23 @@ Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
 	Portrait:
 		Riolu_Dothack_Tsukasa: OLD
 
+LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
+	Portrait:
+		Baaschaf: Normal
+		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dillon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Russ: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Ninji: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Kokoala: Normal
+		Kokoala Shiny: Normal
+		Pyroo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined,Stunned
+		Pyroo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Taplat: Normal
+		Taplat Shiny: Normal
+		Wallopy: Normal
+		Cocombat: Normal
+
 Discord:<@!238146046146904069>
 	Portrait:
 		Stardappor: Normal
@@ -291,18 +308,4 @@ Akai	Discord:<@!496039052370509824>
 Xman101	Discord:<@!342459010865430530>
 	Portrait:
 		Omnicron: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-
-LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
-	Portrait:
-		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Dillon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Russ: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Ninji: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-		Kokoala: Normal
-		Kokoala Shiny: Normal
-		Pyroo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined,Stunned
-		Pyroo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Taplat: Normal
-		Taplat Shiny: Normal
 
