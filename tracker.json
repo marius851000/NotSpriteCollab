@@ -25361,18 +25361,18 @@
     "modreward": false,
     "name": "Wallopy",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1359303673947099289": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1359311999036821594/portrait-0213.png?ex=67f70573&is=67f5b3f3&hm=ad4d5f592327093ac1db627c9eae2b6658b26b424dff36556e48df4d0630a49a&",
+    "portrait_modified": "2025-04-08 23:40:35.038135",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
