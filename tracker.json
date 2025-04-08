@@ -25478,9 +25478,7 @@
     "portrait_files": {},
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {
-      "1359303920392077312": 948263579805683752
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -25577,18 +25575,18 @@
     "modreward": false,
     "name": "Cocombat",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1359304301104595004": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1359311973325738025/portrait-0215.png?ex=67f7056d&is=67f5b3ed&hm=cb19ab9b272ba06e05d3867267f767bec530a3e9ba75f0e85effe13b83bfa1c1&",
+    "portrait_modified": "2025-04-08 23:40:28.879967",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
