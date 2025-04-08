@@ -3973,18 +3973,18 @@
     "modreward": false,
     "name": "Baaschaf",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1027004617327923251/portrait-0031.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1359285231189889074": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1359312005714153704/portrait-0031.png?ex=67f70574&is=67f5b3f4&hm=cd2a2c8be4a71a87c61dbfd58d1ed644eaed718e31ed6f14a1b1ccb3873157e5&",
+    "portrait_modified": "2025-04-08 23:40:36.636377",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
