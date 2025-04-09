@@ -261,7 +261,9 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Taplat: Normal
 		Taplat Shiny: Normal
 		Wallopy: Normal
+		Wallopy Shiny: Normal
 		Cocombat: Normal
+		Cocombat Shiny: Normal
 
 Discord:<@!238146046146904069>
 	Portrait:
