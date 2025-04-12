@@ -26003,19 +26003,23 @@
     "modreward": false,
     "name": "Varwolf",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1360412957015806012/portrait-0219.png?ex=67fb06cc&is=67f9b54c&hm=47ef1ccf4f34971017504b97cc7ecf256250d7fd6f0aab533a67677640a1f5c4&",
+    "portrait_modified": "2025-04-12 00:35:23.805554",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1360412035015512287
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
