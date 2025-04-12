@@ -26255,7 +26255,7 @@
         "modreward": false,
         "name": "Yellow",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -26264,7 +26264,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1360423153649844240/portrait-0219-0003.png?ex=67fb104b&is=67f9becb&hm=f54f6f090972710cfdbb799a404a4661ba63f39177bcd5c4489e4f572bcdbdec&",
         "portrait_modified": "2025-04-12 01:15:54.932917",
         "portrait_pending": {},
         "portrait_recolor_link": "",
