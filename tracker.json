@@ -26182,7 +26182,7 @@
         "modreward": false,
         "name": "Green",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -26191,7 +26191,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1360423152714518528/portrait-0219-0002.png?ex=67fb104b&is=67f9becb&hm=bc8679dcb60db6dc730edb9120d58b27b6cbeb58fdde424346360fddcf005b12&",
         "portrait_modified": "2025-04-12 01:15:53.682427",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -26257,16 +26257,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1360418580704788480": 948263579805683752
-        },
+        "portrait_modified": "2025-04-12 01:15:54.932917",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
