@@ -26012,11 +26012,9 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1360412957015806012/portrait-0219.png?ex=67fb06cc&is=67f9b54c&hm=47ef1ccf4f34971017504b97cc7ecf256250d7fd6f0aab533a67677640a1f5c4&",
-    "portrait_modified": "2025-04-12 00:35:23.805554",
-    "portrait_pending": {
-      "1360418492003909693": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1360423146313879713/portrait-0219.png?ex=67fb1049&is=67f9bec9&hm=c9ec2f335fcfdb9f966ad9ef6a0afd9a5db3de1594f5b33004b6776b4e9eb137&",
+    "portrait_modified": "2025-04-12 01:15:53.227410",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -26186,16 +26184,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1360418557971792093": 948263579805683752
-        },
+        "portrait_modified": "2025-04-12 01:15:53.682427",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
