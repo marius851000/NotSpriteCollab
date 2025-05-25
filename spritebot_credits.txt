@@ -7,6 +7,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Chocobo: OLD
 		Cinderace_Pirate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Paradox_Mew: "
+		Leafeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Leafeon_Alternate_Shiny Alternate: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 	Sprite:
 		Duskako: OLD
@@ -168,7 +169,9 @@ Mudkid	Discord:<@!530939837839310849>	Contact:https://twitter.com/OnePunchMudkip
 baronessfaron	Discord:<@!544245909639397378>
 	Portrait:
 		Leafeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Jolteon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Espeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Flareon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Chillet: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Koppa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
