@@ -28771,18 +28771,18 @@
         "modreward": false,
         "name": "Blot",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1376726263967911976": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1376727612054966303/portrait-0221-0033.png?ex=68366101&is=68350f81&hm=8b0d1ebf13d440fffaf8e5a4dbc5602bf261e2b357ec65bea4b68e00d861ad4a&",
+        "portrait_modified": "2025-05-27 01:04:00.543242",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
