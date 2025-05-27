@@ -276,6 +276,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Varwolf Blue: Normal
 		Varwolf Green: Normal
 		Varwolf Yellow: Normal
+		Dandy: Normal,Pain
 
 Discord:<@!238146046146904069>
 	Portrait:
