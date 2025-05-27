@@ -28698,18 +28698,18 @@
         "modreward": false,
         "name": "Flyte",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1376728693929545850": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1376870592070025286/portrait-0221-0032.png?ex=6836e62a&is=683594aa&hm=90322dea4a28bb75d9a154247b48e5a4bbce5655151013e66a727585dfecd1da&",
+        "portrait_modified": "2025-05-27 10:32:09.621819",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
