@@ -28716,18 +28716,30 @@
           "918857608591458364": 1376728687516323930
         },
         "sprite_bounty": {},
-        "sprite_complete": 0,
+        "sprite_complete": 1,
         "sprite_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {
-          "1376679824260595712": 948263579805683752
+        "sprite_files": {
+          "Walk": false,
+          "Attack": false,
+          "Strike": false,
+          "Shoot": false,
+          "FlapAround": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false
         },
+        "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1377379195436400760/sprite-0221-0032.zip?ex=6838bfd6&is=68376e56&hm=86ca03ea0c03a040abd06ee3b321099a4346a46cf431b17615e66f50e2ef6e1f&",
+        "sprite_modified": "2025-05-28 20:13:06.857797",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
