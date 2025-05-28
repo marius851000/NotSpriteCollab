@@ -212,6 +212,34 @@ BobTheBobCatt	Discord:<@!257709582422507530>
 		Gengar_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0,Special1,Special2
 		Garchomp_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 
+LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
+	Portrait:
+		Baaschaf: Normal
+		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dillon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Russ: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Ninji: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+		Kokoala: Normal
+		Kokoala Shiny: Normal
+		Pyroo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined,Stunned
+		Pyroo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Taplat: Normal
+		Taplat Shiny: Normal
+		Wallopy: Normal
+		Wallopy Shiny: Normal
+		Cocombat: Normal
+		Cocombat Shiny: Normal
+		Varwolf: Normal
+		Varwolf Blue: Normal
+		Varwolf Green: Normal
+		Varwolf Yellow: Normal
+		Dandy: Normal,Pain
+		Dandy Flyte: Normal
+		Dandy Blot: Normal
+	Sprite:
+		Dandy Flyte: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+
 Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
 	Portrait:
 		Duskako: OLD
@@ -253,32 +281,6 @@ Fearless-Quit	Discord:<@!801938240562397194>
 Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
 	Portrait:
 		Riolu_Dothack_Tsukasa: OLD
-
-LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
-	Portrait:
-		Baaschaf: Normal
-		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Dillon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Russ: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Ninji: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-		Kokoala: Normal
-		Kokoala Shiny: Normal
-		Pyroo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined,Stunned
-		Pyroo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Taplat: Normal
-		Taplat Shiny: Normal
-		Wallopy: Normal
-		Wallopy Shiny: Normal
-		Cocombat: Normal
-		Cocombat Shiny: Normal
-		Varwolf: Normal
-		Varwolf Blue: Normal
-		Varwolf Green: Normal
-		Varwolf Yellow: Normal
-		Dandy: Normal,Pain
-		Dandy Flyte: Normal
-		Dandy Blot: Normal
 
 Discord:<@!238146046146904069>
 	Portrait:
