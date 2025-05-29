@@ -27470,7 +27470,7 @@
         "modreward": false,
         "name": "Vee",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -27479,7 +27479,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1377782332987146240/portrait-0221-0014.png?ex=683a374a&is=6838e5ca&hm=30f8822d3cedadb0e9b7d8b3f83e051b9a9192566e1002c9a1971e6d7ae9bb0d&",
         "portrait_modified": "2025-05-29 22:55:05.779389",
         "portrait_pending": {},
         "portrait_recolor_link": "",
