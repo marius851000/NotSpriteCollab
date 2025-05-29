@@ -26839,7 +26839,7 @@
         "modreward": false,
         "name": "Brightney",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -26848,7 +26848,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1377601193064267867/portrait-0221-0005.png?ex=68398e97&is=68383d17&hm=7e57e4d68128f1d0e9241ab884c59d868875a7f05fd13e981d781394af3a4d47&",
         "portrait_modified": "2025-05-29 10:55:04.618117",
         "portrait_pending": {},
         "portrait_recolor_link": "",
