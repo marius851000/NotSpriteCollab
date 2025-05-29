@@ -238,6 +238,8 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Astro: Normal
 		Dandy Brightney: Normal
 		Dandy Finn: Normal
+		Dandy Vee: Normal
+		Dandy Pebble: Normal
 		Dandy Flutter: Normal
 		Dandy Flyte: Normal
 		Dandy Blot: Normal
