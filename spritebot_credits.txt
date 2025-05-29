@@ -235,6 +235,10 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Varwolf Green: Normal
 		Varwolf Yellow: Normal
 		Dandy: Normal,Pain
+		Dandy Astro: Normal
+		Dandy Brightney: Normal
+		Dandy Finn: Normal
+		Dandy Flutter: Normal
 		Dandy Flyte: Normal
 		Dandy Blot: Normal
 	Sprite:
