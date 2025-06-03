@@ -29063,18 +29063,36 @@
     "modreward": false,
     "name": "Surfing_Pikachu",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1379262317346291743/portrait-0223.png?ex=683f99a1&is=683e4821&hm=2c0ec75f028db3884f1b6c021710710a133465a8d483ab735961a9c3ae399cb8&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1379262512289157150": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1379266138210566174/portrait-0223.png?ex=683f9d30&is=683e4bb0&hm=9fb55b660f80f235ca434eade1cb055ac841e1d17785e41f322d8fef215de3ca&",
+    "portrait_modified": "2025-06-03 01:11:12.501968",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
