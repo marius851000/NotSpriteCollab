@@ -29190,7 +29190,9 @@
             "sprite_files": {},
             "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1379266392913612960/sprite-0223-0000-0001.zip?ex=683f9d6d&is=683e4bed&hm=aad53f9c3c6176be4c0b6e9115bc451399b05459b1184662b14378a04da0b9f7&",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1379277093795401819": 948263579805683752
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
