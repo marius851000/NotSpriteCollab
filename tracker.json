@@ -29193,7 +29193,9 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "918857608591458364": 1379271393903906877
+            },
             "subgroups": {}
           }
         }
