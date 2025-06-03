@@ -92,6 +92,7 @@ JFain	Discord:<@!702275233125630042>
 		Mafia_Togepi: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Dance,Swing,Double,Rotate,Hop
 		Mafia_Eevee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop,Pain
 		Surfing_Pikachu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
+		Surfing_Pikachu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 
 NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntruder
 	Sprite:
