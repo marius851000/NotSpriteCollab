@@ -29070,12 +29070,16 @@
       "total": 0
     },
     "portrait_files": {},
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1379262317346291743/portrait-0223.png?ex=683f99a1&is=683e4821&hm=2c0ec75f028db3884f1b6c021710710a133465a8d483ab735961a9c3ae399cb8&",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1379262512289157150": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1379262506924638388
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
