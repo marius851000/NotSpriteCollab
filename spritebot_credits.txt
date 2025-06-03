@@ -41,6 +41,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Macarim: Normal
 		Flaguar: Normal
 		Suriqua: Normal
+		Surfing_Pikachu: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 	Sprite:
 		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -90,6 +91,7 @@ JFain	Discord:<@!702275233125630042>
 		Sparky: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,SpAttack,Swing,Double,Rotate,Hop
 		Mafia_Togepi: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Dance,Swing,Double,Rotate,Hop
 		Mafia_Eevee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop,Pain
+		Surfing_Pikachu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 
 NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntruder
 	Sprite:
