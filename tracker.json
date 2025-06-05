@@ -29090,7 +29090,7 @@
       "Stunned": false,
       "Special2": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1379266138210566174/portrait-0223.png?ex=683f9d30&is=683e4bb0&hm=9fb55b660f80f235ca434eade1cb055ac841e1d17785e41f322d8fef215de3ca&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1380295466507440369/portrait-0223.png?ex=68435bd3&is=68420a53&hm=3a2585b9c37e10a28e2188b6e7e97576c17d92dcb63aba9592f11e2a602142ee&",
     "portrait_modified": "2025-06-03 01:11:12.501968",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -29167,19 +29167,41 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!330751862590406656>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_files": {
+              "Normal": false,
+              "Happy": false,
+              "Pain": false,
+              "Angry": false,
+              "Worried": false,
+              "Sad": false,
+              "Crying": false,
+              "Shouting": false,
+              "Teary-Eyed": false,
+              "Determined": false,
+              "Joyous": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Dizzy": false,
+              "Special0": false,
+              "Special1": false,
+              "Sigh": false,
+              "Stunned": false,
+              "Special2": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1380295631133741056/portrait-0223-0000-0001.png?ex=68435bfb&is=68420a7b&hm=5116d549b28ccb8fce7c2a5cfef11dadd9a2f6ba5d6447f85b3c06a4f8875da2&",
+            "portrait_modified": "2025-06-05 21:22:02.644875",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1380295554659258448
+            },
             "sprite_bounty": {},
             "sprite_complete": 1,
             "sprite_credit": {
