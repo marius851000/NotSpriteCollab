@@ -29560,18 +29560,18 @@
     "modreward": false,
     "name": "Gingerbrave",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1385061504587665408": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1385065957113991238/portrait-0227.png?ex=6854b6b1&is=68536531&hm=f8ce365e6b4c9b21a44445c4f1250efe4f7cd9eefafff030759aab42085f33cd&",
+    "portrait_modified": "2025-06-19 01:17:37.157992",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
