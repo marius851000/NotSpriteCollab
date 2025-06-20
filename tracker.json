@@ -30014,18 +30014,18 @@
     "modreward": false,
     "name": "R_T_Bs",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1385075565177868319": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1385581420004642906/portrait-0230.png?ex=685696c1&is=68554541&hm=35aa83a0a99fdcdedec4fb8d88a3a457bee074a5588e6fbbda324674ac057c8f&",
+    "portrait_modified": "2025-06-20 11:25:52.928843",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
