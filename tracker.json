@@ -30141,18 +30141,18 @@
     "modreward": false,
     "name": "Steve_Alternate_Orange",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1388520023122907216": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1388580463555121332/portrait-0231.png?ex=68617fd5&is=68602e55&hm=7b92b73689093dc9662d64c8945a1cddb88fd38c59b3ac61cbd95c7bd623d110&",
+    "portrait_modified": "2025-06-28 18:03:00.658020",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
