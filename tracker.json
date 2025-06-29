@@ -25497,16 +25497,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1388948081399037954": 948263579805683752
-    },
+    "portrait_modified": "2025-06-29 22:44:55.193113",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -27267,7 +27267,7 @@
         "modreward": false,
         "name": "Shrimpo",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -27276,7 +27276,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1389013792528011314/portrait-0221-0011.png?ex=68631366&is=6861c1e6&hm=996db244a04068043f74faf6835d9755c16e2ee58911d625a92d0aac45a38381&",
         "portrait_modified": "2025-06-29 22:44:53.260137",
         "portrait_pending": {},
         "portrait_recolor_link": "",
