@@ -27269,16 +27269,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1388947363661611300": 948263579805683752
-        },
+        "portrait_modified": "2025-06-29 22:44:53.260137",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -28525,18 +28525,18 @@
         "modreward": false,
         "name": "Connie",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1388947276436733952": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1389013785485906081/portrait-0221-0029.png?ex=68631365&is=6861c1e5&hm=8672a8e096f14247dc4df72dbe719210ea928a8a150202d6d31c59efcf7a4622&",
+        "portrait_modified": "2025-06-29 22:44:52.783515",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
