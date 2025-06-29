@@ -25817,18 +25817,18 @@
     "modreward": false,
     "name": "Psykapp",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1389027798135476275": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1389029826207416433/portrait-0217.png?ex=68632255&is=6861d0d5&hm=d923677cb54e86026bea5873feb38a860893c889f76d3889ef85aaeb4a37a9da&",
+    "portrait_modified": "2025-06-29 23:48:37.155785",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
