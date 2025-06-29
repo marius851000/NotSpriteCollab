@@ -236,6 +236,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Platsplash: Normal
 		Cocombat: Normal
 		Cocombat Shiny: Normal
+		Psykapp: Normal
 		Varwolf: Normal
 		Varwolf Blue: Normal
 		Varwolf Green: Normal
