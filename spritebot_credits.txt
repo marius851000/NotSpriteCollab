@@ -233,6 +233,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Taplat Shiny: Normal
 		Wallopy: Normal
 		Wallopy Shiny: Normal
+		Platsplash: Normal
 		Cocombat: Normal
 		Cocombat Shiny: Normal
 		Varwolf: Normal
@@ -243,13 +244,16 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Astro: Normal
 		Dandy Brightney: Normal
 		Dandy Finn: Normal
+		Dandy Shrimpo: Normal
 		Dandy Vee: Normal
 		Dandy Pebble: Normal
 		Dandy Flutter: Normal
+		Dandy Connie: Normal
 		Dandy Flyte: Normal
 		Dandy Blot: Normal
 		Gingerbrave: Normal
 		Larry_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Lawrie_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		R_T_Bs: Normal
 		Steve_Alternate_Orange: Normal
 	Sprite:
