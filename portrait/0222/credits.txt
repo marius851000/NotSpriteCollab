@@ -1,0 +1,1 @@
+2025-06-30 01:08:35.895841	<@!262065429109932035>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
