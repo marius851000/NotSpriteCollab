@@ -6126,10 +6126,14 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1099074668855574558/portrait-0043.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1398003648939954186": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1398003643093094562
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
