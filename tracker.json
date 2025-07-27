@@ -30582,18 +30582,37 @@
     "modreward": false,
     "name": "Niko",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1098053217620865125>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1398798816278216835/portrait-0234.png?ex=6886ac6a&is=68855aea&hm=94d8644ed6686856224dbca29b72ce1e678243967d389387b59f8d92cf13fc44&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1398854079052255232": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false,
+      "Special3": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1398855707536785418/portrait-0234.png?ex=6886e166&is=68858fe6&hm=92b74e083510fd21576616947d38ee081855024cbbdda2fa0e0fddd8d2129416&",
+    "portrait_modified": "2025-07-27 02:33:09.696766",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
