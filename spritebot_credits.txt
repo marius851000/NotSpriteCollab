@@ -355,7 +355,7 @@ PhillipsYoung	Discord:<@!772726854188400641>	Contact:https://twitter.com/PhilliY
 		Haunter_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Gengar_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
-Discord:<@!1098053217620865125>
+Raysee	Discord:<@!1098053217620865125>	Contact:.sparkofhope
 	Portrait:
 		Niko: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 
