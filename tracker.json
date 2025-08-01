@@ -31090,18 +31090,18 @@
     "modreward": false,
     "name": "Royalpear_Tropius",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1400870808993402942": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1400879213908594758/portrait-0238.png?ex=688e3def&is=688cec6f&hm=f6da2c4a6e558e731360c6c901e07dbf60583d6d889f1ae6aca9aa71e8e1618b&",
+    "portrait_modified": "2025-08-01 16:33:51.373801",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
