@@ -31160,18 +31160,18 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!262065429109932035>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "1400928185981468815": 948263579805683752
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1401007648178045048/portrait-0238-0000-0001.png?ex=688eb58c&is=688d640c&hm=4754bb5c593b70c0e371892addc9a015ea625245671e935837b6dfd509509aea&",
+            "portrait_modified": "2025-08-02 01:04:12.325393",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
