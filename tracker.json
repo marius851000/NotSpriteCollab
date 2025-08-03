@@ -32134,19 +32134,23 @@
     "modreward": false,
     "name": "Gubby",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1401409129154871386/portrait-0240.png?ex=68902b75&is=688ed9f5&hm=cfe4837e4b76ff028eb505714126ed0c5e7e0336d8f07e28f7d74a90184dfb3a&",
+    "portrait_modified": "2025-08-03 03:39:33.000260",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1401409053380579338
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
