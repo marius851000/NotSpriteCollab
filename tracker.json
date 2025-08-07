@@ -33936,18 +33936,33 @@
     "modreward": false,
     "name": "Jeff_Shark",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1402695604366475375/portrait-0248.png?ex=6894d994&is=68938814&hm=fc45db6053df0109e22079fed559bbb013daadd4a2217d1d179404c8080f5f50&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1403046586262749236": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1403057729135710208/portrait-0248.png?ex=68962ad6&is=6894d956&hm=5a44e2c6cb74fa23d9b829f6819904a486ab139cd4ce1fa2bc934b73d5afc57b&",
+    "portrait_modified": "2025-08-07 16:50:29.835836",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
