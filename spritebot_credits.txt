@@ -249,11 +249,14 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Poppy: Normal
 		Dandy Astro: Normal
 		Dandy Brightney: Normal
+		Dandy Cosmo: Normal
 		Dandy Finn: Normal
 		Dandy Shrimpo: Normal
 		Dandy Vee: Normal
 		Dandy Pebble: Normal
 		Dandy Flutter: Normal
+		Dandy Sprout: Normal
+		Dandy Eggson: Normal
 		Dandy Connie: Normal
 		Dandy Flyte: Normal
 		Dandy Blot: Normal
