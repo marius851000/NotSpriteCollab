@@ -28344,7 +28344,7 @@
         "modreward": false,
         "name": "Sprout",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -28353,7 +28353,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404509077324959784/portrait-0221-0017.png?ex=689b7282&is=689a2102&hm=00456bc421262e4cfd7eaf4dbbe06f9d6990625c4f2c632e2c5108ed8b637bcd&",
         "portrait_modified": "2025-08-11 16:57:34.936864",
         "portrait_pending": {},
         "portrait_recolor_link": "",
