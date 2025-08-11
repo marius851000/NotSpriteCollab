@@ -27561,18 +27561,18 @@
         "modreward": false,
         "name": "Cosmo",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1404487841916129432": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404509060673568933/portrait-0221-0006.png?ex=689b727e&is=689a20fe&hm=8eb19bffa0b6cb13a642fa7f771765f7309c3488d07ac5f47d258d5f53e226d5&",
+        "portrait_modified": "2025-08-11 16:57:34.206838",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -28346,16 +28346,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1404488065115754601": 948263579805683752
-        },
+        "portrait_modified": "2025-08-11 16:57:34.936864",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -34240,9 +34240,7 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404486891352490054/portrait-0249.png?ex=689b5dd9&is=689a0c59&hm=283062a3b15c069fe68770fc3e3728a7d8f2599c45415d77680f135a5b2b3f2e&",
     "portrait_modified": "",
-    "portrait_pending": {
-      "1404487262271570042": 948263579805683752
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
