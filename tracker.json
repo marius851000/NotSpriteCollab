@@ -3484,18 +3484,18 @@
         "modreward": false,
         "name": "Rock",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1404185683249205339": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404268724537528450/portrait-0026-0005.png?ex=689a92a9&is=68994129&hm=7707c1905ce5ff738e921c3a0301bf491d5f7197aae7abb321a9bb74a52c2d7e&",
+        "portrait_modified": "2025-08-11 01:02:33.690442",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -32462,16 +32462,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1404181932782129184": 948263579805683752
-    },
+    "portrait_modified": "2025-08-11 01:02:34.374166",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
