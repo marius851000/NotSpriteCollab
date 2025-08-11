@@ -34,6 +34,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Owten Nuclear Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Herolune: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Joe: Normal,Joyous,Happy,Inspired,Angry
+		Springheel: Normal
 		Ripterra: Normal
 		Zombleat: Normal
 		Macabra: Normal
