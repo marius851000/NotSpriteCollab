@@ -219,6 +219,9 @@ BobTheBobCatt	Discord:<@!257709582422507530>
 
 LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dustthepikachu.bsky.social
 	Portrait:
+		Pikmin Ice: Normal
+		Pikmin Rock: Normal
+		Pikmin Glow: Normal
 		Baaschaf: Normal
 		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -242,6 +245,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Varwolf Green: Normal
 		Varwolf Yellow: Normal
 		Dandy: Normal,Pain
+		Dandy Poppy: Normal
 		Dandy Astro: Normal
 		Dandy Brightney: Normal
 		Dandy Finn: Normal
@@ -261,6 +265,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Mewdas: Normal
 		Royalpear_Tropius: Normal
 		Royalpear_Tropius Shiny: Normal
+		Claptrap: Normal
 		Gubby: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
