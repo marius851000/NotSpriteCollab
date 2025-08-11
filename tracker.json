@@ -3764,7 +3764,7 @@
         "modreward": false,
         "name": "Glow",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -3773,7 +3773,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404268695378854068/portrait-0026-0009.png?ex=689a92a3&is=68994123&hm=fa2331d38c8e5e2d90c5f0efa4931f638f8fb6779f5e16b958d4547a2dd76b2f&",
         "portrait_modified": "2025-08-11 01:02:26.685414",
         "portrait_pending": {},
         "portrait_recolor_link": "",
