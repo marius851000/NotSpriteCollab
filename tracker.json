@@ -15852,15 +15852,17 @@
     "modreward": false,
     "name": "Springheel",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1163653904458850364/portrait-0127.png?ex=65405c26&is=652de726&hm=85596622809ce868f7bfe49d1cdc479c0e96f0f17b6d715bb634bce92d9b3059&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404276694596190289/portrait-0127.png?ex=689a9a16&is=68994896&hm=dae25ea7b066b2ab27438c62897412fb88d9252dd786ff2f11d246370433cca4&",
+    "portrait_modified": "2025-08-11 01:34:13.860694",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
