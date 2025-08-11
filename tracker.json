@@ -32460,7 +32460,7 @@
     "modreward": false,
     "name": "Claptrap",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!262065429109932035>",
       "secondary": [],
@@ -32469,7 +32469,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404268730543898787/portrait-0239.png?ex=689a92ab&is=6899412b&hm=b75849530734a228b2c06990b529b12283d0118666c9988fe5c3c5dbd4d6a995&",
     "portrait_modified": "2025-08-11 01:02:34.374166",
     "portrait_pending": {},
     "portrait_recolor_link": "",
