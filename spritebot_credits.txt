@@ -37,6 +37,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Springheel: Normal
 		Ripterra: Normal
 		Carniviper: Normal
+		Carniviper Shiny: Normal
 		Zombleat: Normal
 		Macabra: Normal
 		Koppa: Normal,Happy,Surprised,Stunned,Angry,Worried,Determined,Special0
