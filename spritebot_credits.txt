@@ -36,6 +36,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Joe: Normal,Joyous,Happy,Inspired,Angry
 		Springheel: Normal
 		Ripterra: Normal
+		Carniviper: Normal
 		Zombleat: Normal
 		Macabra: Normal
 		Koppa: Normal,Happy,Surprised,Stunned,Angry,Worried,Determined,Special0
