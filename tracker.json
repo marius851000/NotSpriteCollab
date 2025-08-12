@@ -34243,15 +34243,17 @@
     "modreward": false,
     "name": "Scamp",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404486891352490054/portrait-0249.png?ex=689b5dd9&is=689a0c59&hm=283062a3b15c069fe68770fc3e3728a7d8f2599c45415d77680f135a5b2b3f2e&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1404920685079429181/portrait-0249.png?ex=689cf1d9&is=689ba059&hm=648f20627a96713683fc16bce23bd76a253fc035ba6d601aca5ad8dd7d6c035a&",
+    "portrait_modified": "2025-08-12 20:13:13.167362",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
