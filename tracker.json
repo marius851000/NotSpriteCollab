@@ -29135,7 +29135,7 @@
         "modreward": false,
         "name": "Looey",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -29144,7 +29144,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1405248614405771275/portrait-0221-0028.png?ex=689e2341&is=689cd1c1&hm=b5001020e3e89df4c5bdc28be4dd609eaaa646745812e5c4cb2b7144a932d925&",
         "portrait_modified": "2025-08-13 17:56:17.624756",
         "portrait_pending": {},
         "portrait_recolor_link": "",
