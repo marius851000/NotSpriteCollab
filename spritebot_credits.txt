@@ -273,6 +273,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Lawrie_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		R_T_Bs: Normal
 		Steve_Alternate_Orange: Normal
+		Steve_Alternate_Orange Shiny: Normal
 		Mewdas: Normal
 		Royalpear_Tropius: Normal
 		Royalpear_Tropius Shiny: Normal
