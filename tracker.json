@@ -23955,7 +23955,7 @@
       "Sigh": false,
       "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1367362476949110824/portrait-0195.png?ex=68144f0a&is=6812fd8a&hm=a255fe9544ecc63c8722e2ffb87b442b93a3ad2d7f2593b6ecc195e5576d9b6f&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408934868548714538/portrait-0195.png?ex=68ab8c59&is=68aa3ad9&hm=52941a030f1f30d09a3a15f5ffcfc8cbf46c283a3003de826bfda7dae0af7820&",
     "portrait_modified": "2025-02-16 22:42:54.550967",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -24007,7 +24007,7 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408414163163676723/sprite-0195.zip?ex=68a9a767&is=68a855e7&hm=a162e2dd8f18dc56c5b2032b560a3526f423df9c636bddd24b68897b55916d49&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408934894234767502/sprite-0195.zip?ex=68ab8c5f&is=68aa3adf&hm=96f0bd1ebcd4452fede13d56a15ab1c12892d074eedd54ae61f44362cabe5c26&",
     "sprite_modified": "2025-02-16 22:43:10.237612",
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408412214724919418/sprite_recolor-0195-0000-0001.png?ex=68a9a597&is=68a85417&hm=f0e48485ab8cea9ddf5c853a695e085933150abace148aaf68be591dee5489a7&",
@@ -24093,8 +24093,10 @@
         "portrait_complete": 2,
         "portrait_credit": {
           "primary": "<@!365627932888268800>",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!544245909639397378>"
+          ],
+          "total": 2
         },
         "portrait_files": {
           "Normal": false,
@@ -24115,7 +24117,7 @@
           "Stunned": false
         },
         "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408934370852606165/portrait-0195-0001.png?ex=68ab8be2&is=68aa3a62&hm=52ca1834a82029cbeb251ded3d2c2da5b6d8a3351d9d4bba9df1235feac5771e&",
-        "portrait_modified": "2025-08-23 22:02:10.033425",
+        "portrait_modified": "2025-08-23 22:04:18.435164",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
