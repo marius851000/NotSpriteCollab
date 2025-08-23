@@ -34745,18 +34745,18 @@
     "modreward": false,
     "name": "Kirby",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408868314523897968/portrait-0251.png?ex=68ab4e5d&is=68a9fcdd&hm=d926ec7864c1e0931d76901d71a5cfe2b0ab14f4f1746d448bf23efc6fb359fa&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1408878576538747050": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408934503316983869/portrait-0251.png?ex=68ab8c02&is=68aa3a82&hm=9d3c9d10267d0e075e7d39094a00915c29ad31d639706ee8a497abdbea31c3d7&",
+    "portrait_modified": "2025-08-23 22:02:42.000801",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
