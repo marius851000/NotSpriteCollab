@@ -34739,10 +34739,14 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408868314523897968/portrait-0251.png?ex=68ab4e5d&is=68a9fcdd&hm=d926ec7864c1e0931d76901d71a5cfe2b0ab14f4f1746d448bf23efc6fb359fa&",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1408878576538747050": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1408878571010789471
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
