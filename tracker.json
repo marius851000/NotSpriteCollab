@@ -24128,8 +24128,10 @@
         "sprite_complete": 2,
         "sprite_credit": {
           "primary": "<@!365627932888268800>",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!544245909639397378>"
+          ],
+          "total": 2
         },
         "sprite_files": {
           "Walk": false,
@@ -24168,8 +24170,8 @@
           "Faint": false,
           "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408415387304857610/sprite-0195-0001.zip?ex=68a9a88b&is=68a8570b&hm=3c3cde7574153df658049c5a4c1145caba102e6c2f75deef36f55b40dc3e6446&",
-        "sprite_modified": "2025-08-22 11:39:54.913873",
+        "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1408935059632947290/sprite-0195-0001.zip?ex=68ab8c86&is=68aa3b06&hm=5693eb2c10e4039a5dc4aaba06753f5f8fb584c776c554aee13ba50ae7f7e4ce&",
+        "sprite_modified": "2025-08-23 22:06:21.031294",
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
