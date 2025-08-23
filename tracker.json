@@ -34901,9 +34901,9 @@
         }
       },
       "0002": {
-        "canon": true,
-        "modreward": false,
-        "name": "Alternative",
+        "canon": false,
+        "modreward": true,
+        "name": "Alternate",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -34934,8 +34934,8 @@
         "sprite_talk": {},
         "subgroups": {
           "0001": {
-            "canon": true,
-            "modreward": false,
+            "canon": false,
+            "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
