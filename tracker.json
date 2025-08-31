@@ -27501,10 +27501,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1411774626559824064": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1411774617957302337
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -28580,10 +28584,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1411774909926867055": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1411774904705220609
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -28709,19 +28717,23 @@
         "modreward": false,
         "name": "Razzleanddazzle",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1411776792469045288/portrait-0221-0020.png?ex=68b5e318&is=68b49198&hm=285156b15f397ebd2ef754831911684553f98248509b7224f5a91d77da94264b&",
+        "portrait_modified": "2025-08-31 18:16:56.407172",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1411775045113614448
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -29724,10 +29736,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1411775351532556421": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1411775344796504155
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
