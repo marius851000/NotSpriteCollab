@@ -27494,16 +27494,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1411774626559824064": 948263579805683752
-        },
+        "portrait_modified": "2025-08-31 18:17:03.004780",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -28575,18 +28575,18 @@
         "modreward": false,
         "name": "Tisha",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1411774909926867055": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1411776819165663316/portrait-0221-0018.png?ex=68b5e31f&is=68b4919f&hm=b6aefb7087e2b22280e7264a96374cf97c6de1566e947da32445f76771365f7f&",
+        "portrait_modified": "2025-08-31 18:17:02.743209",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
