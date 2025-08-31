@@ -29727,18 +29727,18 @@
         "modreward": false,
         "name": "Shelly",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1411775351532556421": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1411776810093641829/portrait-0221-0034.png?ex=68b5e31d&is=68b4919d&hm=4b455a76a1707955dafe8a2810e1cd01c276e0923c591ae35cd6da3ea32577cc&",
+        "portrait_modified": "2025-08-31 18:17:00.702449",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
