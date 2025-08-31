@@ -255,6 +255,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Varwolf Yellow: Normal
 		Dandy: Normal,Pain
 		Dandy Poppy: Normal
+		Dandy Boxten: Normal
 		Dandy Astro: Normal
 		Dandy Brightney: Normal
 		Dandy Cosmo: Normal
@@ -266,12 +267,15 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Pebble: Normal
 		Dandy Flutter: Normal
 		Dandy Sprout: Normal
+		Dandy Tisha: Normal
+		Dandy Razzleanddazzle: Normal
 		Dandy Ginger: Normal
 		Dandy Eggson: Normal
 		Dandy Looey: Normal
 		Dandy Connie: Normal
 		Dandy Flyte: Normal
 		Dandy Blot: Normal
+		Dandy Shelly: Normal
 		Chirithy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gingerbrave: Normal
 		Larry_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
