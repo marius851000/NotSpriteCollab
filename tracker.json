@@ -35513,19 +35513,23 @@
     "modreward": false,
     "name": "Dragon_Cr",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1411903454200467536/portrait-0252.png?ex=68b6590f&is=68b5078f&hm=fee5d10f899c1ddafe5270760ce1e322f4e3ab2a7d93df88884389ee92a21fb6&",
+    "portrait_modified": "2025-09-01 02:40:14.978640",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1411901883240415236
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
