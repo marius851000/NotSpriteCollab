@@ -24447,7 +24447,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1407432947942035507/portrait-0198.png?ex=68a61593&is=68a4c413&hm=f4a9516441ec229af3a489984e8a071159fa5bc5a86604ec38bade75c41dfc89&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1412135522171879473/portrait-0198.png?ex=68b73130&is=68b5dfb0&hm=48ae61524b735ae87f2a07317ce5bb8db7d869fbf30b5b225546e36cc2f25600&",
     "portrait_modified": "2025-08-19 18:36:03.245833",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -35943,6 +35943,110 @@
     "canon": true,
     "modreward": false,
     "name": "Rabbid",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0255": {
+    "canon": true,
+    "modreward": false,
+    "name": "Ouroboros",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
