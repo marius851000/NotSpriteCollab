@@ -285,6 +285,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Steve_Alternate_Orange: Normal
 		Steve_Alternate_Orange Shiny: Normal
 		Mewdas: Normal
+		Plipo: Normal
 		Royalpear_Tropius: Normal
 		Royalpear_Tropius Shiny: Normal
 		Claptrap: Normal
