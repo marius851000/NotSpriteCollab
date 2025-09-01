@@ -39,6 +39,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Ripterra Shiny: Normal
 		Carniviper: Normal
 		Carniviper Shiny: Normal
+		Ramtasm: Normal
 		Zombleat: Normal
 		Macabra: Normal
 		Koppa: Normal,Happy,Surprised,Stunned,Angry,Worried,Determined,Special0
