@@ -29009,7 +29009,7 @@
         "modreward": false,
         "name": "Cocoa",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -29018,7 +29018,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1414093081971527810/portrait-0221-0024.png?ex=68be504f&is=68bcfecf&hm=21ced6ece55a61861a321a92f0fb02cc7951eaa5799077bf82378166de740770&",
         "portrait_modified": "2025-09-07 03:41:00.884010",
         "portrait_pending": {},
         "portrait_recolor_link": "",
