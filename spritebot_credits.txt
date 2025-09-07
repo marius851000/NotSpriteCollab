@@ -272,6 +272,8 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Razzleanddazzle: Normal
 		Dandy Ginger: Normal
 		Dandy Eggson: Normal
+		Dandy Cocoa: Normal
+		Dandy Coal: Normal
 		Dandy Looey: Normal
 		Dandy Connie: Normal
 		Dandy Flyte: Normal
