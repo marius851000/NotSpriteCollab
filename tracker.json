@@ -36642,5 +36642,132 @@
         }
       }
     }
+  },
+  "0258": {
+    "canon": true,
+    "modreward": false,
+    "name": "Banana",
+    "portrait_bounty": {},
+    "portrait_complete": 2,
+    "portrait_credit": {
+      "primary": "<@!465274114752512001>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Special1": false,
+      "Sigh": false,
+      "Stunned": false,
+      "Special2": false,
+      "Special3": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1415011612837806170/portrait-0258.png?ex=68c1a7c2&is=68c05642&hm=f11bbeae71fc6057a64f61535d331e599eccac5f314f38a125553ffa48e9686a&",
+    "portrait_modified": "2025-09-09 16:30:57.664207",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {
+      "689059073064435739": 1415011230216753203
+    },
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1415011407170371725/sprite-0258.zip?ex=68c1a791&is=68c05611&hm=3639e65da369910fd70b324f852ad42856f555ef26b7d8d8b4d1177d5cadca4a&",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
