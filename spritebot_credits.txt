@@ -399,3 +399,7 @@ Raysee	Discord:<@!1098053217620865125>	Contact:.sparkofhope
 	Portrait:
 		Niko: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 
+JojoFurryGamer	Discord:<@!465274114752512001>	Contact:empty
+	Portrait:
+		Banana: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
+
