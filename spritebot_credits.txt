@@ -299,6 +299,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Kirby: Normal
 		Dragon_Cr: Normal
 		Ouroboros Noah: Normal
+		Hornet: Normal,Joyous,Surprised,Angry,Teary-Eyed,Dizzy,Determined
 	Sprite:
 		Dandy Flyte: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
