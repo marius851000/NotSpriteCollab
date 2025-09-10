@@ -24654,19 +24654,23 @@
     "modreward": false,
     "name": "Flatirica",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1415161905722687529/portrait-0200.png?ex=68c233ba&is=68c0e23a&hm=08da9914e3d848bd6daedd7cb3a8cf68eef3fd590a9dd64176a6483030b47a6d&",
+    "portrait_modified": "2025-09-10 02:28:10.373831",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1415161866577252454
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
