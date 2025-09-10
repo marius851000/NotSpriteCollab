@@ -36440,18 +36440,24 @@
     "modreward": false,
     "name": "Hornet",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1413930561218543636/portrait-0256.png?ex=68bdb8f3&is=68bc6773&hm=cac2070cf193f93354a3a6ae496e98adb2a3b3967aaa30d0358e677b9ff5bf75&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1415130418461544662": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Angry": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Surprised": false,
+      "Dizzy": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1415133656066035803/portrait-0256.png?ex=68c2196b&is=68c0c7eb&hm=6f6aebb66e394f12713f77ff083c7a90b1999dcbee3e2249afa403eae069418c&",
+    "portrait_modified": "2025-09-10 00:35:55.201882",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
