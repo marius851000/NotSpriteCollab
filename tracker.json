@@ -30077,18 +30077,18 @@
         "modreward": false,
         "name": "Nightmare",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416669689081237504/portrait-0222-0001.png?ex=68c7aff6&is=68c65e76&hm=fd3a6813f6648de1c0c3c1389edef0a0edb0a9d080ccacb57e34df909c2a148d&",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1416670773338312734": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416841796235034629/portrait-0222-0001.png?ex=68c8503f&is=68c6febf&hm=95c663f5481d1283aa3d93f2e998eab336988349afb7f23d642a0a3476eb951f&",
+        "portrait_modified": "2025-09-14 17:43:27.479293",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
