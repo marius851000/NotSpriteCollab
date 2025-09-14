@@ -289,6 +289,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Steve_Alternate_Orange: Normal
 		Steve_Alternate_Orange Shiny: Normal
 		Mewdas: Normal
+		Mewdas Shiny: Normal
 		Plipo: Normal
 		Plipo Shiny: Normal
 		Royalpear_Tropius: Normal
@@ -313,6 +314,10 @@ JojoFurryGamer	Discord:<@!465274114752512001>	Contact:empty
 	Sprite:
 		Banana: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Boo_Flat: Idle,Walk,Sleep,Hurt,Charge,Rotate
+
+RAYTRAC3R	Discord:<@!597605988438376468>	Contact:https://github.com/RAYTRAC3R
+	Sprite:
+		Firey: Idle,Walk,Swing,Double,Rotate
 
 Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
 	Portrait:
