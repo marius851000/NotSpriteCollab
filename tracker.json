@@ -37165,16 +37165,20 @@
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!597605988438376468>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416876137929506900/sprite-0261.zip?ex=68c8703b&is=68c71ebb&hm=fd1d5ec4fb882298015af8cafa934d6a313eb74d6e9504d4f7bfc88323a9d153&",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1416883024305459281": 948263579805683752
+    "sprite_files": {
+      "Walk": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416894975295361104/sprite-0261.zip?ex=68c881c6&is=68c73046&hm=9f36aa3708b1cba9ade67d7fe8530b9c4dd6a43aad0ac85d0faef895f64efb35&",
+    "sprite_modified": "2025-09-14 21:14:46.307263",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
