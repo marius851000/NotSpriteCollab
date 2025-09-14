@@ -37168,10 +37168,14 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416876137929506900/sprite-0261.zip?ex=68c8703b&is=68c71ebb&hm=fd1d5ec4fb882298015af8cafa934d6a313eb74d6e9504d4f7bfc88323a9d153&",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1416883024305459281": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1416882042343526533
+    },
     "subgroups": {
       "0000": {
         "canon": true,
