@@ -34068,18 +34068,18 @@
         "modreward": false,
         "name": "Meggy",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1417238270932422666": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417249712075046942/portrait-0243-0004.png?ex=68c9cc26&is=68c87aa6&hm=1fcc53c52150dfd828cc4f35393d4d555c17f816b3218950d59c83648baec4af&",
+        "portrait_modified": "2025-09-15 20:44:22.258382",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
