@@ -33914,19 +33914,23 @@
         "modreward": false,
         "name": "Puzzles",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416945498283315345/portrait-0243-0002.png?ex=68c8b0d4&is=68c75f54&hm=14fe638629a4408edd1fe82296c6f0bb95ee5875c2e2dc2bdbd9438c8959be97&",
+        "portrait_modified": "2025-09-15 00:35:31.942615",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1416945466071056385
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
