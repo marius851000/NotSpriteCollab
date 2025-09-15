@@ -33995,77 +33995,6 @@
       "0003": {
         "canon": true,
         "modreward": false,
-        "name": "Modern",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": true,
-        "portrait_talk": {
-          "918857608591458364": 1416963100388757555
-        },
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": true,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      },
-      "0004": {
-        "canon": true,
-        "modreward": false,
         "name": "Meggy",
         "portrait_bounty": {},
         "portrait_complete": 1,
@@ -34136,7 +34065,7 @@
           }
         }
       },
-      "0005": {
+      "0004": {
         "canon": true,
         "modreward": false,
         "name": "Boopkins",
@@ -34209,7 +34138,7 @@
           }
         }
       },
-      "0006": {
+      "0005": {
         "canon": true,
         "modreward": false,
         "name": "Bob",
@@ -34282,7 +34211,7 @@
           }
         }
       },
-      "0007": {
+      "0006": {
         "canon": true,
         "modreward": false,
         "name": "Swag",
