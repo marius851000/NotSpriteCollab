@@ -290,12 +290,15 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Steve_Alternate_Orange Shiny: Normal
 		Mewdas: Normal
 		Mewdas Shiny: Normal
+		Mewdas Street: Normal
+		Mewdas Gold: Normal
 		Plipo: Normal
 		Plipo Shiny: Normal
 		Royalpear_Tropius: Normal
 		Royalpear_Tropius Shiny: Normal
 		Claptrap: Normal
 		Gubby: Normal
+		Smg4 Puzzles: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scamp: Normal
 		Sommie: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
