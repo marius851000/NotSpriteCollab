@@ -34214,18 +34214,18 @@
         "modreward": false,
         "name": "Bob",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1417290918586875965": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417296933827117167/portrait-0243-0006.png?ex=68c9f821&is=68c8a6a1&hm=6ccde8887876c926c48f1470897665403e2d621826e8ce9d184adedfd139f003&",
+        "portrait_modified": "2025-09-15 23:52:00.758827",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
