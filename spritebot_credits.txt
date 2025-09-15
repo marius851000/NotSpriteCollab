@@ -302,6 +302,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Smg4: Normal
 		Smg4 Karen: Normal
 		Smg4 Puzzles: Normal
+		Smg4 Meggy: Normal
 		Smg4 Boopkins: Normal
 		Smg4 Swag: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -312,6 +313,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Rabbid: Normal
 		Ouroboros Noah: Normal
 		Hornet: Normal,Joyous,Surprised,Angry,Teary-Eyed,Dizzy,Determined
+		Sonic_Boom: Normal,Sad,Joyous,Special1,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Dandy Flyte: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
