@@ -304,6 +304,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Smg4 Puzzles: Normal
 		Smg4 Meggy: Normal
 		Smg4 Boopkins: Normal
+		Smg4 Bob: Normal
 		Smg4 Swag: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scamp: Normal
