@@ -6681,18 +6681,18 @@
     "modreward": false,
     "name": "Luigia",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416967123338661939/portrait-0043.png?ex=68c8c4f8&is=68c77378&hm=5e200acf35651df54917b71d896b41781c9760bf4602d63b1fa8dd5321425afb&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1416978568143044659": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416984454601375875/portrait-0043.png?ex=68c8d51c&is=68c7839c&hm=076814c129455fc3185361e084b483ade10655d7f6ecf19f39d474df832380f4&",
+    "portrait_modified": "2025-09-15 03:10:19.954150",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
