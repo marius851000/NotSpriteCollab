@@ -31887,7 +31887,7 @@
         "modreward": false,
         "name": "Street",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -31896,7 +31896,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416944783846543410/portrait-0232-0001.png?ex=68c8b02a&is=68c75eaa&hm=e484c9b1c58adccdea3ee819e34d0aa346f2dbfb6533599ef8920e3c9c72a7f9&",
         "portrait_modified": "2025-09-15 00:32:41.672553",
         "portrait_pending": {},
         "portrait_recolor_link": "",
