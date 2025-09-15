@@ -34139,15 +34139,17 @@
         "modreward": false,
         "name": "Boopkins",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417234822488653995/portrait-0243-0005.png?ex=68c9be48&is=68c86cc8&hm=d057f3ea77477fecdc81b5927c27920e94ad3512f047027c2c1dc20033d068d7&",
+        "portrait_modified": "2025-09-15 19:45:12.185877",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
