@@ -33851,18 +33851,18 @@
         "modreward": false,
         "name": "Karen",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1416970610076286998": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416984442110607390/portrait-0243-0001.png?ex=68c8d519&is=68c78399&hm=38abda46cc28b8fd401cf1c42405917497f829b937b8fb000eb31cdc265dc53b&",
+        "portrait_modified": "2025-09-15 03:10:16.902946",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
