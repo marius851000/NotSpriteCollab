@@ -34281,18 +34281,18 @@
         "modreward": false,
         "name": "Swag",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1417103785188134932": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417111766281883780/portrait-0243-0007.png?ex=68c94bad&is=68c7fa2d&hm=52d1f65ec48a07328f3e18cfc173f113e1f10a29bdaf4aedd421fc8848a5dfe1&",
+        "portrait_modified": "2025-09-15 11:36:13.303527",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
