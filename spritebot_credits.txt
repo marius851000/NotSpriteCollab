@@ -298,6 +298,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Royalpear_Tropius Shiny: Normal
 		Claptrap: Normal
 		Gubby: Normal
+		Smg4: Normal
 		Smg4 Puzzles: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scamp: Normal
