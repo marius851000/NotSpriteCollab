@@ -233,6 +233,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Pikmin Rock: Normal
 		Pikmin Glow: Normal
 		Baaschaf: Normal
+		Luigia: Normal
 		Guarilla: Normal
 		Magnetmill: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Vanterra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -299,6 +300,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Claptrap: Normal
 		Gubby: Normal
 		Smg4: Normal
+		Smg4 Karen: Normal
 		Smg4 Puzzles: Normal
 		Jeff_Shark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scamp: Normal
