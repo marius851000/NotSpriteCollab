@@ -31091,18 +31091,18 @@
         "modreward": false,
         "name": "Angel",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1417641229717475398": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417648562946310254/portrait-0228-0002.png?ex=68cb3f9c&is=68c9ee1c&hm=a8489f5cb33400a9f9fed8cd748ad0fb0ce44e248bc4b8115b59e41153693a7e&",
+        "portrait_modified": "2025-09-16 23:09:15.585020",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
