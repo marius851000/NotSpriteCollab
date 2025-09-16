@@ -315,6 +315,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Ouroboros Noah: Normal
 		Hornet: Normal,Joyous,Surprised,Angry,Teary-Eyed,Dizzy,Determined
 		Sonic_Boom: Normal,Sad,Joyous,Special1,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Meepit: Normal
 	Sprite:
 		Dandy Flyte: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
