@@ -31100,7 +31100,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1417641229717475398": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
