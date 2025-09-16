@@ -250,6 +250,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Wallopy: Normal
 		Wallopy Shiny: Normal
 		Platsplash: Normal
+		Platsplash Shiny: Normal
 		Cocombat: Normal
 		Cocombat Shiny: Normal
 		Psykapp: Normal
@@ -294,6 +295,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Mewdas Shiny: Normal
 		Mewdas Street: Normal
 		Mewdas Gold: Normal
+		Otis_Bs: Normal
 		Plipo: Normal
 		Plipo Shiny: Normal
 		Royalpear_Tropius: Normal
