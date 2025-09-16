@@ -26365,10 +26365,14 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1417631826452811978": 948263579805683752
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1417631819763024013
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
@@ -32037,18 +32041,18 @@
     "modreward": false,
     "name": "Otis_Bs",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1417625678786072758": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417632888245063690/portrait-0233.png?ex=68cb3102&is=68c9df82&hm=911433bc30b4440baf79b792c1d01e847f64ef6bd40974b316438d5eaf6d5c0c&",
+    "portrait_modified": "2025-09-16 22:06:58.608776",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
