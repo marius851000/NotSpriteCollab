@@ -287,6 +287,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Chirithy Nightmare: Normal
 		Gingerbrave: Normal
 		Larry_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Larry_Bs Angel: Normal
 		Lawrie_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		R_T_Bs: Normal
 		Steve_Alternate_Orange: Normal
