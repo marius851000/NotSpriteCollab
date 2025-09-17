@@ -30655,20 +30655,33 @@
     "modreward": false,
     "name": "Gingerbrave",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!262065429109932035>",
       "secondary": [],
       "total": 1
     },
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417715804488597684/portrait-0227.png?ex=68cb7e3b&is=68ca2cbb&hm=57e683e151b9602c051ff09cfcd781017e2687bb5366223683fe1c8e173fa831&",
-    "portrait_modified": "2025-06-19 01:17:37.157992",
-    "portrait_pending": {
-      "1417715808888426506": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417721943653875734/portrait-0227.png?ex=68cb83f3&is=68ca3273&hm=114e2eaab38e746bb3eaf5457e576d43fe32d183fc9b70bad1477aac0d040298&",
+    "portrait_modified": "2025-09-17 04:00:50.647879",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
