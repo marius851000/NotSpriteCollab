@@ -334,6 +334,8 @@ JojoFurryGamer	Discord:<@!465274114752512001>	Contact:empty
 		Boo_Flat: Idle,Walk,Sleep,Hurt,Charge,Rotate
 
 RAYTRAC3R	Discord:<@!597605988438376468>	Contact:https://github.com/RAYTRAC3R
+	Portrait:
+		Firey: Normal,Happy
 	Sprite:
 		Firey: Idle,Walk,Swing,Double,Rotate
 
