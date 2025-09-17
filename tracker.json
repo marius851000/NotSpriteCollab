@@ -37577,18 +37577,19 @@
     "modreward": false,
     "name": "Firey",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!597605988438376468>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1416876058560692234/portrait-0261.png?ex=68c87028&is=68c71ea8&hm=76e0ca73a54806dba5611e8acaddd79ba4e673a4f713dd3e1569600d9a5229a8&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1417861197033771129": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1417876594667819048/portrait-0261.png?ex=68cc13fb&is=68cac27b&hm=a4c2b0e29af7b0ea8eb3ab9eef64ab97330f96ebdde3a4cc42b3e367453fc4f4&",
+    "portrait_modified": "2025-09-17 14:15:22.712692",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
