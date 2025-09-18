@@ -202,6 +202,7 @@ Bird_Obsession	Discord:<@!521875202389311489>	Contact:""
 		Fugitive_Birb: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Altaria_Scarf: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Sefren: Normal
+		Sherma: Normal
 	Sprite:
 		Altaria_Scarf: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 
