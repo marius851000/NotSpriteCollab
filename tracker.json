@@ -32397,18 +32397,18 @@
     "modreward": false,
     "name": "Owol",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1418296164700262550": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418313847068037270/portrait-0236.png?ex=68cdab34&is=68cc59b4&hm=292e4098988f915f0a0ed64a3573f3f6d1a9ce6ce7def55d4e1f75d8ccdfb104&",
+    "portrait_modified": "2025-09-18 19:12:51.717939",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
