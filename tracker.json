@@ -32503,19 +32503,23 @@
         "modreward": false,
         "name": "Wigglytuff",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418330606978203709/portrait-0236-0001.png?ex=68cdbad0&is=68cc6950&hm=4a1565846ab95a4fc8a25d8964fae5906ad25600b2808f8f0a10bc76523c93ae&",
+        "portrait_modified": "2025-09-18 20:19:27.625291",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1418330561335918622
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
