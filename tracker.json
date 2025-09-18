@@ -38459,18 +38459,18 @@
     "modreward": false,
     "name": "Sherma",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!521875202389311489>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1418112872872939615": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418239663700836624/portrait-0269.png?ex=68cd661d&is=68cc149d&hm=a008d024c2f52cb676bff1390c6f44c740a1127aca7afe01c1b6905a17c1aae6&",
+    "portrait_modified": "2025-09-18 14:18:05.117310",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
