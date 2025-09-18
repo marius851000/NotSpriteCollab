@@ -300,6 +300,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Mewdas Gold: Normal
 		Otis_Bs: Normal
 		Owol: Normal
+		Owol Wigglytuff: Normal
 		Plipo: Normal
 		Plipo Shiny: Normal
 		Royalpear_Tropius: Normal
