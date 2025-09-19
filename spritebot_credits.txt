@@ -300,6 +300,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Mewdas Gold: Normal
 		Otis_Bs: Normal
 		Owol: Normal
+		Owol Shiny: Normal
 		Owol Wigglytuff: Normal
 		Plipo: Normal
 		Plipo Shiny: Normal
@@ -325,6 +326,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Sonic_Boom: Normal,Sad,Joyous,Special1,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meepit: Normal
 		Doug_Bs: Normal
+		Viger: Normal
 	Sprite:
 		Dandy Flyte: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
