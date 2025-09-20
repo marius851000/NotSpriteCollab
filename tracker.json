@@ -38933,19 +38933,25 @@
         "modreward": false,
         "name": "Qmark",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!1058057407592407081>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false,
+          "Happy": false,
+          "Pain": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418788535426617414/portrait-0271-0003.png?ex=68cf654a&is=68ce13ca&hm=fb063f39f750332b8afd88cf0f8f9774cfbb1f31827a1e1a59120ae2ba4de530&",
+        "portrait_modified": "2025-09-20 02:39:06.319883",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1418788314395181167
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
