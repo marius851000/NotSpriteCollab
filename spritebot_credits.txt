@@ -282,7 +282,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Coal: Normal
 		Dandy Looey: Normal
 		Dandy Connie: Normal
-		Dandy Flyte: Normal
+		Dandy Flyte: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dandy Blot: Normal
 		Dandy Shelly: Normal
 		Chirithy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
