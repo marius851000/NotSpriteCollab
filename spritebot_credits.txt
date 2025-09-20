@@ -445,4 +445,5 @@ Raysee	Discord:<@!1098053217620865125>	Contact:.sparkofhope
 jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
 	Portrait:
 		Chuchu_Sega: Normal,Happy,Pain
+		Chuchu_Sega Qmark: Normal,Happy,Pain
 
