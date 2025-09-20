@@ -29587,20 +29587,33 @@
         "modreward": false,
         "name": "Flyte",
         "portrait_bounty": {},
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
           "total": 1
         },
         "portrait_files": {
-          "Normal": false
+          "Normal": false,
+          "Happy": false,
+          "Pain": false,
+          "Angry": false,
+          "Worried": false,
+          "Sad": false,
+          "Crying": false,
+          "Shouting": false,
+          "Teary-Eyed": false,
+          "Determined": false,
+          "Joyous": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Dizzy": false,
+          "Sigh": false,
+          "Stunned": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418945094177788065/portrait-0221-0032.png?ex=68cff719&is=68cea599&hm=8305b3936bf646b7b07684ed11ca7e41152763fb50f91209b9a37738e333fdc5&",
-        "portrait_modified": "2025-05-27 10:32:09.621819",
-        "portrait_pending": {
-          "1418945100788269176": 948263579805683752
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418982225088876726/portrait-0221-0032.png?ex=68d019ad&is=68cec82d&hm=e02d0aed0e0e0760c4ecff6bc5f5da871a66f61e267414ad839e81a2f3575d34&",
+        "portrait_modified": "2025-09-20 15:28:45.372513",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
