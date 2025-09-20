@@ -38687,15 +38687,19 @@
     "modreward": false,
     "name": "Chuchu_Sega",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1058057407592407081>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418759216591798414/portrait-0271.png?ex=68cf49fc&is=68cdf87c&hm=aa01856cadfc208d952d774ec9cd202c648d87d0d65648e617ae6b43bb343c09&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418760902169067600/portrait-0271.png?ex=68cf4b8e&is=68cdfa0e&hm=699ffdca623ae05d968feffee7eddef62106e92f65d0336168fb976c0dda0b54&",
+    "portrait_modified": "2025-09-20 00:49:17.901133",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
