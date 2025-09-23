@@ -39025,18 +39025,19 @@
     "modreward": false,
     "name": "Cattiva",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1420082993044783186": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Sad": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1420106214334922813/portrait-0272.png?ex=68d43079&is=68d2def9&hm=7b4f4703767230be022e64c9a218549ae0615192db0a8f91c7a752f12f0bab26&",
+    "portrait_modified": "2025-09-23 17:55:05.374043",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
