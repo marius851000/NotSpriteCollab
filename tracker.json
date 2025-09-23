@@ -39025,7 +39025,7 @@
     "modreward": false,
     "name": "Cattiva",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!262065429109932035>",
       "secondary": [],
@@ -39033,13 +39033,25 @@
     },
     "portrait_files": {
       "Normal": false,
-      "Sad": false
+      "Sad": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1420106214334922813/portrait-0272.png?ex=68d43079&is=68d2def9&hm=7b4f4703767230be022e64c9a218549ae0615192db0a8f91c7a752f12f0bab26&",
-    "portrait_modified": "2025-09-23 17:55:05.374043",
-    "portrait_pending": {
-      "1420114897324343398": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1420156291510439967/portrait-0272.png?ex=68d45f1d&is=68d30d9d&hm=793a71112319b188448809a72057ab8f1831ff6ebfdc6c4b35221803dc30aacd&",
+    "portrait_modified": "2025-09-23 21:14:04.694134",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
