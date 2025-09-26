@@ -38166,19 +38166,23 @@
     "modreward": false,
     "name": "Coalbra",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1418767176742994030/portrait-0266.png?ex=68cf5166&is=68cdffe6&hm=47f4bd2430f11b02195d2a91602af16ba456cd1f8d89ab4e1f6a73efe030dd1e&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1420951301835063437/portrait-0266.png?ex=68d74386&is=68d5f206&hm=f48e40ee50c58c45605a35a720d0120001f19c878933375b19c32709b31362a2&",
+    "portrait_modified": "2025-09-26 01:53:10.009677",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1420951273087307898
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
