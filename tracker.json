@@ -1431,7 +1431,7 @@
     "portrait_link": "",
     "portrait_modified": "2025-01-25 16:18:22.892438",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1421689256400785459/portrait_recolor-0011-0000-0001.png?ex=68d9f2cc&is=68d8a14c&hm=ca9f3d1f826941ea6263df1f5465103d93bfca0508613ad823998b7c0cecc768&",
     "portrait_required": true,
     "portrait_talk": {},
     "sprite_bounty": {},
@@ -5764,7 +5764,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -5778,7 +5778,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }

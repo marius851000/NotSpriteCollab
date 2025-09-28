@@ -15,6 +15,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 
 Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caitemis
 	Portrait:
+		Kitsunoh Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Nohface Shiny: Normal
 		Ghost: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Baashaun: Normal
