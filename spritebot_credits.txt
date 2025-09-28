@@ -17,6 +17,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 	Portrait:
 		Kitsunoh Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Nohface Shiny: Normal
+		Rebble Shiny: Normal
 		Ghost: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Baashaun: Normal
 		Baariette: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -384,8 +385,8 @@ Fearless-Quit	Discord:<@!801938240562397194>
 	Portrait:
 		Kitsunoh: OLD
 		Nohface: OLD
-		Rebble: OLD
-		Tactite: OLD
+		Rebble: OLD,Normal
+		Tactite: OLD,Normal
 		Stratagem: OLD
 		Voodoom: OLD
 
