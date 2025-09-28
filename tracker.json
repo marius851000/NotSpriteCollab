@@ -4406,7 +4406,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -4420,7 +4420,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -5640,7 +5640,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -5654,7 +5654,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -7404,7 +7404,7 @@
     "portrait_link": "",
     "portrait_modified": "2025-01-25 16:18:47.595154",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1421694390346453062/portrait_recolor-0049-0000-0001.png?ex=68d9f794&is=68d8a614&hm=5781e26258a439546e13abcfaf67e58783a809cf0d0edb763e9c021ef276c4fb&",
     "portrait_required": true,
     "portrait_talk": {},
     "sprite_bounty": {},
@@ -22492,7 +22492,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -22506,7 +22506,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -23067,7 +23067,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -23081,7 +23081,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -23486,7 +23486,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -23500,7 +23500,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -23949,7 +23949,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -23963,7 +23963,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
