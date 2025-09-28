@@ -27268,7 +27268,7 @@
         "modreward": false,
         "name": "Island",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -27277,7 +27277,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1421954419087376506/portrait-0219-0004.png?ex=68dae9c0&is=68d99840&hm=4151144e57481a7c67d8070b49cd19bd9e47147c3a184355127e2e0e01296381&",
         "portrait_modified": "2025-09-28 20:19:08.446343",
         "portrait_pending": {},
         "portrait_recolor_link": "",
