@@ -1601,19 +1601,23 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!330751862590406656>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_files": {
+              "Normal": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1421693143090466846/portrait-0012-0000-0001.png?ex=68d9f66b&is=68d8a4eb&hm=c7b3f8796319600cc961a0f5cc03e8ca0c3fc2babf28d0f26ceb554840b10338&",
+            "portrait_modified": "2025-09-28 03:00:58.786533",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1421693051583205396
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
