@@ -38062,19 +38062,23 @@
     "modreward": false,
     "name": "Laviper",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1421677795750318171/portrait-0265.png?ex=68d9e820&is=68d896a0&hm=75abc8d12f66c18878763e8ac63e0f93d71160618f066b0b1dc1c8ee3e06cdd0&",
+    "portrait_modified": "2025-09-28 01:59:59.666646",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1421677770588819456
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
