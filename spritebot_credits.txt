@@ -264,11 +264,13 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Platsplash Shiny: Normal
 		Cocombat: Normal
 		Cocombat Shiny: Normal
+		Jumblitz: Normal
 		Psykapp: Normal
 		Varwolf: Normal
 		Varwolf Blue: Normal
 		Varwolf Green: Normal
 		Varwolf Yellow: Normal
+		Varwolf Island: Normal
 		Dandy: Normal,Pain
 		Dandy Poppy: Normal
 		Dandy Boxten: Normal
