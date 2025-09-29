@@ -22977,7 +22977,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -22991,7 +22991,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -23708,7 +23708,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -23722,7 +23722,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
@@ -23880,7 +23880,7 @@
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
+            "portrait_required": false,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -23894,7 +23894,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "subgroups": {}
           }
