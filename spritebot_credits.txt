@@ -394,7 +394,7 @@ Fearless-Quit	Discord:<@!801938240562397194>
 		Nohface: OLD
 		Rebble: OLD,Normal
 		Tactite: OLD,Normal
-		Stratagem: OLD
+		Stratagem: OLD,Normal
 		Voodoom: OLD
 
 Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
