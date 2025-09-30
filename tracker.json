@@ -29800,18 +29800,18 @@
         "modreward": false,
         "name": "Gigi",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1422665881548230707": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422689697267978280/portrait-0221-0030.png?ex=68dd9688&is=68dc4508&hm=a17a337c96dda35c9c63ee4a4d752ff290c05d39a6c8caf43590f1325bf12d52&",
+        "portrait_modified": "2025-09-30 21:00:55.639287",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
