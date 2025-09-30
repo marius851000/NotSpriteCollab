@@ -28352,7 +28352,7 @@
         "modreward": false,
         "name": "Scraps",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -28361,7 +28361,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422613766700535908/portrait-0221-0010.png?ex=68dd4fd0&is=68dbfe50&hm=6c0d9f862959d29b0d3387bbef45fd75b4b8439af2b7995f12b7344428523f4b&",
         "portrait_modified": "2025-09-30 15:59:12.426878",
         "portrait_pending": {},
         "portrait_recolor_link": "",
