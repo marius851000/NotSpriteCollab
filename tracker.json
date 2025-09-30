@@ -24937,19 +24937,23 @@
     "modreward": false,
     "name": "Jaguarze",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422403971611496468/portrait-0201.png?ex=68dc8c6d&is=68db3aed&hm=b9ee72797d36bd2f3bfa3c58ee5788f0c635b2d80b3855b738bf4b8f69859d3c&",
+    "portrait_modified": "2025-09-30 02:05:33.469215",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1422403943832621162
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
