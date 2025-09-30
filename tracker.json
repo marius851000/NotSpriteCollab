@@ -28354,16 +28354,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1422609780316442725": 948263579805683752
-        },
+        "portrait_modified": "2025-09-30 15:59:12.426878",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -29508,18 +29508,18 @@
         "modreward": false,
         "name": "Bassie",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1422609654013362330": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422613767610699817/portrait-0221-0026.png?ex=68dd4fd1&is=68dbfe51&hm=4d00b3b487d3e751c138c1176378c74b98c3b28b87f837b35109c41af25d3dad&",
+        "portrait_modified": "2025-09-30 15:59:12.721964",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
