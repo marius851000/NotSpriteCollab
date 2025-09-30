@@ -4652,7 +4652,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1359312005714153704/portrait-0031.png?ex=67f70574&is=67f5b3f4&hm=cd2a2c8be4a71a87c61dbfd58d1ed644eaed718e31ed6f14a1b1ccb3873157e5&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422613692654161950/portrait-0031.png?ex=68dd4fbf&is=68dbfe3f&hm=bfc3ebac2cf549783bdb73f6bf4133240ced2edb5dade5e05f6d39aa4aa1294a&",
     "portrait_modified": "2025-04-08 23:40:36.636377",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -4749,18 +4749,18 @@
         "modreward": false,
         "name": "Nuclear",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1422604308913979467": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422613744445296750/portrait-0031-0001.png?ex=68dd4fcb&is=68dbfe4b&hm=bbb14576a0cf5ad080574b009d70cd19895da06c59516d115851d8d00c4291e5&",
+        "portrait_modified": "2025-09-30 15:59:07.211221",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -29010,10 +29010,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1422609973162283111": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1422609963699802122
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
