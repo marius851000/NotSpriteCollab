@@ -29001,18 +29001,18 @@
         "modreward": false,
         "name": "Toodles",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1422609973162283111": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1422613795020341389/portrait-0221-0019.png?ex=68dd4fd7&is=68dbfe57&hm=2fbcc83bd79c9c03bdf4926c211b35b49f323387fcaa259ca394efbfb9a6c7cf&",
+        "portrait_modified": "2025-09-30 15:59:19.297311",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
