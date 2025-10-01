@@ -317,6 +317,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Larry_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Larry_Bs Glitch: Normal
 		Larry_Bs Angel: Normal
+		Larry_Bs Angel Shiny: Normal
 		Lawrie_Bs: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lawrie_Bs Glitch: Normal
 		R_T_Bs: Normal
