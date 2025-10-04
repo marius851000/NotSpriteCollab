@@ -33190,19 +33190,23 @@
         "modreward": false,
         "name": "Royalmelon",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1424084994774794290/portrait-0238-0001.png?ex=68e2aa00&is=68e15880&hm=ab47e21b5e052fb81bb17c7206c45942f0728b49c5ddf42ff6c9384b94a1190a&",
+        "portrait_modified": "2025-10-04 17:25:20.678393",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1424084227057647737
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
