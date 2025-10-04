@@ -337,6 +337,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Plipo Shiny: Normal
 		Royalpear_Tropius: Normal
 		Royalpear_Tropius Shiny: Normal
+		Royalpear_Tropius Royalmelon: Normal
 		Claptrap: Normal
 		Gubby: Normal
 		Smg4: Normal
