@@ -42880,19 +42880,23 @@
     "modreward": false,
     "name": "Rosemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426042352199274516/portrait-0304.png?ex=68e9c8ef&is=68e8776f&hm=160ea1e641514526d034412df1fd1a8a3e7301a357c2fae8a3a6de55579e1a0f&",
+    "portrait_modified": "2025-10-10 03:03:11.052781",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426042325410517082
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
