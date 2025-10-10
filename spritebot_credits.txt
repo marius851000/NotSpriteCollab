@@ -321,6 +321,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Goob: Normal
 		Dandy Scraps: Normal
 		Dandy Shrimpo: Normal
+		Dandy Glisten: Normal
 		Dandy Vee: Normal
 		Dandy Pebble: Normal
 		Dandy Flutter: Normal
@@ -334,6 +335,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Cocoa: Normal
 		Dandy Coal: Normal
 		Dandy Bassie: Normal
+		Dandy Yatta: Normal
 		Dandy Looey: Normal
 		Dandy Connie: Normal
 		Dandy Gigi: Normal
@@ -341,6 +343,12 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Flyte: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dandy Blot: Normal
 		Dandy Shelly: Normal
+		Dandy Brusha: Normal
+		Dandy Dyle: Normal
+		Dandy Eclipse: Normal
+		Dandy Gourdy: Normal
+		Dandy Ribecca: Normal
+		Dandy Soulvester: Normal
 		Chirithy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Chirithy Nightmare: Normal
 		Gingerbrave: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
