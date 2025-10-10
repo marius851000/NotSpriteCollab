@@ -30423,7 +30423,7 @@
         "modreward": false,
         "name": "Gourdy",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -30432,7 +30432,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426327591773667378/portrait-0221-0038.png?ex=68ead295&is=68e98115&hm=947afe2f1dfaedcf6dad20902627a9829f82934f1ced5d276d483675fa95a60f&",
         "portrait_modified": "2025-10-10 21:56:35.834199",
         "portrait_pending": {},
         "portrait_recolor_link": "",
