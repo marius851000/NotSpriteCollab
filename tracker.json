@@ -41260,19 +41260,23 @@
     "modreward": false,
     "name": "Tyranomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426033816950145115/portrait-0289.png?ex=68e9c0fc&is=68e86f7c&hm=f283c306f15b34148ec84c85e2640c6a57094131940a45fbb9f600a533f3344d&",
+    "portrait_modified": "2025-10-10 02:29:16.033892",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426033790094016543
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
