@@ -30569,7 +30569,7 @@
         "modreward": false,
         "name": "Soulvester",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -30578,7 +30578,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426327556289859644/portrait-0221-0040.png?ex=68ead28d&is=68e9810d&hm=d5bad348fe243eee4dbb6d240d4fdb6740dae55bd2a05ca44b85a1d969b35cb7&",
         "portrait_modified": "2025-10-10 21:56:28.972003",
         "portrait_pending": {},
         "portrait_recolor_link": "",
