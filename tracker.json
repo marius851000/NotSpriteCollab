@@ -42016,19 +42016,23 @@
     "modreward": false,
     "name": "Ancientgarurumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426035844971630602/portrait-0296.png?ex=68e9c2df&is=68e8715f&hm=a3e1b3498c8fe36b7eb0bcb15fa80a1a64e8debd50fb59873f0dfff5f408672f&",
+    "portrait_modified": "2025-10-10 02:37:19.560556",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426035809412190299
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
