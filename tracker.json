@@ -41476,19 +41476,23 @@
     "modreward": false,
     "name": "Rusttyranomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426034204734525550/portrait-0291.png?ex=68e9c158&is=68e86fd8&hm=c9ae356265aac179ab9f51174d9fdf00a9abaa0a77794f2664dded613cc32587&",
+    "portrait_modified": "2025-10-10 02:30:48.107124",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426034177412956200
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
