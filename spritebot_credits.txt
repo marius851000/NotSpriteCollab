@@ -139,6 +139,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Birdramon: Normal
 		Garudamon: Normal
 		Hououmon: Normal
+		Palmon: Normal
+		Togemon: Normal
+		Lilimon: Normal
+		Rosemon: Normal
+		Ponchomon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
