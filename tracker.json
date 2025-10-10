@@ -29589,18 +29589,18 @@
         "modreward": false,
         "name": "Yatta",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1426313196247056405": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426327629031805089/portrait-0221-0027.png?ex=68ead29e&is=68e9811e&hm=7e2fc42a7791e2e0e3b38414d521e352bfa2a67c895fcbe2d84c233e18fb001b&",
+        "portrait_modified": "2025-10-10 21:56:46.316614",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
