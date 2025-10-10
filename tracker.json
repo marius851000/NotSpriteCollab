@@ -41368,19 +41368,23 @@
     "modreward": false,
     "name": "Metaltyranomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426033975700226108/portrait-0290.png?ex=68e9c122&is=68e86fa2&hm=4a29dcc09c5e42fcdcb6688485a11e95a6d530ce973130dc5e54583ca85b9515&",
+    "portrait_modified": "2025-10-10 02:29:53.959577",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426033946893750335
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
