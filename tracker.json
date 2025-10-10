@@ -43312,19 +43312,23 @@
     "modreward": false,
     "name": "Ikkakumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426046847297917072/portrait-0308.png?ex=68e9cd1f&is=68e87b9f&hm=907d165be7495c40fff52ce72312ecb88f6f0b5e03c0cbb40531068386859699&",
+    "portrait_modified": "2025-10-10 03:21:02.745981",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426046823260487700
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
