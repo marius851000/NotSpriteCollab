@@ -30425,16 +30425,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1426323427853336707": 948263579805683752
-        },
+        "portrait_modified": "2025-10-10 21:56:35.834199",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -30496,18 +30496,18 @@
         "modreward": false,
         "name": "Ribecca",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1426323958826930306": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426327582827090102/portrait-0221-0039.png?ex=68ead293&is=68e98113&hm=33d70fb197c0ec818e914f3f9ea1293476953fab9b3477ca577545a430a32058&",
+        "portrait_modified": "2025-10-10 21:56:35.303659",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
