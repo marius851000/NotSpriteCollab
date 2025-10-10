@@ -41044,19 +41044,23 @@
     "modreward": false,
     "name": "Wargreymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426033408617742366/portrait-0287.png?ex=68e9c09b&is=68e86f1b&hm=18ba56fb4b5af09346b64b07d04b338bf823fffaf8407ee70ab9e3a6e403571e&",
+    "portrait_modified": "2025-10-10 02:27:38.512025",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426033380297932830
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
