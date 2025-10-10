@@ -42664,19 +42664,23 @@
     "modreward": false,
     "name": "Togemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426041801772503162/portrait-0302.png?ex=68e9c86c&is=68e876ec&hm=6f507e0fa222a3beb60463389f258a67aac8101e216a27f4280c84f6d21b4bec&",
+    "portrait_modified": "2025-10-10 03:00:59.780618",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426041771259068426
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
