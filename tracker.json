@@ -42232,19 +42232,23 @@
     "modreward": false,
     "name": "Birdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426037585066590218/portrait-0298.png?ex=68e9c47e&is=68e872fe&hm=6f1b9a4ceb2dc872557c8c6de123922e59691938af97fdcd663ed4ef294171fe&",
+    "portrait_modified": "2025-10-10 02:44:14.441591",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426037559527608351
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
