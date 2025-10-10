@@ -41152,19 +41152,23 @@
     "modreward": false,
     "name": "Ancientgreymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426033634900447242/portrait-0288.png?ex=68e9c0d0&is=68e86f50&hm=e41d0e5228cc79e8035aebef5503ce204ebdb1f25c07b7876624439cebf14f35&",
+    "portrait_modified": "2025-10-10 02:28:32.707353",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426033610364026940
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
