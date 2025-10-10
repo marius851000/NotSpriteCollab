@@ -28498,7 +28498,7 @@
         "modreward": false,
         "name": "Glisten",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -28507,7 +28507,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426327612526952609/portrait-0221-0012.png?ex=68ead29a&is=68e9811a&hm=04a193176474a1ac40d276f0c81a9f43fcb42ebb48bcf0f2e1de7b5c4998dfe7&",
         "portrait_modified": "2025-10-10 21:56:42.401917",
         "portrait_pending": {},
         "portrait_recolor_link": "",
