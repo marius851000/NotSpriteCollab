@@ -42988,19 +42988,23 @@
     "modreward": false,
     "name": "Ponchomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426042523696103434/portrait-0305.png?ex=68e9c918&is=68e87798&hm=57ba85c635c8742575db52104c666cd53100ad4afe925ee6ba6f1395d14317e5&",
+    "portrait_modified": "2025-10-10 03:03:51.876234",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426042489940476084
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
