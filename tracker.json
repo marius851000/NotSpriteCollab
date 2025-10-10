@@ -43528,18 +43528,18 @@
     "modreward": false,
     "name": "Vikemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1426047077653155860": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426047113825095803/portrait-0310.png?ex=68e9cd5e&is=68e87bde&hm=b2660134e5dcd53f7884ed21d0bbfcca3f11f996188c91bd884175e553127520&",
+    "portrait_modified": "2025-10-10 03:22:06.319963",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
