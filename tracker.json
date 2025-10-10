@@ -42340,19 +42340,23 @@
     "modreward": false,
     "name": "Garudamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426037809029972050/portrait-0299.png?ex=68e9c4b4&is=68e87334&hm=5dd61102c9c7218e7c5088043cb6758f86ebad4b3ac2475a0d45531dbf43924d&",
+    "portrait_modified": "2025-10-10 02:45:07.857757",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426037781578252319
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
