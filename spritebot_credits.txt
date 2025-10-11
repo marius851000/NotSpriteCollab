@@ -176,6 +176,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Dianamon: Normal
 		Bancholilimon: Normal
 		Elecmon: Normal
+		Mugendramon: Normal
 		Vulturemon: Normal
 		Ornismon: Normal
 		Lopmon: Normal
