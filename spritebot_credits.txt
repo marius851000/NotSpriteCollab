@@ -166,6 +166,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Airdramon: Normal
 		Megadramon: Normal
 		Floramon: Normal
+		Sandiramon: Normal
+		Minervamon: Normal
+		Orochimon: Normal
+		Nidhoggmon: Normal
 		Lunamon: Normal
 		Lekismon: Normal
 		Crescemon: Normal
@@ -174,6 +178,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Elecmon: Normal
 		Vulturemon: Normal
 		Ornismon: Normal
+		Lopmon: Normal
+		Algomon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
