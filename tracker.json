@@ -47053,19 +47053,23 @@
     "modreward": false,
     "name": "Stegomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426408859295154217/portrait-0340.png?ex=68eb1e45&is=68e9ccc5&hm=eafa57d820abc1fe5c2170e96ca34514f25be1f63a243b5137c0798dcca82c74&",
+    "portrait_modified": "2025-10-11 03:19:33.161049",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426408833080754280
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
