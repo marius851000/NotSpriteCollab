@@ -45269,19 +45269,23 @@
     "modreward": false,
     "name": "Sleipmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426409612051218493/portrait-0323.png?ex=68eb1ef8&is=68e9cd78&hm=38741fc0f3ad03aa1bbaa6a0b73b533b96268affba7f158dad4c7693816ac55b&",
+    "portrait_modified": "2025-10-11 03:22:32.610025",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426409587720065114
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
