@@ -49932,19 +49932,23 @@
     "modreward": false,
     "name": "Floramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426387282243354674/portrait-0368.png?ex=68eb0a2d&is=68e9b8ad&hm=7abe5e79e20967493310997a0805b2e856f4f5e777725c5de1142b78db269958&",
+    "portrait_modified": "2025-10-11 01:53:48.799178",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426387259397115945
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
