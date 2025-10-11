@@ -149,10 +149,18 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Ikkakumon: Normal
 		Zudomon: Normal
 		Vikemon: Normal
+		Tentomon: Normal
 		Patamon: Normal
+		Ulforcev_Dramon: Normal
+		Fladramon: Normal
 		Gargomon: Normal
 		Magnamon: Normal
+		Stegomon: Normal
+		Spinomon: Normal
 		Terriermon: Normal
+		Saintgalgomon: Normal
+		Impmon: Normal
+		Witchmon: Normal
 		Ladydevimon: Normal
 		Lilithmon: Normal
 		Gaomon: Normal
