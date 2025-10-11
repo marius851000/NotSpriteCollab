@@ -151,6 +151,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Patamon: Normal
 		Gargomon: Normal
 		Magnamon: Normal
+		Terriermon: Normal
 		Ladydevimon: Normal
 		Lilithmon: Normal
 		Gaomon: Normal
@@ -158,6 +159,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Machgaogamon: Normal
 		Miragegaogamon: Normal
 		Betamon: Normal
+		Seadramon: Normal
 		Megaseadramon: Normal
 		Metalseadramon: Normal
 		Airdramon: Normal
