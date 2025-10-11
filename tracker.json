@@ -48652,19 +48652,23 @@
     "modreward": false,
     "name": "Miragegaogamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426382277319069716/portrait-0356.png?ex=68eb0583&is=68e9b403&hm=8cbf64e8d62d75035cbcf306f6137021706fd4d5f40c4e5c1ca92a590328c819&",
+    "portrait_modified": "2025-10-11 01:33:55.481677",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426382249288405043
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
