@@ -50633,15 +50633,17 @@
     "modreward": false,
     "name": "Minervamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426397453422170193/portrait-0374.png?ex=68eb13a6&is=68e9c226&hm=0582356978b2a6dfc306f797c758e4255368ced3dcd987ba8c2dcdfbce7e8c17&",
+    "portrait_modified": "2025-10-11 02:34:13.675524",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
