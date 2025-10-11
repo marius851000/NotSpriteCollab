@@ -49492,19 +49492,23 @@
     "modreward": false,
     "name": "Megaseadramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426374552472129576/portrait-0364.png?ex=68eafe52&is=68e9acd2&hm=8fc354f78e68eba29bfaf4c5e8bcd84bf7928e1ea949c4789156b034e4744570&",
+    "portrait_modified": "2025-10-11 01:03:13.744036",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426374522809876624
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
