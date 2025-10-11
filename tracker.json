@@ -46548,19 +46548,23 @@
     "modreward": false,
     "name": "Magnamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426372037701795961/portrait-0336.png?ex=68eafbfa&is=68e9aa7a&hm=e9241324712d02401df8e9e43f6bfad5f5e8dbca6e8ee1845157b3f7880d3568&",
+    "portrait_modified": "2025-10-11 00:53:14.158462",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426372006906957904
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
