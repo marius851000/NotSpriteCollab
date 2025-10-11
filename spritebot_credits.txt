@@ -142,9 +142,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Palmon: Normal
 		Togemon: Normal
 		Lilimon: Normal
+		Lilimon Bancho: Normal
 		Rosemon: Normal
 		Ponchomon: Normal
-		Bancholilimon: Normal
 		Gomamon: Normal
 		Ikkakumon: Normal
 		Zudomon: Normal
