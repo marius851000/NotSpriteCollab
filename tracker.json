@@ -47577,19 +47577,23 @@
     "modreward": false,
     "name": "Saintgalgomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426408444281229333/portrait-0345.png?ex=68eb1de2&is=68e9cc62&hm=9fc3a08a6583116098bfc73fed04d1ec5dad4c7534e3772285dbeb778666b592&",
+    "portrait_modified": "2025-10-11 03:17:54.157403",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426408415642783795
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
