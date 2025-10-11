@@ -53169,19 +53169,23 @@
     "modreward": false,
     "name": "Coronamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426403902387130554/portrait-0398.png?ex=68eb19a7&is=68e9c827&hm=5a48067677b9c5b9048ac8509853e29ddba7fdad2c2f6f8add6e2598c1355eaf&",
+    "portrait_modified": "2025-10-11 02:59:50.033059",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426403873798750288
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
