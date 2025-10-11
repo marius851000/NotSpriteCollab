@@ -151,6 +151,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Vikemon: Normal
 		Tentomon: Normal
 		Patamon: Normal
+		Pegasmon: Normal
+		Tyilinmon: Normal
+		Sleipmon: Normal
 		Ulforcev_Dramon: Normal
 		Fladramon: Normal
 		Gargomon: Normal
