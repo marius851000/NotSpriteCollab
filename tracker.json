@@ -53065,19 +53065,23 @@
     "modreward": false,
     "name": "Zanbamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426404079797800961/portrait-0397.png?ex=68eb19d1&is=68e9c851&hm=eed7224b89e1e47a1e5bcaebe1543745a1c2eafed07bb3c14e102a9d9f659d79&",
+    "portrait_modified": "2025-10-11 03:00:33.643847",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426404053096730686
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
