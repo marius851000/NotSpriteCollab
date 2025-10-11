@@ -50217,19 +50217,23 @@
     "modreward": false,
     "name": "Toropiamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426405806659731466/portrait-0370.png?ex=68eb1b6d&is=68e9c9ed&hm=c63020abc65a5960fd3b0f76240940468343abb942a0a673d31eb5c152c073c6&",
+    "portrait_modified": "2025-10-11 03:07:25.278509",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426405781569540096
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
