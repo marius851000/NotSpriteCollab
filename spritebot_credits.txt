@@ -123,6 +123,7 @@ JFain	Discord:<@!702275233125630042>
 NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntruder
 	Portrait:
 		Agumon: Normal
+		Agumon Black: Normal
 		Greymon: Normal
 		Metalgreymon: Normal
 		Wargreymon: Normal
