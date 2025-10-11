@@ -48320,19 +48320,23 @@
     "modreward": false,
     "name": "Lilithmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426371824169648149/portrait-0353.png?ex=68eafbc7&is=68e9aa47&hm=d4b819afd9a1754fb91b4d4108d978012459a40486b2335f7bb1a96b5866de85&",
+    "portrait_modified": "2025-10-11 00:52:23.284336",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426371795216498751
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
