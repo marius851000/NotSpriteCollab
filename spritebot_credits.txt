@@ -149,12 +149,17 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Ikkakumon: Normal
 		Zudomon: Normal
 		Vikemon: Normal
+		Patamon: Normal
 		Gargomon: Normal
+		Magnamon: Normal
 		Ladydevimon: Normal
 		Lilithmon: Normal
 		Gaomon: Normal
 		Gaogamon: Normal
 		Machgaogamon: Normal
+		Betamon: Normal
+		Megaseadramon: Normal
+		Metalseadramon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
