@@ -47176,19 +47176,23 @@
     "modreward": false,
     "name": "Terriermon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426383843182772305/portrait-0342.png?ex=68eb06f9&is=68e9b579&hm=2d9b909fa2df0ece801163016f10a2959a1909f715c29cb65f2282bc9e980f52&",
+    "portrait_modified": "2025-10-11 01:40:08.810936",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426383814577356881
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
