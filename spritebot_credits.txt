@@ -164,11 +164,13 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Metalseadramon: Normal
 		Airdramon: Normal
 		Megadramon: Normal
+		Floramon: Normal
 		Lunamon: Normal
 		Lekismon: Normal
 		Crescemon: Normal
 		Dianamon: Normal
 		Bancholilimon: Normal
+		Elecmon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
