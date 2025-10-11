@@ -50321,19 +50321,23 @@
     "modreward": false,
     "name": "Bloomlordmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426405604737548319/portrait-0371.png?ex=68eb1b3d&is=68e9c9bd&hm=4743ce50dd212927ef92c150561f0929be9b3075a096703c58af24787a0daa1e&",
+    "portrait_modified": "2025-10-11 03:06:37.127002",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426405576979775590
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
