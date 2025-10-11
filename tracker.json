@@ -51180,19 +51180,23 @@
     "modreward": false,
     "name": "Dianamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426381882911887460/portrait-0380.png?ex=68eb0525&is=68e9b3a5&hm=63c80ff08d8e8364dc002abeddecf0862925882944d87dca3fcf8750a4698028&",
+    "portrait_modified": "2025-10-11 01:32:21.468981",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426381857460588637
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
