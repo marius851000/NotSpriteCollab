@@ -166,6 +166,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Airdramon: Normal
 		Megadramon: Normal
 		Floramon: Normal
+		Petaldramon: Normal
+		Toropiamon: Normal
+		Bloomlordmon: Normal
+		Coatlmon: Normal
 		Sandiramon: Normal
 		Minervamon: Normal
 		Orochimon: Normal
@@ -176,7 +180,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Dianamon: Normal
 		Bancholilimon: Normal
 		Elecmon: Normal
+		Asuramon: Normal
+		Zanbamon: Normal
+		Coronamon: Normal
 		Mugendramon: Normal
+		Saberdramon: Normal
 		Vulturemon: Normal
 		Ornismon: Normal
 		Lopmon: Normal
@@ -184,6 +192,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Algomon Adult: Normal
 		Algomon Perfect: Normal
 		Algomon Ultimate: Normal
+		Gulfmon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
