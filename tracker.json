@@ -47681,19 +47681,23 @@
     "modreward": false,
     "name": "Impmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426408238257148030/portrait-0346.png?ex=68eb1db1&is=68e9cc31&hm=ec03e3278aa75bc28524d8fe8c2991c6b1896b48f1a504d97f77bf693480f3c0&",
+    "portrait_modified": "2025-10-11 03:17:05.018543",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426408209433755659
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
