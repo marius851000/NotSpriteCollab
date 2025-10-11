@@ -52961,19 +52961,23 @@
     "modreward": false,
     "name": "Asuramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426404537077600276/portrait-0396.png?ex=68eb1a3e&is=68e9c8be&hm=cf6a467a4800e2cb70eb39ce64c942b8fb0ebd2bf743ee4d55ce99af4fa4eea8&",
+    "portrait_modified": "2025-10-11 03:02:22.641176",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426404512251383879
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
