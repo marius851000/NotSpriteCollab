@@ -55960,19 +55960,23 @@
         "modreward": false,
         "name": "Perfect",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426398665202995261/portrait-0423-0002.png?ex=68eb14c6&is=68e9c346&hm=01661a0714044bfa7b156f2453171525f18605fa583685521d4cd270ed9132b1&",
+        "portrait_modified": "2025-10-11 02:39:02.636788",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1426398639894302821
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
