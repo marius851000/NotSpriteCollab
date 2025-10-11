@@ -50645,7 +50645,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426396918136705024
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -50841,19 +50843,23 @@
     "modreward": false,
     "name": "Nidhoggmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426397146332270592/portrait-0376.png?ex=68eb135c&is=68e9c1dc&hm=182e451882ce2d1cd86ef01e2b17f8e9e3e3bf5bdbdc7613dd5a71956d9d0556&",
+    "portrait_modified": "2025-10-11 02:33:00.565604",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426397121547862200
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
