@@ -67087,19 +67087,23 @@
     "modreward": false,
     "name": "Ranamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426795643946537040/portrait-0526.png?ex=68ec867e&is=68eb34fe&hm=2ac947a4fc2d8686f417a941520c48aeba66814c461c4a2558f9e3404e09b143&",
+    "portrait_modified": "2025-10-12 04:56:29.761061",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426795617266434130
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
