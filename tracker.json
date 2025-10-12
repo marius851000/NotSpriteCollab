@@ -70015,19 +70015,23 @@
     "modreward": false,
     "name": "Togemogumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426793252471967784/portrait-0554.png?ex=68ec8443&is=68eb32c3&hm=a1ca0d5070d21a640626850314ea53eb90d60e52da10ba442b12f34df667c080&",
+    "portrait_modified": "2025-10-12 04:46:59.580241",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426793227054481471
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
