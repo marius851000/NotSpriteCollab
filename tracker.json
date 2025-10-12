@@ -66327,19 +66327,23 @@
     "modreward": false,
     "name": "Caprimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426784349810069524/portrait-0519.png?ex=68ec7bf9&is=68eb2a79&hm=c1397b24e7b2ac7929f9c2a30241b82fc48b1ad6fc20ad64e3487567b058b933&",
+    "portrait_modified": "2025-10-12 04:11:37.067189",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426784325948407910
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
