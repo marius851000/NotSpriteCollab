@@ -61442,19 +61442,23 @@
     "modreward": false,
     "name": "Commandramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426770577049387079/portrait-0473.png?ex=68ec6f25&is=68eb1da5&hm=95bf7c8430a6e300a7e3444761721af27024e59057a57154b25f91f8d5fda514&",
+    "portrait_modified": "2025-10-12 03:16:53.384267",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426770551413669928
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
