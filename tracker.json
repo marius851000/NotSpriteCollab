@@ -70123,19 +70123,23 @@
     "modreward": false,
     "name": "Kunemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426793409879867472/portrait-0555.png?ex=68ec8469&is=68eb32e9&hm=4baeb9c7c82047c7105ca3049dd9d8addf3e070d46ce18ff62b0cb8ce03fde48&",
+    "portrait_modified": "2025-10-12 04:47:37.184216",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426793380020621456
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
