@@ -59000,18 +59000,18 @@
     "modreward": false,
     "name": "Unimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1426769532843987056": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426769567275028480/portrait-0451.png?ex=68ec6e34&is=68eb1cb4&hm=569cdbbc9c6f8e7633304e44ce646cea3c768c190c533d2eb1ea2d49e04fd1e5&",
+    "portrait_modified": "2025-10-12 03:12:52.615070",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
