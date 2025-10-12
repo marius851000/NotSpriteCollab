@@ -70339,19 +70339,23 @@
     "modreward": false,
     "name": "Mothmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426793797710254111/portrait-0557.png?ex=68ec84c5&is=68eb3345&hm=5d654bbeacfd837f0b68112cdf59cedf63af9b942f8326be39b3fe67b8918814&",
+    "portrait_modified": "2025-10-12 04:49:09.612636",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426793773379354624
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
