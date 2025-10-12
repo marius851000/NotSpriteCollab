@@ -68959,19 +68959,23 @@
     "modreward": false,
     "name": "Silphymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426794913563148348/portrait-0544.png?ex=68ec85cf&is=68eb344f&hm=11f98668f09787dc53f40529bf631b66c6dca5ae3ecf1e294cd6e0b2345a7cb2&",
+    "portrait_modified": "2025-10-12 04:53:35.528115",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426794888607039558
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
