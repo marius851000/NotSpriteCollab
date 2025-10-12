@@ -69907,19 +69907,23 @@
     "modreward": false,
     "name": "Rasenmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426793078488039444/portrait-0553.png?ex=68ec841a&is=68eb329a&hm=acdaf5bffdddfd31fcdae00d75390a93c9579a0622284e7d861dce7a17d1c76d&",
+    "portrait_modified": "2025-10-12 04:46:18.093172",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426793050625151088
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
