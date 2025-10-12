@@ -66535,19 +66535,23 @@
     "modreward": false,
     "name": "Jellymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426782014580719646/portrait-0521.png?ex=68ec79cc&is=68eb284c&hm=8bff2a1c860c407620520bc816fc7131dc5eac79b04da6cfd7a9111537d8e3c4&",
+    "portrait_modified": "2025-10-12 04:02:20.243215",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426781989373087937
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
