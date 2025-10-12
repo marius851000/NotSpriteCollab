@@ -66639,19 +66639,23 @@
     "modreward": false,
     "name": "Teslajellymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426781087941525594/portrait-0522.png?ex=68ec78ef&is=68eb276f&hm=2feb2c10374cf6a84c110de61b996e3772e1cf18f1b20dcd9ee8a19876bbbd9e&",
+    "portrait_modified": "2025-10-12 03:58:39.374296",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426781062545281114
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
