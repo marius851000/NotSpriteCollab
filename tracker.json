@@ -61766,19 +61766,23 @@
     "modreward": false,
     "name": "Gundramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426772169421226078/portrait-0476.png?ex=68ec70a1&is=68eb1f21&hm=e480dfdbd25f267e1543120801d6e3878f9ea26279d69dc7b3640b057589f437&",
+    "portrait_modified": "2025-10-12 03:23:12.854972",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426772140287459449
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
