@@ -61550,19 +61550,23 @@
     "modreward": false,
     "name": "Sealsdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426771027941392535/portrait-0474.png?ex=68ec6f91&is=68eb1e11&hm=ccdc8169af8ff59ea3db48eac31d891b197d30d25542484e8b61f8c71896f0ca&",
+    "portrait_modified": "2025-10-12 03:18:40.897872",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426771003156992121
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
