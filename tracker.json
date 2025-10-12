@@ -60386,19 +60386,23 @@
     "modreward": false,
     "name": "Anubimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426762219768512604/portrait-0463.png?ex=68ec675d&is=68eb15dd&hm=7ee17a7600ef7fb435d1bc67c2b1adddca9a9d9ccefa68af629b695262049271&",
+    "portrait_modified": "2025-10-12 02:43:40.865586",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426762195022118942
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
