@@ -66015,19 +66015,23 @@
     "modreward": false,
     "name": "Bakemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426786050558263296/portrait-0516.png?ex=68ec7d8e&is=68eb2c0e&hm=3ddcd4ec8c0f63aba857f4b6bfe7ba7668143e5ebb79868ed1f033a89a6803d8&",
+    "portrait_modified": "2025-10-12 04:18:22.522949",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426786021982605383
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
