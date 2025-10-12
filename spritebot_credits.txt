@@ -224,6 +224,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Jellymon: Normal
 		Teslajellymon: Normal
 		Thetismon: Normal
+		Ranamon: Normal
+		Silphymon: Normal
 		Valkyrimon: Normal
 		Renamon: Normal
 		Kyubimon: Normal
