@@ -66223,19 +66223,23 @@
     "modreward": false,
     "name": "Gokumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426784488855175168/portrait-0518.png?ex=68ec7c1a&is=68eb2a9a&hm=f7098f15b9ddb786d38fff41389b2812150399f223ac70f95e25e6b5a7fcb7d1&",
+    "portrait_modified": "2025-10-12 04:12:10.148425",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426784463920304231
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
