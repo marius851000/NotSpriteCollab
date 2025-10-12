@@ -208,7 +208,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Unimon: Normal
 		Unimon Shima: Normal
 		Anubimon: Normal
+		Swanmon: Normal
 		Commandramon: Normal
+		Sealsdramon: Normal
+		Tankdramon: Normal
+		Gundramon: Normal
 		Manticoremon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
