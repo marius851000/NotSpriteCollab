@@ -65,6 +65,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Boltah: Normal
 		Thundah: Normal
 		Perigreen: Normal
+		Manticoremon: Normal
 	Sprite:
 		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
