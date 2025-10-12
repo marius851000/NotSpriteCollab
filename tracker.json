@@ -61658,19 +61658,23 @@
     "modreward": false,
     "name": "Tankdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426771373178617876/portrait-0475.png?ex=68ec6fe3&is=68eb1e63&hm=137c4c4d722b85c883543b30591a1a8dd965b108f8ad71954af5e0908bf95c50&",
+    "portrait_modified": "2025-10-12 03:20:03.208593",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426771347408949407
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
