@@ -69271,19 +69271,23 @@
     "modreward": false,
     "name": "Kyubimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426794549006569492/portrait-0547.png?ex=68ec8579&is=68eb33f9&hm=81d299a1b2187f1f0da7e891cca71940936cddab452be6faae241903034d564d&",
+    "portrait_modified": "2025-10-12 04:52:08.613800",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426794523958444063
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
