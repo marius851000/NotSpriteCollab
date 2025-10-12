@@ -69063,19 +69063,23 @@
     "modreward": false,
     "name": "Valkyrimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426794783208112220/portrait-0545.png?ex=68ec85b0&is=68eb3430&hm=84d1a441305eacfca58759ce1f5f7bfc584ab43860072043eac3fd46719ba7c0&",
+    "portrait_modified": "2025-10-12 04:53:04.511625",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426794758088425503
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
