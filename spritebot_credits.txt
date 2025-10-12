@@ -216,6 +216,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Manticoremon: Normal
 		Dorumon: Normal
 		Dorugamon: Normal
+		Bakemon: Normal
+		Fantomon: Normal
+		Gokumon: Normal
+		Caprimon: Normal
 		Coordemon: Normal
 		Jellymon: Normal
 		Teslajellymon: Normal
