@@ -224,7 +224,19 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Jellymon: Normal
 		Teslajellymon: Normal
 		Thetismon: Normal
+		Valkyrimon: Normal
+		Renamon: Normal
+		Kyubimon: Normal
+		Taomon: Normal
+		Sakuyamon: Normal
 		Herissmon: Normal
+		Filmon: Normal
+		Stiffilmon: Normal
+		Rasenmon: Normal
+		Togemogumon: Normal
+		Kunemon: Normal
+		Flymon: Normal
+		Mothmon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
