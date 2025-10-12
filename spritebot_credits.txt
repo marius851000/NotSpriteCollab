@@ -65,7 +65,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Boltah: Normal
 		Thundah: Normal
 		Perigreen: Normal
-		Manticoremon: Normal
 	Sprite:
 		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -205,7 +204,12 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Algomon Perfect: Normal
 		Algomon Ultimate: Normal
 		Gulfmon: Normal
+		Vikaralamon: Normal
+		Unimon: Normal
+		Unimon Shima: Normal
 		Anubimon: Normal
+		Commandramon: Normal
+		Manticoremon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
