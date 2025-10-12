@@ -66119,19 +66119,23 @@
     "modreward": false,
     "name": "Fantomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426785896279314495/portrait-0517.png?ex=68ec7d6a&is=68eb2bea&hm=aba00ff197401985058afcd012975cf1ffa85d48fe09208fd2cbedc1473173e3&",
+    "portrait_modified": "2025-10-12 04:17:45.773457",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426784623836397670
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
