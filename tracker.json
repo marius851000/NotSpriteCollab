@@ -69167,19 +69167,23 @@
     "modreward": false,
     "name": "Renamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426794660558540800/portrait-0546.png?ex=68ec8593&is=68eb3413&hm=79f48b4099b3a9df3d929faab44ab720fbbb103c35df2608d407eb38c2012da5&",
+    "portrait_modified": "2025-10-12 04:52:35.286194",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426794634939469884
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
