@@ -58896,19 +58896,23 @@
     "modreward": false,
     "name": "Vikaralamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426770267744505936/portrait-0450.png?ex=68ec6edb&is=68eb1d5b&hm=6e6c952aa986e7b06efe9108432895fb3cecaf2dbb0436030705d1fa955072ce&",
+    "portrait_modified": "2025-10-12 03:15:39.575210",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1426770243287519294
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
