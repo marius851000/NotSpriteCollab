@@ -77450,19 +77450,23 @@
     "modreward": false,
     "name": "Goatmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427125439041634407/portrait-0623.png?ex=68edb9a3&is=68ec6823&hm=822f6a5c6973bd2c05c1d37b1cb54c63bad316c9027ef14b9ad076e446e2b28e&",
+    "portrait_modified": "2025-10-13 02:46:59.077683",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427125413175361620
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
