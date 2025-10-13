@@ -73737,18 +73737,18 @@
     "modreward": false,
     "name": "Kudamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1427125841275387905": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427125879649210399/portrait-0588.png?ex=68edba0c&is=68ec688c&hm=cb9f24412bc251a5593ffe2afab026f3cf03bdb46761013760acd972d337eb37&",
+    "portrait_modified": "2025-10-13 02:48:44.123690",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
