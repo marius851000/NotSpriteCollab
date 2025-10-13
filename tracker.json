@@ -77346,19 +77346,23 @@
     "modreward": false,
     "name": "Phascomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427125603668332574/portrait-0622.png?ex=68edb9ca&is=68ec684a&hm=58209ce9a11f8ca0c3b1c267065845f11acc29f37c1ee659b58df1e757dfaeda&",
+    "portrait_modified": "2025-10-13 02:47:38.285605",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427125577088897165
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
