@@ -77554,19 +77554,23 @@
     "modreward": false,
     "name": "Mephismon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427125317285318686/portrait-0624.png?ex=68edb986&is=68ec6806&hm=8402c9de2d513e91ec44737db46104179687266140204dd407525f629e5bf30e&",
+    "portrait_modified": "2025-10-13 02:46:30.022522",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427125291309862993
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
