@@ -240,6 +240,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Kunemon: Normal
 		Flymon: Normal
 		Mothmon: Normal
+		Kudamon: Normal
+		Reppamon: Normal
+		Kyukimon: Normal
+		Holydramon: Normal
 		Copymon: Normal
 		Phascomon: Normal
 		Goatmon: Normal
