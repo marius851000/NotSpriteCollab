@@ -73845,19 +73845,23 @@
     "modreward": false,
     "name": "Reppamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427126038596554815/portrait-0589.png?ex=68edba32&is=68ec68b2&hm=a2ca441ff6abd8d6de2fe8429503fa825b027a4f91297351213326160250a5b5&",
+    "portrait_modified": "2025-10-13 02:49:22.006895",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427126010318684274
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
