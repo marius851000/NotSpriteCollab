@@ -68443,19 +68443,23 @@
     "modreward": false,
     "name": "Devitamamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427108500877611128/portrait-0539.png?ex=68eda9dd&is=68ec585d&hm=b12bb975b0f2fa527b32d3b11b496baaefa0da27ccd894ed809328cb3475b342&",
+    "portrait_modified": "2025-10-13 01:39:40.650995",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427108475137163366
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
