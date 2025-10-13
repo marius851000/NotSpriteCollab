@@ -74061,19 +74061,23 @@
     "modreward": false,
     "name": "Holydramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427126725216571433/portrait-0591.png?ex=68edbad6&is=68ec6956&hm=7022cca06e1c35eb2d90285b240e96b389cac7dc76e58df2fa6b9fe9bc971801&",
+    "portrait_modified": "2025-10-13 02:52:05.654072",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427126696003240007
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
