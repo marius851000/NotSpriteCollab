@@ -79250,19 +79250,23 @@
     "modreward": false,
     "name": "Raptorsparrowmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427463441618173992/portrait-0640.png?ex=68eef46d&is=68eda2ed&hm=53a407362a38d2a08a84d935054b8ab586dd4b663b936641da1b184f9db90feb&",
+    "portrait_modified": "2025-10-14 01:10:05.132297",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427463409720623186
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
