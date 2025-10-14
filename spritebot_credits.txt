@@ -268,6 +268,18 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Imperialdramon: Normal
 		Sunarizamon: Normal
 		Flarelizamon: Normal
+		Gaossmon: Normal
+		Deltamon: Normal
+		Monochromon: Normal
+		Triceramon: Normal
+		Ultimatebrachimon: Normal
+		Rukamon: Normal
+		Whamon: Normal
+		Marinangemon: Normal
+		Burpmon: Normal
+		Vegimon: Normal
+		Vademon: Normal
+		Ebemon: Normal
 		Clockmon: Normal
 		Nanimon: Normal
 		Devidramon: Normal
