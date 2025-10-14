@@ -249,6 +249,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Goatmon: Normal
 		Mephismon: Normal
 		Belphemon: Normal
+		Imperialdramon: Normal
+		Sunarizamon: Normal
+		Flarelizamon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
