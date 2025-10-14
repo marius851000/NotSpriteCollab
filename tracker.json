@@ -80290,19 +80290,23 @@
     "modreward": false,
     "name": "Flarelizamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427449346776891442/portrait-0650.png?ex=68eee74c&is=68ed95cc&hm=3910b235c8df4c7468ef4541138ea366e6970db23e951e080905203ef382e516&",
+    "portrait_modified": "2025-10-14 00:14:04.659980",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427449317878141171
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
