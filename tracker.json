@@ -87819,19 +87819,23 @@
     "modreward": false,
     "name": "Ebemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427489125287723088/portrait-0721.png?ex=68ef0c58&is=68edbad8&hm=bb4d9c97ced75af748a2fc829a56d4d6a5cddc1d3e40c55bb317ccfc8a625fee&",
+    "portrait_modified": "2025-10-14 02:52:08.607810",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427489093566070867
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
