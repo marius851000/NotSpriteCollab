@@ -80186,19 +80186,23 @@
     "modreward": false,
     "name": "Sunarizamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427449814085402765/portrait-0649.png?ex=68eee7bc&is=68ed963c&hm=35278438fdaaf3317733609bb90c97ae76583cfc5dfec9f7e3ef4ac70878ff2b&",
+    "portrait_modified": "2025-10-14 00:15:56.116633",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427449787321421854
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
