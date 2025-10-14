@@ -79562,19 +79562,23 @@
     "modreward": false,
     "name": "Superstarmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427453186020479087/portrait-0643.png?ex=68eeeae0&is=68ed9960&hm=6a96f1ada4df5a2bd8769ac18a76315474160a02665e29b6c5c3f38dbdca44a2&",
+    "portrait_modified": "2025-10-14 00:29:19.956182",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427452870164353095
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
