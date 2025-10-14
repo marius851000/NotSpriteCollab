@@ -73180,7 +73180,7 @@
   "0582": {
     "canon": true,
     "modreward": false,
-    "name": "Bombernanimon",
+    "name": "Giromon",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -73284,7 +73284,7 @@
   "0583": {
     "canon": true,
     "modreward": false,
-    "name": "Giromon",
+    "name": "Kodokugumon",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -73388,7 +73388,7 @@
   "0584": {
     "canon": true,
     "modreward": false,
-    "name": "Kodokugumon",
+    "name": "Dokugumon",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -73492,7 +73492,7 @@
   "0585": {
     "canon": true,
     "modreward": false,
-    "name": "Dokugumon",
+    "name": "Archnemon",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -73596,110 +73596,6 @@
   "0586": {
     "canon": true,
     "modreward": false,
-    "name": "Archnemon",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "portrait_talk": {},
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "sprite_talk": {},
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "portrait_talk": {},
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0587": {
-    "canon": true,
-    "modreward": false,
     "name": "Parasimon",
     "portrait_bounty": {},
     "portrait_complete": 0,
@@ -73801,7 +73697,7 @@
       }
     }
   },
-  "0588": {
+  "0587": {
     "canon": true,
     "modreward": false,
     "name": "Kudamon",
@@ -73909,7 +73805,7 @@
       }
     }
   },
-  "0589": {
+  "0588": {
     "canon": true,
     "modreward": false,
     "name": "Reppamon",
@@ -74017,7 +73913,7 @@
       }
     }
   },
-  "0590": {
+  "0589": {
     "canon": true,
     "modreward": false,
     "name": "Kyukimon",
@@ -74125,7 +74021,7 @@
       }
     }
   },
-  "0591": {
+  "0590": {
     "canon": true,
     "modreward": false,
     "name": "Holydramon",
@@ -74233,7 +74129,7 @@
       }
     }
   },
-  "0592": {
+  "0591": {
     "canon": true,
     "modreward": false,
     "name": "Lalamon",
@@ -74337,7 +74233,7 @@
       }
     }
   },
-  "0593": {
+  "0592": {
     "canon": true,
     "modreward": false,
     "name": "Sunflowmon",
@@ -74441,7 +74337,7 @@
       }
     }
   },
-  "0594": {
+  "0593": {
     "canon": true,
     "modreward": false,
     "name": "Lilamon",
@@ -74545,7 +74441,7 @@
       }
     }
   },
-  "0595": {
+  "0594": {
     "canon": true,
     "modreward": false,
     "name": "Lotusmon",
@@ -74649,7 +74545,7 @@
       }
     }
   },
-  "0596": {
+  "0595": {
     "canon": true,
     "modreward": false,
     "name": "Blossomon",
@@ -74753,7 +74649,7 @@
       }
     }
   },
-  "0597": {
+  "0596": {
     "canon": true,
     "modreward": false,
     "name": "Hydramon",
@@ -74857,7 +74753,7 @@
       }
     }
   },
-  "0598": {
+  "0597": {
     "canon": true,
     "modreward": false,
     "name": "Neamon",
@@ -74961,7 +74857,7 @@
       }
     }
   },
-  "0599": {
+  "0598": {
     "canon": true,
     "modreward": false,
     "name": "Bokomon",
@@ -75065,7 +74961,7 @@
       }
     }
   },
-  "0600": {
+  "0599": {
     "canon": true,
     "modreward": false,
     "name": "Monodramon",
@@ -75169,7 +75065,7 @@
       }
     }
   },
-  "0601": {
+  "0600": {
     "canon": true,
     "modreward": false,
     "name": "Strikedramon",
@@ -75273,7 +75169,7 @@
       }
     }
   },
-  "0602": {
+  "0601": {
     "canon": true,
     "modreward": false,
     "name": "Cyberdramon",
@@ -75377,7 +75273,7 @@
       }
     }
   },
-  "0603": {
+  "0602": {
     "canon": true,
     "modreward": false,
     "name": "Justimon",
@@ -75481,7 +75377,7 @@
       }
     }
   },
-  "0604": {
+  "0603": {
     "canon": true,
     "modreward": false,
     "name": "Deathmon",
@@ -75585,7 +75481,7 @@
       }
     }
   },
-  "0605": {
+  "0604": {
     "canon": true,
     "modreward": false,
     "name": "Raremon",
@@ -75689,7 +75585,7 @@
       }
     }
   },
-  "0606": {
+  "0605": {
     "canon": true,
     "modreward": false,
     "name": "Rareraremon",
@@ -75793,7 +75689,7 @@
       }
     }
   },
-  "0607": {
+  "0606": {
     "canon": true,
     "modreward": false,
     "name": "Morphomon",
@@ -75897,7 +75793,7 @@
       }
     }
   },
-  "0608": {
+  "0607": {
     "canon": true,
     "modreward": false,
     "name": "Hudiemon",
@@ -76001,7 +75897,7 @@
       }
     }
   },
-  "0609": {
+  "0608": {
     "canon": true,
     "modreward": false,
     "name": "Eosmon",
@@ -76105,7 +76001,7 @@
       }
     }
   },
-  "0610": {
+  "0609": {
     "canon": true,
     "modreward": false,
     "name": "Ancientirismon",
@@ -76209,7 +76105,7 @@
       }
     }
   },
-  "0611": {
+  "0610": {
     "canon": true,
     "modreward": false,
     "name": "Pawnchessmon",
@@ -76382,7 +76278,7 @@
       }
     }
   },
-  "0612": {
+  "0611": {
     "canon": true,
     "modreward": false,
     "name": "Gladimon",
@@ -76486,7 +76382,7 @@
       }
     }
   },
-  "0613": {
+  "0612": {
     "canon": true,
     "modreward": false,
     "name": "Knightmon",
@@ -76590,7 +76486,7 @@
       }
     }
   },
-  "0614": {
+  "0613": {
     "canon": true,
     "modreward": false,
     "name": "Lordknightmon",
@@ -76694,7 +76590,7 @@
       }
     }
   },
-  "0615": {
+  "0614": {
     "canon": true,
     "modreward": false,
     "name": "Skullknightmon",
@@ -76798,7 +76694,7 @@
       }
     }
   },
-  "0616": {
+  "0615": {
     "canon": true,
     "modreward": false,
     "name": "Darkknightmon",
@@ -76902,7 +76798,7 @@
       }
     }
   },
-  "0617": {
+  "0616": {
     "canon": true,
     "modreward": false,
     "name": "Craniummon",
@@ -77006,7 +76902,7 @@
       }
     }
   },
-  "0618": {
+  "0617": {
     "canon": true,
     "modreward": false,
     "name": "Copymon",
@@ -77114,7 +77010,7 @@
       }
     }
   },
-  "0619": {
+  "0618": {
     "canon": true,
     "modreward": false,
     "name": "Evilmon",
@@ -77218,7 +77114,7 @@
       }
     }
   },
-  "0620": {
+  "0619": {
     "canon": true,
     "modreward": false,
     "name": "Vamdemon",
@@ -77322,7 +77218,7 @@
       }
     }
   },
-  "0621": {
+  "0620": {
     "canon": true,
     "modreward": false,
     "name": "Venomvamdemon",
@@ -77426,7 +77322,7 @@
       }
     }
   },
-  "0622": {
+  "0621": {
     "canon": true,
     "modreward": false,
     "name": "Phascomon",
@@ -77534,7 +77430,7 @@
       }
     }
   },
-  "0623": {
+  "0622": {
     "canon": true,
     "modreward": false,
     "name": "Goatmon",
@@ -77642,7 +77538,7 @@
       }
     }
   },
-  "0624": {
+  "0623": {
     "canon": true,
     "modreward": false,
     "name": "Mephismon",
@@ -77750,7 +77646,7 @@
       }
     }
   },
-  "0625": {
+  "0624": {
     "canon": true,
     "modreward": false,
     "name": "Belphemon",
@@ -77858,7 +77754,7 @@
       }
     }
   },
-  "0626": {
+  "0625": {
     "canon": true,
     "modreward": false,
     "name": "Picodevimon",
@@ -77962,7 +77858,7 @@
       }
     }
   },
-  "0627": {
+  "0626": {
     "canon": true,
     "modreward": false,
     "name": "Devimon",
@@ -78066,7 +77962,7 @@
       }
     }
   },
-  "0628": {
+  "0627": {
     "canon": true,
     "modreward": false,
     "name": "Neodevimon",
@@ -78170,7 +78066,7 @@
       }
     }
   },
-  "0629": {
+  "0628": {
     "canon": true,
     "modreward": false,
     "name": "Donedevimon",
@@ -78274,7 +78170,7 @@
       }
     }
   },
-  "0630": {
+  "0629": {
     "canon": true,
     "modreward": false,
     "name": "Pomumon",
@@ -78378,7 +78274,7 @@
       }
     }
   },
-  "0631": {
+  "0630": {
     "canon": true,
     "modreward": false,
     "name": "Kiwimon",
@@ -78482,7 +78378,7 @@
       }
     }
   },
-  "0632": {
+  "0631": {
     "canon": true,
     "modreward": false,
     "name": "Sirenmon",
@@ -78590,7 +78486,7 @@
       }
     }
   },
-  "0633": {
+  "0632": {
     "canon": true,
     "modreward": false,
     "name": "Ceresmon",
@@ -78698,7 +78594,7 @@
       }
     }
   },
-  "0634": {
+  "0633": {
     "canon": true,
     "modreward": false,
     "name": "Sangomon",
@@ -78806,7 +78702,7 @@
       }
     }
   },
-  "0635": {
+  "0634": {
     "canon": true,
     "modreward": false,
     "name": "Shellmon",
@@ -78914,7 +78810,7 @@
       }
     }
   },
-  "0636": {
+  "0635": {
     "canon": true,
     "modreward": false,
     "name": "Anomalocarimon",
@@ -79022,7 +78918,7 @@
       }
     }
   },
-  "0637": {
+  "0636": {
     "canon": true,
     "modreward": false,
     "name": "Shoutmon",
@@ -79130,7 +79026,7 @@
       }
     }
   },
-  "0638": {
+  "0637": {
     "canon": true,
     "modreward": false,
     "name": "Omegashoutmon",
@@ -79238,7 +79134,7 @@
       }
     }
   },
-  "0639": {
+  "0638": {
     "canon": true,
     "modreward": false,
     "name": "Sparrowmon",
@@ -79346,7 +79242,7 @@
       }
     }
   },
-  "0640": {
+  "0639": {
     "canon": true,
     "modreward": false,
     "name": "Raptorsparrowmon",
@@ -79454,7 +79350,7 @@
       }
     }
   },
-  "0641": {
+  "0640": {
     "canon": true,
     "modreward": false,
     "name": "Starmons",
@@ -79562,7 +79458,7 @@
       }
     }
   },
-  "0642": {
+  "0641": {
     "canon": true,
     "modreward": false,
     "name": "Revolmon",
@@ -79670,7 +79566,7 @@
       }
     }
   },
-  "0643": {
+  "0642": {
     "canon": true,
     "modreward": false,
     "name": "Superstarmon",
@@ -79778,7 +79674,7 @@
       }
     }
   },
-  "0644": {
+  "0643": {
     "canon": true,
     "modreward": false,
     "name": "Wormmon",
@@ -79886,7 +79782,7 @@
       }
     }
   },
-  "0645": {
+  "0644": {
     "canon": true,
     "modreward": false,
     "name": "Stingmon",
@@ -79994,7 +79890,7 @@
       }
     }
   },
-  "0646": {
+  "0645": {
     "canon": true,
     "modreward": false,
     "name": "Dinobeemon",
@@ -80102,7 +79998,7 @@
       }
     }
   },
-  "0647": {
+  "0646": {
     "canon": true,
     "modreward": false,
     "name": "Banchostingmon",
@@ -80210,7 +80106,7 @@
       }
     }
   },
-  "0648": {
+  "0647": {
     "canon": true,
     "modreward": false,
     "name": "Imperialdramon",
@@ -80318,7 +80214,7 @@
       }
     }
   },
-  "0649": {
+  "0648": {
     "canon": true,
     "modreward": false,
     "name": "Sunarizamon",
@@ -80426,7 +80322,7 @@
       }
     }
   },
-  "0650": {
+  "0649": {
     "canon": true,
     "modreward": false,
     "name": "Flarelizamon",
@@ -80534,7 +80430,7 @@
       }
     }
   },
-  "0651": {
+  "0650": {
     "canon": true,
     "modreward": false,
     "name": "Volcdramon",
@@ -80638,7 +80534,7 @@
       }
     }
   },
-  "0652": {
+  "0651": {
     "canon": true,
     "modreward": false,
     "name": "Toyagumon",
@@ -80742,7 +80638,7 @@
       }
     }
   },
-  "0653": {
+  "0652": {
     "canon": true,
     "modreward": false,
     "name": "Tankmon",
@@ -80846,7 +80742,7 @@
       }
     }
   },
-  "0654": {
+  "0653": {
     "canon": true,
     "modreward": false,
     "name": "Extyranomon",
@@ -80950,7 +80846,7 @@
       }
     }
   },
-  "0655": {
+  "0654": {
     "canon": true,
     "modreward": false,
     "name": "Numemon",
@@ -81054,7 +80950,7 @@
       }
     }
   },
-  "0656": {
+  "0655": {
     "canon": true,
     "modreward": false,
     "name": "Blackkingnumemon",
@@ -81158,7 +81054,7 @@
       }
     }
   },
-  "0657": {
+  "0656": {
     "canon": true,
     "modreward": false,
     "name": "Platinumnumemon",
@@ -81262,7 +81158,7 @@
       }
     }
   },
-  "0658": {
+  "0657": {
     "canon": true,
     "modreward": false,
     "name": "Monzaemon",
@@ -81366,7 +81262,7 @@
       }
     }
   },
-  "0659": {
+  "0658": {
     "canon": true,
     "modreward": false,
     "name": "Cutemon",
@@ -81470,7 +81366,7 @@
       }
     }
   },
-  "0660": {
+  "0659": {
     "canon": true,
     "modreward": false,
     "name": "Bitmon",
@@ -81574,7 +81470,7 @@
       }
     }
   },
-  "0661": {
+  "0660": {
     "canon": true,
     "modreward": false,
     "name": "Luminamon",
@@ -81678,7 +81574,7 @@
       }
     }
   },
-  "0662": {
+  "0661": {
     "canon": true,
     "modreward": false,
     "name": "Swimmon",
@@ -81782,7 +81678,7 @@
       }
     }
   },
-  "0663": {
+  "0662": {
     "canon": true,
     "modreward": false,
     "name": "Coelamon",
@@ -81886,7 +81782,7 @@
       }
     }
   },
-  "0664": {
+  "0663": {
     "canon": true,
     "modreward": false,
     "name": "Marinchimairamon",
@@ -81990,7 +81886,7 @@
       }
     }
   },
-  "0665": {
+  "0664": {
     "canon": true,
     "modreward": false,
     "name": "Regalecusmon",
@@ -82094,7 +81990,7 @@
       }
     }
   },
-  "0666": {
+  "0665": {
     "canon": true,
     "modreward": false,
     "name": "Tinkermon",
@@ -82198,7 +82094,7 @@
       }
     }
   },
-  "0667": {
+  "0666": {
     "canon": true,
     "modreward": false,
     "name": "Darcmon",
@@ -82302,7 +82198,7 @@
       }
     }
   },
-  "0668": {
+  "0667": {
     "canon": true,
     "modreward": false,
     "name": "Wisemon",
@@ -82406,7 +82302,7 @@
       }
     }
   },
-  "0669": {
+  "0668": {
     "canon": true,
     "modreward": false,
     "name": "Ancientwisemon",
@@ -82510,7 +82406,7 @@
       }
     }
   },
-  "0670": {
+  "0669": {
     "canon": true,
     "modreward": false,
     "name": "Tyumon",
@@ -82614,7 +82510,7 @@
       }
     }
   },
-  "0671": {
+  "0670": {
     "canon": true,
     "modreward": false,
     "name": "Scumon",
@@ -82718,7 +82614,7 @@
       }
     }
   },
-  "0672": {
+  "0671": {
     "canon": true,
     "modreward": false,
     "name": "Etemon",
@@ -82822,7 +82718,7 @@
       }
     }
   },
-  "0673": {
+  "0672": {
     "canon": true,
     "modreward": false,
     "name": "Metaletemon",
@@ -82926,7 +82822,7 @@
       }
     }
   },
-  "0674": {
+  "0673": {
     "canon": true,
     "modreward": false,
     "name": "Gerbemon",
@@ -83030,7 +82926,7 @@
       }
     }
   },
-  "0675": {
+  "0674": {
     "canon": true,
     "modreward": false,
     "name": "Monitamon",
@@ -83134,7 +83030,7 @@
       }
     }
   },
-  "0676": {
+  "0675": {
     "canon": true,
     "modreward": false,
     "name": "Mercuremon",
@@ -83238,7 +83134,7 @@
       }
     }
   },
-  "0677": {
+  "0676": {
     "canon": true,
     "modreward": false,
     "name": "Sephirothmon",
@@ -83342,7 +83238,7 @@
       }
     }
   },
-  "0678": {
+  "0677": {
     "canon": true,
     "modreward": false,
     "name": "Burgamon",
@@ -83446,7 +83342,7 @@
       }
     }
   },
-  "0679": {
+  "0678": {
     "canon": true,
     "modreward": false,
     "name": "Tortamon",
@@ -83550,7 +83446,7 @@
       }
     }
   },
-  "0680": {
+  "0679": {
     "canon": true,
     "modreward": false,
     "name": "Jyagamon",
@@ -83654,7 +83550,7 @@
       }
     }
   },
-  "0681": {
+  "0680": {
     "canon": true,
     "modreward": false,
     "name": "Xuanwumon",
@@ -83758,7 +83654,7 @@
       }
     }
   },
-  "0682": {
+  "0681": {
     "canon": true,
     "modreward": false,
     "name": "Hiyarimon",
@@ -83862,7 +83758,7 @@
       }
     }
   },
-  "0683": {
+  "0682": {
     "canon": true,
     "modreward": false,
     "name": "Yukidarumon",
@@ -83966,7 +83862,7 @@
       }
     }
   },
-  "0684": {
+  "0683": {
     "canon": true,
     "modreward": false,
     "name": "Mojyamon",
@@ -84070,7 +83966,7 @@
       }
     }
   },
-  "0685": {
+  "0684": {
     "canon": true,
     "modreward": false,
     "name": "Panjyamon",
@@ -84174,7 +84070,7 @@
       }
     }
   },
-  "0686": {
+  "0685": {
     "canon": true,
     "modreward": false,
     "name": "Effecmon",
@@ -84278,7 +84174,7 @@
       }
     }
   },
-  "0687": {
+  "0686": {
     "canon": true,
     "modreward": false,
     "name": "Mushmon",
@@ -84382,7 +84278,7 @@
       }
     }
   },
-  "0688": {
+  "0687": {
     "canon": true,
     "modreward": false,
     "name": "Woodmon",
@@ -84486,7 +84382,7 @@
       }
     }
   },
-  "0689": {
+  "0688": {
     "canon": true,
     "modreward": false,
     "name": "Jyureimon",
@@ -84590,7 +84486,7 @@
       }
     }
   },
-  "0690": {
+  "0689": {
     "canon": true,
     "modreward": false,
     "name": "Pinochimon",
@@ -84694,7 +84590,7 @@
       }
     }
   },
-  "0691": {
+  "0690": {
     "canon": true,
     "modreward": false,
     "name": "Jokermon",
@@ -84798,7 +84694,7 @@
       }
     }
   },
-  "0692": {
+  "0691": {
     "canon": true,
     "modreward": false,
     "name": "Piemon",
@@ -84902,7 +84798,7 @@
       }
     }
   },
-  "0693": {
+  "0692": {
     "canon": true,
     "modreward": false,
     "name": "Piranimon",
@@ -85006,7 +84902,7 @@
       }
     }
   },
-  "0694": {
+  "0693": {
     "canon": true,
     "modreward": false,
     "name": "Metalpiranimon",
@@ -85110,7 +85006,7 @@
       }
     }
   },
-  "0695": {
+  "0694": {
     "canon": true,
     "modreward": false,
     "name": "Blucomon",
@@ -85214,7 +85110,7 @@
       }
     }
   },
-  "0696": {
+  "0695": {
     "canon": true,
     "modreward": false,
     "name": "Paledramon",
@@ -85318,7 +85214,7 @@
       }
     }
   },
-  "0697": {
+  "0696": {
     "canon": true,
     "modreward": false,
     "name": "Cryspaledramon",
@@ -85422,7 +85318,7 @@
       }
     }
   },
-  "0698": {
+  "0697": {
     "canon": true,
     "modreward": false,
     "name": "Hexeblaumon",
@@ -85526,7 +85422,7 @@
       }
     }
   },
-  "0699": {
+  "0698": {
     "canon": true,
     "modreward": false,
     "name": "Hyougamon",
@@ -85630,7 +85526,7 @@
       }
     }
   },
-  "0700": {
+  "0699": {
     "canon": true,
     "modreward": false,
     "name": "Hackmon",
@@ -85734,7 +85630,7 @@
       }
     }
   },
-  "0701": {
+  "0700": {
     "canon": true,
     "modreward": false,
     "name": "Jesmon",
@@ -85838,7 +85734,7 @@
       }
     }
   },
-  "0702": {
+  "0701": {
     "canon": true,
     "modreward": false,
     "name": "Dokunemon",
@@ -85942,7 +85838,7 @@
       }
     }
   },
-  "0703": {
+  "0702": {
     "canon": true,
     "modreward": false,
     "name": "Snimon",
@@ -86046,7 +85942,7 @@
       }
     }
   },
-  "0704": {
+  "0703": {
     "canon": true,
     "modreward": false,
     "name": "Scorpiomon",
@@ -86150,7 +86046,7 @@
       }
     }
   },
-  "0705": {
+  "0704": {
     "canon": true,
     "modreward": false,
     "name": "Ancientbeatmon",
@@ -86254,7 +86150,7 @@
       }
     }
   },
-  "0706": {
+  "0705": {
     "canon": true,
     "modreward": false,
     "name": "Gaossmon",
@@ -86358,7 +86254,7 @@
       }
     }
   },
-  "0707": {
+  "0706": {
     "canon": true,
     "modreward": false,
     "name": "Deltamon",
@@ -86462,7 +86358,7 @@
       }
     }
   },
-  "0708": {
+  "0707": {
     "canon": true,
     "modreward": false,
     "name": "Monochromon",
@@ -86566,7 +86462,7 @@
       }
     }
   },
-  "0709": {
+  "0708": {
     "canon": true,
     "modreward": false,
     "name": "Triceramon",
@@ -86670,7 +86566,7 @@
       }
     }
   },
-  "0710": {
+  "0709": {
     "canon": true,
     "modreward": false,
     "name": "Ultimatebrachimon",
@@ -86774,7 +86670,7 @@
       }
     }
   },
-  "0711": {
+  "0710": {
     "canon": true,
     "modreward": false,
     "name": "Rukamon",
@@ -86878,7 +86774,7 @@
       }
     }
   },
-  "0712": {
+  "0711": {
     "canon": true,
     "modreward": false,
     "name": "Whamon",
@@ -86982,7 +86878,7 @@
       }
     }
   },
-  "0713": {
+  "0712": {
     "canon": true,
     "modreward": false,
     "name": "Marinangemon",
@@ -87086,7 +86982,7 @@
       }
     }
   },
-  "0714": {
+  "0713": {
     "canon": true,
     "modreward": false,
     "name": "Burpmon",
@@ -87190,7 +87086,7 @@
       }
     }
   },
-  "0715": {
+  "0714": {
     "canon": true,
     "modreward": false,
     "name": "Cho_Hakkaimon",
@@ -87294,7 +87190,7 @@
       }
     }
   },
-  "0716": {
+  "0715": {
     "canon": true,
     "modreward": false,
     "name": "Kokuwamon",
@@ -87398,7 +87294,7 @@
       }
     }
   },
-  "0717": {
+  "0716": {
     "canon": true,
     "modreward": false,
     "name": "Bladekuwagamon",
@@ -87502,10 +87398,634 @@
       }
     }
   },
-  "0718": {
+  "0717": {
     "canon": true,
     "modreward": false,
     "name": "Metallifekuwagamon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0718": {
+    "canon": true,
+    "modreward": false,
+    "name": "Tyrantkabuterimon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0719": {
+    "canon": true,
+    "modreward": false,
+    "name": "Vegimon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0720": {
+    "canon": true,
+    "modreward": false,
+    "name": "Vademon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0721": {
+    "canon": true,
+    "modreward": false,
+    "name": "Ebemon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0722": {
+    "canon": true,
+    "modreward": false,
+    "name": "Clockmon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0723": {
+    "canon": true,
+    "modreward": false,
+    "name": "Nanimon",
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
