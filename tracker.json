@@ -78522,19 +78522,23 @@
     "modreward": false,
     "name": "Ceresmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427465870363594772/portrait-0633.png?ex=68eef6b0&is=68eda530&hm=6c2870885eff8ea4844bd46b30b15f39dae2eb4283887b4a2810a98abc649342&",
+    "portrait_modified": "2025-10-14 01:19:44.212865",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427465844249858129
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
