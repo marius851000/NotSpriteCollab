@@ -268,6 +268,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Imperialdramon: Normal
 		Sunarizamon: Normal
 		Flarelizamon: Normal
+		Clockmon: Normal
 		Nanimon: Normal
 		Devidramon: Normal
 		Chimairamon: Normal
@@ -280,6 +281,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Chaosdramon: Normal
 		Omegamon: Normal
 		Culumon: Normal
+		Piccolomon: Normal
+		Jijimon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
