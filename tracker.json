@@ -87715,19 +87715,23 @@
     "modreward": false,
     "name": "Vademon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427489415931887656/portrait-0720.png?ex=68ef0c9e&is=68edbb1e&hm=ffee0f35f5b8e2c30ddb0e31e3b9a3587a1a0ba0d70a1722f352bfaf8fea3f9b&",
+    "portrait_modified": "2025-10-14 02:53:17.915071",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427489382604083282
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
