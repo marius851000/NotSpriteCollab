@@ -249,6 +249,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Goatmon: Normal
 		Mephismon: Normal
 		Belphemon: Normal
+		Sparrowmon: Normal
+		Raptorsparrowmon: Normal
+		Starmons: Normal
+		Revolmon: Normal
 		Superstarmon: Normal
 		Wormmon: Normal
 		Stingmon: Normal
