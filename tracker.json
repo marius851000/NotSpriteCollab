@@ -86263,19 +86263,23 @@
     "modreward": false,
     "name": "Deltamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427490103491690586/portrait-0706.png?ex=68ef0d42&is=68edbbc2&hm=1f756784fbf21b6d4e00e4cf0a46d5f9b5b8fb9c7ed2f513cc7e81472f88e39f&",
+    "portrait_modified": "2025-10-14 02:56:01.829219",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427490075884654695
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
