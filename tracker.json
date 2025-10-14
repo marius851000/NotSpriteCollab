@@ -86155,19 +86155,23 @@
     "modreward": false,
     "name": "Gaossmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427489944988946572/portrait-0705.png?ex=68ef0d1c&is=68edbb9c&hm=a42781d6aa7328b75ffae620311e1e2f3179a6ec3a4543fe44331bc8201d1d85&",
+    "portrait_modified": "2025-10-14 02:55:24.040873",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427489918304784416
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
