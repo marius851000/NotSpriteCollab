@@ -78418,19 +78418,23 @@
     "modreward": false,
     "name": "Sirenmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427466059501535344/portrait-0632.png?ex=68eef6dd&is=68eda55d&hm=74fd60418492098974a6bf853725e42bdcd94d44230dfdb02dbead010896551c&",
+    "portrait_modified": "2025-10-14 01:20:29.315467",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427466026672586752
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
