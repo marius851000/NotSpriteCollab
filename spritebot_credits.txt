@@ -269,6 +269,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Sunarizamon: Normal
 		Flarelizamon: Normal
 		Nanimon: Normal
+		Devidramon: Normal
+		Chimairamon: Normal
+		Millenniumon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
