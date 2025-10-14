@@ -89906,5 +89906,737 @@
         }
       }
     }
+  },
+  "0740": {
+    "canon": true,
+    "modreward": false,
+    "name": "Octmon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0741": {
+    "canon": true,
+    "modreward": false,
+    "name": "Dagomon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0742": {
+    "canon": true,
+    "modreward": false,
+    "name": "Parrotmon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0743": {
+    "canon": true,
+    "modreward": false,
+    "name": "Crossmon",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0744": {
+    "canon": true,
+    "modreward": false,
+    "name": "Sistermon_Blanc",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0745": {
+    "canon": true,
+    "modreward": false,
+    "name": "Sistermon_Noir",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0746": {
+    "canon": true,
+    "modreward": false,
+    "name": "Piccolomon",
+    "portrait_bounty": {},
+    "portrait_complete": 1,
+    "portrait_credit": {
+      "primary": "<@!319945906600411179>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427487795819184159/portrait-0746.png?ex=68ef0b1b&is=68edb99b&hm=35c4879ef29b7662b6770b76e8f1487053952b3d5f9f96097291f609a17a392d&",
+    "portrait_modified": "2025-10-14 02:46:51.580550",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {
+      "918857608591458364": 1427487767012573296
+    },
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
