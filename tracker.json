@@ -86479,19 +86479,23 @@
     "modreward": false,
     "name": "Triceramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427490430290755644/portrait-0708.png?ex=68ef0d90&is=68edbc10&hm=38b01916453941db114938c8fb16bed8e6b4b65ab91fa12ccb4d09adf23eac50&",
+    "portrait_modified": "2025-10-14 02:57:19.755018",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427490398036824125
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
