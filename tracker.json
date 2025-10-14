@@ -79978,19 +79978,23 @@
     "modreward": false,
     "name": "Banchostingmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427451240043909192/portrait-0647.png?ex=68eee910&is=68ed9790&hm=c557e572258e87ceac5cc20160f5c5d5a4d44df3a54909b39cf385dde14d9540&",
+    "portrait_modified": "2025-10-14 00:21:36.096394",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427451214169116752
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
