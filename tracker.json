@@ -79874,19 +79874,23 @@
     "modreward": false,
     "name": "Dinobeemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427451402476589197/portrait-0646.png?ex=68eee937&is=68ed97b7&hm=a3e7c7f2247af8d17f199c6e58bae0138f24c00ca87e1b33237b61644d9a3b8d&",
+    "portrait_modified": "2025-10-14 00:22:14.816031",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427451375272464405
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
