@@ -87127,19 +87127,23 @@
     "modreward": false,
     "name": "Cho_Hakkaimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427491905477808219/portrait-0714.png?ex=68ef0eef&is=68edbd6f&hm=9393b01bb882f9fc3ddee7797daf3f7dcb450d919610d4c52b69d3c993e7d20c&",
+    "portrait_modified": "2025-10-14 03:03:11.434205",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427491873143918623
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
