@@ -249,6 +249,13 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Goatmon: Normal
 		Mephismon: Normal
 		Belphemon: Normal
+		Sirenmon: Normal
+		Ceresmon: Normal
+		Sangomon: Normal
+		Shellmon: Normal
+		Anomalocarimon: Normal
+		Shoutmon: Normal
+		Omegashoutmon: Normal
 		Sparrowmon: Normal
 		Raptorsparrowmon: Normal
 		Starmons: Normal
