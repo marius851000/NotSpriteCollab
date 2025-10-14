@@ -87611,19 +87611,23 @@
     "modreward": false,
     "name": "Vegimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427489628935422093/portrait-0719.png?ex=68ef0cd1&is=68edbb51&hm=21c963fb23b742201e2c8e9c6415c8340b93460ebc11524f8b3fe6a0a4f2fa07&",
+    "portrait_modified": "2025-10-14 02:54:08.711235",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427489597218357339
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
