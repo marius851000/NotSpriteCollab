@@ -88540,7 +88540,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427482846615961651
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -88944,19 +88946,23 @@
     "modreward": false,
     "name": "Barbamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427483181032144988/portrait-0731.png?ex=68ef06cf&is=68edb54f&hm=b46602e150fdfd33096d57505f1e3ecb5cb1ecee3e43bca04507e5449c512b66&",
+    "portrait_modified": "2025-10-14 02:28:30.104584",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427483144222802034
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
