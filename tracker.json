@@ -78938,19 +78938,23 @@
     "modreward": false,
     "name": "Shoutmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427464777386426478/portrait-0637.png?ex=68eef5ab&is=68eda42b&hm=9b5baa5cbe7275b2986a6b1257726e05b0d9a01565d9428f48492f125f44d634&",
+    "portrait_modified": "2025-10-14 01:15:23.404569",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427464749800620143
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
