@@ -78730,19 +78730,23 @@
     "modreward": false,
     "name": "Shellmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427465219638038641/portrait-0635.png?ex=68eef615&is=68eda495&hm=d4d2f1cf7c525457e3e20c686f917e376589b0b463d089bf3c7eeaaf038d18ea&",
+    "portrait_modified": "2025-10-14 01:17:09.049933",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427465185370833008
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
