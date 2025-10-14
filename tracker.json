@@ -79770,19 +79770,23 @@
     "modreward": false,
     "name": "Stingmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427451568927801415/portrait-0645.png?ex=68eee95e&is=68ed97de&hm=eb03ca1aaf400c6194316d043a04d75b77fd8bf036beebe5c53af1f87597d6e9&",
+    "portrait_modified": "2025-10-14 00:22:54.493287",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427451540951531672
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
