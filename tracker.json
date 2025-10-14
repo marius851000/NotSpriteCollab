@@ -78626,19 +78626,23 @@
     "modreward": false,
     "name": "Sangomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427465476610592768/portrait-0634.png?ex=68eef652&is=68eda4d2&hm=71bfbf58530f98d35188dc9bf6c37aca5e9f5dee3e7ed4a49fb30c1259c2e4a4&",
+    "portrait_modified": "2025-10-14 01:18:10.303282",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427465447246139444
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
