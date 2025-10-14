@@ -87923,19 +87923,23 @@
     "modreward": false,
     "name": "Clockmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427488947197579264/portrait-0722.png?ex=68ef0c2e&is=68edbaae&hm=7b7ef8edff90370e6fde89d26569c9eb18220a7be7838bdb83ec2cea7a51a974&",
+    "portrait_modified": "2025-10-14 02:51:26.084589",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427488917179076688
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
