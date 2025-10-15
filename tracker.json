@@ -44989,19 +44989,23 @@
     "modreward": false,
     "name": "Seraphimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427835263551410317/portrait-0320.png?ex=68f04eb6&is=68eefd36&hm=2e934ebb5e8661f46fcd61a5b9c958cab7bc58b783d1a24add80d12ca73fbab7&",
+    "portrait_modified": "2025-10-15 01:47:34.265005",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427835236590551161
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
