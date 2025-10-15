@@ -84975,19 +84975,23 @@
     "modreward": false,
     "name": "Metalpiranimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840688669593610/portrait-0693.png?ex=68f053c4&is=68ef0244&hm=48c1f4b889186522c780bb6fd2ae478fc0ba25e353990e67590ff6829b8514ea&",
+    "portrait_modified": "2025-10-15 02:09:07.874960",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840655308095541
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
