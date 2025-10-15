@@ -84767,19 +84767,23 @@
     "modreward": false,
     "name": "Piemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840963354824827/portrait-0691.png?ex=68f05405&is=68ef0285&hm=e233c7f99b0f0d6b67fdad137a7694512de63d8d61330d0686d8c61811ceb09f&",
+    "portrait_modified": "2025-10-15 02:10:13.279360",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840928395300874
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
