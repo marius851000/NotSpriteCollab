@@ -89180,19 +89180,23 @@
     "modreward": false,
     "name": "Pumpmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427838140319531038/portrait-0732.png?ex=68f05164&is=68eeffe4&hm=1f6693415437f466b9b7633d167b4843f0b20c6a50c6cc7df807d04638be15a7&",
+    "portrait_modified": "2025-10-15 01:59:00.120159",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427838098590666822
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
