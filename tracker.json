@@ -90036,19 +90036,23 @@
     "modreward": false,
     "name": "Octmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427837139353206894/portrait-0740.png?ex=68f05075&is=68eefef5&hm=a5f8c6d1a91273ba654ace5ae0955b022c4e02db33ab8021d0228fbbff1fdc77&",
+    "portrait_modified": "2025-10-15 01:55:01.398206",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427837110148272190
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
