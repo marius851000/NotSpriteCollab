@@ -159,11 +159,20 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Patamon: Normal
 		Angemon: Normal
 		Holyangemon: Normal
+		Seraphimon: Normal
 		Pegasmon: Normal
 		Tyilinmon: Normal
 		Sleipmon: Normal
+		V_Mon: Normal
+		V_Dramon: Normal
+		Aerov_Dramon: Normal
 		Ulforcev_Dramon: Normal
 		Fladramon: Normal
+		Lighdramon: Normal
+		Sethmon: Normal
+		Yaksamon: Normal
+		Depthmon: Normal
+		Sagittarimon: Normal
 		Gargomon: Normal
 		Magnamon: Normal
 		Stegomon: Normal
@@ -302,6 +311,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Chaosdramon: Normal
 		Omegamon: Normal
 		Culumon: Normal
+		Octmon: Normal
+		Dagomon: Normal
+		Sistermon_Blanc: Normal
 		Piccolomon: Normal
 		Jijimon: Normal
 	Sprite:
