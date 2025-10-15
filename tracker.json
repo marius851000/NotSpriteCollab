@@ -46285,19 +46285,23 @@
     "modreward": false,
     "name": "Depthmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427836640214122608/portrait-0332.png?ex=68f04ffe&is=68eefe7e&hm=050a57fdd36b264720a69851167218c736096bcfb3f0954bf3886160905cd7a8&",
+    "portrait_modified": "2025-10-15 01:53:02.636233",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427836613077110935
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
