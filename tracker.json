@@ -85403,19 +85403,23 @@
     "modreward": false,
     "name": "Hexeblaumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840546390675547/portrait-0697.png?ex=68f053a2&is=68ef0222&hm=d0a7752991bece2c4a05de19a959bd513f15f045d570ee410d464ba29cf910da&",
+    "portrait_modified": "2025-10-15 02:08:33.935838",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840518137712670
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
