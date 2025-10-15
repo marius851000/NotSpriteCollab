@@ -90568,19 +90568,23 @@
     "modreward": false,
     "name": "Sistermon_Noir",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427837885184475156/portrait-0745.png?ex=68f05127&is=68eeffa7&hm=f2ef19de509269bc84447c30777d2a1ed45357b60e98485f6d6000c0ccd582dd&",
+    "portrait_modified": "2025-10-15 01:57:59.408756",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427837848538583141
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
