@@ -285,6 +285,14 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Imperialdramon: Normal
 		Sunarizamon: Normal
 		Flarelizamon: Normal
+		Jokermon: Normal
+		Piemon: Normal
+		Piranimon: Normal
+		Metalpiranimon: Normal
+		Blucomon: Normal
+		Paledramon: Normal
+		Cryspaledramon: Normal
+		Hexeblaumon: Normal
 		Gaossmon: Normal
 		Deltamon: Normal
 		Monochromon: Normal
@@ -300,11 +308,14 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Ebemon: Normal
 		Clockmon: Normal
 		Nanimon: Normal
+		Nanimon Bomber: Normal
 		Devidramon: Normal
 		Chimairamon: Normal
 		Millenniumon: Normal
 		Drimogemon: Normal
 		Barbamon: Normal
+		Pumpmon: Normal
+		Noblepumpmon: Normal
 		Examon: Normal
 		Leviamon: Normal
 		Huanglongmon: Normal
@@ -313,7 +324,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Culumon: Normal
 		Octmon: Normal
 		Dagomon: Normal
+		Parrotmon: Normal
+		Crossmon: Normal
 		Sistermon_Blanc: Normal
+		Sistermon_Noir: Normal
 		Piccolomon: Normal
 		Jijimon: Normal
 	Sprite:
