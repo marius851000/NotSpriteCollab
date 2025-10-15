@@ -46069,19 +46069,23 @@
     "modreward": false,
     "name": "Sethmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427836341579681864/portrait-0330.png?ex=68f04fb7&is=68eefe37&hm=63757bf4c7bf293870258da44269d370f650c48faf34e506240ec0def8322e19&",
+    "portrait_modified": "2025-10-15 01:51:51.474815",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427836314090340423
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
