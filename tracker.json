@@ -84455,19 +84455,23 @@
     "modreward": false,
     "name": "Jyureimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427841414225461279/portrait-0688.png?ex=68f05471&is=68ef02f1&hm=8b213c6e32cfe222687bb30d470fcc18581be8c5f324349f05ac9c6fc99a86fc&",
+    "portrait_modified": "2025-10-15 02:12:00.853808",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427841390145962044
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
