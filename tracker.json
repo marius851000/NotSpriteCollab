@@ -85079,19 +85079,23 @@
     "modreward": false,
     "name": "Blucomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840167640698900/portrait-0694.png?ex=68f05347&is=68ef01c7&hm=aa5feabc2493956dda911a1f6b3abbe02522f14d7e4096592baf9b9d3db9ca9c&",
+    "portrait_modified": "2025-10-15 02:07:03.618462",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840141019316336
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
