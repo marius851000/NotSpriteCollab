@@ -150,7 +150,15 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Zudomon: Normal
 		Vikemon: Normal
 		Tentomon: Normal
+		Kabuterimon: Normal
+		Atlurkabuterimon: Normal
+		Heraklekabuterimon: Normal
+		Kuwagamon: Normal
+		Okuwamon: Normal
+		Grankuwagamon: Normal
 		Patamon: Normal
+		Angemon: Normal
+		Holyangemon: Normal
 		Pegasmon: Normal
 		Tyilinmon: Normal
 		Sleipmon: Normal
