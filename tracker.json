@@ -85295,19 +85295,23 @@
     "modreward": false,
     "name": "Cryspaledramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840420615950336/portrait-0696.png?ex=68f05384&is=68ef0204&hm=fcfcf5f4be5984b6ff0755ebafc5cf695ef734194bad1acbc7977b12cbe74bc1&",
+    "portrait_modified": "2025-10-15 02:08:03.876206",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840391545360457
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
