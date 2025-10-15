@@ -84559,19 +84559,23 @@
     "modreward": false,
     "name": "Pinochimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427841237821427722/portrait-0689.png?ex=68f05447&is=68ef02c7&hm=596c02b5302ace1e143fb06d4c61af053158b715ba45e2408df98bc00e8b1c92&",
+    "portrait_modified": "2025-10-15 02:11:18.735235",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427841205860827207
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
