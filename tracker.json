@@ -44881,19 +44881,23 @@
     "modreward": false,
     "name": "Holyangemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427835112376238131/portrait-0319.png?ex=68f04e92&is=68eefd12&hm=065763e293233d1fdde838e2866564d218b6b17a6ee0c4a34adc8aa805618e3c&",
+    "portrait_modified": "2025-10-15 01:46:58.344875",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427835087122337924
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
