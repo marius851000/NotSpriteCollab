@@ -45961,19 +45961,23 @@
     "modreward": false,
     "name": "Lighdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427836178887082129/portrait-0329.png?ex=68f04f90&is=68eefe10&hm=566c5743268fd54b3c258c20e40ef7e3285f3a3386efff7ffb048a9fb394c5c3&",
+    "portrait_modified": "2025-10-15 01:51:12.396488",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427836149220642959
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
