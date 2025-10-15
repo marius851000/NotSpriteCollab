@@ -83831,19 +83831,23 @@
     "modreward": false,
     "name": "Yukidarumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427842310338515065/portrait-0682.png?ex=68f05546&is=68ef03c6&hm=5b53c49827ed7bdd13387788730b9fada6cb65eaaa7d89db99d0e6fff7d32505&",
+    "portrait_modified": "2025-10-15 02:15:34.396890",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427842282756771920
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
