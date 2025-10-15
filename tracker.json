@@ -46177,19 +46177,23 @@
     "modreward": false,
     "name": "Yaksamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427836525055442955/portrait-0331.png?ex=68f04fe3&is=68eefe63&hm=15c933e11a8c455e3a466309e1a80b80783af80df0f7ffb8e0aec29c25f5def7&",
+    "portrait_modified": "2025-10-15 01:52:35.118120",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427836497964568649
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
