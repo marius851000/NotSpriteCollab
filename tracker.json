@@ -45529,19 +45529,23 @@
     "modreward": false,
     "name": "V_Dramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427835689051095101/portrait-0325.png?ex=68f04f1c&is=68eefd9c&hm=30c345f13cf1b8a8483907e81f2be8be3a9a31f007275b61f426e3375a6d98b8&",
+    "portrait_modified": "2025-10-15 01:49:15.864272",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427835663922888704
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
