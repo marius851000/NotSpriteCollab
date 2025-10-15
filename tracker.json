@@ -44557,19 +44557,23 @@
     "modreward": false,
     "name": "Grankuwagamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427834519347658813/portrait-0316.png?ex=68f04e05&is=68eefc85&hm=7d8da526f80f7d578f4942981603c98365ad158e1a409b2807e54e1d02cdcdfe&",
+    "portrait_modified": "2025-10-15 01:44:36.931402",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427834435868426331
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
