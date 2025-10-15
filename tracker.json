@@ -44449,19 +44449,23 @@
     "modreward": false,
     "name": "Okuwamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427834317501104209/portrait-0315.png?ex=68f04dd5&is=68eefc55&hm=67f95ca3a3773adc526d90e684f644c1ce08715964382e28e2a927e6efdf7540&",
+    "portrait_modified": "2025-10-15 01:43:48.716785",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427834286278705182
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
