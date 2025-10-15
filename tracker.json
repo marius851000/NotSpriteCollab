@@ -84143,19 +84143,23 @@
     "modreward": false,
     "name": "Effecmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427841873795616778/portrait-0685.png?ex=68f054de&is=68ef035e&hm=72072f1ce43e301e8be793a918228ee69c975af4c00cb9bf08b27fee07ec89f6&",
+    "portrait_modified": "2025-10-15 02:13:50.447111",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427841841876697220
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
