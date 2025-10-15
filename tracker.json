@@ -84663,18 +84663,18 @@
     "modreward": false,
     "name": "Jokermon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1427841061312532592": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427841085673046057/portrait-0690.png?ex=68f05422&is=68ef02a2&hm=da520e2b296bbaf12ac94201c05316719ce287bdbe372ef2c01c5e605f256bd9&",
+    "portrait_modified": "2025-10-15 02:10:42.431552",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
