@@ -84871,19 +84871,23 @@
     "modreward": false,
     "name": "Piranimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840810619244654/portrait-0692.png?ex=68f053e1&is=68ef0261&hm=08fa314c0c8e4f4b496bea794b42e4958a859571fc90ad3bf2c0e9c0e799d0a3&",
+    "portrait_modified": "2025-10-15 02:09:36.970298",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840775093354576
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
