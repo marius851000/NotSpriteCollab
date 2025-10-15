@@ -90260,19 +90260,23 @@
     "modreward": false,
     "name": "Parrotmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427838734035976222/portrait-0742.png?ex=68f051f2&is=68ef0072&hm=4474f3815e3e302f1b39653cc119b85272d566d3dade26d67b075c975325bd8a&",
+    "portrait_modified": "2025-10-15 02:01:21.872255",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427838688989155399
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
