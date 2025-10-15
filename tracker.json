@@ -85187,19 +85187,23 @@
     "modreward": false,
     "name": "Paledramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427840289036570807/portrait-0695.png?ex=68f05364&is=68ef01e4&hm=bb96d4b1db215f9a89fbe35beda7179a6588327af84328422858dd4cacdd804e&",
+    "portrait_modified": "2025-10-15 02:07:32.562826",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427840259965714447
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
