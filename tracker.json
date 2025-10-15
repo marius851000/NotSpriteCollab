@@ -45637,19 +45637,23 @@
     "modreward": false,
     "name": "Aerov_Dramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427835803769503754/portrait-0326.png?ex=68f04f37&is=68eefdb7&hm=798757432a2ae2755ae4c17f8da3a24800bc5f5266724d8d7e96338e6a6de5e6&",
+    "portrait_modified": "2025-10-15 01:49:43.154962",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427835778108489808
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
