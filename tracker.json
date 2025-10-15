@@ -46393,19 +46393,23 @@
     "modreward": false,
     "name": "Sagittarimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427836799967035464/portrait-0333.png?ex=68f05025&is=68eefea5&hm=e422d636b3e7c1edba595ac5f8c89189fd8d59386c1dc2d6db03592090dba4cd&",
+    "portrait_modified": "2025-10-15 01:53:40.684926",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427836767020519456
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
