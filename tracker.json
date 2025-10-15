@@ -89288,19 +89288,23 @@
     "modreward": false,
     "name": "Noblepumpmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427838273056932001/portrait-0733.png?ex=68f05184&is=68ef0004&hm=74e090522a12a2dfba5e6c7bc6c1da73f28246b4a3642ab999a1961d03805788&",
+    "portrait_modified": "2025-10-15 01:59:31.930906",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427838242505363608
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
