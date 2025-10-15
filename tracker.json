@@ -90980,18 +90980,18 @@
     "modreward": false,
     "name": "Morgana",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1428129517540606024": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428140159458607235/portrait-0748.png?ex=68f16aab&is=68f0192b&hm=b7a311ab400d4bef7ceb9cc4a073294b938df22f7595304048e2fb04c598ae52&",
+    "portrait_modified": "2025-10-15 21:59:07.215014",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
