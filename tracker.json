@@ -88257,19 +88257,23 @@
         "modreward": false,
         "name": "Bomber",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427839788853231616/portrait-0723-0001.png?ex=68f052ed&is=68ef016d&hm=7743b2984c4490f054b3afa3f02b095a87adf7bc05ff8b7e5a4901400a255b4a&",
+        "portrait_modified": "2025-10-15 02:05:33.344263",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1427839758691991683
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
