@@ -44125,19 +44125,23 @@
     "modreward": false,
     "name": "Atlurkabuterimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427833324436455475/portrait-0312.png?ex=68f04ce8&is=68eefb68&hm=28ec696e6d49ce4b58049c1eee3c19953df85272a1be2859e9f498e469a6838a&",
+    "portrait_modified": "2025-10-15 01:39:51.944306",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427833295135051929
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
