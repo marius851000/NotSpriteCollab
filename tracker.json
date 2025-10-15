@@ -44341,19 +44341,23 @@
     "modreward": false,
     "name": "Kuwagamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1427833787382894674/portrait-0314.png?ex=68f04d56&is=68eefbd6&hm=9308bad8afb5d9658d5f7c2903584a64c052832c0b5875e5833d919b4eb790ee&",
+    "portrait_modified": "2025-10-15 01:41:42.451055",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1427833755564900566
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
