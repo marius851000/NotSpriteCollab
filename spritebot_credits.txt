@@ -285,6 +285,15 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Imperialdramon: Normal
 		Sunarizamon: Normal
 		Flarelizamon: Normal
+		Hiyarimon: Normal
+		Yukidarumon: Normal
+		Mojyamon: Normal
+		Panjyamon: Normal
+		Effecmon: Normal
+		Mushmon: Normal
+		Woodmon: Normal
+		Jyureimon: Normal
+		Pinochimon: Normal
 		Jokermon: Normal
 		Piemon: Normal
 		Piranimon: Normal
