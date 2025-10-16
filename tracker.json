@@ -55789,19 +55789,23 @@
     "modreward": false,
     "name": "Guardromon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428205975764205588/portrait-0420.png?ex=68f1a7f7&is=68f05677&hm=dab10b0f7ae0b2d339e93bc8f92fd6721ba5ea8f11cc3ca6cc5c9cbb68f835be&",
+    "portrait_modified": "2025-10-16 02:20:39.062994",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428205935079194745
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
