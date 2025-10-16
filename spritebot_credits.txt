@@ -248,11 +248,20 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Volcamon: Normal
 		Ancientvolcamon: Normal
 		Banchogolemon: Normal
+		Skullgreymon: Normal
+		Darktyranomon: Normal
 		Mugendramon: Normal
 		Saberdramon: Normal
 		Vulturemon: Normal
 		Ornismon: Normal
 		Lopmon: Normal
+		Turuiemon: Normal
+		Andiramon: Normal
+		Cherubimon: Normal
+		Hagurumon: Normal
+		Guardromon: Normal
+		Andromon: Normal
+		Hiandromon: Normal
 		Algomon: Normal
 		Algomon Adult: Normal
 		Algomon Perfect: Normal
