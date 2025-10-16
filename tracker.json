@@ -48985,19 +48985,23 @@
     "modreward": false,
     "name": "Kamemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428194147227140096/portrait-0357.png?ex=68f19cf3&is=68f04b73&hm=df2a7fd6a1994c36481b8396bfae30cd841e96ef92ecb3ead88c9d8f48b2e3bd&",
+    "portrait_modified": "2025-10-16 01:33:38.964217",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428194120580595722
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
