@@ -65747,19 +65747,23 @@
     "modreward": false,
     "name": "Goburimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428207196293828688/portrait-0511.png?ex=68f1a91a&is=68f0579a&hm=a7650d82974ff4339def9710a8c6427e1dcb03cffafbae01f3e5b48cf93a71b5&",
+    "portrait_modified": "2025-10-16 02:25:30.111154",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428207170297532497
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
