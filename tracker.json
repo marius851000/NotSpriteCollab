@@ -52009,19 +52009,23 @@
     "modreward": false,
     "name": "Zhuqiaomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428196033200128161/portrait-0385.png?ex=68f19eb4&is=68f04d34&hm=a47cd7283405f1fc59077eef3c049349888138f9ce649cbf4c0167a775f9f197&",
+    "portrait_modified": "2025-10-16 01:41:08.560355",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428196001541525546
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
