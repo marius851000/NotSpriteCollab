@@ -175,6 +175,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Sagittarimon: Normal
 		Gargomon: Normal
 		Magnamon: Normal
+		Armadimon: Normal
+		Ankylomon: Normal
+		Shakkoumon: Normal
+		Goddramon: Normal
 		Stegomon: Normal
 		Spinomon: Normal
 		Terriermon: Normal
@@ -192,6 +196,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Gaogamon: Normal
 		Machgaogamon: Normal
 		Miragegaogamon: Normal
+		Kamemon: Normal
+		Gawappamon: Normal
+		Shawujinmon: Normal
+		Jumbogamemon: Normal
 		Betamon: Normal
 		Seadramon: Normal
 		Megaseadramon: Normal
