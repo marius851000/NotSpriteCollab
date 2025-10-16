@@ -53089,19 +53089,23 @@
     "modreward": false,
     "name": "Musyamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428198508254466130/portrait-0395.png?ex=68f1a103&is=68f04f83&hm=77979b4b1b5fd64deb2058c24d8000095297303b065849ab16ea0d9a7a3679d3&",
+    "portrait_modified": "2025-10-16 01:50:58.727439",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428198480202956802
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
