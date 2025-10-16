@@ -52657,18 +52657,18 @@
     "modreward": false,
     "name": "Kotemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1428197171768856796": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428197211308687443/portrait-0391.png?ex=68f19fcd&is=68f04e4d&hm=cad053e3d07594ec0fc335d50627de72d7c582648464ba0c70516d023f1d1bca&",
+    "portrait_modified": "2025-10-16 01:45:49.236545",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
