@@ -41143,7 +41143,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426393054746513499/portrait-0284-0001.png?ex=68eb0f8d&is=68e9be0d&hm=1b597069618c24c9c8f07a5c7e07e640ef657b7a8ce2c23e5d0267430f26a84e&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428204441013850288/portrait-0284-0001.png?ex=68f1a689&is=68f05509&hm=31be68b8722bd07a2b3ddb567f212c95258ce4f89e495495d27c4bc9e6cae83a&",
         "portrait_modified": "2025-10-11 02:16:45.019311",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -55258,7 +55258,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426396569095372861/portrait-0415.png?ex=68eb12d3&is=68e9c153&hm=35a8241f0c23efed1eb2b0aff13cc484604c6932cac67f3efa3250ec6b4a32f1&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428204487935262890/portrait-0415.png?ex=68f1a694&is=68f05514&hm=28b2e47149d754aeabd87d1ef9a96fd28e20095f3563ee7b19761342da9b5752&",
     "portrait_modified": "2025-10-11 02:30:42.945667",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -55357,19 +55357,23 @@
     "modreward": false,
     "name": "Turuiemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428204640587223040/portrait-0416.png?ex=68f1a6b9&is=68f05539&hm=7ad762eca043c0218d5769d4217153f10ec0bc2f149b55c07d6de8568593605a&",
+    "portrait_modified": "2025-10-16 02:15:20.774556",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428204612024008817
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
