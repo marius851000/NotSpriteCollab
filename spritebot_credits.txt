@@ -243,6 +243,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Apollomon: Normal
 		Gottsumon: Normal
 		Golemon: Normal
+		Gogmamon: Normal
+		Blastmon: Normal
+		Volcamon: Normal
+		Ancientvolcamon: Normal
+		Banchogolemon: Normal
 		Mugendramon: Normal
 		Saberdramon: Normal
 		Vulturemon: Normal
