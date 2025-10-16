@@ -221,10 +221,24 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Crescemon: Normal
 		Dianamon: Normal
 		Bancholilimon: Normal
+		Hawkmon: Normal
+		Aquilamon: Normal
+		Velgrmon: Normal
+		Zhuqiaomon: Normal
 		Elecmon: Normal
+		Leomon: Normal
+		Grappuleomon: Normal
+		Saberleomon: Normal
+		Bancholeomon: Normal
+		Kotemon: Normal
+		Dinohumon: Normal
+		Majiramon: Normal
+		Qinglongmon: Normal
+		Musyamon: Normal
 		Asuramon: Normal
 		Zanbamon: Normal
 		Coronamon: Normal
+		Firamon: Normal
 		Mugendramon: Normal
 		Saberdramon: Normal
 		Vulturemon: Normal
