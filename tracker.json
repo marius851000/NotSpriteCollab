@@ -53629,19 +53629,23 @@
     "modreward": false,
     "name": "Flaremon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428198908550447145/portrait-0400.png?ex=68f1a162&is=68f04fe2&hm=383923c31f535b6b60d0212b1f6e11c94242b52f6460903ec221418f44b99b0c&",
+    "portrait_modified": "2025-10-16 01:52:34.145206",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428198878871552020
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
