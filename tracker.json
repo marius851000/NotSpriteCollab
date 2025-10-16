@@ -51685,19 +51685,23 @@
     "modreward": false,
     "name": "Hawkmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428195605049638963/portrait-0382.png?ex=68f19e4e&is=68f04cce&hm=bb806f1dd41f658f31e123c15c321a7530aaf3d43f4bad9b2e740e863870e081&",
+    "portrait_modified": "2025-10-16 01:39:26.522070",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428195577870422128
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
