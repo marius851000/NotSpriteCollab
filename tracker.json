@@ -54165,19 +54165,23 @@
     "modreward": false,
     "name": "Blastmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428201622592552991/portrait-0405.png?ex=68f1a3e9&is=68f05269&hm=bf833819dc86e1f4daf476954275b174e292f7319d56ec1c25dffde035cf07f2&",
+    "portrait_modified": "2025-10-16 02:03:21.251398",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428201596252192829
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
