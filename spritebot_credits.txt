@@ -239,6 +239,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Zanbamon: Normal
 		Coronamon: Normal
 		Firamon: Normal
+		Flaremon: Normal
+		Apollomon: Normal
+		Gottsumon: Normal
+		Golemon: Normal
 		Mugendramon: Normal
 		Saberdramon: Normal
 		Vulturemon: Normal
