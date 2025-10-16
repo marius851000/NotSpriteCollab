@@ -52333,19 +52333,23 @@
     "modreward": false,
     "name": "Grappuleomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428196338612310078/portrait-0388.png?ex=68f19efd&is=68f04d7d&hm=e6ba53e5afeab856a2a5e2c18d1916880da9c3085e2243453e3aa184180ebdd8&",
+    "portrait_modified": "2025-10-16 01:42:21.398946",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428196311072505936
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
