@@ -51901,19 +51901,23 @@
     "modreward": false,
     "name": "Velgrmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428195871371169863/portrait-0384.png?ex=68f19e8e&is=68f04d0e&hm=0f149b0f513afdcb6791c936799249470c67ab421beae70689e9d06b82b3ed16&",
+    "portrait_modified": "2025-10-16 01:40:30.030414",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428195845341446296
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
