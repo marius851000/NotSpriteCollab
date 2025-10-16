@@ -49201,19 +49201,23 @@
     "modreward": false,
     "name": "Shawujinmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428195099514503401/portrait-0359.png?ex=68f19dd6&is=68f04c56&hm=50e0603c6ca1772cbdea624f0a98089ddf7c8b9e39e8a5cd3051e1a99a7a1f2d&",
+    "portrait_modified": "2025-10-16 01:37:25.953927",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428195065406296215
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
