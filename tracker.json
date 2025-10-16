@@ -46717,19 +46717,23 @@
     "modreward": false,
     "name": "Armadimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428193183162171534/portrait-0336.png?ex=68f19c0d&is=68f04a8d&hm=825c90cf71735d658841ec45c2a8033d3078d1ee89a5ea52edde22ba5dc30a90&",
+    "portrait_modified": "2025-10-16 01:29:49.110232",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428193158331629669
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
