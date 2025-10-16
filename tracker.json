@@ -54707,19 +54707,23 @@
     "modreward": false,
     "name": "Darktyranomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428203854079725619/portrait-0410.png?ex=68f1a5fd&is=68f0547d&hm=604ebafdf6617a796aa778db147feafc196215084c7fbd3a15b727ee74a392ed&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428204012112580670/portrait-0410.png?ex=68f1a623&is=68f054a3&hm=2df58403d5433456782ef44a99304941e055a18284b79e328709f0453dd5beb9&",
+    "portrait_modified": "2025-10-16 02:12:50.846898",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428203957725171824
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
