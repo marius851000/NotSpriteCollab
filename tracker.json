@@ -54383,15 +54383,17 @@
     "modreward": false,
     "name": "Ancientvolcamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428202877587034232/portrait-0407.png?ex=68f1a514&is=68f05394&hm=a177598d9041bf90e246002099bb9fbe9e91cc512249e7d84db22722324cb51b&",
+    "portrait_modified": "2025-10-16 02:08:20.411641",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
