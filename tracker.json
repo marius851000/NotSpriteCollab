@@ -54277,15 +54277,17 @@
     "modreward": false,
     "name": "Volcamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428203406589300847/portrait-0406.png?ex=68f1a592&is=68f05412&hm=b1a8512a365a331cf7ece2d368d949f2b0c1dc32e87d8e55a27e5b32f2963b70&",
+    "portrait_modified": "2025-10-16 02:10:26.543600",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
