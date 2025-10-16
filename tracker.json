@@ -53953,19 +53953,23 @@
     "modreward": false,
     "name": "Golemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428201347861188670/portrait-0403.png?ex=68f1a3a8&is=68f05228&hm=687ded078b53bd220b8f14332f79a580ddb4898257fccf0722732f14e1b4f419&",
+    "portrait_modified": "2025-10-16 02:02:15.675526",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428201320506069033
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
