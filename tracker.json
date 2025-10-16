@@ -52225,19 +52225,23 @@
     "modreward": false,
     "name": "Leomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428196209750704189/portrait-0387.png?ex=68f19edf&is=68f04d5f&hm=738e78de1d0c36b3b8108e4ba6f6abb9dbf1de2fef1b175dd79ed762fbd1ae19&",
+    "portrait_modified": "2025-10-16 01:41:50.674386",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428196169703624778
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
