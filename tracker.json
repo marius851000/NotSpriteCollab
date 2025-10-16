@@ -52873,19 +52873,23 @@
     "modreward": false,
     "name": "Majiramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428197511289638962/portrait-0393.png?ex=68f1a015&is=68f04e95&hm=465b90dead687724f51ec916ea1b2927e593fe53ff3228caee44e01d26d87269&",
+    "portrait_modified": "2025-10-16 01:47:01.041396",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428197457572921445
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
