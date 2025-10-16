@@ -54289,7 +54289,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428202245786435657
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -54393,7 +54395,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428202355853099091
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -54485,19 +54489,23 @@
     "modreward": false,
     "name": "Banchogolemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428202628613148764/portrait-0408.png?ex=68f1a4d9&is=68f05359&hm=1764cdc9c0dacaf2f120fee24cbc377be4250f49e910ea0527a6295c7af9f1aa&",
+    "portrait_modified": "2025-10-16 02:07:20.923934",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428202596493168775
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
