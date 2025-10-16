@@ -52441,19 +52441,23 @@
     "modreward": false,
     "name": "Saberleomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428196564920303626/portrait-0389.png?ex=68f19f33&is=68f04db3&hm=f46f6d68aa6427fa23415af2d922a5151330a1b5f49539cdb4885eef8557ae17&",
+    "portrait_modified": "2025-10-16 01:43:15.377611",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428196514609627166
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
