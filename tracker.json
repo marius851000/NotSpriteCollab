@@ -65853,19 +65853,23 @@
         "modreward": false,
         "name": "Snow",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428208130541490297/portrait-0511-0001.png?ex=68f1a9f9&is=68f05879&hm=11c683106776b89476f8882d4986fb00e30c84d8d5f063993d6a5b1d75df2bf5&",
+        "portrait_modified": "2025-10-16 02:29:12.841540",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1428208102875856946
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
