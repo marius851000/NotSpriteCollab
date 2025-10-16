@@ -47997,19 +47997,23 @@
     "modreward": false,
     "name": "Baalmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428190436127801458/portrait-0348.png?ex=68f1997e&is=68f047fe&hm=9674e6a2ef016293fd2a03c1e39a7f173e2c64a638551d8af0be7e1a16317da5&",
+    "portrait_modified": "2025-10-16 01:18:54.147954",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428190404603412601
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
