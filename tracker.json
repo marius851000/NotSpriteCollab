@@ -53737,19 +53737,23 @@
     "modreward": false,
     "name": "Apollomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428200011086430270/portrait-0401.png?ex=68f1a269&is=68f050e9&hm=2f1f4140b5dc4f10661893821354e7a26adeeace02e376514ad401ee27bd0392&",
+    "portrait_modified": "2025-10-16 01:56:56.944268",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428199981176852491
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
