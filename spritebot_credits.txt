@@ -183,6 +183,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Saintgalgomon: Normal
 		Impmon: Normal
 		Wizarmon: Normal
+		Baalmon: Normal
+		Beelzebumon: Normal
 		Witchmon: Normal
 		Ladydevimon: Normal
 		Lilithmon: Normal
@@ -196,6 +198,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Metalseadramon: Normal
 		Airdramon: Normal
 		Megadramon: Normal
+		Darkdramon: Normal
 		Floramon: Normal
 		Petaldramon: Normal
 		Toropiamon: Normal
