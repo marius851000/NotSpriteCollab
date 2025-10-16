@@ -47889,19 +47889,23 @@
     "modreward": false,
     "name": "Wizarmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428190293232193556/portrait-0347.png?ex=68f1995c&is=68f047dc&hm=aa107329783d0c8b10c4d9f531d5d2b8b3ebb1884cc20de99df8b477c30ec178&",
+    "portrait_modified": "2025-10-16 01:18:20.076667",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428190261183254659
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
