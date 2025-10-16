@@ -47565,19 +47565,23 @@
     "modreward": false,
     "name": "Rapidmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428189879040475239/portrait-0344.png?ex=68f198f9&is=68f04779&hm=36c7806bcc9993821533bedabf99ab70bb82fdc9e8d16f0da4164795b9fc5643&",
+    "portrait_modified": "2025-10-16 01:16:41.280069",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428189850586054676
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
