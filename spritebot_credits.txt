@@ -279,6 +279,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Manticoremon: Normal
 		Dorumon: Normal
 		Dorugamon: Normal
+		Goburimon: Normal
+		Goburimon Snow: Normal
 		Bakemon: Normal
 		Fantomon: Normal
 		Gokumon: Normal
@@ -385,6 +387,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Sistermon_Noir: Normal
 		Piccolomon: Normal
 		Jijimon: Normal
+		Maildramon: Normal
+		Hippogriffomon: Normal
+		Griffomon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
