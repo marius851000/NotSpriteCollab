@@ -55573,19 +55573,23 @@
     "modreward": false,
     "name": "Cherubimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428205510728880208/portrait-0418.png?ex=68f1a788&is=68f05608&hm=f60ef996b204bc94543ea3e5963656bf597f188aa90e7f444b5ea7253fb91555&",
+    "portrait_modified": "2025-10-16 02:18:48.147493",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428205485600931871
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
