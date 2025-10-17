@@ -93132,19 +93132,23 @@
     "modreward": false,
     "name": "Wolfmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428550900947095623/portrait-0766.png?ex=68f2e933&is=68f197b3&hm=0049515192a44a6849d86a932c7f7b6bf89a0a9fc7753742b53e859bf4a309ef&",
+    "portrait_modified": "2025-10-17 01:11:15.589196",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428550872144547883
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
