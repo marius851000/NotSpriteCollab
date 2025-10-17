@@ -73086,19 +73086,23 @@
     "modreward": false,
     "name": "Raguelmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428556384466636900/portrait-0578.png?ex=68f2ee4f&is=68f19ccf&hm=924075167cb817e30611aa92f6c64c4e80545516ef75ce5074b347b6a1d13790&",
+    "portrait_modified": "2025-10-17 01:33:02.998301",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428556354435420183
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
