@@ -72504,19 +72504,23 @@
     "modreward": false,
     "name": "Cupimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428554797337936013/portrait-0574.png?ex=68f2ecd4&is=68f19b54&hm=5ba058fbe2a1136219abb883b9730485e2247e7ff2ca4d6548d4b975e5e0bc17&",
+    "portrait_modified": "2025-10-17 01:26:44.666904",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428554770922082344
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
