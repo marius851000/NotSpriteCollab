@@ -70840,19 +70840,23 @@
     "modreward": false,
     "name": "Hyokomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428555921503682622/portrait-0558.png?ex=68f2ede0&is=68f19c60&hm=531a8dff6845097714b33a6629f575d8803c89504fd7570d1797040f79bc4bc5&",
+    "portrait_modified": "2025-10-17 01:31:12.629335",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428555895557591082
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -72878,7 +72882,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428555743761793046
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
