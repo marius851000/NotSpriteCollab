@@ -57736,19 +57736,23 @@
     "modreward": false,
     "name": "Pajiramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428564736894701568/portrait-0436.png?ex=68f2f616&is=68f1a496&hm=2f3f13b720b63373bbd3917507390af37193f3ec97f0e522dafef90e8aad8c58&",
+    "portrait_modified": "2025-10-17 02:06:14.424453",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428564712655687801
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
