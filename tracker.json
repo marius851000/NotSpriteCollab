@@ -69200,19 +69200,23 @@
     "modreward": false,
     "name": "Ofanimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428545084252487711/portrait-0543.png?ex=68f2e3c9&is=68f19249&hm=11b61587247b536a1da3db3d248538d83523bca1b6155402d2ceb0b6d846c938&",
+    "portrait_modified": "2025-10-17 00:48:08.777988",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428545054397694053
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
