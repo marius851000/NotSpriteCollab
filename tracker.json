@@ -60974,19 +60974,23 @@
     "modreward": false,
     "name": "Daipenmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428558505228501173/portrait-0466.png?ex=68f2f048&is=68f19ec8&hm=18778491967d2653c7f1c59598b0a41341b2535c6c772159d4b549b6cab0846f&",
+    "portrait_modified": "2025-10-17 01:41:28.685300",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428558473565700207
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
