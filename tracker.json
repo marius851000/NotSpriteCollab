@@ -65928,19 +65928,23 @@
     "modreward": false,
     "name": "Orgemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428553934225674391/portrait-0512.png?ex=68f2ec07&is=68f19a87&hm=3575bd10806ba79548135540a9308a76902463afdf8ec3473f00ea088e131058&",
+    "portrait_modified": "2025-10-17 01:23:18.810923",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428553905373188246
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
