@@ -404,6 +404,12 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Mummymon: Normal
 		Pharaohmon: Normal
 		Flamon: Normal
+		Agnimon: Normal
+		Apocalymon: Normal
+		Pucchiemon: Normal
+		Strabimon: Normal
+		Wolfmon: Normal
+		Seahomon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
