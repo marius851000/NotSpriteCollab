@@ -56656,19 +56656,23 @@
     "modreward": false,
     "name": "Mammon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428561613165826099/portrait-0426.png?ex=68f2f32d&is=68f1a1ad&hm=36d5fa3ffea530f2ba0edd249d2683fd07813cf8dc56d7e553e9bbe775b1c37a&",
+    "portrait_modified": "2025-10-17 01:53:49.628507",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428561583444852738
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
