@@ -61082,19 +61082,23 @@
     "modreward": false,
     "name": "Frosvelgrmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428558682962137278/portrait-0467.png?ex=68f2f073&is=68f19ef3&hm=57b67cf83500cf673fb460e8d8b6a9757fc35a4b78c8d4c6a02683ee31c2aafe&",
+    "portrait_modified": "2025-10-17 01:42:11.011148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428558655984500777
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
