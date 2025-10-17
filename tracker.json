@@ -60758,19 +60758,23 @@
     "modreward": false,
     "name": "Penmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428558110150103120/portrait-0464.png?ex=68f2efea&is=68f19e6a&hm=78cdf46fb18a6380a9065d79112dd4de29ed9a43b1185af28d41baaea722aade&",
+    "portrait_modified": "2025-10-17 01:39:54.466664",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428558081817706567
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
