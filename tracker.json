@@ -73194,19 +73194,23 @@
     "modreward": false,
     "name": "Otamamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428556536594174056/portrait-0579.png?ex=68f2ee73&is=68f19cf3&hm=3c7f3073b6988c665ac4073648a6e7c23eeb576de3dcdb042f02c38aa300262b&",
+    "portrait_modified": "2025-10-17 01:33:39.341822",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428556504168136746
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
