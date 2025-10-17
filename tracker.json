@@ -72870,15 +72870,17 @@
     "modreward": false,
     "name": "Meicoomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428556075958796359/portrait-0576.png?ex=68f2ee05&is=68f19c85&hm=f3ed116f982320702df0c142c8acc005763aa432b3d5e7f5d68edffaef260bf6&",
+    "portrait_modified": "2025-10-17 01:31:49.461779",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
