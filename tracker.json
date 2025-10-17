@@ -56548,19 +56548,23 @@
     "modreward": false,
     "name": "Baluchimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428560671288725605/portrait-0425.png?ex=68f2f24d&is=68f1a0cd&hm=c50187e44b43082aae6fbc39525cf2a80982b4e54edfc12ed6a93d1286026014&",
+    "portrait_modified": "2025-10-17 01:50:04.963410",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428560651374297111
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
