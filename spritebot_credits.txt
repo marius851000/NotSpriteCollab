@@ -313,6 +313,17 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Kunemon: Normal
 		Flymon: Normal
 		Mothmon: Normal
+		Hyokomon: Normal
+		Cupimon: Normal
+		Lucemon: Normal
+		Lucemon Falldown: Normal
+		Lucemon Satan: Normal
+		Meicoomon: Normal
+		Meicrackmon: Normal
+		Raguelmon: Normal
+		Otamamon: Normal
+		Gekomon: Normal
+		Tonosamagekomon: Normal
 		Kudamon: Normal
 		Reppamon: Normal
 		Kyukimon: Normal
