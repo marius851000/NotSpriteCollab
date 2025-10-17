@@ -72791,19 +72791,23 @@
         "modreward": false,
         "name": "Satan",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428555609875419136/portrait-0575-0002.png?ex=68f2ed96&is=68f19c16&hm=53cf85e80c47e5258c17460ff8685b72bf090181c28e57d79c0e4ae769fc6c3b&",
+        "portrait_modified": "2025-10-17 01:29:58.278003",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1428555582788604054
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
