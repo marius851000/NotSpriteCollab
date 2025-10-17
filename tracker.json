@@ -57628,19 +57628,23 @@
     "modreward": false,
     "name": "Sheepmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428564086848753694/portrait-0435.png?ex=68f2f57b&is=68f1a3fb&hm=8694f5d2c7b7250c56c2eb441ac7d5579a8b35b431173c47641ccb017ce5dfed&",
+    "portrait_modified": "2025-10-17 02:03:39.210285",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428564060420440073
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
