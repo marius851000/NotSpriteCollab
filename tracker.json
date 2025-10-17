@@ -66252,19 +66252,23 @@
     "modreward": false,
     "name": "Ghostmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428554285766938644/portrait-0515.png?ex=68f2ec5a&is=68f19ada&hm=455490ba4454d36e8e98740f43b73d32c8df3b919c3e966133db43fe8ac2fc9e&",
+    "portrait_modified": "2025-10-17 01:24:42.696635",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428554261754679357
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
