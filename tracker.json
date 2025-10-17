@@ -94068,19 +94068,23 @@
     "modreward": false,
     "name": "Symbareangoramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428560316152938506/portrait-0774.png?ex=68f2f1f8&is=68f1a078&hm=105bd9f3fd73cdb98c248ea74e2043da6227686950ae859f4338e4b7911e28ea&",
+    "portrait_modified": "2025-10-17 01:48:40.415205",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428560288222806137
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
