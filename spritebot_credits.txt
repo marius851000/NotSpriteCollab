@@ -266,6 +266,15 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Algomon Adult: Normal
 		Algomon Perfect: Normal
 		Algomon Ultimate: Normal
+		Bakumon: Normal
+		Baluchimon: Normal
+		Mammon: Normal
+		Skullmammon: Normal
+		Bullmon: Normal
+		Vajramon: Normal
+		Bearmon: Normal
+		Gryzmon: Normal
+		Warumonzaemon: Normal
 		Gulfmon: Normal
 		Vikaralamon: Normal
 		Unimon: Normal
@@ -434,6 +443,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Banchomamemon: Normal
 		Thunderballmon: Normal
 		Angoramon: Normal
+		Symbareangoramon: Normal
 		Lamortmon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
