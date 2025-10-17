@@ -56440,19 +56440,23 @@
     "modreward": false,
     "name": "Bakumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428560560680599592/portrait-0424.png?ex=68f2f233&is=68f1a0b3&hm=742877ab2878e296a3f4a346fe768f672932cad2e0365f1f99df6e17e3127ee5&",
+    "portrait_modified": "2025-10-17 01:49:38.748902",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428560534248230944
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
