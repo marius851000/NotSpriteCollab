@@ -66036,19 +66036,23 @@
     "modreward": false,
     "name": "Rebellimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428554040098164747/portrait-0513.png?ex=68f2ec20&is=68f19aa0&hm=a59eb48cd7023365baa4cb18040ff45e9a3cf570dda73271523250314951109b&",
+    "portrait_modified": "2025-10-17 01:23:44.106052",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428554013594619905
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
