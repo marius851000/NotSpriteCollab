@@ -72718,19 +72718,23 @@
         "modreward": false,
         "name": "Falldown",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428555032806035567/portrait-0575-0001.png?ex=68f2ed0d&is=68f19b8d&hm=4b5130665c705810fcb0b5336c6d665f002c7670d712b6e9c0984a0765c184d8&",
+        "portrait_modified": "2025-10-17 01:27:40.800292",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1428555002963562557
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
