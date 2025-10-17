@@ -275,6 +275,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Bearmon: Normal
 		Gryzmon: Normal
 		Warumonzaemon: Normal
+		Callismon: Normal
+		Pillomon: Normal
+		Sheepmon: Normal
+		Pajiramon: Normal
 		Gulfmon: Normal
 		Vikaralamon: Normal
 		Unimon: Normal
