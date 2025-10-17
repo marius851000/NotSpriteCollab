@@ -56864,19 +56864,23 @@
     "modreward": false,
     "name": "Bullmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428561062734594148/portrait-0428.png?ex=68f2f2aa&is=68f1a12a&hm=6e0864c773c5ef1a9561c9456a9df13a178a763f4899aa956a5d6381bf3a45bc&",
+    "portrait_modified": "2025-10-17 01:51:38.397427",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428561030140788837
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
