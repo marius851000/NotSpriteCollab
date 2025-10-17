@@ -68988,19 +68988,23 @@
     "modreward": false,
     "name": "Tailmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428545653029605497/portrait-0541.png?ex=68f2e450&is=68f192d0&hm=801453c02a45d7f26e35320060e98d6d90c6f7a964e500c0e68a301126490758&",
+    "portrait_modified": "2025-10-17 00:50:24.475296",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428545623312961567
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
