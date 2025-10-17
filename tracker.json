@@ -73410,19 +73410,23 @@
     "modreward": false,
     "name": "Tonosamagekomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428556807277908071/portrait-0581.png?ex=68f2eeb4&is=68f19d34&hm=b084556184ebd10df5090ddd8585b026ef3660389f4c9b2fe2e85667665c9d80&",
+    "portrait_modified": "2025-10-17 01:34:43.816535",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428556782716063804
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
