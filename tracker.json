@@ -69092,19 +69092,23 @@
     "modreward": false,
     "name": "Angewomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428544949217132585/portrait-0542.png?ex=68f2e3a8&is=68f19228&hm=d8a2345eb52a126e2c49402ff9a28a2609022da78175305060f38044ca2958d8&",
+    "portrait_modified": "2025-10-17 00:47:36.417452",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428544921110839396
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
