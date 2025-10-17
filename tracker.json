@@ -57088,19 +57088,23 @@
     "modreward": false,
     "name": "Bearmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428562131522945074/portrait-0430.png?ex=68f2f3a9&is=68f1a229&hm=2da456091e5ffb5083dd7f6129346b0d5d7c2375c2971235363a9b11cb2ca6d1&",
+    "portrait_modified": "2025-10-17 01:55:53.245953",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428562107103973408
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
