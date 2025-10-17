@@ -92376,19 +92376,23 @@
     "modreward": false,
     "name": "Mummymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428548415339495514/portrait-0759.png?ex=68f2e6e3&is=68f19563&hm=8c21184a6613b32738bbabbd9c1c441199a63171c1358d8f7c687f73d6d3eb12&",
+    "portrait_modified": "2025-10-17 01:01:23.073513",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428548377112739874
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
