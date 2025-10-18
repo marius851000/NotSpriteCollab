@@ -83967,19 +83967,23 @@
     "modreward": false,
     "name": "Jyagamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428922196071547042/portrait-0679.png?ex=68f442ff&is=68f2f17f&hm=25253cb3667f40bcfadb70975b72a02c24a5357e5f830ac6d887092997de8c40&",
+    "portrait_modified": "2025-10-18 01:46:39.282146",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428922170951860244
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
