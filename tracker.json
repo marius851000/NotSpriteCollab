@@ -83859,19 +83859,23 @@
     "modreward": false,
     "name": "Tortamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428922077733322773/portrait-0678.png?ex=68f442e3&is=68f2f163&hm=c22c9fcc88600a0b9a3fb7904af3036cf33b35d88fafd19b8a4d735b7eca3003&",
+    "portrait_modified": "2025-10-18 01:46:10.983337",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428922044396867654
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
