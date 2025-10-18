@@ -60626,19 +60626,23 @@
     "modreward": false,
     "name": "Cerberumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428946123372101652/portrait-0462.png?ex=68f45948&is=68f307c8&hm=aad9fbae7fca56a5576e520f947b223c260699f48174ebcea484a8c29763481e&",
+    "portrait_modified": "2025-10-18 03:21:43.915545",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428946098420187268
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
