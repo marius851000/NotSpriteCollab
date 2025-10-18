@@ -280,6 +280,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Sheepmon: Normal
 		Pajiramon: Normal
 		Gulfmon: Normal
+		Tyutyumon: Normal
+		Opossummon: Normal
+		Kumbhiramon: Normal
+		Muchomon: Normal
+		Cockatrimon: Normal
 		Vikaralamon: Normal
 		Unimon: Normal
 		Unimon Shima: Normal
@@ -313,6 +318,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Skullbaluchimon: Normal
 		Ancientsphinxmon: Normal
 		Ganimon: Normal
+		Ebidramon: Normal
+		Gusokumon: Normal
 		Gammamon: Normal
 		Betelgammamon: Normal
 		Canoweissmon: Normal
