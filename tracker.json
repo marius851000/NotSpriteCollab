@@ -68152,19 +68152,23 @@
     "modreward": false,
     "name": "Dukemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428924874952409149/portrait-0532.png?ex=68f4457e&is=68f2f3fe&hm=d35a6761219df04cd151023d83d684d49f2433906056638e6ba147de93d57770&",
+    "portrait_modified": "2025-10-18 01:57:18.042091",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428924839837827123
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
