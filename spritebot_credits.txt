@@ -385,6 +385,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Paledramon: Normal
 		Cryspaledramon: Normal
 		Hexeblaumon: Normal
+		Hackmon: Normal
+		Jesmon: Normal
+		Dokunemon: Normal
+		Scorpiomon: Normal
+		Ancientbeatmon: Normal
 		Gaossmon: Normal
 		Deltamon: Normal
 		Monochromon: Normal
@@ -409,6 +414,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Chimairamon: Normal
 		Millenniumon: Normal
 		Drimogemon: Normal
+		Digmon: Normal
+		Submarimon: Normal
+		Plesiomon: Normal
 		Barbamon: Normal
 		Pumpmon: Normal
 		Noblepumpmon: Normal
