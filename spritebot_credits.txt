@@ -345,6 +345,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Kyukimon: Normal
 		Holydramon: Normal
 		Copymon: Normal
+		Evilmon: Normal
+		Vamdemon: Normal
+		Venomvamdemon: Normal
 		Phascomon: Normal
 		Goatmon: Normal
 		Mephismon: Normal
@@ -389,6 +392,16 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Ancientwisemon: Normal
 		Tyumon: Normal
 		Scumon: Normal
+		Etemon: Normal
+		Metaletemon: Normal
+		Gerbemon: Normal
+		Monitamon: Normal
+		Mercuremon: Normal
+		Sephirothmon: Normal
+		Burgamon: Normal
+		Tortamon: Normal
+		Jyagamon: Normal
+		Xuanwumon: Normal
 		Hiyarimon: Normal
 		Yukidarumon: Normal
 		Mojyamon: Normal
