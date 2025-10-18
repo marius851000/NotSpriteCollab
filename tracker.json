@@ -74238,19 +74238,23 @@
     "modreward": false,
     "name": "Parasimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428946783215685703/portrait-0586.png?ex=68f459e5&is=68f30865&hm=6803f9e71b188fd47ffbe2f9cb249fd84554f872cbc760de39fee6e9f56160b3&",
+    "portrait_modified": "2025-10-18 03:24:21.257515",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428946754170130554
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
