@@ -77415,19 +77415,23 @@
     "modreward": false,
     "name": "Evilmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428923318035025981/portrait-0618.png?ex=68f4440b&is=68f2f28b&hm=a7e49426d29ca53ab8fa5ce50bb3ef9b8b7f25c0190cd245da309229d5bfac4b&",
+    "portrait_modified": "2025-10-18 01:51:06.669647",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428923289174016002
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
