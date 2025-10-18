@@ -81699,19 +81699,23 @@
     "modreward": false,
     "name": "Cutemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428918737997795540/portrait-0658.png?ex=68f43fc7&is=68f2ee47&hm=7d90448f6757e7f185b1cb2a76d982647c651f676dd1f80f9969cd2ed11efcaa&",
+    "portrait_modified": "2025-10-18 01:32:54.870679",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428918712861458475
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
