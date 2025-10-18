@@ -82455,19 +82455,23 @@
     "modreward": false,
     "name": "Tinkermon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428919443505020998/portrait-0665.png?ex=68f4406f&is=68f2eeef&hm=57d0dbada983ea0a12876f9d97bdd7cade053c483065666ca4eb0376826a8aba&",
+    "portrait_modified": "2025-10-18 01:35:43.048670",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428919416216617101
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
