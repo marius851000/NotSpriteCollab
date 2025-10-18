@@ -82887,19 +82887,23 @@
     "modreward": false,
     "name": "Tyumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428920494551339059/portrait-0669.png?ex=68f44169&is=68f2efe9&hm=1bf6d27a59f44bc20a49b4a05e15f6bd6faff3f0b2fb04c27c343dcf3ec4f3e0&",
+    "portrait_modified": "2025-10-18 01:39:53.580878",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428920466738774120
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
