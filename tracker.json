@@ -58384,19 +58384,23 @@
     "modreward": false,
     "name": "Cockatrimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428939887591292989/portrait-0442.png?ex=68f45379&is=68f301f9&hm=bfb2720a8cb18be5bfb9c404c640930b7a8507ecf4f05f52c1cedc9b19e4d3d1&",
+    "portrait_modified": "2025-10-18 02:56:57.311687",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428939859170557982
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
