@@ -86107,19 +86107,23 @@
     "modreward": false,
     "name": "Jesmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428914889753100299/portrait-0700.png?ex=68f43c31&is=68f2eab1&hm=f04becfb0f6a48f054708869bae1588f86130330780af53e5131617c6921091e&",
+    "portrait_modified": "2025-10-18 01:17:37.303910",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428914861945131050
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
