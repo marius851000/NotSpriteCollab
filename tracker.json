@@ -64607,19 +64607,23 @@
     "modreward": false,
     "name": "Cannonbeemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428936258478014635/portrait-0499.png?ex=68f45018&is=68f2fe98&hm=6169216ca521797793186895c143d3f16a7738903378b59743ebf5ed78e0e585&",
+    "portrait_modified": "2025-10-18 02:42:32.039900",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428936231248461925
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
