@@ -61350,19 +61350,23 @@
     "modreward": false,
     "name": "Meramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428928163295137844/portrait-0469.png?ex=68f4488e&is=68f2f70e&hm=56770e674b8d02733bff775b73fb0531e9249892d5b759d92802c6f98f8f0037&",
+    "portrait_modified": "2025-10-18 02:10:22.019571",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428928130654929057
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
