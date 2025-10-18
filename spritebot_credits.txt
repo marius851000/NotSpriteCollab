@@ -112,6 +112,7 @@ JFain	Discord:<@!702275233125630042>
 		Gastly_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Kuriboh: Normal
 		Winged_Kuriboh: Normal
+		Elemental_Hero_Flame_Wingman: Normal
 	Sprite:
 		Cameramite: OLD
 		Journalass: OLD
