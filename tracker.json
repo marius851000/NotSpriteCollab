@@ -81483,19 +81483,23 @@
     "modreward": false,
     "name": "Platinumnumemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917980955152405/portrait-0656.png?ex=68f43f12&is=68f2ed92&hm=7dc8763925456cd728a37606f64ef577a69f1103acec0da313af885842fb285a&",
+    "portrait_modified": "2025-10-18 01:29:54.347134",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917955927736430
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
