@@ -82995,19 +82995,23 @@
     "modreward": false,
     "name": "Scumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428920898710147093/portrait-0670.png?ex=68f441ca&is=68f2f04a&hm=ea86e72260915bc0b4c7be4f17f132797ade34f61ee7b21df6cd714cab15f97e&",
+    "portrait_modified": "2025-10-18 01:41:29.980445",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428920839415529477
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
