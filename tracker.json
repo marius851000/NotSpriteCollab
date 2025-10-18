@@ -78927,19 +78927,23 @@
     "modreward": false,
     "name": "Kiwimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428941213393752084/portrait-0630.png?ex=68f454b5&is=68f30335&hm=b18311ebb493e91547c9ccaf69aa5397e08143efd11abb22bf6e009a65530de5&",
+    "portrait_modified": "2025-10-18 03:02:13.355252",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428941183299616798
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
