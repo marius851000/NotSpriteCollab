@@ -81155,19 +81155,23 @@
     "modreward": false,
     "name": "Extyranomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917445770346546/portrait-0653.png?ex=68f43e93&is=68f2ed13&hm=ff385846c8866d7440a062d603428081775d0afb46be56819542e3453d3f97ec&",
+    "portrait_modified": "2025-10-18 01:27:46.704536",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917415898644571
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
