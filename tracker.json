@@ -71424,19 +71424,23 @@
     "modreward": false,
     "name": "Shakomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428930703420162048/portrait-0562.png?ex=68f44aeb&is=68f2f96b&hm=6b3434690ab34812153ac476359a690ff06675dbcfc7f09097c79126b2157754&",
+    "portrait_modified": "2025-10-18 02:20:27.606509",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428930674122948709
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
