@@ -67288,19 +67288,23 @@
     "modreward": false,
     "name": "Gizamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428923905719930920/portrait-0524.png?ex=68f44497&is=68f2f317&hm=ed324439ebfe3d5bb47c1580b44376199d5ea44e9d80133a39dbb915feb15174&",
+    "portrait_modified": "2025-10-18 01:53:26.906224",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428923879648268308
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
