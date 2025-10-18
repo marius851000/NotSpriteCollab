@@ -352,6 +352,14 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Flymon: Normal
 		Mothmon: Normal
 		Hyokomon: Normal
+		Peckmon: Normal
+		Karatenmon: Normal
+		Ravmon: Normal
+		Shakomon: Normal
+		Gesomon: Normal
+		Marindevimon: Normal
+		Calamaramon: Normal
+		Junkmon: Normal
 		Cupimon: Normal
 		Lucemon: Normal
 		Lucemon Falldown: Normal
@@ -520,6 +528,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Symbareangoramon: Normal
 		Lamortmon: Normal
 		Dogmon: Normal
+		Manbomon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
