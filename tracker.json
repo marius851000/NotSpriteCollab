@@ -71748,19 +71748,23 @@
     "modreward": false,
     "name": "Calamaramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428931360730382346/portrait-0565.png?ex=68f44b88&is=68f2fa08&hm=cbb332896175e040dc819c56966254e937d27f609b75c0b1f439d55d9d98e13f&",
+    "portrait_modified": "2025-10-18 02:23:04.341887",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428931324067971144
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
