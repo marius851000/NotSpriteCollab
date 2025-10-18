@@ -74134,19 +74134,23 @@
     "modreward": false,
     "name": "Archnemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428947466073407510/portrait-0585.png?ex=68f45a88&is=68f30908&hm=5dcf9cd80d987e3deabab73299dfb6664951e5b9ded3584c59c666ad27213ebb&",
+    "portrait_modified": "2025-10-18 03:27:04.146231",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428947440337293418
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
