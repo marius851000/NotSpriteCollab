@@ -71208,19 +71208,23 @@
     "modreward": false,
     "name": "Karatenmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428930440642691253/portrait-0560.png?ex=68f44aad&is=68f2f92d&hm=05dd4ede5be24df98c74e3f3fcf99d4fb498c7a09214c291d55bd96e5aa7eab8&",
+    "portrait_modified": "2025-10-18 02:19:24.990491",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428930411568037990
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
