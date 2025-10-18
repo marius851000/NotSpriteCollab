@@ -395,6 +395,10 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Marinangemon: Normal
 		Burpmon: Normal
 		Cho_Hakkaimon: Normal
+		Kokuwamon: Normal
+		Bladekuwagamon: Normal
+		Metallifekuwagamon: Normal
+		Tyrantkabuterimon: Normal
 		Vegimon: Normal
 		Vademon: Normal
 		Ebemon: Normal
