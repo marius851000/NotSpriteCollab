@@ -88027,19 +88027,23 @@
     "modreward": false,
     "name": "Tyrantkabuterimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428912836842754129/portrait-0718.png?ex=68f43a48&is=68f2e8c8&hm=236959221f59cbe57f59a9a89bd25672e1394f0934b8625764f2bcf8f59e1ab9&",
+    "portrait_modified": "2025-10-18 01:09:27.908841",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428912808388460656
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
