@@ -64715,19 +64715,23 @@
     "modreward": false,
     "name": "Tigervespamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428936396961484800/portrait-0500.png?ex=68f45039&is=68f2feb9&hm=d9ab56ce821b9d3fa9475468b29a266bd45c86108a31f38aeb16090dce2403d4&",
+    "portrait_modified": "2025-10-18 02:43:05.049377",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428936378309152898
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
