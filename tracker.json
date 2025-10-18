@@ -72612,19 +72612,23 @@
     "modreward": false,
     "name": "Diablomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428934011165741126/portrait-0573.png?ex=68f44e00&is=68f2fc80&hm=5f88fd9a834b46e254ac64e7f203550902fb0f925f62482ebd156cac236135df&",
+    "portrait_modified": "2025-10-18 02:33:36.280349",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428933984062279874
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
