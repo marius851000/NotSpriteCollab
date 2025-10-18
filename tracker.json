@@ -71532,19 +71532,23 @@
     "modreward": false,
     "name": "Gesomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428930819442999396/portrait-0563.png?ex=68f44b07&is=68f2f987&hm=d21d680b5800a860ace98d42e606b419ede755bb8231a8ac4c28cf657e1d75ac&",
+    "portrait_modified": "2025-10-18 02:20:55.251981",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428930792603779122
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
