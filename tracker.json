@@ -82347,19 +82347,23 @@
     "modreward": false,
     "name": "Regalecusmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428919289410224219/portrait-0664.png?ex=68f4404a&is=68f2eeca&hm=1ef89c124acd97e9cfad692435853c36853d58353f9d658fdbcbabaca66dcff3&",
+    "portrait_modified": "2025-10-18 01:35:06.258850",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428919261945921639
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
