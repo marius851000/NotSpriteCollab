@@ -87703,19 +87703,23 @@
     "modreward": false,
     "name": "Kokuwamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428912460982652928/portrait-0715.png?ex=68f439ee&is=68f2e86e&hm=6de54f757eb38fe48d258942980d90d1958421ac86c0977d644174183e069952&",
+    "portrait_modified": "2025-10-18 01:07:58.268419",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428912424966164573
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
