@@ -78823,19 +78823,23 @@
     "modreward": false,
     "name": "Pomumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428941333489389618/portrait-0629.png?ex=68f454d2&is=68f30352&hm=88ad6168df4b0e51076f2d8db73ba6ff8bf9818e4e4e912c764c09a157db4e77&",
+    "portrait_modified": "2025-10-18 03:02:42.020068",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428941313142816883
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
