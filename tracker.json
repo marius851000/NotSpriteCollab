@@ -80939,19 +80939,23 @@
     "modreward": false,
     "name": "Toyagumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917190333038602/portrait-0651.png?ex=68f43e56&is=68f2ecd6&hm=0c8489d0906918552b028886b632051eccd4d0f511af4fee89388444e5fb195c&",
+    "portrait_modified": "2025-10-18 01:26:45.833348",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917164877938859
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
