@@ -285,6 +285,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Kumbhiramon: Normal
 		Muchomon: Normal
 		Cockatrimon: Normal
+		Sinduramon: Normal
+		Chronomon: Normal
 		Vikaralamon: Normal
 		Unimon: Normal
 		Unimon Shima: Normal
@@ -401,6 +403,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Reppamon: Normal
 		Kyukimon: Normal
 		Holydramon: Normal
+		Neamon: Normal
+		Bokomon: Normal
 		Copymon: Normal
 		Evilmon: Normal
 		Vamdemon: Normal
@@ -409,6 +413,12 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Goatmon: Normal
 		Mephismon: Normal
 		Belphemon: Normal
+		Picodevimon: Normal
+		Devimon: Normal
+		Neodevimon: Normal
+		Donedevimon: Normal
+		Pomumon: Normal
+		Kiwimon: Normal
 		Sirenmon: Normal
 		Ceresmon: Normal
 		Sangomon: Normal
@@ -557,6 +567,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Dogmon: Normal
 		Manbomon: Normal
 		Pukumon: Normal
+		Moosemon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
