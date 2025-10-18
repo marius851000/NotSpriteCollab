@@ -83427,19 +83427,23 @@
     "modreward": false,
     "name": "Monitamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428921551071346849/portrait-0674.png?ex=68f44265&is=68f2f0e5&hm=e66fdbc82fffa6607607b0ffee549c1568d4565faeca1febfc7d1c081a14252b&",
+    "portrait_modified": "2025-10-18 01:44:05.458087",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428921521526673532
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
