@@ -295,6 +295,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Manticoremon: Normal
 		Dorumon: Normal
 		Dorugamon: Normal
+		Gammamon: Normal
 		Goburimon: Normal
 		Goburimon Snow: Normal
 		Orgemon: Normal
@@ -309,7 +310,21 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Jellymon: Normal
 		Teslajellymon: Normal
 		Thetismon: Normal
+		Gizamon: Normal
+		Cyclomon: Normal
 		Ranamon: Normal
+		Mermaimon: Normal
+		Ancientmermaimon: Normal
+		Guilmon: Normal
+		Growmon: Normal
+		Megalogrowmon: Normal
+		Dukemon: Normal
+		Megidramon: Normal
+		Mikemon: Normal
+		Bastemon: Normal
+		Rasielmon: Normal
+		Tuskmon: Normal
+		Digitamamon: Normal
 		Devitamamon: Normal
 		Plotmon: Normal
 		Tailmon: Normal
