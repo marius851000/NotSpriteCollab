@@ -77627,19 +77627,23 @@
     "modreward": false,
     "name": "Venomvamdemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428923184253767710/portrait-0620.png?ex=68f443eb&is=68f2f26b&hm=2b47ea5e472ecf8e4ac111d5ea711495350a28c15232acf60493add4b6825f46&",
+    "portrait_modified": "2025-10-18 01:50:34.942656",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428923155036241920
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
