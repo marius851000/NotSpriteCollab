@@ -80835,19 +80835,23 @@
     "modreward": false,
     "name": "Volcdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917725102608425/portrait-0650.png?ex=68f43ed5&is=68f2ed55&hm=7e5e6e6a059925728b7ceabef9f34ef9857bb267ccbc3e491a7d6758caee3d55&",
+    "portrait_modified": "2025-10-18 01:28:53.329546",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917694727721023
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
