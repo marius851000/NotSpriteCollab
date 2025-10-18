@@ -65039,19 +65039,23 @@
     "modreward": false,
     "name": "Skullbaluchimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428937148584951899/portrait-0503.png?ex=68f450ec&is=68f2ff6c&hm=e988a585b57cbee41d305fbebe6d4bbeeac3b442c7da73bd5a8988335ad766ed&",
+    "portrait_modified": "2025-10-18 02:46:04.279678",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428937120185188444
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
