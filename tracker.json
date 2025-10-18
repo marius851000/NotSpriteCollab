@@ -61242,19 +61242,23 @@
     "modreward": false,
     "name": "Candmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428928026569347183/portrait-0468.png?ex=68f4486d&is=68f2f6ed&hm=c41b8fa5412232623c6cddca78ca4b0159c64e11363c9924594cf5b2ca96d2ab&",
+    "portrait_modified": "2025-10-18 02:09:49.404812",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428927999021027489
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
