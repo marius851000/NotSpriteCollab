@@ -64283,19 +64283,23 @@
     "modreward": false,
     "name": "Valdurmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428935870106570802/portrait-0496.png?ex=68f44fbb&is=68f2fe3b&hm=78496717d6cdcd14099b9f1dfbf6c5ec16ff75f6a10921c8f381eb076fe69426&",
+    "portrait_modified": "2025-10-18 02:40:59.409013",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428935842814099467
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
