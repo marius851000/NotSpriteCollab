@@ -82239,19 +82239,23 @@
     "modreward": false,
     "name": "Marinchimairamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428919150998458479/portrait-0663.png?ex=68f44029&is=68f2eea9&hm=300416415015a3d13ef2af8b7b6185835ffdce453f49ca54a9bf784550c7679b&",
+    "portrait_modified": "2025-10-18 01:34:33.308189",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428919124720877649
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
