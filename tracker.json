@@ -71964,19 +71964,23 @@
     "modreward": false,
     "name": "Machmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428932370425315478/portrait-0567.png?ex=68f44c79&is=68f2faf9&hm=46816613414f8b9da06858b3930ce6d92713839ef8fc9908eb7331d969c8326a&",
+    "portrait_modified": "2025-10-18 02:27:05.087480",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428932272102572225
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
