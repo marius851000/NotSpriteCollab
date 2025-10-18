@@ -61674,19 +61674,23 @@
     "modreward": false,
     "name": "Gankoomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428928545912000653/portrait-0472.png?ex=68f448e9&is=68f2f769&hm=4bbd0adb0c829817ef9f875e8024cf83ae0da73334ec77b27820bc9b61fdf75b&",
+    "portrait_modified": "2025-10-18 02:11:53.264820",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428928513892683939
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
