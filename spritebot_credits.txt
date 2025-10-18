@@ -376,7 +376,19 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Blackkingnumemon: Normal
 		Platinumnumemon: Normal
 		Monzaemon: Normal
+		Cutemon: Normal
 		Bitmon: Normal
+		Luminamon: Normal
+		Swimmon: Normal
+		Coelamon: Normal
+		Marinchimairamon: Normal
+		Regalecusmon: Normal
+		Tinkermon: Normal
+		Darcmon: Normal
+		Wisemon: Normal
+		Ancientwisemon: Normal
+		Tyumon: Normal
+		Scumon: Normal
 		Hiyarimon: Normal
 		Yukidarumon: Normal
 		Mojyamon: Normal
