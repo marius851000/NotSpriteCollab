@@ -64391,19 +64391,23 @@
     "modreward": false,
     "name": "Funbeemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428935992848420945/portrait-0497.png?ex=68f44fd9&is=68f2fe59&hm=891cfbfdc053be2045f7d3769e1123c8867ea9bea9fce683252346d0dc2f705b&",
+    "portrait_modified": "2025-10-18 02:41:28.721547",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428935960326045708
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
