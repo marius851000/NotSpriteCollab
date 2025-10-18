@@ -68476,19 +68476,23 @@
     "modreward": false,
     "name": "Bastemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428925970080989258/portrait-0535.png?ex=68f44683&is=68f2f503&hm=c8bd8b258a010d1a3c8a67a10eb08331c7d4e2a6aca5078f80cda723cc59b8e9&",
+    "portrait_modified": "2025-10-18 02:01:38.971877",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428925943820587173
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
