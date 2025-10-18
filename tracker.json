@@ -87811,19 +87811,23 @@
     "modreward": false,
     "name": "Bladekuwagamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428912579056500856/portrait-0716.png?ex=68f43a0a&is=68f2e88a&hm=80dcb5c25764090574077716278e57f3d6a161fa70065cc5f064b6978fd1a0c0&",
+    "portrait_modified": "2025-10-18 01:08:26.379978",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428912552443646057
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
