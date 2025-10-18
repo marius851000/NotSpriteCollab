@@ -86427,19 +86427,23 @@
     "modreward": false,
     "name": "Scorpiomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428915253843853493/portrait-0703.png?ex=68f43c88&is=68f2eb08&hm=7fca41077bef00fbb46bf62ebda45739900b5c664b5409fe1e395f6454b19fc6&",
+    "portrait_modified": "2025-10-18 01:19:04.197637",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428915228648673421
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
