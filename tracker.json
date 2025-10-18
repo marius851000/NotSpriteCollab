@@ -87919,19 +87919,23 @@
     "modreward": false,
     "name": "Metallifekuwagamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428912716692586569/portrait-0717.png?ex=68f43a2b&is=68f2e8ab&hm=9559c47ce4d4ab7f2e398e512f9be06d8161fa286192da6ee4f8a28b2b4b950f&",
+    "portrait_modified": "2025-10-18 01:08:59.248686",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428912683465572413
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
