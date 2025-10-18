@@ -58492,19 +58492,23 @@
     "modreward": false,
     "name": "Sinduramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428940453675401296/portrait-0443.png?ex=68f45400&is=68f30280&hm=c6e3752e74ca6a2e40ecfd5d5bc7cbddbfc6c3048c04df32c9a873567fbb60b0&",
+    "portrait_modified": "2025-10-18 02:59:12.185153",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428940416719519867
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
