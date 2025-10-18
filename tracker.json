@@ -71100,19 +71100,23 @@
     "modreward": false,
     "name": "Peckmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428930314364911616/portrait-0559.png?ex=68f44a8f&is=68f2f90f&hm=ddfe2f8da020f69dc0a4b6e1a4038e42246e5471da2cfbad25549b22492b2d8b&",
+    "portrait_modified": "2025-10-18 02:18:54.852959",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428930288867868784
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
