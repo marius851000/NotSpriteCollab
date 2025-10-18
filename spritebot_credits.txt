@@ -288,6 +288,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Swanmon: Normal
 		Daipenmon: Normal
 		Frosvelgrmon: Normal
+		Candmon: Normal
+		Meramon: Normal
+		Deathmeramon: Normal
+		Boltmon: Normal
+		Gankoomon: Normal
 		Commandramon: Normal
 		Sealsdramon: Normal
 		Tankdramon: Normal
@@ -296,6 +301,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Dorumon: Normal
 		Dorugamon: Normal
 		Gammamon: Normal
+		Betelgammamon: Normal
+		Canoweissmon: Normal
 		Goburimon: Normal
 		Goburimon Snow: Normal
 		Orgemon: Normal
@@ -512,6 +519,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Angoramon: Normal
 		Symbareangoramon: Normal
 		Lamortmon: Normal
+		Dogmon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
