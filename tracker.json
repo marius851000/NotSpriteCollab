@@ -81047,19 +81047,23 @@
     "modreward": false,
     "name": "Tankmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917321514356827/portrait-0652.png?ex=68f43e75&is=68f2ecf5&hm=ef2fb0fc43621ea68f45d16042b448f5b9b6a70d7fcc75885b2faa0befcab909&",
+    "portrait_modified": "2025-10-18 01:27:17.056055",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917290103214090
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
