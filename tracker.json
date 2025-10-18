@@ -65363,19 +65363,23 @@
     "modreward": false,
     "name": "Ebidramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428937538130808943/portrait-0506.png?ex=68f45149&is=68f2ffc9&hm=90eed326add42af200896805a9f431ed1a496b9e2c060bf4405dff7ca6c82118&",
+    "portrait_modified": "2025-10-18 02:47:36.899545",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428937519889911951
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
