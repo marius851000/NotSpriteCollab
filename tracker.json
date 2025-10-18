@@ -86215,19 +86215,23 @@
     "modreward": false,
     "name": "Dokunemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428915040945180753/portrait-0701.png?ex=68f43c55&is=68f2ead5&hm=ff13b03b907d2930588919a2fe32fa2699b4d1fd499ad12c6eefe413c68eab97&",
+    "portrait_modified": "2025-10-18 01:18:11.305780",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428915012138696807
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
