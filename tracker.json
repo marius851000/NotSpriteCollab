@@ -81803,19 +81803,23 @@
     "modreward": false,
     "name": "Bitmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428918334392635553/portrait-0659.png?ex=68f43f66&is=68f2ede6&hm=82cb230fe0feb1da0312d980d61a79ec49f713c638205efa8bdeb99e1b8ee007&",
+    "portrait_modified": "2025-10-18 01:31:18.562328",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428918306424754328
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
