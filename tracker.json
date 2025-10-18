@@ -71640,19 +71640,23 @@
     "modreward": false,
     "name": "Marindevimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428931204081651742/portrait-0564.png?ex=68f44b63&is=68f2f9e3&hm=088c59cd611632b7bde100e2c8a01411229609cb2f033b4b733b94afe83586ba&",
+    "portrait_modified": "2025-10-18 02:22:26.918157",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428931172473241731
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
