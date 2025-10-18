@@ -82779,19 +82779,23 @@
     "modreward": false,
     "name": "Ancientwisemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428920420534456371/portrait-0668.png?ex=68f44158&is=68f2efd8&hm=6570e7ce2066d42fb6d6afcce7cc88ec24c5648ece00b3e36c62ada99a470abc&",
+    "portrait_modified": "2025-10-18 01:39:36.002097",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428920326661738659
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
