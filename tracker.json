@@ -64499,19 +64499,23 @@
     "modreward": false,
     "name": "Waspmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428936122326716436/portrait-0498.png?ex=68f44ff7&is=68f2fe77&hm=454d623024d42eb719e822050cb66cc3fb7806a945270460c97a981d236a17dd&",
+    "portrait_modified": "2025-10-18 02:41:59.606186",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428936097932513352
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
