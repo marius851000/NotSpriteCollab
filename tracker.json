@@ -68692,19 +68692,23 @@
     "modreward": false,
     "name": "Tuskmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428926227032314058/portrait-0537.png?ex=68f446c0&is=68f2f540&hm=0df49e17790d89bce5514905e885ab7ad5c2f80e082de259dc8445726b1bd4d9&",
+    "portrait_modified": "2025-10-18 02:02:40.330019",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428926198418772031
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
