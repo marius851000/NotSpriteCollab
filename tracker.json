@@ -78511,19 +78511,23 @@
     "modreward": false,
     "name": "Devimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428941740705841233/portrait-0626.png?ex=68f45533&is=68f303b3&hm=ab0d70d7db3a670415462f9526b6d54e7ca289707adb150a3c394fd94632b2e6&",
+    "portrait_modified": "2025-10-18 03:04:19.133376",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428941711782055966
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
