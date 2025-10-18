@@ -83643,19 +83643,23 @@
     "modreward": false,
     "name": "Sephirothmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428921817124569210/portrait-0676.png?ex=68f442a5&is=68f2f125&hm=3dc9c3dd73e0184f09e0ec1c61b3284a460c416e5351ab48cc9487691002786d&",
+    "portrait_modified": "2025-10-18 01:45:08.907434",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428921784970776626
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
