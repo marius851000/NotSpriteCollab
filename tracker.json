@@ -64067,19 +64067,23 @@
     "modreward": false,
     "name": "Diatrymon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428935334422380624/portrait-0494.png?ex=68f44f3c&is=68f2fdbc&hm=218ce61b7bde888944934b4fc0f8dbad82d1db0fb48dcde393206b63ac30b94c&",
+    "portrait_modified": "2025-10-18 02:38:51.770763",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428935304022327359
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
