@@ -95222,5 +95222,113 @@
         }
       }
     }
+  },
+  "0780": {
+    "canon": true,
+    "modreward": false,
+    "name": "Hangyomon",
+    "portrait_bounty": {},
+    "portrait_complete": 1,
+    "portrait_credit": {
+      "primary": "<@!319945906600411179>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428944625674096930/portrait-0780.png?ex=68f457e3&is=68f30663&hm=368ae2d15afa6b90ef109083d619a271a2191b97403e6f626122a4a9efb8bcc5&",
+    "portrait_modified": "2025-10-18 03:15:46.949032",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {
+      "918857608591458364": 1428944595890470952
+    },
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
