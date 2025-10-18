@@ -85999,19 +85999,23 @@
     "modreward": false,
     "name": "Hackmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428914769343287316/portrait-0699.png?ex=68f43c14&is=68f2ea94&hm=868d56ac34592a1bf11ad6bd8c65072c07fd7597dd1cc1f7e7d0f3198e301d85&",
+    "portrait_modified": "2025-10-18 01:17:08.577908",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428914734408798218
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
