@@ -300,6 +300,19 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Manticoremon: Normal
 		Dorumon: Normal
 		Dorugamon: Normal
+		Falcomon: Normal
+		Diatrymon: Normal
+		Yatagaramon: Normal
+		Valdurmon: Normal
+		Funbeemon: Normal
+		Waspmon: Normal
+		Cannonbeemon: Normal
+		Tigervespamon: Normal
+		Gazimon: Normal
+		Fangmon: Normal
+		Skullbaluchimon: Normal
+		Ancientsphinxmon: Normal
+		Ganimon: Normal
 		Gammamon: Normal
 		Betelgammamon: Normal
 		Canoweissmon: Normal
