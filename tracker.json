@@ -63959,19 +63959,23 @@
     "modreward": false,
     "name": "Falcomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428935016708046949/portrait-0493.png?ex=68f44ef0&is=68f2fd70&hm=3555576914e424fa5eb05b561042996f238ee1f7bee40b1cf9afa4aaed91b4a2&",
+    "portrait_modified": "2025-10-18 02:37:35.988539",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428934985930375300
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
