@@ -290,6 +290,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Vikaralamon: Normal
 		Unimon: Normal
 		Unimon Shima: Normal
+		Cerberumon: Normal
 		Anubimon: Normal
 		Penmon: Normal
 		Swanmon: Normal
@@ -399,6 +400,8 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Otamamon: Normal
 		Gekomon: Normal
 		Tonosamagekomon: Normal
+		Archnemon: Normal
+		Parasimon: Normal
 		Kudamon: Normal
 		Reppamon: Normal
 		Kyukimon: Normal
