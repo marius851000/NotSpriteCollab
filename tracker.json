@@ -67828,19 +67828,23 @@
     "modreward": false,
     "name": "Guilmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428924308234702870/portrait-0529.png?ex=68f444f7&is=68f2f377&hm=4ecd031feeec2c3f0775639c2b0353fbf0a89791267576c67e976206575068c7&",
+    "portrait_modified": "2025-10-18 01:55:02.880127",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428924274965483602
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
