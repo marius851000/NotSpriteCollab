@@ -81375,19 +81375,23 @@
     "modreward": false,
     "name": "Blackkingnumemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917855952572486/portrait-0655.png?ex=68f43ef4&is=68f2ed74&hm=6e6899a845b0a009fe725afea138a089f7613e47c5ea5183cf89e3337501225d&",
+    "portrait_modified": "2025-10-18 01:29:24.571369",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917833387212954
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
