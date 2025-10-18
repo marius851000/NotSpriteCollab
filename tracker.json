@@ -65147,19 +65147,23 @@
     "modreward": false,
     "name": "Ancientsphinxmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428937265014636554/portrait-0504.png?ex=68f45108&is=68f2ff88&hm=0f3d789f8dc0624588c38cf799ade0fc760ccfedd8d1b2a548a6cf1a6e7c5b7b&",
+    "portrait_modified": "2025-10-18 02:46:31.967336",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428937235893325874
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
