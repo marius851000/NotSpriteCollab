@@ -58276,19 +58276,23 @@
     "modreward": false,
     "name": "Muchomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428939354306514944/portrait-0441.png?ex=68f452fa&is=68f3017a&hm=4a4254add1f7f1ea7b35f16dcc84ed38ccea4d192c44b79bacb6887b482bf7b8&",
+    "portrait_modified": "2025-10-18 02:54:50.077971",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428939316842725388
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
