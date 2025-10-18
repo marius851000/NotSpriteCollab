@@ -81263,19 +81263,23 @@
     "modreward": false,
     "name": "Numemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428917548036128918/portrait-0654.png?ex=68f43eab&is=68f2ed2b&hm=39778f4f6166b7f3255bf7a9ba61023de829548f61d3963c5795ef2c48d4fca0&",
+    "portrait_modified": "2025-10-18 01:28:11.029524",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428917527777509487
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
