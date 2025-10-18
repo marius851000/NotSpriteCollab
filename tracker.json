@@ -67612,19 +67612,23 @@
     "modreward": false,
     "name": "Mermaimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428924029905141790/portrait-0527.png?ex=68f444b4&is=68f2f334&hm=c93c61eb9fe25d10ec078ebfe93ecf3f6b7c0dd8634d81e7317d25a0e47011a1&",
+    "portrait_modified": "2025-10-18 01:53:56.538664",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428924005221666949
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
