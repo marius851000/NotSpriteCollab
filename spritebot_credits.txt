@@ -368,6 +368,15 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Imperialdramon: Normal
 		Sunarizamon: Normal
 		Flarelizamon: Normal
+		Volcdramon: Normal
+		Toyagumon: Normal
+		Tankmon: Normal
+		Extyranomon: Normal
+		Numemon: Normal
+		Blackkingnumemon: Normal
+		Platinumnumemon: Normal
+		Monzaemon: Normal
+		Bitmon: Normal
 		Hiyarimon: Normal
 		Yukidarumon: Normal
 		Mojyamon: Normal
@@ -385,9 +394,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Paledramon: Normal
 		Cryspaledramon: Normal
 		Hexeblaumon: Normal
+		Hyougamon: Normal
 		Hackmon: Normal
 		Jesmon: Normal
 		Dokunemon: Normal
+		Snimon: Normal
 		Scorpiomon: Normal
 		Ancientbeatmon: Normal
 		Gaossmon: Normal
