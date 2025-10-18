@@ -61566,19 +61566,23 @@
     "modreward": false,
     "name": "Boltmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428928411950125176/portrait-0471.png?ex=68f448c9&is=68f2f749&hm=4044a18a23e392ccf92f07750645d7d512242a9c7d85ad13dd39645d88256356&",
+    "portrait_modified": "2025-10-18 02:11:21.290557",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428928376562909265
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
