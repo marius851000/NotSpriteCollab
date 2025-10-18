@@ -65711,18 +65711,18 @@
     "modreward": false,
     "name": "Canoweissmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1428927125993291806": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428927196168192110/portrait-0510.png?ex=68f447a7&is=68f2f627&hm=efb45c601741a5f8020099e534473e51f8978e3c4e6bd9bcfbe5285d616c82ae&",
+    "portrait_modified": "2025-10-18 02:06:31.399021",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
