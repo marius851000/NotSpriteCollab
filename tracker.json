@@ -83211,19 +83211,23 @@
     "modreward": false,
     "name": "Metaletemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428921208350572664/portrait-0672.png?ex=68f44214&is=68f2f094&hm=24563c06977f1c7cc49dea282c4cee51895b2fe4fa06d951382041adb2f19c64&",
+    "portrait_modified": "2025-10-18 01:42:43.765622",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428921179690766399
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
