@@ -81911,19 +81911,23 @@
     "modreward": false,
     "name": "Luminamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428918468341923923/portrait-0660.png?ex=68f43f86&is=68f2ee06&hm=2fd3b5d745064800b9d68048545d49398003937ac3a65759603a3d93f1748b24&",
+    "portrait_modified": "2025-10-18 01:31:50.573816",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428918429435297933
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
