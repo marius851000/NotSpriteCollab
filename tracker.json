@@ -72180,19 +72180,23 @@
     "modreward": false,
     "name": "Grandlocomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428933160275808266/portrait-0569.png?ex=68f44d35&is=68f2fbb5&hm=36d9d38ee3a39260f6076b29cd85528f66fa175d04b0ed22bde48e1bc6f8f607&",
+    "portrait_modified": "2025-10-18 02:30:13.367379",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428933126221992057
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
