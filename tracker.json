@@ -77519,19 +77519,23 @@
     "modreward": false,
     "name": "Vamdemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1428923037134360648/portrait-0619.png?ex=68f443c8&is=68f2f248&hm=b9af686bb0397b33735cee61a996966215cdeb0a8d6df0913bec109589eb37c8&",
+    "portrait_modified": "2025-10-18 01:49:59.759499",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1428923007975428148
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
