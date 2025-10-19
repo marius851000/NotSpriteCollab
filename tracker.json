@@ -62894,19 +62894,23 @@
     "modreward": false,
     "name": "Dracomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429286391375990925/portrait-0483.png?ex=68f5962e&is=68f444ae&hm=f9e6749c05c04ab25b0961e4b4934a0053b122bd333571168479dd89fb4072be&",
+    "portrait_modified": "2025-10-19 01:53:50.086309",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429286362804129823
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
