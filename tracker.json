@@ -63507,19 +63507,23 @@
     "modreward": false,
     "name": "Slayerdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429288866413678694/portrait-0488.png?ex=68f5987c&is=68f446fc&hm=dc8cd47c864b859c30c637eaa784a0565bdac2d54e3f3d2ab0364dd01b655609&",
+    "portrait_modified": "2025-10-19 02:03:40.309519",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429288841268695142
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
