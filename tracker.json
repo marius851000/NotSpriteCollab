@@ -76323,19 +76323,23 @@
     "modreward": false,
     "name": "Raremon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429298657433223168/portrait-0604.png?ex=68f5a19b&is=68f4501b&hm=d45ade6c74c20560ac155d302ad618cf6efe1840b9cf0cc2d44c5540bfe60194&",
+    "portrait_modified": "2025-10-19 02:42:34.713896",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429298631617548308
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
