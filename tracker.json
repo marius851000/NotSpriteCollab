@@ -45862,7 +45862,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426406932666650696/portrait-0328.png?ex=68eb1c7a&is=68e9cafa&hm=e157119e39dd7c8715a5df8b6e426366a3ede1242f13d2e04f6060ee1f60dd43&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429298090938077324/portrait-0328.png?ex=68f5a113&is=68f44f93&hm=8024aa229367936c104398865efb0a3dd0026af881db78263c69fa7c25317aa9&",
     "portrait_modified": "2025-10-11 03:11:53.774291",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -76215,19 +76215,23 @@
     "modreward": false,
     "name": "Deathmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429298542836449373/portrait-0603.png?ex=68f5a17f&is=68f44fff&hm=e7e1617f8835078838d67d61b3ab36a88d968f0ef7959bff292377f9e11e9b15&",
+    "portrait_modified": "2025-10-19 02:42:07.388327",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429298514843926659
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
