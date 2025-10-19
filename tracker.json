@@ -75999,19 +75999,23 @@
     "modreward": false,
     "name": "Cyberdramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429296939681317025/portrait-0601.png?ex=68f5a001&is=68f44e81&hm=20e35dd48fb58e31b3c58884ad986f8b0c784f5e1d2b69524272893bca266faf&",
+    "portrait_modified": "2025-10-19 02:35:45.013059",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429296907418730536
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
