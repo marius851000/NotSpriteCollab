@@ -76539,19 +76539,23 @@
     "modreward": false,
     "name": "Morphomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429298943228907551/portrait-0606.png?ex=68f5a1df&is=68f4505f&hm=925698e85ee6c4a7c3733df4d799cfece4b4d0e5aa78ed77aa4928b9a8e32737&",
+    "portrait_modified": "2025-10-19 02:43:42.773124",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429298915638771792
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
