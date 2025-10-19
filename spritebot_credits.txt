@@ -380,6 +380,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Devitamamon: Normal
 		Plotmon: Normal
 		Tailmon: Normal
+		Tailmon Black_Uver_: Normal
 		Angewomon: Normal
 		Ofanimon: Normal
 		Silphymon: Normal
@@ -433,9 +434,14 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Holydramon: Normal
 		Neamon: Normal
 		Bokomon: Normal
+		Monodramon: Normal
+		Strikedramon: Normal
+		Cyberdramon: Normal
 		Pawnchessmon: Normal
 		Pawnchessmon Black: Normal
 		Gladimon: Normal
+		Knightmon: Normal
+		Lordknightmon: Normal
 		Skullknightmon: Normal
 		Darkknightmon: Normal
 		Craniummon: Normal
