@@ -59645,19 +59645,23 @@
     "modreward": false,
     "name": "Ancienttroiamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429301012719472661/portrait-0453.png?ex=68f5a3cc&is=68f4524c&hm=d12af91bb029082a49b4d9ecac64e9fd49c69382bc1fd2d4a48b19f0ddeccfd8&",
+    "portrait_modified": "2025-10-19 02:51:56.244808",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429300979962220614
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
