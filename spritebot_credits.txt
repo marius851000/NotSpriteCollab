@@ -424,6 +424,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Tonosamagekomon: Normal
 		Giromon: Normal
 		Kodokugumon: Normal
+		Dokugumon: Normal
 		Archnemon: Normal
 		Parasimon: Normal
 		Kudamon: Normal
@@ -432,6 +433,12 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Holydramon: Normal
 		Neamon: Normal
 		Bokomon: Normal
+		Pawnchessmon: Normal
+		Pawnchessmon Black: Normal
+		Gladimon: Normal
+		Skullknightmon: Normal
+		Darkknightmon: Normal
+		Craniummon: Normal
 		Copymon: Normal
 		Evilmon: Normal
 		Vamdemon: Normal
