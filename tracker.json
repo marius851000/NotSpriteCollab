@@ -60146,19 +60146,23 @@
     "modreward": false,
     "name": "Labramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429302261237944340/portrait-0457.png?ex=68f5a4f6&is=68f45376&hm=37fe1773963f0a4c780ccd5e22c68faa92f6635a6e6517e416c6586e93dec0b6&",
+    "portrait_modified": "2025-10-19 02:56:53.858935",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429302232053977259
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
