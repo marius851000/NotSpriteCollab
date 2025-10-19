@@ -62255,7 +62255,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1426769554272423996/portrait-0477.png?ex=68ec6e31&is=68eb1cb1&hm=e6401c312d3851eb4597400e038af1e4fa92be42c4db3c0603fc58d5b27557dd&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429285202248597676/portrait-0477.png?ex=68f59513&is=68f44393&hm=16f45b9c4d743e31065b5d46adda42e1a19cdf76e717bc0df35d9ef7b78510c6&",
     "portrait_modified": "2025-10-12 03:12:49.481380",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -62570,19 +62570,23 @@
     "modreward": false,
     "name": "Doruguremon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429285525059141632/portrait-0480.png?ex=68f59560&is=68f443e0&hm=e564862b4bfcb3ccd672e02da672a0375166607bdafb8a6f4b7c312f63970efe&",
+    "portrait_modified": "2025-10-19 01:50:23.653307",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429285497192190067
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
