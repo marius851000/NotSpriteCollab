@@ -76107,19 +76107,23 @@
     "modreward": false,
     "name": "Justimon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429298010331938906/portrait-0602.png?ex=68f5a100&is=68f44f80&hm=2adff21c478407e7d31c1ed28b18506c67096296dec00a395308c87a1ed75c03&",
+    "portrait_modified": "2025-10-19 02:40:00.425081",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429297981110358167
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
