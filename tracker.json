@@ -77143,19 +77143,23 @@
     "modreward": false,
     "name": "Knightmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429295339269259384/portrait-0612.png?ex=68f59e83&is=68f44d03&hm=33b31fe17410af3885f04bc98a9f26422b9f418a415fd980ea5ee318523ecf0a&",
+    "portrait_modified": "2025-10-19 02:29:23.613446",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429295310659780721
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
