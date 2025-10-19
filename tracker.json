@@ -58924,19 +58924,23 @@
     "modreward": false,
     "name": "Makuramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429291190519337020/portrait-0447.png?ex=68f59aa6&is=68f44926&hm=b730968531ba3496023ab228aa389c093e5f39b0d81543809f0e32635a45c24e&",
+    "portrait_modified": "2025-10-19 02:12:54.411050",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429291164887941140
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
