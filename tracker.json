@@ -63939,19 +63939,23 @@
     "modreward": false,
     "name": "Granddracumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429289427007570051/portrait-0492.png?ex=68f59902&is=68f44782&hm=005feca6df34eeeacb86351e1b65c4c025d874f5ad7ed62f7925bc81f7d2b0cf&",
+    "portrait_modified": "2025-10-19 02:05:53.970143",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429289400914935962
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
