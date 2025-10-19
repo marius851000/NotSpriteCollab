@@ -75523,19 +75523,23 @@
     "modreward": false,
     "name": "Hydramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429304830286893076/portrait-0596.png?ex=68f5a75a&is=68f455da&hm=058e63afbc3f5ee99a61a83cb865a88be0e392c255b290d56c8cf8f31801140b&",
+    "portrait_modified": "2025-10-19 03:07:06.343988",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429304802575253616
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
