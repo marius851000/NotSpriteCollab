@@ -76647,19 +76647,23 @@
     "modreward": false,
     "name": "Hudiemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429299061848281088/portrait-0607.png?ex=68f5a1fb&is=68f4507b&hm=05eaf67e76828eaf875b6e41822d2ac1857aecbd8c9cf36a063a371e780f4a26&",
+    "portrait_modified": "2025-10-19 02:44:11.054553",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429299032588685314
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
