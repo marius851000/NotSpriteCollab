@@ -76960,19 +76960,23 @@
         "modreward": false,
         "name": "Black",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429295068023357542/portrait-0610-0001.png?ex=68f59e43&is=68f44cc3&hm=9bfe75a9e6bf84523149a98cca3e9d2c53a5d42762fe3ea734e4f529cc667d11&",
+        "portrait_modified": "2025-10-19 02:28:18.864128",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1429295034540490763
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
