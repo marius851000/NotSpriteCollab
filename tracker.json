@@ -60470,19 +60470,23 @@
     "modreward": false,
     "name": "Baihumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429303446284275913/portrait-0460.png?ex=68f5a610&is=68f45490&hm=005ed37aec605686fe56ad4eec12808868f3b930620b5d5d2b5675a108458f42&",
+    "portrait_modified": "2025-10-19 03:01:35.092839",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429303411014111283
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
