@@ -447,6 +447,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Lilamon: Normal
 		Lotusmon: Normal
 		Blossomon: Normal
+		Hydramon: Normal
 		Neamon: Normal
 		Bokomon: Normal
 		Monodramon: Normal
@@ -637,6 +638,9 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Babamon: Normal
 		Dynasmon: Normal
 		Boogiemon: Normal
+		Nanomon: Normal
+		Skullsatamon: Normal
+		Demon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
