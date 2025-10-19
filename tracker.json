@@ -63108,19 +63108,23 @@
         "modreward": false,
         "name": "Blue",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429286655180935270/portrait-0484-0001.png?ex=68f5966d&is=68f444ed&hm=e19a16952ad25de7216639b97397047a0701e6a4961ed3d9dd2d74ea93aa3deb&",
+        "portrait_modified": "2025-10-19 01:54:53.091947",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1429286613518909532
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
