@@ -75199,19 +75199,23 @@
     "modreward": false,
     "name": "Lilamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429304317445279794/portrait-0593.png?ex=68f5a6e0&is=68f45560&hm=2de0ea001ad20090ad31372de69fe8139d560cdf04ad684f7426ad0d457cb2a1&",
+    "portrait_modified": "2025-10-19 03:05:04.174305",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429304291193131058
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
