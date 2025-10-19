@@ -77547,19 +77547,23 @@
     "modreward": false,
     "name": "Craniummon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429293450854928485/portrait-0616.png?ex=68f59cc1&is=68f44b41&hm=c1b3305254605220d79b1a0c2fee65d12bbee6109ed50c5e9c2d06be65a6ffdf&",
+    "portrait_modified": "2025-10-19 02:21:53.273277",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429293415207538749
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
