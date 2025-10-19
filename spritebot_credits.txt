@@ -437,6 +437,14 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Monodramon: Normal
 		Strikedramon: Normal
 		Cyberdramon: Normal
+		Justimon: Normal
+		Deathmon: Normal
+		Raremon: Normal
+		Rareraremon: Normal
+		Morphomon: Normal
+		Hudiemon: Normal
+		Eosmon: Normal
+		Ancientirismon: Normal
 		Pawnchessmon: Normal
 		Pawnchessmon Black: Normal
 		Gladimon: Normal
