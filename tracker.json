@@ -59140,19 +59140,23 @@
     "modreward": false,
     "name": "Boarmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429292055997321286/portrait-0449.png?ex=68f59b75&is=68f449f5&hm=9e96e13565ff1be93a9a1961f25033b2848f7410b122a7acf4b277204913e457&",
+    "portrait_modified": "2025-10-19 02:16:20.736655",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429292028759511102
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
