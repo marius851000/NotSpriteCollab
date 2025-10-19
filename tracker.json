@@ -60578,19 +60578,23 @@
     "modreward": false,
     "name": "Dobermon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429303778531606639/portrait-0461.png?ex=68f5a65f&is=68f454df&hm=58f90d6e1799f7b5bc4341fe9cd4c5a4a6461302878744d9cb7fcaa5746de6ee&",
+    "portrait_modified": "2025-10-19 03:02:55.657986",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429303752841498717
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
