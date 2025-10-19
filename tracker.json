@@ -59861,19 +59861,23 @@
     "modreward": false,
     "name": "Mihiramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429301606792429688/portrait-0455.png?ex=68f5a45a&is=68f452da&hm=e168532baba7d47a64be875ac992113b5eb72a5e7a4d905598d9c19a3a95a28b&",
+    "portrait_modified": "2025-10-19 02:54:17.765938",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429301571333783628
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
