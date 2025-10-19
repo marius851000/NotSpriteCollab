@@ -77339,19 +77339,23 @@
     "modreward": false,
     "name": "Skullknightmon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429294130860654602/portrait-0614.png?ex=68f59d63&is=68f44be3&hm=21a76e3dd2ef7ce3189717de679588597b278df10dc7684615e4a200e22b70ef&",
+    "portrait_modified": "2025-10-19 02:24:35.482945",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429294101441810462
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
