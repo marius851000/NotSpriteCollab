@@ -63183,19 +63183,23 @@
     "modreward": false,
     "name": "Groundramon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429286938262638733/portrait-0485.png?ex=68f596b0&is=68f44530&hm=69246f493c8a8fe8e7f7e6cfeee981a76b467abcf82ff854044d0b7713246e9a&",
+    "portrait_modified": "2025-10-19 01:56:00.622557",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429286911037669458
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
