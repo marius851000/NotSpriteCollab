@@ -75415,19 +75415,23 @@
     "modreward": false,
     "name": "Blossomon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429304547293135000/portrait-0595.png?ex=68f5a717&is=68f45597&hm=af7b99e3f3623bc2e200d17c8f1e699acd15c284a297383e6d9b73687481f2cb&",
+    "portrait_modified": "2025-10-19 03:05:58.871737",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429304517848989876
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
