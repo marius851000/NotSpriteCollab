@@ -298,6 +298,16 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Vikaralamon: Normal
 		Unimon: Normal
 		Unimon Shima: Normal
+		Indaramon: Normal
+		Ancienttroiamon: Normal
+		Tobucatmon: Normal
+		Mihiramon: Normal
+		Duftmon Leopard: Normal
+		Labramon: Normal
+		Siesamon: Normal
+		Caturamon: Normal
+		Baihumon: Normal
+		Dobermon: Normal
 		Cerberumon: Normal
 		Anubimon: Normal
 		Penmon: Normal
@@ -432,6 +442,11 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Reppamon: Normal
 		Kyukimon: Normal
 		Holydramon: Normal
+		Lalamon: Normal
+		Sunflowmon: Normal
+		Lilamon: Normal
+		Lotusmon: Normal
+		Blossomon: Normal
 		Neamon: Normal
 		Bokomon: Normal
 		Monodramon: Normal
