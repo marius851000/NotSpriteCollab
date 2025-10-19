@@ -318,6 +318,13 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Coredramon: Normal
 		Coredramon Blue: Normal
 		Groundramon: Normal
+		Breakdramon: Normal
+		Wingdramon: Normal
+		Slayerdramon: Normal
+		Dracumon: Normal
+		Sangloupmon: Normal
+		Matadrmon: Normal
+		Granddracumon: Normal
 		Falcomon: Normal
 		Diatrymon: Normal
 		Yatagaramon: Normal
@@ -586,6 +593,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Ancientmegatheriumon: Normal
 		Babamon: Normal
 		Dynasmon: Normal
+		Boogiemon: Normal
 	Sprite:
 		Cinderace_Pirate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Slam,Swing,Double,Rotate,Hop
 
