@@ -74114,19 +74114,23 @@
     "modreward": false,
     "name": "Dokugumon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429293201260281886/portrait-0584.png?ex=68f59c86&is=68f44b06&hm=facc8dbc7f0e7406b697923a2a2427f7236a18ef156df92bd8f89f0b8a7d307f&",
+    "portrait_modified": "2025-10-19 02:20:53.866059",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429293166024069140
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
