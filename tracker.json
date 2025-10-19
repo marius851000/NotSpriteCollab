@@ -58708,19 +58708,23 @@
     "modreward": false,
     "name": "Koemon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429290434118811761/portrait-0445.png?ex=68f599f2&is=68f44872&hm=fe07294b9de018c7ccce6a175e33b8c028421147338d9f7b9a96cf83495c96e6&",
+    "portrait_modified": "2025-10-19 02:09:54.033567",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429290403445739550
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
