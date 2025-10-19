@@ -60362,19 +60362,23 @@
     "modreward": false,
     "name": "Caturamon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!319945906600411179>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1429303087797113034/portrait-0459.png?ex=68f5a5bb&is=68f4543b&hm=767babf607c30073434c95f1efe46d5cfaded98456d5528601b70aa6fec062fc&",
+    "portrait_modified": "2025-10-19 03:00:10.984935",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1429303053088981002
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
