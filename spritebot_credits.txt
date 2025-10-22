@@ -1010,7 +1010,7 @@ PhillipsYoung	Discord:<@!772726854188400641>	Contact:https://twitter.com/PhilliY
 Raysee	Discord:<@!1098053217620865125>	Contact:.sparkofhope
 	Portrait:
 		Niko: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
-		Bubsy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Bubsy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special1,Special2,Special3
 
 jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
 	Portrait:
