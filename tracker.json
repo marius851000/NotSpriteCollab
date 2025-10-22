@@ -38188,10 +38188,13 @@
       "Dizzy": false,
       "Special0": false,
       "Sigh": false,
-      "Stunned": false
+      "Stunned": false,
+      "Special1": false,
+      "Special2": false,
+      "Special3": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1430626333628825600/portrait-0260.png?ex=68fa7619&is=68f92499&hm=64077cafa2deabac6bfe0cd395b1086ee8655460091676fdc7d32ec2942b1c2e&",
-    "portrait_modified": "2025-09-14 21:31:57.795049",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1430678794422976726/portrait-0260.png?ex=68faa6f5&is=68f95575&hm=18089d3d01b29ba77222d02e898ab25dbdb40ccc46215a48d382003ff6671565&",
+    "portrait_modified": "2025-10-22 22:06:44.676041",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
