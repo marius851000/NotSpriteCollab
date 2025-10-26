@@ -97380,19 +97380,23 @@
     "modreward": false,
     "name": "Yumburr",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1432127711865999553/portrait-0797.png?ex=68ffec5e&is=68fe9ade&hm=7994469bc137bf641cdb27cf86b8da7afa1266e2b9184c54f8e1ea4d9c9dff15&",
+    "portrait_modified": "2025-10-26 22:04:13.723265",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1432127673525731448
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
