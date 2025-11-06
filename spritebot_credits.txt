@@ -1019,3 +1019,7 @@ jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
 		Chuchu_Sega: Normal,Happy,Pain
 		Chuchu_Sega Qmark: Normal,Happy,Pain
 
+Discord:<@!1321627422248144998>
+	Portrait:
+		Triangle: Normal
+
