@@ -97908,18 +97908,18 @@
     "modreward": false,
     "name": "Triangle",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1321627422248144998>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1434686773270675476/portrait-0802.png?ex=69093bad&is=6907ea2d&hm=66f58cd32d8decf95ee70c0eac8993ab75bb84722577c8daa1f54d961ef3f661&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1435967027591381092": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1435973229033295933/portrait-0802.png?ex=690de9c8&is=690c9848&hm=dd5d4e18bfb92671c6ce72c3a145598999cad2fcc6450f00632cb13d4f5f9141&",
+    "portrait_modified": "2025-11-06 12:44:56.502578",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
