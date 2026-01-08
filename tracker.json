@@ -98332,19 +98332,30 @@
     "modreward": false,
     "name": "Sulphur_Nimbus",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Sad": false,
+      "Teary-Eyed": false,
+      "Inspired": false,
+      "Sigh": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1458882953986707577/portrait-0806.png?ex=69614220&is=695ff0a0&hm=fb00c50a0a1adfd9efab0d933ae917dadadcd28d7abf8aab062632a890ffcfe5&",
+    "portrait_modified": "2026-01-08 18:00:00.245005",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1458882856183926964
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
