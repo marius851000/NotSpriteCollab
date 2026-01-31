@@ -1025,4 +1025,5 @@ jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
 RobertTheRob0t	Discord:<@!1321627422248144998>
 	Portrait:
 		Triangle: Normal,Happy,Pain
+		Vreed_Hunter: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
