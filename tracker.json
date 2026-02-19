@@ -98666,19 +98666,24 @@
     "modreward": false,
     "name": "Allicuca",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1473888456810692648/portrait-0808.png?ex=6997d917&is=69968797&hm=f97ed9fcbf886c394c2ecca3f07d361744ba64c6fb024852b956f6954ece9dc7&",
+    "portrait_modified": "2026-02-19 03:46:31.309231",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1473888230645698738
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
