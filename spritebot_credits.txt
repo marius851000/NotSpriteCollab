@@ -1029,3 +1029,7 @@ RobertTheRob0t	Discord:<@!1321627422248144998>
 		Triangle: Normal,Happy,Pain
 		Vreed_Hunter: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
+Discord:<@!192178759376306176>
+	Portrait:
+		Gigimon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
