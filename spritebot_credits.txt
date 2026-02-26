@@ -10,6 +10,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Leafeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Leafeon_Alternate_Shiny Alternate: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Umbreon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Gigimon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Duskako: OLD
 
@@ -1028,8 +1029,4 @@ RobertTheRob0t	Discord:<@!1321627422248144998>
 	Portrait:
 		Triangle: Normal,Happy,Pain
 		Vreed_Hunter: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
-Discord:<@!192178759376306176>
-	Portrait:
-		Gigimon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
