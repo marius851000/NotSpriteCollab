@@ -35693,75 +35693,6 @@
         }
       },
       "0001": {
-        "canon": false,
-        "modreward": true,
-        "name": "Alternate",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": true,
-        "portrait_talk": {},
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": true,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": false,
-            "modreward": true,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      },
-      "0002": {
         "canon": true,
         "modreward": false,
         "name": "Retro",
@@ -35830,7 +35761,7 @@
           }
         }
       },
-      "0003": {
+      "0002": {
         "canon": true,
         "modreward": false,
         "name": "Blue",
@@ -35899,7 +35830,7 @@
           }
         }
       },
-      "0004": {
+      "0003": {
         "canon": true,
         "modreward": false,
         "name": "Yellow",
@@ -35968,7 +35899,7 @@
           }
         }
       },
-      "0005": {
+      "0004": {
         "canon": true,
         "modreward": false,
         "name": "Red",
@@ -36037,7 +35968,7 @@
           }
         }
       },
-      "0006": {
+      "0005": {
         "canon": true,
         "modreward": false,
         "name": "Meta",
@@ -36106,7 +36037,7 @@
           }
         }
       },
-      "0007": {
+      "0006": {
         "canon": true,
         "modreward": false,
         "name": "Green",
@@ -36175,7 +36106,7 @@
           }
         }
       },
-      "0008": {
+      "0007": {
         "canon": true,
         "modreward": false,
         "name": "Smash",
@@ -36244,7 +36175,7 @@
           }
         }
       },
-      "0009": {
+      "0008": {
         "canon": true,
         "modreward": false,
         "name": "Robobot",
@@ -36313,7 +36244,7 @@
           }
         }
       },
-      "0010": {
+      "0009": {
         "canon": true,
         "modreward": false,
         "name": "Hypernova",
