@@ -74,6 +74,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://www.deviantart.com/caite
 		Sulphur_Nimbus: Normal,Sad,Happy,Inspired,Sigh,Pain,Angry,Teary-Eyed
 		Allicuca: Normal,Normal^
 		Guarice: Normal
+		Saurobrum: Normal
 	Sprite:
 		Smiley: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Ghost: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
