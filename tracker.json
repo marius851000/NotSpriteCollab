@@ -97444,19 +97444,23 @@
     "modreward": false,
     "name": "Saurobrum",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1480027606869872903/portrait-0816.png?ex=69ae2e9f&is=69acdd1f&hm=5678683f968ffa560108a901a385dd94270346fbdbdc6e8bf9fdb7a5bac38d21&",
+    "portrait_modified": "2026-03-08 02:21:18.636592",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1480027574733111336
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
