@@ -31129,19 +31129,23 @@
     "modreward": false,
     "name": "Oakapi",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1480039684821221517/portrait-0225.png?ex=69ae39de&is=69ace85e&hm=33b3b53bef7e0c527a069422f80c8d9ef1b04b53ac7269c6d10b8c6beb461986&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1480041861941825706/portrait-0225.png?ex=69ae3be5&is=69acea65&hm=f451a8889f346773dd34858309994f381fbf5dec80132e4a136cb8cc938a86ea&",
+    "portrait_modified": "2026-03-08 03:17:57.353781",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1480041825933987931
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
