@@ -81,10 +81,10 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1487236827118305380/sprite-0000.zip?ex=69c868bb&is=69c7173b&hm=540f91cb27e7b1c49cac52de582a2679502aca9eebc27662e0ab12999e247275&",
     "sprite_modified": "2026-01-07 12:07:43.753377",
     "sprite_pending": {},
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1348376182705487882/sprite_recolor-0000-0000-0001.png?ex=67cf3cad&is=67cdeb2d&hm=efb0eee541495d287b6cf8160861b38df47dcef3e75e06b4db607dabab4492b9&",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1487236799318331532/sprite_recolor-0000-0000-0001.png?ex=69c868b4&is=69c71734&hm=4255d1b8a0718703eb76cf40bba2763ddaf46850aed222f563695a71a025b995&",
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1234151362548203601
