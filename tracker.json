@@ -98022,15 +98022,11 @@
       "total": 1
     },
     "portrait_files": {
-      "Normal": false,
-      "Happy": false,
-      "Pain": false
+      "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1498506236071641118/portrait-0822.png?ex=69f1682f&is=69f016af&hm=8695771543e5edb498cfaf1b4fc2135a332d2295c5f21b0ed953fd213fe67638&",
-    "portrait_modified": "2026-04-28 02:08:47.206248",
-    "portrait_pending": {
-      "1498813408005328897": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1498815511847506040/portrait-0822.png?ex=69f28838&is=69f136b8&hm=0a0b5313c64a0275e8bc691c8a88d840e89a426760e3218058d9aca06db0f6fc&",
+    "portrait_modified": "2026-04-28 22:37:44.313563",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
