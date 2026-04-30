@@ -98037,16 +98037,17 @@
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!1058057407592407081>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1499509989415456788/sprite-0822.zip?ex=69f50f01&is=69f3bd81&hm=d9cf85b5e1bdd070c18d26c183f83b64a8cf82d59eeb0e1c4888a9671ca70b22&",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1499512380252622950": 948263579805683752
+    "sprite_files": {
+      "Idle": false,
+      "Sleep": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1499525743988838462/sprite-0822.zip?ex=69f51dad&is=69f3cc2d&hm=28c6350ba8ff4ae281cd6f2fdeefc471879837eef2a09ed20490bc397252265c&",
+    "sprite_modified": "2026-04-30 21:39:56.756759",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
