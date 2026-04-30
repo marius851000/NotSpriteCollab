@@ -928,6 +928,14 @@ RAYTRAC3R	Discord:<@!597605988438376468>	Contact:https://github.com/RAYTRAC3R
 	Sprite:
 		Firey: Idle,Walk,Swing,Double,Rotate
 
+jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
+	Portrait:
+		Chuchu_Sega: Normal,Happy,Pain
+		Chuchu_Sega Qmark: Normal,Happy,Pain
+		Gatlingpea: Normal,Happy,Pain
+	Sprite:
+		Gatlingpea: Idle,Sleep
+
 Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
 	Portrait:
 		Duskako: OLD
@@ -1025,12 +1033,6 @@ Raysee	Discord:<@!1098053217620865125>	Contact:.sparkofhope
 	Portrait:
 		Niko: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Bubsy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special1,Special2,Special3
-
-jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
-	Portrait:
-		Chuchu_Sega: Normal,Happy,Pain
-		Chuchu_Sega Qmark: Normal,Happy,Pain
-		Gatlingpea: Normal,Happy,Pain
 
 RobertTheRob0t	Discord:<@!1321627422248144998>
 	Portrait:
