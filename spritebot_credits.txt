@@ -822,6 +822,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Varwolf Yellow: Normal
 		Varwolf Island: Normal
 		Dandy: Normal,Pain
+		Dandy Twisted: Normal
 		Dandy Poppy: Normal
 		Dandy Boxten: Normal
 		Dandy Astro: Normal
