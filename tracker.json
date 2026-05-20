@@ -27699,18 +27699,18 @@
         "modreward": false,
         "name": "Twisted",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1506725084381974548": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1506735609497260183/portrait-0221-0001.png?ex=6a0f5863&is=6a0e06e3&hm=7fc3620a0f6417d7159919ac84db7443907187e304160a09b17849ad4e4424e3&",
+        "portrait_modified": "2026-05-20 19:09:22.351998",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
