@@ -28577,16 +28577,16 @@
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1508974762867691680": 948263579805683752
-        },
+        "portrait_modified": "2026-05-26 23:58:39.102716",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -30650,18 +30650,19 @@
         "modreward": false,
         "name": "Squirm",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1508974876793241754": 948263579805683752
+        "portrait_files": {
+          "Normal": false,
+          "Teary-Eyed": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1508982736533328092/portrait-0221-0041.png?ex=6a17852f&is=6a1633af&hm=148881be659ff23260aa54905051295732031a11409b1782183be26b08b1624e&",
+        "portrait_modified": "2026-05-26 23:58:38.511961",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
