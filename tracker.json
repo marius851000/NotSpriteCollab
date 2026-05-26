@@ -28575,7 +28575,7 @@
         "modreward": false,
         "name": "Teagan",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!262065429109932035>",
           "secondary": [],
@@ -28584,7 +28584,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1508982768070164723/portrait-0221-0013.png?ex=6a178537&is=6a1633b7&hm=b9dc5cf8b8a4c03bfec24124a573bb8cbd240164ca70b01d992fa364126dc4f0&",
         "portrait_modified": "2026-05-26 23:58:39.102716",
         "portrait_pending": {},
         "portrait_recolor_link": "",
