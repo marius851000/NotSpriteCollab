@@ -939,7 +939,7 @@ jeltemreal	Discord:<@!1058057407592407081>	Contact:youtube.com/@jeltemreal
 	Sprite:
 		Gatlingpea: Idle,Sleep
 
-Discord:<@!235162117785911297>
+Charry	Discord:<@!235162117785911297>	Contact:<@235162117785911297>
 	Sprite:
 		Breadbug: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
