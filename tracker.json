@@ -98569,19 +98569,23 @@
     "modreward": false,
     "name": "Spinda_Alternative_Pattern",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!257709582422507530>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1511902072289890424/portrait-0826.png?ex=6a222407&is=6a20d287&hm=90136c9a8dc7bcfe415544a7a8aec2daa9556bc945536878a2d58bee668c449b&",
+    "portrait_modified": "2026-06-04 01:19:03.390910",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1511900825918636196
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
