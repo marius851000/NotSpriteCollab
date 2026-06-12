@@ -98572,8 +98572,10 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!257709582422507530>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!861005464682889266>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Normal": false,
@@ -98594,7 +98596,7 @@
       "Stunned": false
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1514822080062034072/portrait-0826.png?ex=6a2cc37f&is=6a2b71ff&hm=f6ec1597e19ed8e64d0614eb0e3d82805c6b431e8759612e3124ff7d3f6938ac&",
-    "portrait_modified": "2026-06-12 02:42:07.483470",
+    "portrait_modified": "2026-06-12 02:55:32.410040",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
