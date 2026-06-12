@@ -98569,20 +98569,33 @@
     "modreward": false,
     "name": "Spinda_Alternative_Pattern",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!257709582422507530>",
       "secondary": [],
       "total": 1
     },
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1514818819195932692/portrait-0826.png?ex=6a2cc076&is=6a2b6ef6&hm=77789eed720079864109551e1195dd5ad3c5742182e17f27ddb1bd271c1a3ac3&",
-    "portrait_modified": "2026-06-04 01:40:27.459217",
-    "portrait_pending": {
-      "1514818831661404391": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1514822080062034072/portrait-0826.png?ex=6a2cc37f&is=6a2b71ff&hm=f6ec1597e19ed8e64d0614eb0e3d82805c6b431e8759612e3124ff7d3f6938ac&",
+    "portrait_modified": "2026-06-12 02:42:07.483470",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
