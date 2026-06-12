@@ -1048,3 +1048,7 @@ RobertTheRob0t	Discord:<@!1321627422248144998>
 		Triangle: Normal,Happy,Pain
 		Vreed_Hunter: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
+Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
+	Portrait:
+		Spinda_Alternative_Pattern: Happy,Crying,Inspired,Sigh,Pain,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
