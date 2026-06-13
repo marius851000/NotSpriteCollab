@@ -27580,12 +27580,16 @@
               "total": 0
             },
             "portrait_files": {},
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1515155187818299502/portrait-0220-0000-0001.png?ex=6a2df9ba&is=6a2ca83a&hm=c04b63cd7640359eeeb9612f7ab5c44ecec0cce613ab07d1a06be19971c4fb1b&",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1515155708604055704": 948263579805683752
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1515155703147397280
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
