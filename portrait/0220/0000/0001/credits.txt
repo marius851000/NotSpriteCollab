@@ -1,1 +1,2 @@
 2026-06-13 01:17:21.325990	<@!702275233125630042>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2026-06-16 10:33:12.803982	<@!702275233125630042>	CUR	CC_BY-NC_4	Stunned
