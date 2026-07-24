@@ -99655,9 +99655,11 @@
       "Sigh": false,
       "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1529528922801438950/portrait-0833.png?ex=6a624450&is=6a60f2d0&hm=62318e954c8ff82ff31cc45e2a99c0ab5a2bf7f94f05cf45c0c7d64b4eb53478&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530135302402998369/portrait-0833.png?ex=6a64790c&is=6a63278c&hm=541ab4c017d1772ef91e0678d7cfc40694f82239eb3f1f8950d58d27167718de&",
     "portrait_modified": "2026-07-22 16:41:52.029679",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1530135317779058758": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
