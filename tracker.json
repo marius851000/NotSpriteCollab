@@ -99676,7 +99676,6 @@
       "Strike": false,
       "Shoot": false,
       "SpAttack": false,
-      "Twirl": false,
       "Sleep": false,
       "Hurt": false,
       "Idle": false,
@@ -99706,15 +99705,11 @@
       "LostBalance": false,
       "TumbleBack": false,
       "Faint": false,
-      "HitGround": false,
-      "MultiStrike": false,
-      "Dance": false
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1529525551549775903/sprite-0833.zip?ex=6a62412c&is=6a60efac&hm=e8f685ce6794a47ae6a0ecd5bf6cb3f35a282db97b12337934a443e8e2b4136c&",
-    "sprite_modified": "2026-07-22 16:28:27.761366",
-    "sprite_pending": {
-      "1529856598762066070": 948263579805683752
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530013027494269009/sprite-0833.zip?ex=6a64072c&is=6a62b5ac&hm=930be9ee83b416cfb39245c09f7106ad3e4411a288429839a74d33dd2afb969d&",
+    "sprite_modified": "2026-07-24 00:45:31.377835",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
