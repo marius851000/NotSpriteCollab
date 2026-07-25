@@ -100002,5 +100002,114 @@
         }
       }
     }
+  },
+  "0836": {
+    "canon": true,
+    "modreward": false,
+    "name": "Katress",
+    "portrait_bounty": {},
+    "portrait_complete": 1,
+    "portrait_credit": {
+      "primary": "<@!544245909639397378>",
+      "secondary": [],
+      "total": 1
+    },
+    "portrait_files": {
+      "Normal": false,
+      "Special1": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530724314192810166/portrait-0836.png?ex=6a669d9b&is=6a654c1b&hm=c396b74a7f29df481b4a8ec296f943aff95389df41ca73afe00b7ff95a7cbbaf&",
+    "portrait_modified": "2026-07-25 23:51:55.659161",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {
+      "918857608591458364": 1530724276267646988
+    },
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "",
+    "sprite_modified": "",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {},
+    "subgroups": {
+      "0000": {
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "subgroups": {}
+          }
+        }
+      }
+    }
   }
 }
