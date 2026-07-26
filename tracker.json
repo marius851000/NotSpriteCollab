@@ -100499,10 +100499,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1530732386705477744": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1530732301095407817
+    },
     "subgroups": {
       "0000": {
         "canon": true,
@@ -100580,19 +100584,38 @@
     "modreward": false,
     "name": "Vilucard",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530732829330243785/portrait-0840.png?ex=6a66a58a&is=6a65540a&hm=008e5a91a466bd4210d78419f117089d259377003b42b158eb0245cb975c7ead&",
+    "portrait_modified": "2026-07-26 00:25:45.783629",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1530731789696634982
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
@@ -100603,10 +100626,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1530732791396958290": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1530732671947374674
+    },
     "subgroups": {
       "0000": {
         "canon": true,
