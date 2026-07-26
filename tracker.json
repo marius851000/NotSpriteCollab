@@ -100784,10 +100784,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1530735545511051265": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "918857608591458364": 1530735430360633475
+    },
     "subgroups": {
       "0000": {
         "canon": true,
