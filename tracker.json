@@ -101064,10 +101064,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1530741003781275839": 948263579805683752
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1530740999096111174
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -101078,10 +101082,14 @@
         "sprite_files": {},
         "sprite_link": "",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1530741583782084859": 948263579805683752
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "sprite_talk": {},
+        "sprite_talk": {
+          "918857608591458364": 1530741502517579887
+        },
         "subgroups": {
           "0001": {
             "canon": true,
