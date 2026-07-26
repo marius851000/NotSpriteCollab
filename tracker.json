@@ -100757,18 +100757,33 @@
     "modreward": false,
     "name": "Shadow_The_Hedgehog",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1530734083481800724": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530739116323635391/portrait-0841.png?ex=6a66ab65&is=6a6559e5&hm=444b6a415c71f6fbd405a84fd8471eb57a9e2870867ef8fd343d5fbd106a4343&",
+    "portrait_modified": "2026-07-26 00:50:44.615675",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
