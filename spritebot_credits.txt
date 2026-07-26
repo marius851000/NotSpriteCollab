@@ -700,6 +700,30 @@ Sunk	Discord:<@!452153823012847636>
 		Mamel Cave Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Mamel Gitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
+baronessfaron	Discord:<@!544245909639397378>
+	Portrait:
+		Lunapup: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Leafeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Jolteon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Espeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Flareon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Gengar_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Chillet: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Chillet Ignis: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dark_Mutant: Normal
+		Lunaris: Normal
+		Katress: Normal,Special1
+		Ribbuny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
+		Faunazon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Minyan: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Lunapup: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Koppa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
+		Chillet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Chillet Ignis: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Ribbuny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike,EventSleep
+		Faunazon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
+
 AURA	Discord:<@!311408582128173056>
 	Portrait:
 		Zniw: Normal,Happy,Angry,Special0
@@ -740,26 +764,6 @@ Mudkid	Discord:<@!530939837839310849>	Contact:https://twitter.com/OnePunchMudkip
 		H: Normal,Sad,Joyous,Happy,Crying,Sigh,Pain,Surprised,Angry,Worried
 	Sprite:
 		H: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-
-baronessfaron	Discord:<@!544245909639397378>
-	Portrait:
-		Leafeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Jolteon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Espeon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Flareon_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Gengar_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Chillet: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Chillet Ignis: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Dark_Mutant: Normal
-		Lunaris: Normal
-		Katress: Normal,Special1
-		Ribbuny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
-		Faunazon: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-	Sprite:
-		Koppa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
-		Chillet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Chillet Ignis: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Ribbuny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike,EventSleep
 
 Bird_Obsession	Discord:<@!521875202389311489>	Contact:""
 	Portrait:
