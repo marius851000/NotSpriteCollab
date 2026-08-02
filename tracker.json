@@ -18682,19 +18682,23 @@
     "modreward": false,
     "name": "Dandylion",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1533303515647316040/portrait-0152.png?ex=6a6fffad&is=6a6eae2d&hm=c09563f0ba22dac56b9929a68afa664c7b25a95bd7c8b786f356dd291a314c18&",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1533303857470373938/portrait-0152.png?ex=6a6fffff&is=6a6eae7f&hm=c70159d4157012c81408dec207b3c388f8c565cbf0e060c0892d1ce7a37dee05&",
+    "portrait_modified": "2026-08-02 02:42:06.630267",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1533303827984416828
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
