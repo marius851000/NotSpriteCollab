@@ -99220,18 +99220,33 @@
     "modreward": false,
     "name": "Eeveon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1533956297429618918": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1533961498769101021/portrait-0830.png?ex=6a726478&is=6a7112f8&hm=ab6b7433319cecf2511d09521fba4423cf968748096d17736d79b3d1567092b3&",
+    "portrait_modified": "2026-08-03 22:15:20.404068",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
