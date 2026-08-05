@@ -5977,7 +5977,7 @@
               "Worried": false,
               "Dizzy": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1534376554702966864/portrait-0038-0000-0001.png?ex=6a73e705&is=6a729585&hm=752f1d1860ccad815e4360f3a4e129451d406d46ca8967a47195ecb85d5e1a3e&",
             "portrait_modified": "2026-01-07 12:07:43.699077",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -101488,19 +101488,24 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!330751862590406656>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_files": {
+              "Normal": false,
+              "Normal^": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1534376641424265356/portrait-0846-0000-0001.png?ex=6a73e71a&is=6a72959a&hm=14fc442928507a66785a179580b85ace6055dd608273a82a5c72484f9f9490c0&",
+            "portrait_modified": "2026-08-05 01:44:56.875660",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1534376608117293249
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
