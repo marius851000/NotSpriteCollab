@@ -1,0 +1,1 @@
+2025-09-09 16:46:13.002838	<@!465274114752512001>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Charge,Rotate
