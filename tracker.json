@@ -14090,18 +14090,18 @@
     "modreward": false,
     "name": "Snoopin",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!262065429109932035>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1534668187457814678": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1534669718110343168/portrait-0109.png?ex=6a74f80d&is=6a73a68d&hm=0d599fe6d397f797291c560881922da6df6c68b5b96f2b6a45f9d1a4bfa88720&",
+    "portrait_modified": "2026-08-05 21:09:33.170364",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
