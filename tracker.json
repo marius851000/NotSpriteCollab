@@ -90782,18 +90782,33 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!544245909639397378>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "1534791580085387344": 948263579805683752
+            "portrait_files": {
+              "Normal": false,
+              "Happy": false,
+              "Pain": false,
+              "Angry": false,
+              "Worried": false,
+              "Sad": false,
+              "Crying": false,
+              "Shouting": false,
+              "Teary-Eyed": false,
+              "Determined": false,
+              "Joyous": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Dizzy": false,
+              "Sigh": false,
+              "Stunned": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1534872287872811008/portrait-0755-0000-0001.png?ex=6a75b4b5&is=6a746335&hm=8402ea55d0d55c7616f5bd9de65d1ea96adce927a11c9496b2f34508ce985edf&",
+            "portrait_modified": "2026-08-06 10:34:29.465447",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
