@@ -88224,110 +88224,6 @@
   "0736": {
     "canon": true,
     "modreward": false,
-    "name": "Urayne",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "portrait_talk": {},
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "sprite_talk": {},
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "portrait_talk": {},
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0737": {
-    "canon": true,
-    "modreward": false,
     "name": "Sulphur_Nimbus",
     "portrait_bounty": {},
     "portrait_complete": 1,
@@ -88536,7 +88432,7 @@
       }
     }
   },
-  "0738": {
+  "0737": {
     "canon": true,
     "modreward": false,
     "name": "Vreed_Hunter",
@@ -88659,7 +88555,7 @@
       }
     }
   },
-  "0739": {
+  "0738": {
     "canon": true,
     "modreward": false,
     "name": "Allicuca",
@@ -88768,7 +88664,7 @@
       }
     }
   },
-  "0740": {
+  "0739": {
     "canon": true,
     "modreward": false,
     "name": "Guarice",
@@ -88876,7 +88772,7 @@
       }
     }
   },
-  "0741": {
+  "0740": {
     "canon": true,
     "modreward": false,
     "name": "Gigimon",
@@ -89037,7 +88933,7 @@
       }
     }
   },
-  "0742": {
+  "0741": {
     "canon": true,
     "modreward": false,
     "name": "Kotora",
@@ -89141,7 +89037,7 @@
       }
     }
   },
-  "0743": {
+  "0742": {
     "canon": true,
     "modreward": false,
     "name": "Raitora",
@@ -89245,7 +89141,7 @@
       }
     }
   },
-  "0744": {
+  "0743": {
     "canon": true,
     "modreward": false,
     "name": "Saurobrum",
@@ -89353,7 +89249,7 @@
       }
     }
   },
-  "0745": {
+  "0744": {
     "canon": true,
     "modreward": false,
     "name": "Brazaur",
@@ -89461,7 +89357,7 @@
       }
     }
   },
-  "0746": {
+  "0745": {
     "canon": true,
     "modreward": false,
     "name": "Mystekh",
@@ -89569,7 +89465,7 @@
       }
     }
   },
-  "0747": {
+  "0746": {
     "canon": true,
     "modreward": false,
     "name": "Gatlingpea",
@@ -89684,7 +89580,7 @@
       }
     }
   },
-  "0748": {
+  "0747": {
     "canon": true,
     "modreward": false,
     "name": "Selyne",
@@ -89790,7 +89686,7 @@
       }
     }
   },
-  "0749": {
+  "0748": {
     "canon": true,
     "modreward": false,
     "name": "Breadbug",
@@ -89933,7 +89829,7 @@
       }
     }
   },
-  "0750": {
+  "0749": {
     "canon": true,
     "modreward": false,
     "name": "Spinda_Alternative_Pattern",
@@ -90127,7 +90023,7 @@
       }
     }
   },
-  "0751": {
+  "0750": {
     "canon": true,
     "modreward": false,
     "name": "Gloopie",
@@ -90288,7 +90184,7 @@
       }
     }
   },
-  "0752": {
+  "0751": {
     "canon": true,
     "modreward": false,
     "name": "Jelliette",
@@ -90449,7 +90345,7 @@
       }
     }
   },
-  "0753": {
+  "0752": {
     "canon": true,
     "modreward": false,
     "name": "Venusa",
@@ -90588,7 +90484,7 @@
       }
     }
   },
-  "0754": {
+  "0753": {
     "canon": true,
     "modreward": false,
     "name": "Eeveon",
@@ -90730,7 +90626,7 @@
       }
     }
   },
-  "0755": {
+  "0754": {
     "canon": true,
     "modreward": false,
     "name": "Dusteon",
@@ -90834,7 +90730,7 @@
       }
     }
   },
-  "0756": {
+  "0755": {
     "canon": true,
     "modreward": false,
     "name": "Lamball",
@@ -90995,7 +90891,7 @@
       }
     }
   },
-  "0757": {
+  "0756": {
     "canon": true,
     "modreward": false,
     "name": "Sekhmet",
@@ -91156,7 +91052,7 @@
       }
     }
   },
-  "0758": {
+  "0757": {
     "canon": true,
     "modreward": false,
     "name": "Dark_Mutant",
@@ -91264,7 +91160,7 @@
       }
     }
   },
-  "0759": {
+  "0758": {
     "canon": true,
     "modreward": false,
     "name": "Lunaris",
@@ -91372,7 +91268,7 @@
       }
     }
   },
-  "0760": {
+  "0759": {
     "canon": true,
     "modreward": false,
     "name": "Katress",
@@ -91481,7 +91377,7 @@
       }
     }
   },
-  "0761": {
+  "0760": {
     "canon": true,
     "modreward": false,
     "name": "Ribbuny",
@@ -91622,7 +91518,7 @@
       }
     }
   },
-  "0762": {
+  "0761": {
     "canon": true,
     "modreward": false,
     "name": "Faunazon",
@@ -91763,7 +91659,7 @@
       }
     }
   },
-  "0763": {
+  "0762": {
     "canon": true,
     "modreward": false,
     "name": "Minyan",
@@ -91924,7 +91820,7 @@
       }
     }
   },
-  "0764": {
+  "0763": {
     "canon": true,
     "modreward": false,
     "name": "Vilucard",
@@ -92063,7 +91959,7 @@
       }
     }
   },
-  "0765": {
+  "0764": {
     "canon": true,
     "modreward": false,
     "name": "Shadow_The_Hedgehog",
@@ -92224,7 +92120,7 @@
       }
     }
   },
-  "0766": {
+  "0765": {
     "canon": true,
     "modreward": false,
     "name": "Fairy",
@@ -92467,7 +92363,7 @@
       }
     }
   },
-  "0767": {
+  "0766": {
     "canon": true,
     "modreward": false,
     "name": "Panthalus",
@@ -92592,7 +92488,7 @@
       }
     }
   },
-  "0768": {
+  "0767": {
     "canon": true,
     "modreward": false,
     "name": "Jetragon",
@@ -92700,7 +92596,7 @@
       }
     }
   },
-  "0769": {
+  "0768": {
     "canon": true,
     "modreward": false,
     "name": "Jadeon",
@@ -92804,7 +92700,7 @@
       }
     }
   },
-  "0770": {
+  "0769": {
     "canon": true,
     "modreward": false,
     "name": "Loamole",
