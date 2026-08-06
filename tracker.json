@@ -13167,110 +13167,6 @@
   "0106": {
     "canon": true,
     "modreward": false,
-    "name": "Jormungold",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "portrait_talk": {},
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "sprite_talk": {},
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "portrait_talk": {},
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0107": {
-    "canon": true,
-    "modreward": false,
     "name": "Ramtasm",
     "portrait_bounty": {},
     "portrait_complete": 1,
@@ -13376,7 +13272,7 @@
       }
     }
   },
-  "0108": {
+  "0107": {
     "canon": true,
     "modreward": false,
     "name": "Zombleat",
@@ -13484,7 +13380,7 @@
       }
     }
   },
-  "0109": {
+  "0108": {
     "canon": true,
     "modreward": false,
     "name": "Dandylion",
@@ -13592,7 +13488,7 @@
       }
     }
   },
-  "0110": {
+  "0109": {
     "canon": true,
     "modreward": false,
     "name": "Macabra",
@@ -13700,7 +13596,7 @@
       }
     }
   },
-  "0111": {
+  "0110": {
     "canon": true,
     "modreward": false,
     "name": "Magneton_Joes",
@@ -13826,7 +13722,7 @@
       }
     }
   },
-  "0112": {
+  "0111": {
     "canon": true,
     "modreward": false,
     "name": "Eevee_Alola",
@@ -14038,7 +13934,7 @@
       }
     }
   },
-  "0113": {
+  "0112": {
     "canon": true,
     "modreward": false,
     "name": "John_Homestuck",
@@ -14144,7 +14040,7 @@
       }
     }
   },
-  "0114": {
+  "0113": {
     "canon": true,
     "modreward": false,
     "name": "H",
@@ -14300,7 +14196,7 @@
       }
     }
   },
-  "0115": {
+  "0114": {
     "canon": true,
     "modreward": false,
     "name": "Paradox_Mew",
@@ -14426,7 +14322,7 @@
       }
     }
   },
-  "0116": {
+  "0115": {
     "canon": true,
     "modreward": false,
     "name": "Koppa",
@@ -14558,7 +14454,7 @@
       }
     }
   },
-  "0117": {
+  "0116": {
     "canon": true,
     "modreward": false,
     "name": "Omnicron",
@@ -14685,7 +14581,7 @@
       }
     }
   },
-  "0118": {
+  "0117": {
     "canon": true,
     "modreward": false,
     "name": "Altaria_Scarf",
@@ -14825,7 +14721,7 @@
       }
     }
   },
-  "0119": {
+  "0118": {
     "canon": true,
     "modreward": false,
     "name": "Leafeon_Alternate_Shiny",
@@ -15096,7 +14992,7 @@
       }
     }
   },
-  "0120": {
+  "0119": {
     "canon": true,
     "modreward": false,
     "name": "Jolteon_Alternate_Shiny",
@@ -15259,7 +15155,7 @@
       }
     }
   },
-  "0121": {
+  "0120": {
     "canon": true,
     "modreward": false,
     "name": "Espeon_Alternate_Shiny",
@@ -15401,7 +15297,7 @@
       }
     }
   },
-  "0122": {
+  "0121": {
     "canon": true,
     "modreward": false,
     "name": "Flareon_Alternate_Shiny",
@@ -15565,7 +15461,7 @@
       }
     }
   },
-  "0123": {
+  "0122": {
     "canon": true,
     "modreward": false,
     "name": "Umbreon_Alternate_Shiny",
@@ -15843,7 +15739,7 @@
       }
     }
   },
-  "0124": {
+  "0123": {
     "canon": true,
     "modreward": false,
     "name": "Gastly_Alternate_Shiny",
@@ -15984,7 +15880,7 @@
       }
     }
   },
-  "0125": {
+  "0124": {
     "canon": true,
     "modreward": false,
     "name": "Haunter_Alternate_Shiny",
@@ -16132,7 +16028,7 @@
       }
     }
   },
-  "0126": {
+  "0125": {
     "canon": true,
     "modreward": false,
     "name": "Gengar_Alternate_Shiny",
@@ -16304,7 +16200,7 @@
       }
     }
   },
-  "0127": {
+  "0126": {
     "canon": true,
     "modreward": false,
     "name": "Garchomp_Alternate_Shiny",
@@ -16447,7 +16343,7 @@
       }
     }
   },
-  "0128": {
+  "0127": {
     "canon": true,
     "modreward": false,
     "name": "Chillet",
@@ -16738,7 +16634,7 @@
       }
     }
   },
-  "0129": {
+  "0128": {
     "canon": true,
     "modreward": false,
     "name": "Macarim",
@@ -16846,7 +16742,7 @@
       }
     }
   },
-  "0130": {
+  "0129": {
     "canon": true,
     "modreward": false,
     "name": "Guarilla",
@@ -16954,7 +16850,7 @@
       }
     }
   },
-  "0131": {
+  "0130": {
     "canon": true,
     "modreward": false,
     "name": "Flaguar",
@@ -17062,7 +16958,7 @@
       }
     }
   },
-  "0132": {
+  "0131": {
     "canon": true,
     "modreward": false,
     "name": "Flatirica",
@@ -17170,7 +17066,7 @@
       }
     }
   },
-  "0133": {
+  "0132": {
     "canon": true,
     "modreward": false,
     "name": "Jaguarze",
@@ -17278,7 +17174,7 @@
       }
     }
   },
-  "0134": {
+  "0133": {
     "canon": true,
     "modreward": false,
     "name": "Magnetmill",
@@ -17405,7 +17301,7 @@
       }
     }
   },
-  "0135": {
+  "0134": {
     "canon": true,
     "modreward": false,
     "name": "Vanterra",
@@ -17528,7 +17424,7 @@
       }
     }
   },
-  "0136": {
+  "0135": {
     "canon": true,
     "modreward": false,
     "name": "Dillon",
@@ -17652,7 +17548,7 @@
       }
     }
   },
-  "0137": {
+  "0136": {
     "canon": true,
     "modreward": false,
     "name": "Russ",
@@ -17775,7 +17671,7 @@
       }
     }
   },
-  "0138": {
+  "0137": {
     "canon": true,
     "modreward": false,
     "name": "Ninji",
@@ -17902,7 +17798,7 @@
       }
     }
   },
-  "0139": {
+  "0138": {
     "canon": true,
     "modreward": false,
     "name": "Suriqua",
@@ -18010,7 +17906,7 @@
       }
     }
   },
-  "0140": {
+  "0139": {
     "canon": true,
     "modreward": false,
     "name": "Kokoala",
@@ -18122,7 +18018,7 @@
       }
     }
   },
-  "0141": {
+  "0140": {
     "canon": true,
     "modreward": false,
     "name": "Pyroo",
@@ -18264,7 +18160,7 @@
       }
     }
   },
-  "0142": {
+  "0141": {
     "canon": true,
     "modreward": false,
     "name": "Taplat",
@@ -18376,7 +18272,7 @@
       }
     }
   },
-  "0143": {
+  "0142": {
     "canon": true,
     "modreward": false,
     "name": "Wallopy",
@@ -18488,7 +18384,7 @@
       }
     }
   },
-  "0144": {
+  "0143": {
     "canon": true,
     "modreward": false,
     "name": "Platsplash",
@@ -18600,7 +18496,7 @@
       }
     }
   },
-  "0145": {
+  "0144": {
     "canon": true,
     "modreward": false,
     "name": "Cocombat",
@@ -18712,7 +18608,7 @@
       }
     }
   },
-  "0146": {
+  "0145": {
     "canon": true,
     "modreward": false,
     "name": "Jumblitz",
@@ -18824,7 +18720,7 @@
       }
     }
   },
-  "0147": {
+  "0146": {
     "canon": true,
     "modreward": false,
     "name": "Psykapp",
@@ -18932,7 +18828,7 @@
       }
     }
   },
-  "0148": {
+  "0147": {
     "canon": true,
     "modreward": false,
     "name": "Dropokol",
@@ -19040,7 +18936,7 @@
       }
     }
   },
-  "0149": {
+  "0148": {
     "canon": true,
     "modreward": false,
     "name": "Varwolf",
@@ -19440,7 +19336,7 @@
       }
     }
   },
-  "0150": {
+  "0149": {
     "canon": true,
     "modreward": false,
     "name": "Aereon",
@@ -19582,7 +19478,7 @@
       }
     }
   },
-  "0151": {
+  "0150": {
     "canon": true,
     "modreward": false,
     "name": "Dandy",
@@ -22716,7 +22612,7 @@
       }
     }
   },
-  "0152": {
+  "0151": {
     "canon": true,
     "modreward": false,
     "name": "Chirithy",
@@ -22912,7 +22808,7 @@
       }
     }
   },
-  "0153": {
+  "0152": {
     "canon": true,
     "modreward": false,
     "name": "Surfing_Pikachu",
@@ -23092,7 +22988,7 @@
       }
     }
   },
-  "0154": {
+  "0153": {
     "canon": true,
     "modreward": false,
     "name": "Giroot",
@@ -23201,7 +23097,7 @@
       }
     }
   },
-  "0155": {
+  "0154": {
     "canon": true,
     "modreward": false,
     "name": "Oakapi",
@@ -23309,7 +23205,7 @@
       }
     }
   },
-  "0156": {
+  "0155": {
     "canon": true,
     "modreward": false,
     "name": "Gingerbrave",
@@ -23432,7 +23328,7 @@
       }
     }
   },
-  "0157": {
+  "0156": {
     "canon": true,
     "modreward": false,
     "name": "Larry_Bs",
@@ -23705,7 +23601,7 @@
       }
     }
   },
-  "0158": {
+  "0157": {
     "canon": true,
     "modreward": false,
     "name": "Lawrie_Bs",
@@ -23901,7 +23797,7 @@
       }
     }
   },
-  "0159": {
+  "0158": {
     "canon": true,
     "modreward": false,
     "name": "R_T_Bs",
@@ -24009,7 +23905,7 @@
       }
     }
   },
-  "0160": {
+  "0159": {
     "canon": true,
     "modreward": false,
     "name": "Steve_Alternate_Orange",
@@ -24121,7 +24017,7 @@
       }
     }
   },
-  "0161": {
+  "0160": {
     "canon": true,
     "modreward": false,
     "name": "Mewdas",
@@ -24379,7 +24275,7 @@
       }
     }
   },
-  "0162": {
+  "0161": {
     "canon": true,
     "modreward": false,
     "name": "Otis_Bs",
@@ -24487,7 +24383,7 @@
       }
     }
   },
-  "0163": {
+  "0162": {
     "canon": true,
     "modreward": false,
     "name": "Niko",
@@ -24614,7 +24510,7 @@
       }
     }
   },
-  "0164": {
+  "0163": {
     "canon": true,
     "modreward": false,
     "name": "Owol",
@@ -24799,7 +24695,7 @@
       }
     }
   },
-  "0165": {
+  "0164": {
     "canon": true,
     "modreward": false,
     "name": "Plipo",
@@ -24913,7 +24809,7 @@
       }
     }
   },
-  "0166": {
+  "0165": {
     "canon": true,
     "modreward": false,
     "name": "Royalpear_Tropius",
@@ -25098,7 +24994,7 @@
       }
     }
   },
-  "0167": {
+  "0166": {
     "canon": true,
     "modreward": false,
     "name": "Claptrap",
@@ -25206,7 +25102,7 @@
       }
     }
   },
-  "0168": {
+  "0167": {
     "canon": true,
     "modreward": false,
     "name": "Gubby",
@@ -25314,7 +25210,7 @@
       }
     }
   },
-  "0169": {
+  "0168": {
     "canon": true,
     "modreward": false,
     "name": "Smg4",
@@ -25860,7 +25756,7 @@
       }
     }
   },
-  "0170": {
+  "0169": {
     "canon": true,
     "modreward": false,
     "name": "Jeff_Shark",
@@ -25983,7 +25879,7 @@
       }
     }
   },
-  "0171": {
+  "0170": {
     "canon": true,
     "modreward": false,
     "name": "Scamp",
@@ -26091,7 +25987,7 @@
       }
     }
   },
-  "0172": {
+  "0171": {
     "canon": true,
     "modreward": false,
     "name": "Sommie",
@@ -26214,7 +26110,7 @@
       }
     }
   },
-  "0173": {
+  "0172": {
     "canon": true,
     "modreward": false,
     "name": "Kirby",
@@ -26322,7 +26218,7 @@
       }
     }
   },
-  "0174": {
+  "0173": {
     "canon": true,
     "modreward": false,
     "name": "Dragon_Cr",
@@ -26430,7 +26326,7 @@
       }
     }
   },
-  "0175": {
+  "0174": {
     "canon": true,
     "modreward": false,
     "name": "Rabbid",
@@ -26538,7 +26434,7 @@
       }
     }
   },
-  "0176": {
+  "0175": {
     "canon": true,
     "modreward": false,
     "name": "Ouroboros",
@@ -26715,7 +26611,7 @@
       }
     }
   },
-  "0177": {
+  "0176": {
     "canon": true,
     "modreward": false,
     "name": "Hornet",
@@ -26829,7 +26725,7 @@
       }
     }
   },
-  "0178": {
+  "0177": {
     "canon": true,
     "modreward": false,
     "name": "Banana",
@@ -26995,7 +26891,7 @@
       }
     }
   },
-  "0179": {
+  "0178": {
     "canon": true,
     "modreward": false,
     "name": "Boo_Flat",
@@ -27131,7 +27027,7 @@
       }
     }
   },
-  "0180": {
+  "0179": {
     "canon": true,
     "modreward": false,
     "name": "Bubsy",
@@ -27258,7 +27154,7 @@
       }
     }
   },
-  "0181": {
+  "0180": {
     "canon": true,
     "modreward": false,
     "name": "Firey",
@@ -27375,7 +27271,7 @@
       }
     }
   },
-  "0182": {
+  "0181": {
     "canon": true,
     "modreward": false,
     "name": "Sonic_Boom",
@@ -27500,7 +27396,7 @@
       }
     }
   },
-  "0183": {
+  "0182": {
     "canon": true,
     "modreward": false,
     "name": "Meepit",
@@ -27608,7 +27504,7 @@
       }
     }
   },
-  "0184": {
+  "0183": {
     "canon": true,
     "modreward": false,
     "name": "Hissear",
@@ -27716,7 +27612,7 @@
       }
     }
   },
-  "0185": {
+  "0184": {
     "canon": true,
     "modreward": false,
     "name": "Laviper",
@@ -27824,7 +27720,7 @@
       }
     }
   },
-  "0186": {
+  "0185": {
     "canon": true,
     "modreward": false,
     "name": "Coalbra",
@@ -27932,7 +27828,7 @@
       }
     }
   },
-  "0187": {
+  "0186": {
     "canon": true,
     "modreward": false,
     "name": "Sefren",
@@ -28040,7 +27936,7 @@
       }
     }
   },
-  "0188": {
+  "0187": {
     "canon": true,
     "modreward": false,
     "name": "Doug_Bs",
@@ -28148,7 +28044,7 @@
       }
     }
   },
-  "0189": {
+  "0188": {
     "canon": true,
     "modreward": false,
     "name": "Sherma",
@@ -28256,7 +28152,7 @@
       }
     }
   },
-  "0190": {
+  "0189": {
     "canon": true,
     "modreward": false,
     "name": "Viger",
@@ -28364,7 +28260,7 @@
       }
     }
   },
-  "0191": {
+  "0190": {
     "canon": true,
     "modreward": false,
     "name": "Chuchu_Sega",
@@ -28549,7 +28445,7 @@
       }
     }
   },
-  "0192": {
+  "0191": {
     "canon": true,
     "modreward": false,
     "name": "Cattiva",
@@ -28672,7 +28568,7 @@
       }
     }
   },
-  "0193": {
+  "0192": {
     "canon": true,
     "modreward": false,
     "name": "Candygrief",
@@ -28795,7 +28691,7 @@
       }
     }
   },
-  "0194": {
+  "0193": {
     "canon": true,
     "modreward": false,
     "name": "Jinnphant",
@@ -28903,7 +28799,7 @@
       }
     }
   },
-  "0195": {
+  "0194": {
     "canon": true,
     "modreward": false,
     "name": "Boltah",
@@ -29011,7 +28907,7 @@
       }
     }
   },
-  "0196": {
+  "0195": {
     "canon": true,
     "modreward": false,
     "name": "Thundah",
@@ -29119,7 +29015,7 @@
       }
     }
   },
-  "0197": {
+  "0196": {
     "canon": true,
     "modreward": false,
     "name": "Groato",
@@ -29231,7 +29127,7 @@
       }
     }
   },
-  "0198": {
+  "0197": {
     "canon": true,
     "modreward": false,
     "name": "Perigreen",
@@ -29339,7 +29235,7 @@
       }
     }
   },
-  "0199": {
+  "0198": {
     "canon": true,
     "modreward": false,
     "name": "Agumon",
@@ -29520,7 +29416,7 @@
       }
     }
   },
-  "0200": {
+  "0199": {
     "canon": true,
     "modreward": false,
     "name": "Greymon",
@@ -29628,7 +29524,7 @@
       }
     }
   },
-  "0201": {
+  "0200": {
     "canon": true,
     "modreward": false,
     "name": "Metalgreymon",
@@ -29736,7 +29632,7 @@
       }
     }
   },
-  "0202": {
+  "0201": {
     "canon": true,
     "modreward": false,
     "name": "Wargreymon",
@@ -29844,7 +29740,7 @@
       }
     }
   },
-  "0203": {
+  "0202": {
     "canon": true,
     "modreward": false,
     "name": "Ancientgreymon",
@@ -29952,7 +29848,7 @@
       }
     }
   },
-  "0204": {
+  "0203": {
     "canon": true,
     "modreward": false,
     "name": "Tyranomon",
@@ -30060,7 +29956,7 @@
       }
     }
   },
-  "0205": {
+  "0204": {
     "canon": true,
     "modreward": false,
     "name": "Metaltyranomon",
@@ -30168,7 +30064,7 @@
       }
     }
   },
-  "0206": {
+  "0205": {
     "canon": true,
     "modreward": false,
     "name": "Rusttyranomon",
@@ -30276,7 +30172,7 @@
       }
     }
   },
-  "0207": {
+  "0206": {
     "canon": true,
     "modreward": false,
     "name": "Gabumon",
@@ -30384,7 +30280,7 @@
       }
     }
   },
-  "0208": {
+  "0207": {
     "canon": true,
     "modreward": false,
     "name": "Garurumon",
@@ -30492,7 +30388,7 @@
       }
     }
   },
-  "0209": {
+  "0208": {
     "canon": true,
     "modreward": false,
     "name": "Weregarurumon",
@@ -30600,7 +30496,7 @@
       }
     }
   },
-  "0210": {
+  "0209": {
     "canon": true,
     "modreward": false,
     "name": "Metalgarurumon",
@@ -30708,7 +30604,7 @@
       }
     }
   },
-  "0211": {
+  "0210": {
     "canon": true,
     "modreward": false,
     "name": "Ancientgarurumon",
@@ -30816,7 +30712,7 @@
       }
     }
   },
-  "0212": {
+  "0211": {
     "canon": true,
     "modreward": false,
     "name": "Piyomon",
@@ -30924,7 +30820,7 @@
       }
     }
   },
-  "0213": {
+  "0212": {
     "canon": true,
     "modreward": false,
     "name": "Birdramon",
@@ -31032,7 +30928,7 @@
       }
     }
   },
-  "0214": {
+  "0213": {
     "canon": true,
     "modreward": false,
     "name": "Garudamon",
@@ -31140,7 +31036,7 @@
       }
     }
   },
-  "0215": {
+  "0214": {
     "canon": true,
     "modreward": false,
     "name": "Hououmon",
@@ -31248,7 +31144,7 @@
       }
     }
   },
-  "0216": {
+  "0215": {
     "canon": true,
     "modreward": false,
     "name": "Palmon",
@@ -31356,7 +31252,7 @@
       }
     }
   },
-  "0217": {
+  "0216": {
     "canon": true,
     "modreward": false,
     "name": "Togemon",
@@ -31464,7 +31360,7 @@
       }
     }
   },
-  "0218": {
+  "0217": {
     "canon": true,
     "modreward": false,
     "name": "Lilimon",
@@ -31572,7 +31468,7 @@
       }
     }
   },
-  "0219": {
+  "0218": {
     "canon": true,
     "modreward": false,
     "name": "Rosemon",
@@ -31680,7 +31576,7 @@
       }
     }
   },
-  "0220": {
+  "0219": {
     "canon": true,
     "modreward": false,
     "name": "Ponchomon",
@@ -31788,7 +31684,7 @@
       }
     }
   },
-  "0221": {
+  "0220": {
     "canon": true,
     "modreward": false,
     "name": "Gomamon",
@@ -31896,7 +31792,7 @@
       }
     }
   },
-  "0222": {
+  "0221": {
     "canon": true,
     "modreward": false,
     "name": "Ikkakumon",
@@ -32004,7 +31900,7 @@
       }
     }
   },
-  "0223": {
+  "0222": {
     "canon": true,
     "modreward": false,
     "name": "Zudomon",
@@ -32112,7 +32008,7 @@
       }
     }
   },
-  "0224": {
+  "0223": {
     "canon": true,
     "modreward": false,
     "name": "Vikemon",
@@ -32220,7 +32116,7 @@
       }
     }
   },
-  "0225": {
+  "0224": {
     "canon": true,
     "modreward": false,
     "name": "Tentomon",
@@ -32328,7 +32224,7 @@
       }
     }
   },
-  "0226": {
+  "0225": {
     "canon": true,
     "modreward": false,
     "name": "Kabuterimon",
@@ -32436,7 +32332,7 @@
       }
     }
   },
-  "0227": {
+  "0226": {
     "canon": true,
     "modreward": false,
     "name": "Atlurkabuterimon",
@@ -32544,7 +32440,7 @@
       }
     }
   },
-  "0228": {
+  "0227": {
     "canon": true,
     "modreward": false,
     "name": "Heraklekabuterimon",
@@ -32652,7 +32548,7 @@
       }
     }
   },
-  "0229": {
+  "0228": {
     "canon": true,
     "modreward": false,
     "name": "Kuwagamon",
@@ -32760,7 +32656,7 @@
       }
     }
   },
-  "0230": {
+  "0229": {
     "canon": true,
     "modreward": false,
     "name": "Okuwamon",
@@ -32868,7 +32764,7 @@
       }
     }
   },
-  "0231": {
+  "0230": {
     "canon": true,
     "modreward": false,
     "name": "Grankuwagamon",
@@ -32976,7 +32872,7 @@
       }
     }
   },
-  "0232": {
+  "0231": {
     "canon": true,
     "modreward": false,
     "name": "Patamon",
@@ -33084,7 +32980,7 @@
       }
     }
   },
-  "0233": {
+  "0232": {
     "canon": true,
     "modreward": false,
     "name": "Angemon",
@@ -33192,7 +33088,7 @@
       }
     }
   },
-  "0234": {
+  "0233": {
     "canon": true,
     "modreward": false,
     "name": "Holyangemon",
@@ -33300,7 +33196,7 @@
       }
     }
   },
-  "0235": {
+  "0234": {
     "canon": true,
     "modreward": false,
     "name": "Seraphimon",
@@ -33408,7 +33304,7 @@
       }
     }
   },
-  "0236": {
+  "0235": {
     "canon": true,
     "modreward": false,
     "name": "Pegasmon",
@@ -33516,7 +33412,7 @@
       }
     }
   },
-  "0237": {
+  "0236": {
     "canon": true,
     "modreward": false,
     "name": "Tyilinmon",
@@ -33624,7 +33520,7 @@
       }
     }
   },
-  "0238": {
+  "0237": {
     "canon": true,
     "modreward": false,
     "name": "Sleipmon",
@@ -33732,7 +33628,7 @@
       }
     }
   },
-  "0239": {
+  "0238": {
     "canon": true,
     "modreward": false,
     "name": "V_Mon",
@@ -33840,7 +33736,7 @@
       }
     }
   },
-  "0240": {
+  "0239": {
     "canon": true,
     "modreward": false,
     "name": "V_Dramon",
@@ -33948,7 +33844,7 @@
       }
     }
   },
-  "0241": {
+  "0240": {
     "canon": true,
     "modreward": false,
     "name": "Aerov_Dramon",
@@ -34056,7 +33952,7 @@
       }
     }
   },
-  "0242": {
+  "0241": {
     "canon": true,
     "modreward": false,
     "name": "Ulforcev_Dramon",
@@ -34164,7 +34060,7 @@
       }
     }
   },
-  "0243": {
+  "0242": {
     "canon": true,
     "modreward": false,
     "name": "Fladramon",
@@ -34272,7 +34168,7 @@
       }
     }
   },
-  "0244": {
+  "0243": {
     "canon": true,
     "modreward": false,
     "name": "Lighdramon",
@@ -34380,7 +34276,7 @@
       }
     }
   },
-  "0245": {
+  "0244": {
     "canon": true,
     "modreward": false,
     "name": "Sethmon",
@@ -34488,7 +34384,7 @@
       }
     }
   },
-  "0246": {
+  "0245": {
     "canon": true,
     "modreward": false,
     "name": "Yaksamon",
@@ -34596,7 +34492,7 @@
       }
     }
   },
-  "0247": {
+  "0246": {
     "canon": true,
     "modreward": false,
     "name": "Depthmon",
@@ -34704,7 +34600,7 @@
       }
     }
   },
-  "0248": {
+  "0247": {
     "canon": true,
     "modreward": false,
     "name": "Sagittarimon",
@@ -34812,7 +34708,7 @@
       }
     }
   },
-  "0249": {
+  "0248": {
     "canon": true,
     "modreward": false,
     "name": "Gargomon",
@@ -34920,7 +34816,7 @@
       }
     }
   },
-  "0250": {
+  "0249": {
     "canon": true,
     "modreward": false,
     "name": "Magnamon",
@@ -35028,7 +34924,7 @@
       }
     }
   },
-  "0251": {
+  "0250": {
     "canon": true,
     "modreward": false,
     "name": "Armadimon",
@@ -35136,7 +35032,7 @@
       }
     }
   },
-  "0252": {
+  "0251": {
     "canon": true,
     "modreward": false,
     "name": "Ankylomon",
@@ -35244,7 +35140,7 @@
       }
     }
   },
-  "0253": {
+  "0252": {
     "canon": true,
     "modreward": false,
     "name": "Shakkoumon",
@@ -35352,7 +35248,7 @@
       }
     }
   },
-  "0254": {
+  "0253": {
     "canon": true,
     "modreward": false,
     "name": "Goddramon",
@@ -35460,7 +35356,7 @@
       }
     }
   },
-  "0255": {
+  "0254": {
     "canon": true,
     "modreward": false,
     "name": "Stegomon",
@@ -35568,7 +35464,7 @@
       }
     }
   },
-  "0256": {
+  "0255": {
     "canon": true,
     "modreward": false,
     "name": "Spinomon",
@@ -35676,7 +35572,7 @@
       }
     }
   },
-  "0257": {
+  "0256": {
     "canon": true,
     "modreward": false,
     "name": "Terriermon",
@@ -35784,7 +35680,7 @@
       }
     }
   },
-  "0258": {
+  "0257": {
     "canon": true,
     "modreward": false,
     "name": "Galgomon",
@@ -35892,7 +35788,7 @@
       }
     }
   },
-  "0259": {
+  "0258": {
     "canon": true,
     "modreward": false,
     "name": "Rapidmon",
@@ -36000,7 +35896,7 @@
       }
     }
   },
-  "0260": {
+  "0259": {
     "canon": true,
     "modreward": false,
     "name": "Saintgalgomon",
@@ -36108,7 +36004,7 @@
       }
     }
   },
-  "0261": {
+  "0260": {
     "canon": true,
     "modreward": false,
     "name": "Impmon",
@@ -36216,7 +36112,7 @@
       }
     }
   },
-  "0262": {
+  "0261": {
     "canon": true,
     "modreward": false,
     "name": "Wizarmon",
@@ -36324,7 +36220,7 @@
       }
     }
   },
-  "0263": {
+  "0262": {
     "canon": true,
     "modreward": false,
     "name": "Baalmon",
@@ -36432,7 +36328,7 @@
       }
     }
   },
-  "0264": {
+  "0263": {
     "canon": true,
     "modreward": false,
     "name": "Beelzebumon",
@@ -36540,7 +36436,7 @@
       }
     }
   },
-  "0265": {
+  "0264": {
     "canon": true,
     "modreward": false,
     "name": "Witchmon",
@@ -36648,7 +36544,7 @@
       }
     }
   },
-  "0266": {
+  "0265": {
     "canon": true,
     "modreward": false,
     "name": "Ladydevimon",
@@ -36756,7 +36652,7 @@
       }
     }
   },
-  "0267": {
+  "0266": {
     "canon": true,
     "modreward": false,
     "name": "Lilithmon",
@@ -36864,7 +36760,7 @@
       }
     }
   },
-  "0268": {
+  "0267": {
     "canon": true,
     "modreward": false,
     "name": "Gaomon",
@@ -36972,7 +36868,7 @@
       }
     }
   },
-  "0269": {
+  "0268": {
     "canon": true,
     "modreward": false,
     "name": "Gaogamon",
@@ -37080,7 +36976,7 @@
       }
     }
   },
-  "0270": {
+  "0269": {
     "canon": true,
     "modreward": false,
     "name": "Machgaogamon",
@@ -37188,7 +37084,7 @@
       }
     }
   },
-  "0271": {
+  "0270": {
     "canon": true,
     "modreward": false,
     "name": "Miragegaogamon",
@@ -37296,7 +37192,7 @@
       }
     }
   },
-  "0272": {
+  "0271": {
     "canon": true,
     "modreward": false,
     "name": "Kamemon",
@@ -37404,7 +37300,7 @@
       }
     }
   },
-  "0273": {
+  "0272": {
     "canon": true,
     "modreward": false,
     "name": "Gawappamon",
@@ -37512,7 +37408,7 @@
       }
     }
   },
-  "0274": {
+  "0273": {
     "canon": true,
     "modreward": false,
     "name": "Shawujinmon",
@@ -37620,7 +37516,7 @@
       }
     }
   },
-  "0275": {
+  "0274": {
     "canon": true,
     "modreward": false,
     "name": "Jumbogamemon",
@@ -37728,7 +37624,7 @@
       }
     }
   },
-  "0276": {
+  "0275": {
     "canon": true,
     "modreward": false,
     "name": "Betamon",
@@ -37836,7 +37732,7 @@
       }
     }
   },
-  "0277": {
+  "0276": {
     "canon": true,
     "modreward": false,
     "name": "Seadramon",
@@ -37944,7 +37840,7 @@
       }
     }
   },
-  "0278": {
+  "0277": {
     "canon": true,
     "modreward": false,
     "name": "Megaseadramon",
@@ -38052,7 +37948,7 @@
       }
     }
   },
-  "0279": {
+  "0278": {
     "canon": true,
     "modreward": false,
     "name": "Metalseadramon",
@@ -38160,7 +38056,7 @@
       }
     }
   },
-  "0280": {
+  "0279": {
     "canon": true,
     "modreward": false,
     "name": "Airdramon",
@@ -38268,7 +38164,7 @@
       }
     }
   },
-  "0281": {
+  "0280": {
     "canon": true,
     "modreward": false,
     "name": "Megadramon",
@@ -38376,7 +38272,7 @@
       }
     }
   },
-  "0282": {
+  "0281": {
     "canon": true,
     "modreward": false,
     "name": "Darkdramon",
@@ -38484,7 +38380,7 @@
       }
     }
   },
-  "0283": {
+  "0282": {
     "canon": true,
     "modreward": false,
     "name": "Floramon",
@@ -38592,7 +38488,7 @@
       }
     }
   },
-  "0284": {
+  "0283": {
     "canon": true,
     "modreward": false,
     "name": "Petaldramon",
@@ -38700,7 +38596,7 @@
       }
     }
   },
-  "0285": {
+  "0284": {
     "canon": true,
     "modreward": false,
     "name": "Toropiamon",
@@ -38808,7 +38704,7 @@
       }
     }
   },
-  "0286": {
+  "0285": {
     "canon": true,
     "modreward": false,
     "name": "Bloomlordmon",
@@ -38916,7 +38812,7 @@
       }
     }
   },
-  "0287": {
+  "0286": {
     "canon": true,
     "modreward": false,
     "name": "Coatlmon",
@@ -39024,7 +38920,7 @@
       }
     }
   },
-  "0288": {
+  "0287": {
     "canon": true,
     "modreward": false,
     "name": "Sandiramon",
@@ -39132,7 +39028,7 @@
       }
     }
   },
-  "0289": {
+  "0288": {
     "canon": true,
     "modreward": false,
     "name": "Minervamon",
@@ -39240,7 +39136,7 @@
       }
     }
   },
-  "0290": {
+  "0289": {
     "canon": true,
     "modreward": false,
     "name": "Orochimon",
@@ -39348,7 +39244,7 @@
       }
     }
   },
-  "0291": {
+  "0290": {
     "canon": true,
     "modreward": false,
     "name": "Nidhoggmon",
@@ -39456,7 +39352,7 @@
       }
     }
   },
-  "0292": {
+  "0291": {
     "canon": true,
     "modreward": false,
     "name": "Lunamon",
@@ -39564,7 +39460,7 @@
       }
     }
   },
-  "0293": {
+  "0292": {
     "canon": true,
     "modreward": false,
     "name": "Lekismon",
@@ -39672,7 +39568,7 @@
       }
     }
   },
-  "0294": {
+  "0293": {
     "canon": true,
     "modreward": false,
     "name": "Crescemon",
@@ -39780,7 +39676,7 @@
       }
     }
   },
-  "0295": {
+  "0294": {
     "canon": true,
     "modreward": false,
     "name": "Dianamon",
@@ -39888,7 +39784,7 @@
       }
     }
   },
-  "0296": {
+  "0295": {
     "canon": true,
     "modreward": false,
     "name": "Bancholilimon",
@@ -39996,7 +39892,7 @@
       }
     }
   },
-  "0297": {
+  "0296": {
     "canon": true,
     "modreward": false,
     "name": "Hawkmon",
@@ -40104,7 +40000,7 @@
       }
     }
   },
-  "0298": {
+  "0297": {
     "canon": true,
     "modreward": false,
     "name": "Aquilamon",
@@ -40212,7 +40108,7 @@
       }
     }
   },
-  "0299": {
+  "0298": {
     "canon": true,
     "modreward": false,
     "name": "Velgrmon",
@@ -40320,7 +40216,7 @@
       }
     }
   },
-  "0300": {
+  "0299": {
     "canon": true,
     "modreward": false,
     "name": "Zhuqiaomon",
@@ -40428,7 +40324,7 @@
       }
     }
   },
-  "0301": {
+  "0300": {
     "canon": true,
     "modreward": false,
     "name": "Elecmon",
@@ -40536,7 +40432,7 @@
       }
     }
   },
-  "0302": {
+  "0301": {
     "canon": true,
     "modreward": false,
     "name": "Leomon",
@@ -40644,7 +40540,7 @@
       }
     }
   },
-  "0303": {
+  "0302": {
     "canon": true,
     "modreward": false,
     "name": "Grappuleomon",
@@ -40752,7 +40648,7 @@
       }
     }
   },
-  "0304": {
+  "0303": {
     "canon": true,
     "modreward": false,
     "name": "Saberleomon",
@@ -40860,7 +40756,7 @@
       }
     }
   },
-  "0305": {
+  "0304": {
     "canon": true,
     "modreward": false,
     "name": "Bancholeomon",
@@ -40968,7 +40864,7 @@
       }
     }
   },
-  "0306": {
+  "0305": {
     "canon": true,
     "modreward": false,
     "name": "Kotemon",
@@ -41076,7 +40972,7 @@
       }
     }
   },
-  "0307": {
+  "0306": {
     "canon": true,
     "modreward": false,
     "name": "Dinohumon",
@@ -41184,7 +41080,7 @@
       }
     }
   },
-  "0308": {
+  "0307": {
     "canon": true,
     "modreward": false,
     "name": "Majiramon",
@@ -41292,7 +41188,7 @@
       }
     }
   },
-  "0309": {
+  "0308": {
     "canon": true,
     "modreward": false,
     "name": "Qinglongmon",
@@ -41400,7 +41296,7 @@
       }
     }
   },
-  "0310": {
+  "0309": {
     "canon": true,
     "modreward": false,
     "name": "Musyamon",
@@ -41508,7 +41404,7 @@
       }
     }
   },
-  "0311": {
+  "0310": {
     "canon": true,
     "modreward": false,
     "name": "Asuramon",
@@ -41616,7 +41512,7 @@
       }
     }
   },
-  "0312": {
+  "0311": {
     "canon": true,
     "modreward": false,
     "name": "Zanbamon",
@@ -41724,7 +41620,7 @@
       }
     }
   },
-  "0313": {
+  "0312": {
     "canon": true,
     "modreward": false,
     "name": "Coronamon",
@@ -41832,7 +41728,7 @@
       }
     }
   },
-  "0314": {
+  "0313": {
     "canon": true,
     "modreward": false,
     "name": "Firamon",
@@ -41940,7 +41836,7 @@
       }
     }
   },
-  "0315": {
+  "0314": {
     "canon": true,
     "modreward": false,
     "name": "Flaremon",
@@ -42048,7 +41944,7 @@
       }
     }
   },
-  "0316": {
+  "0315": {
     "canon": true,
     "modreward": false,
     "name": "Apollomon",
@@ -42156,7 +42052,7 @@
       }
     }
   },
-  "0317": {
+  "0316": {
     "canon": true,
     "modreward": false,
     "name": "Gottsumon",
@@ -42264,7 +42160,7 @@
       }
     }
   },
-  "0318": {
+  "0317": {
     "canon": true,
     "modreward": false,
     "name": "Golemon",
@@ -42372,7 +42268,7 @@
       }
     }
   },
-  "0319": {
+  "0318": {
     "canon": true,
     "modreward": false,
     "name": "Gogmamon",
@@ -42480,7 +42376,7 @@
       }
     }
   },
-  "0320": {
+  "0319": {
     "canon": true,
     "modreward": false,
     "name": "Blastmon",
@@ -42588,7 +42484,7 @@
       }
     }
   },
-  "0321": {
+  "0320": {
     "canon": true,
     "modreward": false,
     "name": "Volcamon",
@@ -42696,7 +42592,7 @@
       }
     }
   },
-  "0322": {
+  "0321": {
     "canon": true,
     "modreward": false,
     "name": "Ancientvolcamon",
@@ -42804,7 +42700,7 @@
       }
     }
   },
-  "0323": {
+  "0322": {
     "canon": true,
     "modreward": false,
     "name": "Banchogolemon",
@@ -42912,7 +42808,7 @@
       }
     }
   },
-  "0324": {
+  "0323": {
     "canon": true,
     "modreward": false,
     "name": "Skullgreymon",
@@ -43020,7 +42916,7 @@
       }
     }
   },
-  "0325": {
+  "0324": {
     "canon": true,
     "modreward": false,
     "name": "Darktyranomon",
@@ -43128,7 +43024,7 @@
       }
     }
   },
-  "0326": {
+  "0325": {
     "canon": true,
     "modreward": false,
     "name": "Mugendramon",
@@ -43236,7 +43132,7 @@
       }
     }
   },
-  "0327": {
+  "0326": {
     "canon": true,
     "modreward": false,
     "name": "Saberdramon",
@@ -43344,7 +43240,7 @@
       }
     }
   },
-  "0328": {
+  "0327": {
     "canon": true,
     "modreward": false,
     "name": "Vulturemon",
@@ -43452,7 +43348,7 @@
       }
     }
   },
-  "0329": {
+  "0328": {
     "canon": true,
     "modreward": false,
     "name": "Ornismon",
@@ -43560,7 +43456,7 @@
       }
     }
   },
-  "0330": {
+  "0329": {
     "canon": true,
     "modreward": false,
     "name": "Lopmon",
@@ -43668,7 +43564,7 @@
       }
     }
   },
-  "0331": {
+  "0330": {
     "canon": true,
     "modreward": false,
     "name": "Turuiemon",
@@ -43776,7 +43672,7 @@
       }
     }
   },
-  "0332": {
+  "0331": {
     "canon": true,
     "modreward": false,
     "name": "Andiramon",
@@ -43884,7 +43780,7 @@
       }
     }
   },
-  "0333": {
+  "0332": {
     "canon": true,
     "modreward": false,
     "name": "Cherubimon",
@@ -43992,7 +43888,7 @@
       }
     }
   },
-  "0334": {
+  "0333": {
     "canon": true,
     "modreward": false,
     "name": "Hagurumon",
@@ -44100,7 +43996,7 @@
       }
     }
   },
-  "0335": {
+  "0334": {
     "canon": true,
     "modreward": false,
     "name": "Guardromon",
@@ -44208,7 +44104,7 @@
       }
     }
   },
-  "0336": {
+  "0335": {
     "canon": true,
     "modreward": false,
     "name": "Andromon",
@@ -44316,7 +44212,7 @@
       }
     }
   },
-  "0337": {
+  "0336": {
     "canon": true,
     "modreward": false,
     "name": "Hiandromon",
@@ -44424,7 +44320,7 @@
       }
     }
   },
-  "0338": {
+  "0337": {
     "canon": true,
     "modreward": false,
     "name": "Algomon",
@@ -44751,7 +44647,7 @@
       }
     }
   },
-  "0339": {
+  "0338": {
     "canon": true,
     "modreward": false,
     "name": "Bakumon",
@@ -44859,7 +44755,7 @@
       }
     }
   },
-  "0340": {
+  "0339": {
     "canon": true,
     "modreward": false,
     "name": "Baluchimon",
@@ -44967,7 +44863,7 @@
       }
     }
   },
-  "0341": {
+  "0340": {
     "canon": true,
     "modreward": false,
     "name": "Mammon",
@@ -45075,7 +44971,7 @@
       }
     }
   },
-  "0342": {
+  "0341": {
     "canon": true,
     "modreward": false,
     "name": "Skullmammon",
@@ -45183,7 +45079,7 @@
       }
     }
   },
-  "0343": {
+  "0342": {
     "canon": true,
     "modreward": false,
     "name": "Bullmon",
@@ -45291,7 +45187,7 @@
       }
     }
   },
-  "0344": {
+  "0343": {
     "canon": true,
     "modreward": false,
     "name": "Vajramon",
@@ -45399,7 +45295,7 @@
       }
     }
   },
-  "0345": {
+  "0344": {
     "canon": true,
     "modreward": false,
     "name": "Bearmon",
@@ -45507,7 +45403,7 @@
       }
     }
   },
-  "0346": {
+  "0345": {
     "canon": true,
     "modreward": false,
     "name": "Gryzmon",
@@ -45615,7 +45511,7 @@
       }
     }
   },
-  "0347": {
+  "0346": {
     "canon": true,
     "modreward": false,
     "name": "Warumonzaemon",
@@ -45723,7 +45619,7 @@
       }
     }
   },
-  "0348": {
+  "0347": {
     "canon": true,
     "modreward": false,
     "name": "Callismon",
@@ -45831,7 +45727,7 @@
       }
     }
   },
-  "0349": {
+  "0348": {
     "canon": true,
     "modreward": false,
     "name": "Pillomon",
@@ -45939,7 +45835,7 @@
       }
     }
   },
-  "0350": {
+  "0349": {
     "canon": true,
     "modreward": false,
     "name": "Sheepmon",
@@ -46047,7 +45943,7 @@
       }
     }
   },
-  "0351": {
+  "0350": {
     "canon": true,
     "modreward": false,
     "name": "Pajiramon",
@@ -46155,7 +46051,7 @@
       }
     }
   },
-  "0352": {
+  "0351": {
     "canon": true,
     "modreward": false,
     "name": "Gulfmon",
@@ -46263,7 +46159,7 @@
       }
     }
   },
-  "0353": {
+  "0352": {
     "canon": true,
     "modreward": false,
     "name": "Tyutyumon",
@@ -46371,7 +46267,7 @@
       }
     }
   },
-  "0354": {
+  "0353": {
     "canon": true,
     "modreward": false,
     "name": "Opossummon",
@@ -46479,7 +46375,7 @@
       }
     }
   },
-  "0355": {
+  "0354": {
     "canon": true,
     "modreward": false,
     "name": "Kumbhiramon",
@@ -46587,7 +46483,7 @@
       }
     }
   },
-  "0356": {
+  "0355": {
     "canon": true,
     "modreward": false,
     "name": "Muchomon",
@@ -46695,7 +46591,7 @@
       }
     }
   },
-  "0357": {
+  "0356": {
     "canon": true,
     "modreward": false,
     "name": "Cockatrimon",
@@ -46803,7 +46699,7 @@
       }
     }
   },
-  "0358": {
+  "0357": {
     "canon": true,
     "modreward": false,
     "name": "Sinduramon",
@@ -46911,7 +46807,7 @@
       }
     }
   },
-  "0359": {
+  "0358": {
     "canon": true,
     "modreward": false,
     "name": "Chronomon",
@@ -47019,7 +46915,7 @@
       }
     }
   },
-  "0360": {
+  "0359": {
     "canon": true,
     "modreward": false,
     "name": "Koemon",
@@ -47127,7 +47023,7 @@
       }
     }
   },
-  "0361": {
+  "0360": {
     "canon": true,
     "modreward": false,
     "name": "Hanumon",
@@ -47235,7 +47131,7 @@
       }
     }
   },
-  "0362": {
+  "0361": {
     "canon": true,
     "modreward": false,
     "name": "Makuramon",
@@ -47343,7 +47239,7 @@
       }
     }
   },
-  "0363": {
+  "0362": {
     "canon": true,
     "modreward": false,
     "name": "Kingetemon",
@@ -47451,7 +47347,7 @@
       }
     }
   },
-  "0364": {
+  "0363": {
     "canon": true,
     "modreward": false,
     "name": "Boarmon",
@@ -47559,7 +47455,7 @@
       }
     }
   },
-  "0365": {
+  "0364": {
     "canon": true,
     "modreward": false,
     "name": "Vikaralamon",
@@ -47667,7 +47563,7 @@
       }
     }
   },
-  "0366": {
+  "0365": {
     "canon": true,
     "modreward": false,
     "name": "Unimon",
@@ -47848,7 +47744,7 @@
       }
     }
   },
-  "0367": {
+  "0366": {
     "canon": true,
     "modreward": false,
     "name": "Indaramon",
@@ -47956,7 +47852,7 @@
       }
     }
   },
-  "0368": {
+  "0367": {
     "canon": true,
     "modreward": false,
     "name": "Ancienttroiamon",
@@ -48064,7 +47960,7 @@
       }
     }
   },
-  "0369": {
+  "0368": {
     "canon": true,
     "modreward": false,
     "name": "Tobucatmon",
@@ -48172,7 +48068,7 @@
       }
     }
   },
-  "0370": {
+  "0369": {
     "canon": true,
     "modreward": false,
     "name": "Mihiramon",
@@ -48280,7 +48176,7 @@
       }
     }
   },
-  "0371": {
+  "0370": {
     "canon": true,
     "modreward": false,
     "name": "Duftmon",
@@ -48457,7 +48353,7 @@
       }
     }
   },
-  "0372": {
+  "0371": {
     "canon": true,
     "modreward": false,
     "name": "Labramon",
@@ -48565,7 +48461,7 @@
       }
     }
   },
-  "0373": {
+  "0372": {
     "canon": true,
     "modreward": false,
     "name": "Siesamon",
@@ -48673,7 +48569,7 @@
       }
     }
   },
-  "0374": {
+  "0373": {
     "canon": true,
     "modreward": false,
     "name": "Caturamon",
@@ -48781,7 +48677,7 @@
       }
     }
   },
-  "0375": {
+  "0374": {
     "canon": true,
     "modreward": false,
     "name": "Baihumon",
@@ -48889,7 +48785,7 @@
       }
     }
   },
-  "0376": {
+  "0375": {
     "canon": true,
     "modreward": false,
     "name": "Dobermon",
@@ -48997,7 +48893,7 @@
       }
     }
   },
-  "0377": {
+  "0376": {
     "canon": true,
     "modreward": false,
     "name": "Cerberumon",
@@ -49105,7 +49001,7 @@
       }
     }
   },
-  "0378": {
+  "0377": {
     "canon": true,
     "modreward": false,
     "name": "Anubimon",
@@ -49213,7 +49109,7 @@
       }
     }
   },
-  "0379": {
+  "0378": {
     "canon": true,
     "modreward": false,
     "name": "Penmon",
@@ -49321,7 +49217,7 @@
       }
     }
   },
-  "0380": {
+  "0379": {
     "canon": true,
     "modreward": false,
     "name": "Swanmon",
@@ -49429,7 +49325,7 @@
       }
     }
   },
-  "0381": {
+  "0380": {
     "canon": true,
     "modreward": false,
     "name": "Daipenmon",
@@ -49537,7 +49433,7 @@
       }
     }
   },
-  "0382": {
+  "0381": {
     "canon": true,
     "modreward": false,
     "name": "Frosvelgrmon",
@@ -49645,7 +49541,7 @@
       }
     }
   },
-  "0383": {
+  "0382": {
     "canon": true,
     "modreward": false,
     "name": "Candmon",
@@ -49753,7 +49649,7 @@
       }
     }
   },
-  "0384": {
+  "0383": {
     "canon": true,
     "modreward": false,
     "name": "Meramon",
@@ -49861,7 +49757,7 @@
       }
     }
   },
-  "0385": {
+  "0384": {
     "canon": true,
     "modreward": false,
     "name": "Deathmeramon",
@@ -49969,7 +49865,7 @@
       }
     }
   },
-  "0386": {
+  "0385": {
     "canon": true,
     "modreward": false,
     "name": "Boltmon",
@@ -50077,7 +49973,7 @@
       }
     }
   },
-  "0387": {
+  "0386": {
     "canon": true,
     "modreward": false,
     "name": "Gankoomon",
@@ -50185,7 +50081,7 @@
       }
     }
   },
-  "0388": {
+  "0387": {
     "canon": true,
     "modreward": false,
     "name": "Commandramon",
@@ -50293,7 +50189,7 @@
       }
     }
   },
-  "0389": {
+  "0388": {
     "canon": true,
     "modreward": false,
     "name": "Sealsdramon",
@@ -50401,7 +50297,7 @@
       }
     }
   },
-  "0390": {
+  "0389": {
     "canon": true,
     "modreward": false,
     "name": "Tankdramon",
@@ -50509,7 +50405,7 @@
       }
     }
   },
-  "0391": {
+  "0390": {
     "canon": true,
     "modreward": false,
     "name": "Gundramon",
@@ -50617,7 +50513,7 @@
       }
     }
   },
-  "0392": {
+  "0391": {
     "canon": true,
     "modreward": false,
     "name": "Manticoremon",
@@ -50725,7 +50621,7 @@
       }
     }
   },
-  "0393": {
+  "0392": {
     "canon": true,
     "modreward": false,
     "name": "Dorumon",
@@ -50833,7 +50729,7 @@
       }
     }
   },
-  "0394": {
+  "0393": {
     "canon": true,
     "modreward": false,
     "name": "Dorugamon",
@@ -50941,7 +50837,7 @@
       }
     }
   },
-  "0395": {
+  "0394": {
     "canon": true,
     "modreward": false,
     "name": "Doruguremon",
@@ -51049,7 +50945,7 @@
       }
     }
   },
-  "0396": {
+  "0395": {
     "canon": true,
     "modreward": false,
     "name": "Dorugoramon",
@@ -51157,7 +51053,7 @@
       }
     }
   },
-  "0397": {
+  "0396": {
     "canon": true,
     "modreward": false,
     "name": "Alphamon",
@@ -51265,7 +51161,7 @@
       }
     }
   },
-  "0398": {
+  "0397": {
     "canon": true,
     "modreward": false,
     "name": "Dracomon",
@@ -51373,7 +51269,7 @@
       }
     }
   },
-  "0399": {
+  "0398": {
     "canon": true,
     "modreward": false,
     "name": "Coredramon",
@@ -51554,7 +51450,7 @@
       }
     }
   },
-  "0400": {
+  "0399": {
     "canon": true,
     "modreward": false,
     "name": "Groundramon",
@@ -51662,7 +51558,7 @@
       }
     }
   },
-  "0401": {
+  "0400": {
     "canon": true,
     "modreward": false,
     "name": "Breakdramon",
@@ -51770,7 +51666,7 @@
       }
     }
   },
-  "0402": {
+  "0401": {
     "canon": true,
     "modreward": false,
     "name": "Wingdramon",
@@ -51878,7 +51774,7 @@
       }
     }
   },
-  "0403": {
+  "0402": {
     "canon": true,
     "modreward": false,
     "name": "Slayerdramon",
@@ -51986,7 +51882,7 @@
       }
     }
   },
-  "0404": {
+  "0403": {
     "canon": true,
     "modreward": false,
     "name": "Dracumon",
@@ -52094,7 +51990,7 @@
       }
     }
   },
-  "0405": {
+  "0404": {
     "canon": true,
     "modreward": false,
     "name": "Sangloupmon",
@@ -52202,7 +52098,7 @@
       }
     }
   },
-  "0406": {
+  "0405": {
     "canon": true,
     "modreward": false,
     "name": "Matadrmon",
@@ -52310,7 +52206,7 @@
       }
     }
   },
-  "0407": {
+  "0406": {
     "canon": true,
     "modreward": false,
     "name": "Granddracumon",
@@ -52418,7 +52314,7 @@
       }
     }
   },
-  "0408": {
+  "0407": {
     "canon": true,
     "modreward": false,
     "name": "Falcomon",
@@ -52526,7 +52422,7 @@
       }
     }
   },
-  "0409": {
+  "0408": {
     "canon": true,
     "modreward": false,
     "name": "Diatrymon",
@@ -52634,7 +52530,7 @@
       }
     }
   },
-  "0410": {
+  "0409": {
     "canon": true,
     "modreward": false,
     "name": "Yatagaramon",
@@ -52742,7 +52638,7 @@
       }
     }
   },
-  "0411": {
+  "0410": {
     "canon": true,
     "modreward": false,
     "name": "Valdurmon",
@@ -52850,7 +52746,7 @@
       }
     }
   },
-  "0412": {
+  "0411": {
     "canon": true,
     "modreward": false,
     "name": "Funbeemon",
@@ -52958,7 +52854,7 @@
       }
     }
   },
-  "0413": {
+  "0412": {
     "canon": true,
     "modreward": false,
     "name": "Waspmon",
@@ -53066,7 +52962,7 @@
       }
     }
   },
-  "0414": {
+  "0413": {
     "canon": true,
     "modreward": false,
     "name": "Cannonbeemon",
@@ -53174,7 +53070,7 @@
       }
     }
   },
-  "0415": {
+  "0414": {
     "canon": true,
     "modreward": false,
     "name": "Tigervespamon",
@@ -53282,7 +53178,7 @@
       }
     }
   },
-  "0416": {
+  "0415": {
     "canon": true,
     "modreward": false,
     "name": "Gazimon",
@@ -53390,7 +53286,7 @@
       }
     }
   },
-  "0417": {
+  "0416": {
     "canon": true,
     "modreward": false,
     "name": "Fangmon",
@@ -53498,7 +53394,7 @@
       }
     }
   },
-  "0418": {
+  "0417": {
     "canon": true,
     "modreward": false,
     "name": "Skullbaluchimon",
@@ -53606,7 +53502,7 @@
       }
     }
   },
-  "0419": {
+  "0418": {
     "canon": true,
     "modreward": false,
     "name": "Ancientsphinxmon",
@@ -53714,7 +53610,7 @@
       }
     }
   },
-  "0420": {
+  "0419": {
     "canon": true,
     "modreward": false,
     "name": "Ganimon",
@@ -53822,7 +53718,7 @@
       }
     }
   },
-  "0421": {
+  "0420": {
     "canon": true,
     "modreward": false,
     "name": "Ebidramon",
@@ -53930,7 +53826,7 @@
       }
     }
   },
-  "0422": {
+  "0421": {
     "canon": true,
     "modreward": false,
     "name": "Gusokumon",
@@ -54038,7 +53934,7 @@
       }
     }
   },
-  "0423": {
+  "0422": {
     "canon": true,
     "modreward": false,
     "name": "Gammamon",
@@ -54146,7 +54042,7 @@
       }
     }
   },
-  "0424": {
+  "0423": {
     "canon": true,
     "modreward": false,
     "name": "Betelgammamon",
@@ -54254,7 +54150,7 @@
       }
     }
   },
-  "0425": {
+  "0424": {
     "canon": true,
     "modreward": false,
     "name": "Canoweissmon",
@@ -54362,7 +54258,7 @@
       }
     }
   },
-  "0426": {
+  "0425": {
     "canon": true,
     "modreward": false,
     "name": "Goburimon",
@@ -54543,7 +54439,7 @@
       }
     }
   },
-  "0427": {
+  "0426": {
     "canon": true,
     "modreward": false,
     "name": "Orgemon",
@@ -54651,7 +54547,7 @@
       }
     }
   },
-  "0428": {
+  "0427": {
     "canon": true,
     "modreward": false,
     "name": "Rebellimon",
@@ -54759,7 +54655,7 @@
       }
     }
   },
-  "0429": {
+  "0428": {
     "canon": true,
     "modreward": false,
     "name": "Titamon",
@@ -54867,7 +54763,7 @@
       }
     }
   },
-  "0430": {
+  "0429": {
     "canon": true,
     "modreward": false,
     "name": "Ghostmon",
@@ -54975,7 +54871,7 @@
       }
     }
   },
-  "0431": {
+  "0430": {
     "canon": true,
     "modreward": false,
     "name": "Bakemon",
@@ -55083,7 +54979,7 @@
       }
     }
   },
-  "0432": {
+  "0431": {
     "canon": true,
     "modreward": false,
     "name": "Fantomon",
@@ -55191,7 +55087,7 @@
       }
     }
   },
-  "0433": {
+  "0432": {
     "canon": true,
     "modreward": false,
     "name": "Gokumon",
@@ -55299,7 +55195,7 @@
       }
     }
   },
-  "0434": {
+  "0433": {
     "canon": true,
     "modreward": false,
     "name": "Caprimon",
@@ -55407,7 +55303,7 @@
       }
     }
   },
-  "0435": {
+  "0434": {
     "canon": true,
     "modreward": false,
     "name": "Coordemon",
@@ -55515,7 +55411,7 @@
       }
     }
   },
-  "0436": {
+  "0435": {
     "canon": true,
     "modreward": false,
     "name": "Jellymon",
@@ -55623,7 +55519,7 @@
       }
     }
   },
-  "0437": {
+  "0436": {
     "canon": true,
     "modreward": false,
     "name": "Teslajellymon",
@@ -55731,7 +55627,7 @@
       }
     }
   },
-  "0438": {
+  "0437": {
     "canon": true,
     "modreward": false,
     "name": "Thetismon",
@@ -55839,7 +55735,7 @@
       }
     }
   },
-  "0439": {
+  "0438": {
     "canon": true,
     "modreward": false,
     "name": "Gizamon",
@@ -55947,7 +55843,7 @@
       }
     }
   },
-  "0440": {
+  "0439": {
     "canon": true,
     "modreward": false,
     "name": "Cyclomon",
@@ -56055,7 +55951,7 @@
       }
     }
   },
-  "0441": {
+  "0440": {
     "canon": true,
     "modreward": false,
     "name": "Ranamon",
@@ -56163,7 +56059,7 @@
       }
     }
   },
-  "0442": {
+  "0441": {
     "canon": true,
     "modreward": false,
     "name": "Mermaimon",
@@ -56271,7 +56167,7 @@
       }
     }
   },
-  "0443": {
+  "0442": {
     "canon": true,
     "modreward": false,
     "name": "Ancientmermaimon",
@@ -56379,7 +56275,7 @@
       }
     }
   },
-  "0444": {
+  "0443": {
     "canon": true,
     "modreward": false,
     "name": "Guilmon",
@@ -56506,7 +56402,7 @@
       }
     }
   },
-  "0445": {
+  "0444": {
     "canon": true,
     "modreward": false,
     "name": "Growmon",
@@ -56614,7 +56510,7 @@
       }
     }
   },
-  "0446": {
+  "0445": {
     "canon": true,
     "modreward": false,
     "name": "Megalogrowmon",
@@ -56722,7 +56618,7 @@
       }
     }
   },
-  "0447": {
+  "0446": {
     "canon": true,
     "modreward": false,
     "name": "Dukemon",
@@ -56830,7 +56726,7 @@
       }
     }
   },
-  "0448": {
+  "0447": {
     "canon": true,
     "modreward": false,
     "name": "Megidramon",
@@ -56938,7 +56834,7 @@
       }
     }
   },
-  "0449": {
+  "0448": {
     "canon": true,
     "modreward": false,
     "name": "Mikemon",
@@ -57046,7 +56942,7 @@
       }
     }
   },
-  "0450": {
+  "0449": {
     "canon": true,
     "modreward": false,
     "name": "Bastemon",
@@ -57154,7 +57050,7 @@
       }
     }
   },
-  "0451": {
+  "0450": {
     "canon": true,
     "modreward": false,
     "name": "Rasielmon",
@@ -57262,7 +57158,7 @@
       }
     }
   },
-  "0452": {
+  "0451": {
     "canon": true,
     "modreward": false,
     "name": "Tuskmon",
@@ -57370,7 +57266,7 @@
       }
     }
   },
-  "0453": {
+  "0452": {
     "canon": true,
     "modreward": false,
     "name": "Digitamamon",
@@ -57478,7 +57374,7 @@
       }
     }
   },
-  "0454": {
+  "0453": {
     "canon": true,
     "modreward": false,
     "name": "Devitamamon",
@@ -57586,7 +57482,7 @@
       }
     }
   },
-  "0455": {
+  "0454": {
     "canon": true,
     "modreward": false,
     "name": "Plotmon",
@@ -57694,7 +57590,7 @@
       }
     }
   },
-  "0456": {
+  "0455": {
     "canon": true,
     "modreward": false,
     "name": "Tailmon",
@@ -57875,7 +57771,7 @@
       }
     }
   },
-  "0457": {
+  "0456": {
     "canon": true,
     "modreward": false,
     "name": "Angewomon",
@@ -57983,7 +57879,7 @@
       }
     }
   },
-  "0458": {
+  "0457": {
     "canon": true,
     "modreward": false,
     "name": "Ofanimon",
@@ -58091,7 +57987,7 @@
       }
     }
   },
-  "0459": {
+  "0458": {
     "canon": true,
     "modreward": false,
     "name": "Silphymon",
@@ -58199,7 +58095,7 @@
       }
     }
   },
-  "0460": {
+  "0459": {
     "canon": true,
     "modreward": false,
     "name": "Valkyrimon",
@@ -58307,7 +58203,7 @@
       }
     }
   },
-  "0461": {
+  "0460": {
     "canon": true,
     "modreward": false,
     "name": "Renamon",
@@ -58415,7 +58311,7 @@
       }
     }
   },
-  "0462": {
+  "0461": {
     "canon": true,
     "modreward": false,
     "name": "Kyubimon",
@@ -58523,7 +58419,7 @@
       }
     }
   },
-  "0463": {
+  "0462": {
     "canon": true,
     "modreward": false,
     "name": "Taomon",
@@ -58631,7 +58527,7 @@
       }
     }
   },
-  "0464": {
+  "0463": {
     "canon": true,
     "modreward": false,
     "name": "Sakuyamon",
@@ -58739,7 +58635,7 @@
       }
     }
   },
-  "0465": {
+  "0464": {
     "canon": true,
     "modreward": false,
     "name": "Herissmon",
@@ -58847,7 +58743,7 @@
       }
     }
   },
-  "0466": {
+  "0465": {
     "canon": true,
     "modreward": false,
     "name": "Filmon",
@@ -58955,7 +58851,7 @@
       }
     }
   },
-  "0467": {
+  "0466": {
     "canon": true,
     "modreward": false,
     "name": "Stiffilmon",
@@ -59063,7 +58959,7 @@
       }
     }
   },
-  "0468": {
+  "0467": {
     "canon": true,
     "modreward": false,
     "name": "Rasenmon",
@@ -59171,7 +59067,7 @@
       }
     }
   },
-  "0469": {
+  "0468": {
     "canon": true,
     "modreward": false,
     "name": "Togemogumon",
@@ -59279,7 +59175,7 @@
       }
     }
   },
-  "0470": {
+  "0469": {
     "canon": true,
     "modreward": false,
     "name": "Kunemon",
@@ -59387,7 +59283,7 @@
       }
     }
   },
-  "0471": {
+  "0470": {
     "canon": true,
     "modreward": false,
     "name": "Flymon",
@@ -59495,7 +59391,7 @@
       }
     }
   },
-  "0472": {
+  "0471": {
     "canon": true,
     "modreward": false,
     "name": "Mothmon",
@@ -59603,7 +59499,7 @@
       }
     }
   },
-  "0473": {
+  "0472": {
     "canon": true,
     "modreward": false,
     "name": "Hyokomon",
@@ -59711,7 +59607,7 @@
       }
     }
   },
-  "0474": {
+  "0473": {
     "canon": true,
     "modreward": false,
     "name": "Peckmon",
@@ -59819,7 +59715,7 @@
       }
     }
   },
-  "0475": {
+  "0474": {
     "canon": true,
     "modreward": false,
     "name": "Karatenmon",
@@ -59927,7 +59823,7 @@
       }
     }
   },
-  "0476": {
+  "0475": {
     "canon": true,
     "modreward": false,
     "name": "Ravmon",
@@ -60035,7 +59931,7 @@
       }
     }
   },
-  "0477": {
+  "0476": {
     "canon": true,
     "modreward": false,
     "name": "Shakomon",
@@ -60143,7 +60039,7 @@
       }
     }
   },
-  "0478": {
+  "0477": {
     "canon": true,
     "modreward": false,
     "name": "Gesomon",
@@ -60251,7 +60147,7 @@
       }
     }
   },
-  "0479": {
+  "0478": {
     "canon": true,
     "modreward": false,
     "name": "Marindevimon",
@@ -60359,7 +60255,7 @@
       }
     }
   },
-  "0480": {
+  "0479": {
     "canon": true,
     "modreward": false,
     "name": "Calamaramon",
@@ -60467,7 +60363,7 @@
       }
     }
   },
-  "0481": {
+  "0480": {
     "canon": true,
     "modreward": false,
     "name": "Junkmon",
@@ -60575,7 +60471,7 @@
       }
     }
   },
-  "0482": {
+  "0481": {
     "canon": true,
     "modreward": false,
     "name": "Machmon",
@@ -60683,7 +60579,7 @@
       }
     }
   },
-  "0483": {
+  "0482": {
     "canon": true,
     "modreward": false,
     "name": "Locomon",
@@ -60791,7 +60687,7 @@
       }
     }
   },
-  "0484": {
+  "0483": {
     "canon": true,
     "modreward": false,
     "name": "Grandlocomon",
@@ -60899,7 +60795,7 @@
       }
     }
   },
-  "0485": {
+  "0484": {
     "canon": true,
     "modreward": false,
     "name": "Keramon",
@@ -61007,7 +60903,7 @@
       }
     }
   },
-  "0486": {
+  "0485": {
     "canon": true,
     "modreward": false,
     "name": "Chrysalimon",
@@ -61115,7 +61011,7 @@
       }
     }
   },
-  "0487": {
+  "0486": {
     "canon": true,
     "modreward": false,
     "name": "Infermon",
@@ -61223,7 +61119,7 @@
       }
     }
   },
-  "0488": {
+  "0487": {
     "canon": true,
     "modreward": false,
     "name": "Diablomon",
@@ -61331,7 +61227,7 @@
       }
     }
   },
-  "0489": {
+  "0488": {
     "canon": true,
     "modreward": false,
     "name": "Cupimon",
@@ -61439,7 +61335,7 @@
       }
     }
   },
-  "0490": {
+  "0489": {
     "canon": true,
     "modreward": false,
     "name": "Lucemon",
@@ -61693,7 +61589,7 @@
       }
     }
   },
-  "0491": {
+  "0490": {
     "canon": true,
     "modreward": false,
     "name": "Meicoomon",
@@ -61801,7 +61697,7 @@
       }
     }
   },
-  "0492": {
+  "0491": {
     "canon": true,
     "modreward": false,
     "name": "Meicrackmon",
@@ -61909,7 +61805,7 @@
       }
     }
   },
-  "0493": {
+  "0492": {
     "canon": true,
     "modreward": false,
     "name": "Raguelmon",
@@ -62017,7 +61913,7 @@
       }
     }
   },
-  "0494": {
+  "0493": {
     "canon": true,
     "modreward": false,
     "name": "Otamamon",
@@ -62125,7 +62021,7 @@
       }
     }
   },
-  "0495": {
+  "0494": {
     "canon": true,
     "modreward": false,
     "name": "Gekomon",
@@ -62233,7 +62129,7 @@
       }
     }
   },
-  "0496": {
+  "0495": {
     "canon": true,
     "modreward": false,
     "name": "Tonosamagekomon",
@@ -62341,7 +62237,7 @@
       }
     }
   },
-  "0497": {
+  "0496": {
     "canon": true,
     "modreward": false,
     "name": "Giromon",
@@ -62449,7 +62345,7 @@
       }
     }
   },
-  "0498": {
+  "0497": {
     "canon": true,
     "modreward": false,
     "name": "Kodokugumon",
@@ -62557,7 +62453,7 @@
       }
     }
   },
-  "0499": {
+  "0498": {
     "canon": true,
     "modreward": false,
     "name": "Dokugumon",
@@ -62665,7 +62561,7 @@
       }
     }
   },
-  "0500": {
+  "0499": {
     "canon": true,
     "modreward": false,
     "name": "Archnemon",
@@ -62773,7 +62669,7 @@
       }
     }
   },
-  "0501": {
+  "0500": {
     "canon": true,
     "modreward": false,
     "name": "Parasimon",
@@ -62881,7 +62777,7 @@
       }
     }
   },
-  "0502": {
+  "0501": {
     "canon": true,
     "modreward": false,
     "name": "Kudamon",
@@ -62989,7 +62885,7 @@
       }
     }
   },
-  "0503": {
+  "0502": {
     "canon": true,
     "modreward": false,
     "name": "Reppamon",
@@ -63097,7 +62993,7 @@
       }
     }
   },
-  "0504": {
+  "0503": {
     "canon": true,
     "modreward": false,
     "name": "Kyukimon",
@@ -63205,7 +63101,7 @@
       }
     }
   },
-  "0505": {
+  "0504": {
     "canon": true,
     "modreward": false,
     "name": "Holydramon",
@@ -63313,7 +63209,7 @@
       }
     }
   },
-  "0506": {
+  "0505": {
     "canon": true,
     "modreward": false,
     "name": "Lalamon",
@@ -63421,7 +63317,7 @@
       }
     }
   },
-  "0507": {
+  "0506": {
     "canon": true,
     "modreward": false,
     "name": "Sunflowmon",
@@ -63529,7 +63425,7 @@
       }
     }
   },
-  "0508": {
+  "0507": {
     "canon": true,
     "modreward": false,
     "name": "Lilamon",
@@ -63637,7 +63533,7 @@
       }
     }
   },
-  "0509": {
+  "0508": {
     "canon": true,
     "modreward": false,
     "name": "Lotusmon",
@@ -63745,7 +63641,7 @@
       }
     }
   },
-  "0510": {
+  "0509": {
     "canon": true,
     "modreward": false,
     "name": "Blossomon",
@@ -63853,7 +63749,7 @@
       }
     }
   },
-  "0511": {
+  "0510": {
     "canon": true,
     "modreward": false,
     "name": "Hydramon",
@@ -63961,7 +63857,7 @@
       }
     }
   },
-  "0512": {
+  "0511": {
     "canon": true,
     "modreward": false,
     "name": "Neamon",
@@ -64069,7 +63965,7 @@
       }
     }
   },
-  "0513": {
+  "0512": {
     "canon": true,
     "modreward": false,
     "name": "Bokomon",
@@ -64177,7 +64073,7 @@
       }
     }
   },
-  "0514": {
+  "0513": {
     "canon": true,
     "modreward": false,
     "name": "Monodramon",
@@ -64285,7 +64181,7 @@
       }
     }
   },
-  "0515": {
+  "0514": {
     "canon": true,
     "modreward": false,
     "name": "Strikedramon",
@@ -64393,7 +64289,7 @@
       }
     }
   },
-  "0516": {
+  "0515": {
     "canon": true,
     "modreward": false,
     "name": "Cyberdramon",
@@ -64501,7 +64397,7 @@
       }
     }
   },
-  "0517": {
+  "0516": {
     "canon": true,
     "modreward": false,
     "name": "Justimon",
@@ -64609,7 +64505,7 @@
       }
     }
   },
-  "0518": {
+  "0517": {
     "canon": true,
     "modreward": false,
     "name": "Deathmon",
@@ -64717,7 +64613,7 @@
       }
     }
   },
-  "0519": {
+  "0518": {
     "canon": true,
     "modreward": false,
     "name": "Raremon",
@@ -64825,7 +64721,7 @@
       }
     }
   },
-  "0520": {
+  "0519": {
     "canon": true,
     "modreward": false,
     "name": "Rareraremon",
@@ -64933,7 +64829,7 @@
       }
     }
   },
-  "0521": {
+  "0520": {
     "canon": true,
     "modreward": false,
     "name": "Morphomon",
@@ -65041,7 +64937,7 @@
       }
     }
   },
-  "0522": {
+  "0521": {
     "canon": true,
     "modreward": false,
     "name": "Hudiemon",
@@ -65149,7 +65045,7 @@
       }
     }
   },
-  "0523": {
+  "0522": {
     "canon": true,
     "modreward": false,
     "name": "Eosmon",
@@ -65257,7 +65153,7 @@
       }
     }
   },
-  "0524": {
+  "0523": {
     "canon": true,
     "modreward": false,
     "name": "Ancientirismon",
@@ -65365,7 +65261,7 @@
       }
     }
   },
-  "0525": {
+  "0524": {
     "canon": true,
     "modreward": false,
     "name": "Pawnchessmon",
@@ -65546,7 +65442,7 @@
       }
     }
   },
-  "0526": {
+  "0525": {
     "canon": true,
     "modreward": false,
     "name": "Gladimon",
@@ -65654,7 +65550,7 @@
       }
     }
   },
-  "0527": {
+  "0526": {
     "canon": true,
     "modreward": false,
     "name": "Knightmon",
@@ -65762,7 +65658,7 @@
       }
     }
   },
-  "0528": {
+  "0527": {
     "canon": true,
     "modreward": false,
     "name": "Lordknightmon",
@@ -65870,7 +65766,7 @@
       }
     }
   },
-  "0529": {
+  "0528": {
     "canon": true,
     "modreward": false,
     "name": "Skullknightmon",
@@ -65978,7 +65874,7 @@
       }
     }
   },
-  "0530": {
+  "0529": {
     "canon": true,
     "modreward": false,
     "name": "Darkknightmon",
@@ -66086,7 +65982,7 @@
       }
     }
   },
-  "0531": {
+  "0530": {
     "canon": true,
     "modreward": false,
     "name": "Craniummon",
@@ -66194,7 +66090,7 @@
       }
     }
   },
-  "0532": {
+  "0531": {
     "canon": true,
     "modreward": false,
     "name": "Copymon",
@@ -66302,7 +66198,7 @@
       }
     }
   },
-  "0533": {
+  "0532": {
     "canon": true,
     "modreward": false,
     "name": "Evilmon",
@@ -66410,7 +66306,7 @@
       }
     }
   },
-  "0534": {
+  "0533": {
     "canon": true,
     "modreward": false,
     "name": "Vamdemon",
@@ -66518,7 +66414,7 @@
       }
     }
   },
-  "0535": {
+  "0534": {
     "canon": true,
     "modreward": false,
     "name": "Venomvamdemon",
@@ -66626,7 +66522,7 @@
       }
     }
   },
-  "0536": {
+  "0535": {
     "canon": true,
     "modreward": false,
     "name": "Phascomon",
@@ -66734,7 +66630,7 @@
       }
     }
   },
-  "0537": {
+  "0536": {
     "canon": true,
     "modreward": false,
     "name": "Goatmon",
@@ -66842,7 +66738,7 @@
       }
     }
   },
-  "0538": {
+  "0537": {
     "canon": true,
     "modreward": false,
     "name": "Mephismon",
@@ -66950,7 +66846,7 @@
       }
     }
   },
-  "0539": {
+  "0538": {
     "canon": true,
     "modreward": false,
     "name": "Belphemon",
@@ -67058,7 +66954,7 @@
       }
     }
   },
-  "0540": {
+  "0539": {
     "canon": true,
     "modreward": false,
     "name": "Picodevimon",
@@ -67166,7 +67062,7 @@
       }
     }
   },
-  "0541": {
+  "0540": {
     "canon": true,
     "modreward": false,
     "name": "Devimon",
@@ -67274,7 +67170,7 @@
       }
     }
   },
-  "0542": {
+  "0541": {
     "canon": true,
     "modreward": false,
     "name": "Neodevimon",
@@ -67382,7 +67278,7 @@
       }
     }
   },
-  "0543": {
+  "0542": {
     "canon": true,
     "modreward": false,
     "name": "Donedevimon",
@@ -67490,7 +67386,7 @@
       }
     }
   },
-  "0544": {
+  "0543": {
     "canon": true,
     "modreward": false,
     "name": "Pomumon",
@@ -67598,7 +67494,7 @@
       }
     }
   },
-  "0545": {
+  "0544": {
     "canon": true,
     "modreward": false,
     "name": "Kiwimon",
@@ -67706,7 +67602,7 @@
       }
     }
   },
-  "0546": {
+  "0545": {
     "canon": true,
     "modreward": false,
     "name": "Sirenmon",
@@ -67814,7 +67710,7 @@
       }
     }
   },
-  "0547": {
+  "0546": {
     "canon": true,
     "modreward": false,
     "name": "Ceresmon",
@@ -67922,7 +67818,7 @@
       }
     }
   },
-  "0548": {
+  "0547": {
     "canon": true,
     "modreward": false,
     "name": "Sangomon",
@@ -68030,7 +67926,7 @@
       }
     }
   },
-  "0549": {
+  "0548": {
     "canon": true,
     "modreward": false,
     "name": "Shellmon",
@@ -68138,7 +68034,7 @@
       }
     }
   },
-  "0550": {
+  "0549": {
     "canon": true,
     "modreward": false,
     "name": "Anomalocarimon",
@@ -68246,7 +68142,7 @@
       }
     }
   },
-  "0551": {
+  "0550": {
     "canon": true,
     "modreward": false,
     "name": "Shoutmon",
@@ -68354,7 +68250,7 @@
       }
     }
   },
-  "0552": {
+  "0551": {
     "canon": true,
     "modreward": false,
     "name": "Omegashoutmon",
@@ -68462,7 +68358,7 @@
       }
     }
   },
-  "0553": {
+  "0552": {
     "canon": true,
     "modreward": false,
     "name": "Sparrowmon",
@@ -68570,7 +68466,7 @@
       }
     }
   },
-  "0554": {
+  "0553": {
     "canon": true,
     "modreward": false,
     "name": "Raptorsparrowmon",
@@ -68678,7 +68574,7 @@
       }
     }
   },
-  "0555": {
+  "0554": {
     "canon": true,
     "modreward": false,
     "name": "Starmons",
@@ -68786,7 +68682,7 @@
       }
     }
   },
-  "0556": {
+  "0555": {
     "canon": true,
     "modreward": false,
     "name": "Revolmon",
@@ -68894,7 +68790,7 @@
       }
     }
   },
-  "0557": {
+  "0556": {
     "canon": true,
     "modreward": false,
     "name": "Superstarmon",
@@ -69002,7 +68898,7 @@
       }
     }
   },
-  "0558": {
+  "0557": {
     "canon": true,
     "modreward": false,
     "name": "Wormmon",
@@ -69110,7 +69006,7 @@
       }
     }
   },
-  "0559": {
+  "0558": {
     "canon": true,
     "modreward": false,
     "name": "Stingmon",
@@ -69218,7 +69114,7 @@
       }
     }
   },
-  "0560": {
+  "0559": {
     "canon": true,
     "modreward": false,
     "name": "Dinobeemon",
@@ -69326,7 +69222,7 @@
       }
     }
   },
-  "0561": {
+  "0560": {
     "canon": true,
     "modreward": false,
     "name": "Banchostingmon",
@@ -69434,7 +69330,7 @@
       }
     }
   },
-  "0562": {
+  "0561": {
     "canon": true,
     "modreward": false,
     "name": "Imperialdramon",
@@ -69542,7 +69438,7 @@
       }
     }
   },
-  "0563": {
+  "0562": {
     "canon": true,
     "modreward": false,
     "name": "Sunarizamon",
@@ -69650,7 +69546,7 @@
       }
     }
   },
-  "0564": {
+  "0563": {
     "canon": true,
     "modreward": false,
     "name": "Flarelizamon",
@@ -69758,7 +69654,7 @@
       }
     }
   },
-  "0565": {
+  "0564": {
     "canon": true,
     "modreward": false,
     "name": "Volcdramon",
@@ -69866,7 +69762,7 @@
       }
     }
   },
-  "0566": {
+  "0565": {
     "canon": true,
     "modreward": false,
     "name": "Toyagumon",
@@ -69974,7 +69870,7 @@
       }
     }
   },
-  "0567": {
+  "0566": {
     "canon": true,
     "modreward": false,
     "name": "Tankmon",
@@ -70082,7 +69978,7 @@
       }
     }
   },
-  "0568": {
+  "0567": {
     "canon": true,
     "modreward": false,
     "name": "Extyranomon",
@@ -70190,7 +70086,7 @@
       }
     }
   },
-  "0569": {
+  "0568": {
     "canon": true,
     "modreward": false,
     "name": "Numemon",
@@ -70298,7 +70194,7 @@
       }
     }
   },
-  "0570": {
+  "0569": {
     "canon": true,
     "modreward": false,
     "name": "Blackkingnumemon",
@@ -70406,7 +70302,7 @@
       }
     }
   },
-  "0571": {
+  "0570": {
     "canon": true,
     "modreward": false,
     "name": "Platinumnumemon",
@@ -70514,7 +70410,7 @@
       }
     }
   },
-  "0572": {
+  "0571": {
     "canon": true,
     "modreward": false,
     "name": "Monzaemon",
@@ -70622,7 +70518,7 @@
       }
     }
   },
-  "0573": {
+  "0572": {
     "canon": true,
     "modreward": false,
     "name": "Cutemon",
@@ -70730,7 +70626,7 @@
       }
     }
   },
-  "0574": {
+  "0573": {
     "canon": true,
     "modreward": false,
     "name": "Bitmon",
@@ -70838,7 +70734,7 @@
       }
     }
   },
-  "0575": {
+  "0574": {
     "canon": true,
     "modreward": false,
     "name": "Luminamon",
@@ -70946,7 +70842,7 @@
       }
     }
   },
-  "0576": {
+  "0575": {
     "canon": true,
     "modreward": false,
     "name": "Swimmon",
@@ -71054,7 +70950,7 @@
       }
     }
   },
-  "0577": {
+  "0576": {
     "canon": true,
     "modreward": false,
     "name": "Coelamon",
@@ -71162,7 +71058,7 @@
       }
     }
   },
-  "0578": {
+  "0577": {
     "canon": true,
     "modreward": false,
     "name": "Marinchimairamon",
@@ -71270,7 +71166,7 @@
       }
     }
   },
-  "0579": {
+  "0578": {
     "canon": true,
     "modreward": false,
     "name": "Regalecusmon",
@@ -71378,7 +71274,7 @@
       }
     }
   },
-  "0580": {
+  "0579": {
     "canon": true,
     "modreward": false,
     "name": "Tinkermon",
@@ -71486,7 +71382,7 @@
       }
     }
   },
-  "0581": {
+  "0580": {
     "canon": true,
     "modreward": false,
     "name": "Darcmon",
@@ -71594,7 +71490,7 @@
       }
     }
   },
-  "0582": {
+  "0581": {
     "canon": true,
     "modreward": false,
     "name": "Wisemon",
@@ -71702,7 +71598,7 @@
       }
     }
   },
-  "0583": {
+  "0582": {
     "canon": true,
     "modreward": false,
     "name": "Ancientwisemon",
@@ -71810,7 +71706,7 @@
       }
     }
   },
-  "0584": {
+  "0583": {
     "canon": true,
     "modreward": false,
     "name": "Tyumon",
@@ -71918,7 +71814,7 @@
       }
     }
   },
-  "0585": {
+  "0584": {
     "canon": true,
     "modreward": false,
     "name": "Scumon",
@@ -72026,7 +71922,7 @@
       }
     }
   },
-  "0586": {
+  "0585": {
     "canon": true,
     "modreward": false,
     "name": "Etemon",
@@ -72134,7 +72030,7 @@
       }
     }
   },
-  "0587": {
+  "0586": {
     "canon": true,
     "modreward": false,
     "name": "Metaletemon",
@@ -72242,7 +72138,7 @@
       }
     }
   },
-  "0588": {
+  "0587": {
     "canon": true,
     "modreward": false,
     "name": "Gerbemon",
@@ -72350,7 +72246,7 @@
       }
     }
   },
-  "0589": {
+  "0588": {
     "canon": true,
     "modreward": false,
     "name": "Monitamon",
@@ -72458,7 +72354,7 @@
       }
     }
   },
-  "0590": {
+  "0589": {
     "canon": true,
     "modreward": false,
     "name": "Mercuremon",
@@ -72566,7 +72462,7 @@
       }
     }
   },
-  "0591": {
+  "0590": {
     "canon": true,
     "modreward": false,
     "name": "Sephirothmon",
@@ -72674,7 +72570,7 @@
       }
     }
   },
-  "0592": {
+  "0591": {
     "canon": true,
     "modreward": false,
     "name": "Burgamon",
@@ -72782,7 +72678,7 @@
       }
     }
   },
-  "0593": {
+  "0592": {
     "canon": true,
     "modreward": false,
     "name": "Tortamon",
@@ -72890,7 +72786,7 @@
       }
     }
   },
-  "0594": {
+  "0593": {
     "canon": true,
     "modreward": false,
     "name": "Jyagamon",
@@ -72998,7 +72894,7 @@
       }
     }
   },
-  "0595": {
+  "0594": {
     "canon": true,
     "modreward": false,
     "name": "Xuanwumon",
@@ -73106,7 +73002,7 @@
       }
     }
   },
-  "0596": {
+  "0595": {
     "canon": true,
     "modreward": false,
     "name": "Hiyarimon",
@@ -73214,7 +73110,7 @@
       }
     }
   },
-  "0597": {
+  "0596": {
     "canon": true,
     "modreward": false,
     "name": "Yukidarumon",
@@ -73322,7 +73218,7 @@
       }
     }
   },
-  "0598": {
+  "0597": {
     "canon": true,
     "modreward": false,
     "name": "Mojyamon",
@@ -73430,7 +73326,7 @@
       }
     }
   },
-  "0599": {
+  "0598": {
     "canon": true,
     "modreward": false,
     "name": "Panjyamon",
@@ -73538,7 +73434,7 @@
       }
     }
   },
-  "0600": {
+  "0599": {
     "canon": true,
     "modreward": false,
     "name": "Effecmon",
@@ -73646,7 +73542,7 @@
       }
     }
   },
-  "0601": {
+  "0600": {
     "canon": true,
     "modreward": false,
     "name": "Mushmon",
@@ -73754,7 +73650,7 @@
       }
     }
   },
-  "0602": {
+  "0601": {
     "canon": true,
     "modreward": false,
     "name": "Woodmon",
@@ -73862,7 +73758,7 @@
       }
     }
   },
-  "0603": {
+  "0602": {
     "canon": true,
     "modreward": false,
     "name": "Jyureimon",
@@ -73970,7 +73866,7 @@
       }
     }
   },
-  "0604": {
+  "0603": {
     "canon": true,
     "modreward": false,
     "name": "Pinochimon",
@@ -74078,7 +73974,7 @@
       }
     }
   },
-  "0605": {
+  "0604": {
     "canon": true,
     "modreward": false,
     "name": "Jokermon",
@@ -74186,7 +74082,7 @@
       }
     }
   },
-  "0606": {
+  "0605": {
     "canon": true,
     "modreward": false,
     "name": "Piemon",
@@ -74294,7 +74190,7 @@
       }
     }
   },
-  "0607": {
+  "0606": {
     "canon": true,
     "modreward": false,
     "name": "Piranimon",
@@ -74402,7 +74298,7 @@
       }
     }
   },
-  "0608": {
+  "0607": {
     "canon": true,
     "modreward": false,
     "name": "Metalpiranimon",
@@ -74510,7 +74406,7 @@
       }
     }
   },
-  "0609": {
+  "0608": {
     "canon": true,
     "modreward": false,
     "name": "Blucomon",
@@ -74618,7 +74514,7 @@
       }
     }
   },
-  "0610": {
+  "0609": {
     "canon": true,
     "modreward": false,
     "name": "Paledramon",
@@ -74726,7 +74622,7 @@
       }
     }
   },
-  "0611": {
+  "0610": {
     "canon": true,
     "modreward": false,
     "name": "Cryspaledramon",
@@ -74834,7 +74730,7 @@
       }
     }
   },
-  "0612": {
+  "0611": {
     "canon": true,
     "modreward": false,
     "name": "Hexeblaumon",
@@ -74942,7 +74838,7 @@
       }
     }
   },
-  "0613": {
+  "0612": {
     "canon": true,
     "modreward": false,
     "name": "Hyougamon",
@@ -75050,7 +74946,7 @@
       }
     }
   },
-  "0614": {
+  "0613": {
     "canon": true,
     "modreward": false,
     "name": "Hackmon",
@@ -75158,7 +75054,7 @@
       }
     }
   },
-  "0615": {
+  "0614": {
     "canon": true,
     "modreward": false,
     "name": "Jesmon",
@@ -75266,7 +75162,7 @@
       }
     }
   },
-  "0616": {
+  "0615": {
     "canon": true,
     "modreward": false,
     "name": "Dokunemon",
@@ -75374,7 +75270,7 @@
       }
     }
   },
-  "0617": {
+  "0616": {
     "canon": true,
     "modreward": false,
     "name": "Snimon",
@@ -75482,7 +75378,7 @@
       }
     }
   },
-  "0618": {
+  "0617": {
     "canon": true,
     "modreward": false,
     "name": "Scorpiomon",
@@ -75590,7 +75486,7 @@
       }
     }
   },
-  "0619": {
+  "0618": {
     "canon": true,
     "modreward": false,
     "name": "Ancientbeatmon",
@@ -75698,7 +75594,7 @@
       }
     }
   },
-  "0620": {
+  "0619": {
     "canon": true,
     "modreward": false,
     "name": "Gaossmon",
@@ -75806,7 +75702,7 @@
       }
     }
   },
-  "0621": {
+  "0620": {
     "canon": true,
     "modreward": false,
     "name": "Deltamon",
@@ -75914,7 +75810,7 @@
       }
     }
   },
-  "0622": {
+  "0621": {
     "canon": true,
     "modreward": false,
     "name": "Monochromon",
@@ -76022,7 +75918,7 @@
       }
     }
   },
-  "0623": {
+  "0622": {
     "canon": true,
     "modreward": false,
     "name": "Triceramon",
@@ -76130,7 +76026,7 @@
       }
     }
   },
-  "0624": {
+  "0623": {
     "canon": true,
     "modreward": false,
     "name": "Ultimatebrachimon",
@@ -76238,7 +76134,7 @@
       }
     }
   },
-  "0625": {
+  "0624": {
     "canon": true,
     "modreward": false,
     "name": "Rukamon",
@@ -76346,7 +76242,7 @@
       }
     }
   },
-  "0626": {
+  "0625": {
     "canon": true,
     "modreward": false,
     "name": "Whamon",
@@ -76454,7 +76350,7 @@
       }
     }
   },
-  "0627": {
+  "0626": {
     "canon": true,
     "modreward": false,
     "name": "Marinangemon",
@@ -76562,7 +76458,7 @@
       }
     }
   },
-  "0628": {
+  "0627": {
     "canon": true,
     "modreward": false,
     "name": "Burpmon",
@@ -76670,7 +76566,7 @@
       }
     }
   },
-  "0629": {
+  "0628": {
     "canon": true,
     "modreward": false,
     "name": "Cho_Hakkaimon",
@@ -76778,7 +76674,7 @@
       }
     }
   },
-  "0630": {
+  "0629": {
     "canon": true,
     "modreward": false,
     "name": "Kokuwamon",
@@ -76886,7 +76782,7 @@
       }
     }
   },
-  "0631": {
+  "0630": {
     "canon": true,
     "modreward": false,
     "name": "Bladekuwagamon",
@@ -76994,7 +76890,7 @@
       }
     }
   },
-  "0632": {
+  "0631": {
     "canon": true,
     "modreward": false,
     "name": "Metallifekuwagamon",
@@ -77102,7 +76998,7 @@
       }
     }
   },
-  "0633": {
+  "0632": {
     "canon": true,
     "modreward": false,
     "name": "Tyrantkabuterimon",
@@ -77210,7 +77106,7 @@
       }
     }
   },
-  "0634": {
+  "0633": {
     "canon": true,
     "modreward": false,
     "name": "Vegimon",
@@ -77318,7 +77214,7 @@
       }
     }
   },
-  "0635": {
+  "0634": {
     "canon": true,
     "modreward": false,
     "name": "Vademon",
@@ -77426,7 +77322,7 @@
       }
     }
   },
-  "0636": {
+  "0635": {
     "canon": true,
     "modreward": false,
     "name": "Ebemon",
@@ -77534,7 +77430,7 @@
       }
     }
   },
-  "0637": {
+  "0636": {
     "canon": true,
     "modreward": false,
     "name": "Clockmon",
@@ -77642,7 +77538,7 @@
       }
     }
   },
-  "0638": {
+  "0637": {
     "canon": true,
     "modreward": false,
     "name": "Nanimon",
@@ -77823,7 +77719,7 @@
       }
     }
   },
-  "0639": {
+  "0638": {
     "canon": true,
     "modreward": false,
     "name": "Devidramon",
@@ -77931,7 +77827,7 @@
       }
     }
   },
-  "0640": {
+  "0639": {
     "canon": true,
     "modreward": false,
     "name": "Chimairamon",
@@ -78039,7 +77935,7 @@
       }
     }
   },
-  "0641": {
+  "0640": {
     "canon": true,
     "modreward": false,
     "name": "Millenniumon",
@@ -78147,7 +78043,7 @@
       }
     }
   },
-  "0642": {
+  "0641": {
     "canon": true,
     "modreward": false,
     "name": "Drimogemon",
@@ -78255,7 +78151,7 @@
       }
     }
   },
-  "0643": {
+  "0642": {
     "canon": true,
     "modreward": false,
     "name": "Digmon",
@@ -78363,7 +78259,7 @@
       }
     }
   },
-  "0644": {
+  "0643": {
     "canon": true,
     "modreward": false,
     "name": "Submarimon",
@@ -78471,7 +78367,7 @@
       }
     }
   },
-  "0645": {
+  "0644": {
     "canon": true,
     "modreward": false,
     "name": "Plesiomon",
@@ -78579,7 +78475,7 @@
       }
     }
   },
-  "0646": {
+  "0645": {
     "canon": true,
     "modreward": false,
     "name": "Barbamon",
@@ -78687,7 +78583,7 @@
       }
     }
   },
-  "0647": {
+  "0646": {
     "canon": true,
     "modreward": false,
     "name": "Pumpmon",
@@ -78795,7 +78691,7 @@
       }
     }
   },
-  "0648": {
+  "0647": {
     "canon": true,
     "modreward": false,
     "name": "Noblepumpmon",
@@ -78903,7 +78799,7 @@
       }
     }
   },
-  "0649": {
+  "0648": {
     "canon": true,
     "modreward": false,
     "name": "Examon",
@@ -79011,7 +78907,7 @@
       }
     }
   },
-  "0650": {
+  "0649": {
     "canon": true,
     "modreward": false,
     "name": "Leviamon",
@@ -79119,7 +79015,7 @@
       }
     }
   },
-  "0651": {
+  "0650": {
     "canon": true,
     "modreward": false,
     "name": "Huanglongmon",
@@ -79227,7 +79123,7 @@
       }
     }
   },
-  "0652": {
+  "0651": {
     "canon": true,
     "modreward": false,
     "name": "Chaosdramon",
@@ -79335,7 +79231,7 @@
       }
     }
   },
-  "0653": {
+  "0652": {
     "canon": true,
     "modreward": false,
     "name": "Omegamon",
@@ -79443,7 +79339,7 @@
       }
     }
   },
-  "0654": {
+  "0653": {
     "canon": true,
     "modreward": false,
     "name": "Culumon",
@@ -79551,7 +79447,7 @@
       }
     }
   },
-  "0655": {
+  "0654": {
     "canon": true,
     "modreward": false,
     "name": "Octmon",
@@ -79659,7 +79555,7 @@
       }
     }
   },
-  "0656": {
+  "0655": {
     "canon": true,
     "modreward": false,
     "name": "Dagomon",
@@ -79767,7 +79663,7 @@
       }
     }
   },
-  "0657": {
+  "0656": {
     "canon": true,
     "modreward": false,
     "name": "Parrotmon",
@@ -79875,7 +79771,7 @@
       }
     }
   },
-  "0658": {
+  "0657": {
     "canon": true,
     "modreward": false,
     "name": "Crossmon",
@@ -79983,7 +79879,7 @@
       }
     }
   },
-  "0659": {
+  "0658": {
     "canon": true,
     "modreward": false,
     "name": "Sistermon_Blanc",
@@ -80091,7 +79987,7 @@
       }
     }
   },
-  "0660": {
+  "0659": {
     "canon": true,
     "modreward": false,
     "name": "Sistermon_Noir",
@@ -80199,7 +80095,7 @@
       }
     }
   },
-  "0661": {
+  "0660": {
     "canon": true,
     "modreward": false,
     "name": "Piccolomon",
@@ -80307,7 +80203,7 @@
       }
     }
   },
-  "0662": {
+  "0661": {
     "canon": true,
     "modreward": false,
     "name": "Jijimon",
@@ -80415,7 +80311,7 @@
       }
     }
   },
-  "0663": {
+  "0662": {
     "canon": true,
     "modreward": false,
     "name": "Morgana",
@@ -80523,7 +80419,7 @@
       }
     }
   },
-  "0664": {
+  "0663": {
     "canon": true,
     "modreward": false,
     "name": "Maildramon",
@@ -80631,7 +80527,7 @@
       }
     }
   },
-  "0665": {
+  "0664": {
     "canon": true,
     "modreward": false,
     "name": "Hippogriffomon",
@@ -80739,7 +80635,7 @@
       }
     }
   },
-  "0666": {
+  "0665": {
     "canon": true,
     "modreward": false,
     "name": "Griffomon",
@@ -80847,7 +80743,7 @@
       }
     }
   },
-  "0667": {
+  "0666": {
     "canon": true,
     "modreward": false,
     "name": "Pteranomon",
@@ -80955,7 +80851,7 @@
       }
     }
   },
-  "0668": {
+  "0667": {
     "canon": true,
     "modreward": false,
     "name": "Lampmon",
@@ -81063,7 +80959,7 @@
       }
     }
   },
-  "0669": {
+  "0668": {
     "canon": true,
     "modreward": false,
     "name": "Sorcerimon",
@@ -81171,7 +81067,7 @@
       }
     }
   },
-  "0670": {
+  "0669": {
     "canon": true,
     "modreward": false,
     "name": "Chamelemon",
@@ -81279,7 +81175,7 @@
       }
     }
   },
-  "0671": {
+  "0670": {
     "canon": true,
     "modreward": false,
     "name": "Yanmamon",
@@ -81387,7 +81283,7 @@
       }
     }
   },
-  "0672": {
+  "0671": {
     "canon": true,
     "modreward": false,
     "name": "Tocanmon",
@@ -81495,7 +81391,7 @@
       }
     }
   },
-  "0673": {
+  "0672": {
     "canon": true,
     "modreward": false,
     "name": "Delumon",
@@ -81603,7 +81499,7 @@
       }
     }
   },
-  "0674": {
+  "0673": {
     "canon": true,
     "modreward": false,
     "name": "Mummymon",
@@ -81711,7 +81607,7 @@
       }
     }
   },
-  "0675": {
+  "0674": {
     "canon": true,
     "modreward": false,
     "name": "Pharaohmon",
@@ -81819,7 +81715,7 @@
       }
     }
   },
-  "0676": {
+  "0675": {
     "canon": true,
     "modreward": false,
     "name": "Flamon",
@@ -81927,7 +81823,7 @@
       }
     }
   },
-  "0677": {
+  "0676": {
     "canon": true,
     "modreward": false,
     "name": "Agnimon",
@@ -82035,7 +81931,7 @@
       }
     }
   },
-  "0678": {
+  "0677": {
     "canon": true,
     "modreward": false,
     "name": "Apocalymon",
@@ -82143,7 +82039,7 @@
       }
     }
   },
-  "0679": {
+  "0678": {
     "canon": true,
     "modreward": false,
     "name": "Pucchiemon",
@@ -82251,7 +82147,7 @@
       }
     }
   },
-  "0680": {
+  "0679": {
     "canon": true,
     "modreward": false,
     "name": "Strabimon",
@@ -82359,7 +82255,7 @@
       }
     }
   },
-  "0681": {
+  "0680": {
     "canon": true,
     "modreward": false,
     "name": "Wolfmon",
@@ -82467,7 +82363,7 @@
       }
     }
   },
-  "0682": {
+  "0681": {
     "canon": true,
     "modreward": false,
     "name": "Seahomon",
@@ -82575,7 +82471,7 @@
       }
     }
   },
-  "0683": {
+  "0682": {
     "canon": true,
     "modreward": false,
     "name": "Mamemon",
@@ -82683,7 +82579,7 @@
       }
     }
   },
-  "0684": {
+  "0683": {
     "canon": true,
     "modreward": false,
     "name": "Princemamemon",
@@ -82791,7 +82687,7 @@
       }
     }
   },
-  "0685": {
+  "0684": {
     "canon": true,
     "modreward": false,
     "name": "Metalmamemon",
@@ -82899,7 +82795,7 @@
       }
     }
   },
-  "0686": {
+  "0685": {
     "canon": true,
     "modreward": false,
     "name": "Banchomamemon",
@@ -83007,7 +82903,7 @@
       }
     }
   },
-  "0687": {
+  "0686": {
     "canon": true,
     "modreward": false,
     "name": "Thunderballmon",
@@ -83115,7 +83011,7 @@
       }
     }
   },
-  "0688": {
+  "0687": {
     "canon": true,
     "modreward": false,
     "name": "Angoramon",
@@ -83223,7 +83119,7 @@
       }
     }
   },
-  "0689": {
+  "0688": {
     "canon": true,
     "modreward": false,
     "name": "Symbareangoramon",
@@ -83331,7 +83227,7 @@
       }
     }
   },
-  "0690": {
+  "0689": {
     "canon": true,
     "modreward": false,
     "name": "Lamortmon",
@@ -83439,7 +83335,7 @@
       }
     }
   },
-  "0691": {
+  "0690": {
     "canon": true,
     "modreward": false,
     "name": "Dogmon",
@@ -83547,7 +83443,7 @@
       }
     }
   },
-  "0692": {
+  "0691": {
     "canon": true,
     "modreward": false,
     "name": "Manbomon",
@@ -83655,7 +83551,7 @@
       }
     }
   },
-  "0693": {
+  "0692": {
     "canon": true,
     "modreward": false,
     "name": "Pukumon",
@@ -83763,7 +83659,7 @@
       }
     }
   },
-  "0694": {
+  "0693": {
     "canon": true,
     "modreward": false,
     "name": "Moosemon",
@@ -83871,7 +83767,7 @@
       }
     }
   },
-  "0695": {
+  "0694": {
     "canon": true,
     "modreward": false,
     "name": "Hangyomon",
@@ -83979,7 +83875,7 @@
       }
     }
   },
-  "0696": {
+  "0695": {
     "canon": true,
     "modreward": false,
     "name": "Neptunemon",
@@ -84087,7 +83983,7 @@
       }
     }
   },
-  "0697": {
+  "0696": {
     "canon": true,
     "modreward": false,
     "name": "Ancientmegatheriumon",
@@ -84195,7 +84091,7 @@
       }
     }
   },
-  "0698": {
+  "0697": {
     "canon": true,
     "modreward": false,
     "name": "Kuriboh",
@@ -84303,7 +84199,7 @@
       }
     }
   },
-  "0699": {
+  "0698": {
     "canon": true,
     "modreward": false,
     "name": "Winged_Kuriboh",
@@ -84411,7 +84307,7 @@
       }
     }
   },
-  "0700": {
+  "0699": {
     "canon": true,
     "modreward": false,
     "name": "Elemental_Hero_Flame_Wingman",
@@ -84519,7 +84415,7 @@
       }
     }
   },
-  "0701": {
+  "0700": {
     "canon": true,
     "modreward": false,
     "name": "Babamon",
@@ -84627,7 +84523,7 @@
       }
     }
   },
-  "0702": {
+  "0701": {
     "canon": true,
     "modreward": false,
     "name": "Dynasmon",
@@ -84735,7 +84631,7 @@
       }
     }
   },
-  "0703": {
+  "0702": {
     "canon": true,
     "modreward": false,
     "name": "Boogiemon",
@@ -84843,7 +84739,7 @@
       }
     }
   },
-  "0704": {
+  "0703": {
     "canon": true,
     "modreward": false,
     "name": "Nanomon",
@@ -84951,7 +84847,7 @@
       }
     }
   },
-  "0705": {
+  "0704": {
     "canon": true,
     "modreward": false,
     "name": "Skullsatamon",
@@ -85059,7 +84955,7 @@
       }
     }
   },
-  "0706": {
+  "0705": {
     "canon": true,
     "modreward": false,
     "name": "Demon",
@@ -85167,7 +85063,7 @@
       }
     }
   },
-  "0707": {
+  "0706": {
     "canon": true,
     "modreward": false,
     "name": "Centalmon",
@@ -85275,7 +85171,7 @@
       }
     }
   },
-  "0708": {
+  "0707": {
     "canon": true,
     "modreward": false,
     "name": "Brachimon",
@@ -85383,7 +85279,7 @@
       }
     }
   },
-  "0709": {
+  "0708": {
     "canon": true,
     "modreward": false,
     "name": "Cannondramon",
@@ -85491,7 +85387,7 @@
       }
     }
   },
-  "0710": {
+  "0709": {
     "canon": true,
     "modreward": false,
     "name": "Flybeemon",
@@ -85599,7 +85495,7 @@
       }
     }
   },
-  "0711": {
+  "0710": {
     "canon": true,
     "modreward": false,
     "name": "Pixero",
@@ -85707,7 +85603,7 @@
       }
     }
   },
-  "0712": {
+  "0711": {
     "canon": true,
     "modreward": false,
     "name": "Yumburr",
@@ -85815,7 +85711,7 @@
       }
     }
   },
-  "0713": {
+  "0712": {
     "canon": true,
     "modreward": false,
     "name": "Legaon",
@@ -85923,7 +85819,7 @@
       }
     }
   },
-  "0714": {
+  "0713": {
     "canon": true,
     "modreward": false,
     "name": "Triangle",
@@ -86033,7 +85929,7 @@
       }
     }
   },
-  "0715": {
+  "0714": {
     "canon": true,
     "modreward": false,
     "name": "Nucleon",
@@ -86141,7 +86037,7 @@
       }
     }
   },
-  "0716": {
+  "0715": {
     "canon": true,
     "modreward": false,
     "name": "Sulphur_Nimbus",
@@ -86352,7 +86248,7 @@
       }
     }
   },
-  "0717": {
+  "0716": {
     "canon": true,
     "modreward": false,
     "name": "Vreed_Hunter",
@@ -86475,7 +86371,7 @@
       }
     }
   },
-  "0718": {
+  "0717": {
     "canon": true,
     "modreward": false,
     "name": "Allicuca",
@@ -86584,7 +86480,7 @@
       }
     }
   },
-  "0719": {
+  "0718": {
     "canon": true,
     "modreward": false,
     "name": "Guarice",
@@ -86692,7 +86588,7 @@
       }
     }
   },
-  "0720": {
+  "0719": {
     "canon": true,
     "modreward": false,
     "name": "Gigimon",
@@ -86853,7 +86749,7 @@
       }
     }
   },
-  "0721": {
+  "0720": {
     "canon": true,
     "modreward": false,
     "name": "Kotora",
@@ -86957,7 +86853,7 @@
       }
     }
   },
-  "0722": {
+  "0721": {
     "canon": true,
     "modreward": false,
     "name": "Raitora",
@@ -87061,7 +86957,7 @@
       }
     }
   },
-  "0723": {
+  "0722": {
     "canon": true,
     "modreward": false,
     "name": "Saurobrum",
@@ -87169,7 +87065,7 @@
       }
     }
   },
-  "0724": {
+  "0723": {
     "canon": true,
     "modreward": false,
     "name": "Brazaur",
@@ -87277,7 +87173,7 @@
       }
     }
   },
-  "0725": {
+  "0724": {
     "canon": true,
     "modreward": false,
     "name": "Mystekh",
@@ -87385,7 +87281,7 @@
       }
     }
   },
-  "0726": {
+  "0725": {
     "canon": true,
     "modreward": false,
     "name": "Gatlingpea",
@@ -87500,7 +87396,7 @@
       }
     }
   },
-  "0727": {
+  "0726": {
     "canon": true,
     "modreward": false,
     "name": "Selyne",
@@ -87606,7 +87502,7 @@
       }
     }
   },
-  "0728": {
+  "0727": {
     "canon": true,
     "modreward": false,
     "name": "Breadbug",
@@ -87749,7 +87645,7 @@
       }
     }
   },
-  "0729": {
+  "0728": {
     "canon": true,
     "modreward": false,
     "name": "Spinda_Alternative_Pattern",
@@ -87943,7 +87839,7 @@
       }
     }
   },
-  "0730": {
+  "0729": {
     "canon": true,
     "modreward": false,
     "name": "Gloopie",
@@ -88104,7 +88000,7 @@
       }
     }
   },
-  "0731": {
+  "0730": {
     "canon": true,
     "modreward": false,
     "name": "Jelliette",
@@ -88265,7 +88161,7 @@
       }
     }
   },
-  "0732": {
+  "0731": {
     "canon": true,
     "modreward": false,
     "name": "Venusa",
@@ -88404,7 +88300,7 @@
       }
     }
   },
-  "0733": {
+  "0732": {
     "canon": true,
     "modreward": false,
     "name": "Eeveon",
@@ -88546,7 +88442,7 @@
       }
     }
   },
-  "0734": {
+  "0733": {
     "canon": true,
     "modreward": false,
     "name": "Dusteon",
@@ -88650,7 +88546,7 @@
       }
     }
   },
-  "0735": {
+  "0734": {
     "canon": true,
     "modreward": false,
     "name": "Lamball",
@@ -88811,7 +88707,7 @@
       }
     }
   },
-  "0736": {
+  "0735": {
     "canon": true,
     "modreward": false,
     "name": "Sekhmet",
@@ -88972,7 +88868,7 @@
       }
     }
   },
-  "0737": {
+  "0736": {
     "canon": true,
     "modreward": false,
     "name": "Dark_Mutant",
@@ -89080,7 +88976,7 @@
       }
     }
   },
-  "0738": {
+  "0737": {
     "canon": true,
     "modreward": false,
     "name": "Lunaris",
@@ -89188,7 +89084,7 @@
       }
     }
   },
-  "0739": {
+  "0738": {
     "canon": true,
     "modreward": false,
     "name": "Katress",
@@ -89297,7 +89193,7 @@
       }
     }
   },
-  "0740": {
+  "0739": {
     "canon": true,
     "modreward": false,
     "name": "Ribbuny",
@@ -89438,7 +89334,7 @@
       }
     }
   },
-  "0741": {
+  "0740": {
     "canon": true,
     "modreward": false,
     "name": "Faunazon",
@@ -89579,7 +89475,7 @@
       }
     }
   },
-  "0742": {
+  "0741": {
     "canon": true,
     "modreward": false,
     "name": "Minyan",
@@ -89740,7 +89636,7 @@
       }
     }
   },
-  "0743": {
+  "0742": {
     "canon": true,
     "modreward": false,
     "name": "Vilucard",
@@ -89879,7 +89775,7 @@
       }
     }
   },
-  "0744": {
+  "0743": {
     "canon": true,
     "modreward": false,
     "name": "Shadow_The_Hedgehog",
@@ -90040,7 +89936,7 @@
       }
     }
   },
-  "0745": {
+  "0744": {
     "canon": true,
     "modreward": false,
     "name": "Fairy",
@@ -90283,7 +90179,7 @@
       }
     }
   },
-  "0746": {
+  "0745": {
     "canon": true,
     "modreward": false,
     "name": "Panthalus",
@@ -90408,7 +90304,7 @@
       }
     }
   },
-  "0747": {
+  "0746": {
     "canon": true,
     "modreward": false,
     "name": "Jetragon",
@@ -90516,7 +90412,7 @@
       }
     }
   },
-  "0748": {
+  "0747": {
     "canon": true,
     "modreward": false,
     "name": "Jadeon",
@@ -90620,7 +90516,7 @@
       }
     }
   },
-  "0749": {
+  "0748": {
     "canon": true,
     "modreward": false,
     "name": "Loamole",
