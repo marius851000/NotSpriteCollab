@@ -88693,18 +88693,27 @@
     "modreward": false,
     "name": "Amione",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!235162117785911297>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1535301460596625419": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false,
+      "Pain": false,
+      "Pain^": false,
+      "Angry": false,
+      "Angry^": false,
+      "Worried": false,
+      "Worried^": false,
+      "Joyous": false,
+      "Joyous^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535309073782804490/portrait-0729.png?ex=6a774b7f&is=6a75f9ff&hm=9cc6ca60a751d60789ab178e94c1f859caac0b6218c07a84eccec335d524fe7d&",
+    "portrait_modified": "2026-08-07 15:30:07.463148",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
