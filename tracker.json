@@ -83262,9 +83262,11 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535760883073028106/sprite-0686.zip?ex=6a78f047&is=6a779ec7&hm=5dd2fc4241641064492c63d8794f4dcc4bd86b03bcaff68b0db262213306c643&",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1535761953639895070": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
