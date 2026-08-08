@@ -15479,8 +15479,10 @@
             "portrait_complete": 2,
             "portrait_credit": {
               "primary": "<@!702275233125630042>",
-              "secondary": [],
-              "total": 1
+              "secondary": [
+                "DRAGONMAPLE"
+              ],
+              "total": 2
             },
             "portrait_files": {
               "Normal": false,
@@ -15500,8 +15502,8 @@
               "Sigh": false,
               "Stunned": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1516390185502249032/portrait-0220-0000-0001.png?ex=6a3277e9&is=6a312669&hm=b11a0a68ffa5ec7953ae2c8781731356070af17674bbd7c713cbdcd2214b4ed5&",
-            "portrait_modified": "2026-06-16 10:33:12.824256",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535780240473726987/portrait-0111-0000-0001.png?ex=6a79024e&is=6a77b0ce&hm=2ac3e7aa992ee235b142c11f60113937d858c524f43c953a8b8f8dc104c32bcf&",
+            "portrait_modified": "2026-08-08 22:42:53.374231",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
