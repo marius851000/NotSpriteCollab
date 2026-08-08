@@ -87463,11 +87463,9 @@
       "Pose": false,
       "Head": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535710301117358211/sprite-0718.zip?ex=6a78c12b&is=6a776fab&hm=6c021abf9cd3bd0b77c83a26608e4fd3dadc17f0e7d869638d12a15e00976700&",
-    "sprite_modified": "2026-08-08 18:04:27.061218",
-    "sprite_pending": {
-      "1535721183482482818": 948263579805683752
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535756718552776704/sprite-0718.zip?ex=6a78ec66&is=6a779ae6&hm=bf72e651e1778a843cc948ba79aa4810b3cbee1ebd4ed5be0f3fcef1ce123b0f&",
+    "sprite_modified": "2026-08-08 21:08:53.695210",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
