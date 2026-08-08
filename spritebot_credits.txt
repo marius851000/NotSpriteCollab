@@ -1101,3 +1101,8 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 	Portrait:
 		Spinda_Alternative_Pattern: Happy,Crying,Inspired,Sigh,Pain,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
+EeveeSanta	Contact:https://eeveesanta-deactivated20121215.tumblr.com
+	Portrait:
+		Eeveon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Eeveon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
