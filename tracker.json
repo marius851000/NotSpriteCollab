@@ -84251,8 +84251,10 @@
             "portrait_complete": 2,
             "portrait_credit": {
               "primary": "<@!544245909639397378>",
-              "secondary": [],
-              "total": 1
+              "secondary": [
+                "EEVEESANTA"
+              ],
+              "total": 2
             },
             "portrait_files": {
               "Normal": false,
@@ -84272,8 +84274,8 @@
               "Sigh": false,
               "Stunned": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1534872287872811008/portrait-0755-0000-0001.png?ex=6a75b4b5&is=6a746335&hm=8402ea55d0d55c7616f5bd9de65d1ea96adce927a11c9496b2f34508ce985edf&",
-            "portrait_modified": "2026-08-06 10:34:29.465447",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535783838620328057/portrait-0692-0000-0001.png?ex=6a7905a8&is=6a77b428&hm=72c158f857d4e70b2195cb4f3ecc073a951dc68bd0dc641c874b0c7d41a6dccc&",
+            "portrait_modified": "2026-08-08 22:56:54.229655",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
