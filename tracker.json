@@ -85455,7 +85455,7 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530732860623950004/sprite-0840.zip?ex=6a66a591&is=6a655411&hm=9bfc0f4fb33eba14ab565eee7c7fa3ef2aaf7c8a09d5bf577f24e46fa4b4f296&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535787957792014446/sprite-0701.zip?ex=6a79097e&is=6a77b7fe&hm=62081cf2ed080fdf20f6ca0ec40854a8f291896ca20680d3896f15b8eee20350&",
     "sprite_modified": "2026-07-26 00:25:50.691802",
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535786989431816212/sprite_recolor-0701-0000-0001.png?ex=6a790897&is=6a77b717&hm=5a1eb1d4df31d3f5bf732b9b4c6a4950f521b414b6901f23fbb2478bc2538d09&",
@@ -85516,19 +85516,35 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!330751862590406656>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Strike": false,
+              "Shoot": false,
+              "SpAttack": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
+            },
+            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535788260792737853/sprite-0701-0000-0001.zip?ex=6a7909c6&is=6a77b846&hm=9ef7d27148b4c2dbd39cc395bb474949dd881dde469f2fc096947819f1051816&",
+            "sprite_modified": "2026-08-08 23:14:13.818478",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "918857608591458364": 1535788088104591370
+            },
             "subgroups": {}
           }
         }
