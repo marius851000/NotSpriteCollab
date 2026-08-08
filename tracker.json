@@ -83408,7 +83408,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1511484537266376857/sprite-0825.zip?ex=6a209f2b&is=6a1f4dab&hm=45e81bc4e7ee2f946331dbbf120bff71f390cad280219b3c875854976520b988&",
     "sprite_modified": "2026-06-02 21:39:54.379937",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535759014359466034/sprite_recolor-0687-0000-0001.png?ex=6a78ee8a&is=6a779d0a&hm=7935736bd0f333139551d59f809cd149f29d3636a1a901232c82c7259289691c&",
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1511473815803138169
@@ -84285,110 +84285,6 @@
   "0693": {
     "canon": true,
     "modreward": false,
-    "name": "Dusteon",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "portrait_talk": {},
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "sprite_talk": {},
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "portrait_talk": {},
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "sprite_talk": {},
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {},
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {},
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0694": {
-    "canon": true,
-    "modreward": false,
     "name": "Lamball",
     "portrait_bounty": {},
     "portrait_complete": 2,
@@ -84547,7 +84443,7 @@
       }
     }
   },
-  "0695": {
+  "0694": {
     "canon": true,
     "modreward": false,
     "name": "Sekhmet",
@@ -84708,7 +84604,7 @@
       }
     }
   },
-  "0696": {
+  "0695": {
     "canon": true,
     "modreward": false,
     "name": "Dark_Mutant",
@@ -84816,7 +84712,7 @@
       }
     }
   },
-  "0697": {
+  "0696": {
     "canon": true,
     "modreward": false,
     "name": "Lunaris",
@@ -84924,7 +84820,7 @@
       }
     }
   },
-  "0698": {
+  "0697": {
     "canon": true,
     "modreward": false,
     "name": "Katress",
@@ -85033,7 +84929,7 @@
       }
     }
   },
-  "0699": {
+  "0698": {
     "canon": true,
     "modreward": false,
     "name": "Ribbuny",
@@ -85174,7 +85070,7 @@
       }
     }
   },
-  "0700": {
+  "0699": {
     "canon": true,
     "modreward": false,
     "name": "Faunazon",
@@ -85315,7 +85211,7 @@
       }
     }
   },
-  "0701": {
+  "0700": {
     "canon": true,
     "modreward": false,
     "name": "Minyan",
@@ -85476,7 +85372,7 @@
       }
     }
   },
-  "0702": {
+  "0701": {
     "canon": true,
     "modreward": false,
     "name": "Vilucard",
@@ -85615,7 +85511,7 @@
       }
     }
   },
-  "0703": {
+  "0702": {
     "canon": true,
     "modreward": false,
     "name": "Shadow_The_Hedgehog",
@@ -85776,7 +85672,7 @@
       }
     }
   },
-  "0704": {
+  "0703": {
     "canon": true,
     "modreward": false,
     "name": "Fairy",
@@ -86019,7 +85915,7 @@
       }
     }
   },
-  "0705": {
+  "0704": {
     "canon": true,
     "modreward": false,
     "name": "Panthalus",
@@ -86144,7 +86040,7 @@
       }
     }
   },
-  "0706": {
+  "0705": {
     "canon": true,
     "modreward": false,
     "name": "Jetragon",
@@ -86252,7 +86148,7 @@
       }
     }
   },
-  "0707": {
+  "0706": {
     "canon": true,
     "modreward": false,
     "name": "Jadeon",
@@ -86356,7 +86252,7 @@
       }
     }
   },
-  "0708": {
+  "0707": {
     "canon": true,
     "modreward": false,
     "name": "Loamole",
@@ -86470,7 +86366,7 @@
       }
     }
   },
-  "0709": {
+  "0708": {
     "canon": true,
     "modreward": false,
     "name": "Amione",
@@ -86607,7 +86503,7 @@
       }
     }
   },
-  "0710": {
+  "0709": {
     "canon": true,
     "modreward": false,
     "name": "Konya_Alola",
@@ -86711,7 +86607,7 @@
       }
     }
   },
-  "0711": {
+  "0710": {
     "canon": true,
     "modreward": false,
     "name": "Konya_Galar",
