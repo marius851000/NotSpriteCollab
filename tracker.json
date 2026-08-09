@@ -6734,7 +6734,7 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530729891027488788/sprite-0048.zip?ex=6a66a2cd&is=6a65514d&hm=607c180cec31f14879aa6706c8cd601b824f31f6c7f916b3d0ed046eb11862fc&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535800034803843072/sprite-0047.zip?ex=6a7914be&is=6a77c33e&hm=ba0a677cc83ae890968afb5d09f5ddd5bc127d9adefc6892b0b027aabdfa1c24&",
     "sprite_modified": "2026-07-26 00:14:05.037281",
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535797306954358815/sprite_recolor-0047-0000-0001.png?ex=6a791233&is=6a77c0b3&hm=c7ff48fb4b8e44183c3f2703482e4daa741bda13e7b92207bd76c570775e1934&",
@@ -6804,10 +6804,14 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1535800815003111505": 948263579805683752
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "918857608591458364": 1535800800121716796
+            },
             "subgroups": {}
           }
         }
@@ -85583,8 +85587,8 @@
               "Sigh": false,
               "Stunned": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535796785677860945/portrait-0701-0000-0001.png?ex=6a7911b7&is=6a77c037&hm=0c96b06537adb905a376d0a318637d1bd060c448cf0adf5aa52d0577540da214&",
-            "portrait_modified": "2026-08-08 23:48:06.892085",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535801149045743756/portrait-0701-0000-0001.png?ex=6a7915c7&is=6a77c447&hm=107ea5fccd04803a0342d2d35c4c6f732c8b7fbb563f9e4d542adcd9d9eea258&",
+            "portrait_modified": "2026-08-09 00:05:27.336969",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
