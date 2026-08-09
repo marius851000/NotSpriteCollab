@@ -85387,12 +85387,10 @@
               "Sigh": false,
               "Stunned": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535793036947234949/portrait-0700-0000-0001.png?ex=6a790e39&is=6a77bcb9&hm=7b0430299cb58d430df7221f81ac992d9c57db6521053fb05cbe069f3f26552d&",
-            "portrait_modified": "2026-08-08 23:33:13.120452",
-            "portrait_pending": {
-              "1535799781241135226": 948263579805683752
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535799768239054850/portrait_recolor-0700-0000-0001.png?ex=6a79147e&is=6a77c2fe&hm=5b04e94c118724a2e0290ca8443491645a48634bd162c28f457217f68dcde8cc&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535799946362757180/portrait-0700-0000-0001.png?ex=6a7914a8&is=6a77c328&hm=e23acc348f7fd1678b5a62fa40dbcd80551f5ea91b24e3ce9e53f7c06b6ebc9a&",
+            "portrait_modified": "2026-08-09 00:00:27.217136",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "918857608591458364": 1535792999509004380
