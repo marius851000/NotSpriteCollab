@@ -6684,7 +6684,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1530729704066121849/portrait-0048.png?ex=6a66a2a1&is=6a655121&hm=9227fca4561db7ba4c397f185a7d826abe2a7b466d231e94e333b265898382d6&",
     "portrait_modified": "2026-07-26 00:13:20.687197",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535802037038481469/portrait_recolor-0047-0000-0001.png?ex=6a79169b&is=6a77c51b&hm=89aac5f9e9dda8bfd3fb6a391f51e93d525286ea4f27c20c5b07cf01c51b7ef8&",
     "portrait_required": true,
     "portrait_talk": {
       "918857608591458364": 1530729450717843527
@@ -85478,8 +85478,8 @@
               "HitGround": false,
               "Rotate": false
             },
-            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535789644912795668/sprite-0700-0000-0001.zip?ex=6a790b10&is=6a77b990&hm=130c1e5cc0be8871ac3f43d0a9659663f6b8f12a104e7ebb344a26c4316cd247&",
-            "sprite_modified": "2026-08-08 23:19:43.160470",
+            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535802173319815248/sprite-0700-0000-0001.zip?ex=6a7916bb&is=6a77c53b&hm=1cf3efd586964cfb0873600feaab5314e5f4e17a2029181669ce14e2deba6f8f&",
+            "sprite_modified": "2026-08-09 00:09:30.894630",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
