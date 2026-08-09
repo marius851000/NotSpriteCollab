@@ -6206,10 +6206,10 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535807343759982703/sprite-0042.zip?ex=6a791b8c&is=6a77ca0c&hm=4f881bd2eec6078a2bcb608f7ff95df187ecbc6dde8ce3a68d40c7e5466e7858&",
     "sprite_modified": "2026-01-07 12:07:43.789689",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535806056356253727/sprite_recolor-0042-0000-0001.png?ex=6a791a59&is=6a77c8d9&hm=517d048c3c8d9a010568e8e2210bf35f569329ac5adb53ae62609b71ace892e6&",
     "sprite_required": true,
     "sprite_talk": {},
     "subgroups": {
@@ -6269,19 +6269,35 @@
               "918857608591458364": 1535785402991116399
             },
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!330751862590406656>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "QuickStrike": false,
+              "Shoot": false,
+              "Hover": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
+            },
+            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1535807658916057189/sprite-0042-0000-0001.zip?ex=6a791bd7&is=6a77ca57&hm=c337fc447ac40004f8dd5de6c6188d0fd762f8d4122f3472690a05574ab2d8c8&",
+            "sprite_modified": "2026-08-09 00:31:19.081513",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "918857608591458364": 1535807465688399972
+            },
             "subgroups": {}
           }
         }
