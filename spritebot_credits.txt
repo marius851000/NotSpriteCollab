@@ -811,6 +811,7 @@ BobTheBobCatt	Discord:<@!257709582422507530>
 		Nucleon: Normal
 		Spinda_Alternative_Pattern: Normal,",Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowth_Alternate_Shiny: Normal
+		Reshiram_Alternate_Shiny: Normal
 	Sprite:
 		Leafeon_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Jolteon_Alternate_Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
