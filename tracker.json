@@ -87264,18 +87264,19 @@
     "modreward": false,
     "name": "Scp_000",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1327761924011720837>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537179228242575500/portrait-0714.png?ex=6a7e1937&is=6a7cc7b7&hm=debc8e471c18dbc4216b082b08951f01e700d9149e86f5307bf72871dfc2b0bc&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1537179625246040074": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Special1": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537183336282198177/portrait-0714.png?ex=6a7e1d0a&is=6a7ccb8a&hm=8bcc9be6067589954b8a5caa35dff6597167d37852defd9eb39dbc550c932932&",
+    "portrait_modified": "2026-08-12 19:37:46.452805",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
