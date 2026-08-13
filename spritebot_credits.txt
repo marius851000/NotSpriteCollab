@@ -1126,4 +1126,6 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Scp_000: Normal,Special1
 		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
 		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+		Crystal_Onix: Normal,Surprised
+		Ancient_Mew: Normal,Special1
 
