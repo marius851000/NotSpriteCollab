@@ -87614,18 +87614,19 @@
     "modreward": false,
     "name": "Ancient_Mew",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1327761924011720837>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537470865384407040/portrait-0717.png?ex=6a7f28d3&is=6a7dd753&hm=f482bc587774cfcbae64378b8d375c1706b63b22da903bb9fec140bb28b29cae&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1537473229734547477": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Special1": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537473763128381551/portrait-0717.png?ex=6a7f2b86&is=6a7dda06&hm=1eece345c51710d0f22933fef69573ef02980c921a8966a669038e3f28b1fbf4&",
+    "portrait_modified": "2026-08-13 14:51:49.664987",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
