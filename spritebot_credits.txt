@@ -1044,6 +1044,19 @@ Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
 	Portrait:
 		Riolu_Dothack_Tsukasa: OLD
 
+Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
+	Portrait:
+		Bidoof_Spamton Shiny: Normal
+		Verity: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
+		Verity Shiny: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
+		Scp_000: Normal,Special1
+		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+		Crystal_Onix: Normal,Surprised
+		Crystal_Onix Shiny: Normal,Surprised
+		Ancient_Mew: Normal,Special1
+		Ancient_Mew Shiny: Normal,Special1
+
 Discord:<@!238146046146904069>
 	Portrait:
 		Stardappor: Normal
@@ -1118,16 +1131,4 @@ EeveeSanta	Contact:https://eeveesanta-deactivated20121215.tumblr.com
 	Portrait:
 		Eeveon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Eeveon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
-Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
-	Portrait:
-		Verity: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
-		Verity Shiny: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
-		Scp_000: Normal,Special1
-		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
-		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
-		Crystal_Onix: Normal,Surprised
-		Crystal_Onix Shiny: Normal,Surprised
-		Ancient_Mew: Normal,Special1
-		Ancient_Mew Shiny: Normal,Special1
 
