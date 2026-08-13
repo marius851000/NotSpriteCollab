@@ -1023,6 +1023,7 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Crystal_Onix Shiny: Normal,Surprised
 		Ancient_Mew: Normal,Special1
 		Ancient_Mew Shiny: Normal,Special1
+		Meta_Groudon: Normal
 
 FantasyGuy	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
 	Portrait:
