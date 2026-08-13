@@ -1127,5 +1127,6 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
 		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
 		Crystal_Onix: Normal,Surprised
+		Crystal_Onix Shiny: Normal,Surprised
 		Ancient_Mew: Normal,Special1
 
