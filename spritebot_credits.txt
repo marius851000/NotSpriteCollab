@@ -1010,6 +1010,20 @@ Piksidust	Discord:<@!170593611329699850>
 	Portrait:
 		Sans: OLD
 
+Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
+	Portrait:
+		Sans Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Special2^,Worried,Determined,Special0,Special3,Special0^,Special3^
+		Bidoof_Spamton Shiny: Normal
+		Verity: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
+		Verity Shiny: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
+		Scp_000: Normal,Special1
+		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+		Crystal_Onix: Normal,Surprised
+		Crystal_Onix Shiny: Normal,Surprised
+		Ancient_Mew: Normal,Special1
+		Ancient_Mew Shiny: Normal,Special1
+
 FantasyGuy	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
 	Portrait:
 		Nyancat: OLD
@@ -1043,19 +1057,6 @@ Fearless-Quit	Discord:<@!801938240562397194>
 Activehenry	Discord:<@!329980673895038976>	Contact:ActivehenryALT#7237
 	Portrait:
 		Riolu_Dothack_Tsukasa: OLD
-
-Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
-	Portrait:
-		Bidoof_Spamton Shiny: Normal
-		Verity: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
-		Verity Shiny: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
-		Scp_000: Normal,Special1
-		Herobrine: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
-		Herobrine Shiny: Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
-		Crystal_Onix: Normal,Surprised
-		Crystal_Onix Shiny: Normal,Surprised
-		Ancient_Mew: Normal,Special1
-		Ancient_Mew Shiny: Normal,Special1
 
 Discord:<@!238146046146904069>
 	Portrait:
