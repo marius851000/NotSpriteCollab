@@ -3776,7 +3776,7 @@
       "Worried": false,
       "Dizzy": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537929711739736197/portrait-0027.png?ex=6a80d428&is=6a7f82a8&hm=5c6fc2a45a89e07f1a190833b83a8c4364ff27c62d063b3e11457e3a85ee0dc4&",
     "portrait_modified": "2026-01-07 12:07:43.695612",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -3847,19 +3847,39 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!1327761924011720837>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_files": {
+              "Normal": false,
+              "Happy": false,
+              "Pain": false,
+              "Angry": false,
+              "Worried": false,
+              "Sad": false,
+              "Crying": false,
+              "Shouting": false,
+              "Teary-Eyed": false,
+              "Determined": false,
+              "Joyous": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Dizzy": false,
+              "Special0": false,
+              "Sigh": false,
+              "Stunned": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537929861623058502/portrait-0027-0000-0001.png?ex=6a80d44c&is=6a7f82cc&hm=b9e132fe0b347f8819a0121ed8306e2a32235420e4f0aecf303c45172e1f43f3&",
+            "portrait_modified": "2026-08-14 21:04:11.761402",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "918857608591458364": 1537929810884427856
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
