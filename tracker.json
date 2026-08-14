@@ -82435,13 +82435,15 @@
       "Surprised": false,
       "Dizzy": false,
       "Sigh": false,
-      "Stunned": false
+      "Stunned": false,
+      "Special0": false,
+      "Special1": false,
+      "Special2": false,
+      "Special3": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537877154912542750/portrait-0678.png?ex=6a80a336&is=6a7f51b6&hm=a10559343b4be0b53b713cdfb6272e2bf67aee51bf27fb10d27f6f01c6e6e5ca&",
-    "portrait_modified": "2026-01-31 19:01:18.824748",
-    "portrait_pending": {
-      "1537881039777570846": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1537881222796017755/portrait-0678.png?ex=6a80a6ff&is=6a7f557f&hm=331bb2024078d8663e144093bc1d5bee6a98f89a60bd2971ad33d442063b9797&",
+    "portrait_modified": "2026-08-14 17:50:55.522631",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
