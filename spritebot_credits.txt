@@ -991,6 +991,7 @@ Charry	Discord:<@!235162117785911297>	Contact:<@235162117785911297>
 		Sekhmet: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Panthalus: Normal
 		Amione: Normal,Joyous,Normal^,Joyous^,Pain,Pain^,Angry,Angry^,Worried,Worried^
+		Leafan: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Selyne: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Breadbug: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -1001,6 +1002,7 @@ Charry	Discord:<@!235162117785911297>	Contact:<@235162117785911297>
 		Sekhmet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Dance,Twirl,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Panthalus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Amione: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Eat,Pose,Head
+		Leafan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,MultiStrike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Edael	Discord:<@!300803467637817354>	Contact:https://twitter.com/Exodus_Drake
 	Portrait:
