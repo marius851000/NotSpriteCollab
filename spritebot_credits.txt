@@ -905,6 +905,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Dandy Ribecca: Normal
 		Dandy Soulvester: Normal
 		Dandy Squirm: Normal,Teary-Eyed
+		Dandy Waxwell: Normal
 		Chirithy: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Chirithy Nightmare: Normal
 		Gingerbrave: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
