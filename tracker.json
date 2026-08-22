@@ -84502,10 +84502,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1540607982100807730": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "918857608591458364": 1540607892376387594
+    }
   },
   "0693": {
     "subgroups": {
