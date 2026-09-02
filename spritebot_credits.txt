@@ -1149,3 +1149,7 @@ Discord:<@!916471466508304465>
 	Portrait:
 		Kecleon_Bowtie: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 
+JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
+	Portrait:
+		Sonic_The_Hedgehog: Normal
+
