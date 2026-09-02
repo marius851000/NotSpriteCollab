@@ -88754,19 +88754,23 @@
     "modreward": false,
     "name": "Flamb",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!330751862590406656>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1544509290377642034/portrait-0724.png?ex=6a98c3de&is=6a97725e&hm=0cd9804fc00c7abfcf9cde545126e94036fb50fd729e89d007ffd1f340e5998f&",
+    "portrait_modified": "2026-09-02 00:48:29.744471",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "918857608591458364": 1544509265790898186
+    },
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
