@@ -1044,6 +1044,7 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Meta_Groudon: Normal
 		Meta_Groudon Shiny: Normal
 		Apex_Lugia: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Kleavor_Alternate_Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 FantasyGuy	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
 	Portrait:
