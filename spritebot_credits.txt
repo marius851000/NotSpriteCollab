@@ -1032,6 +1032,7 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Sans Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Special2^,Worried,Determined,Special0,Special3,Special0^,Special3^
 		Bidoof_Spamton Shiny: Normal
 		Ghost Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Lamball Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Verity: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
 		Verity Shiny: Normal,Special1,Happy,Sigh,Pain,Shouting,Surprised,Angry,Worried,Determined
 		Scp_000: Normal,Special1
