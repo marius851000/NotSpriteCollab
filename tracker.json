@@ -84558,7 +84558,9 @@
             "portrait_files": {},
             "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545467573368397985/portrait-0693-0000-0001.png?ex=6a9c4056&is=6a9aeed6&hm=91c1c765c04b2660dd113304b6ff4ae334e3c3f9f1218f6209073c4558ae3f5b&",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1545468924764749954": 948263579805683752
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
