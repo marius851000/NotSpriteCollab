@@ -83409,19 +83409,21 @@
     "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!1058057407592407081>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!1327761924011720837>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Normal": false,
       "Happy": false,
-      "Pain": false
+      "Pain": false,
+      "Crying": false,
+      "Dizzy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545907577747935393/portrait-0685.png?ex=6a9dda20&is=6a9c88a0&hm=ae12752b73d51807e4e3050c4acbdfcd956d766feca1d9248ab9eb301b15f913&",
-    "portrait_modified": "2026-04-29 04:14:59.721981",
-    "portrait_pending": {
-      "1545913978159628461": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545920847955628145/portrait-0685.png?ex=6a9de67b&is=6a9c94fb&hm=dd7d3a43eb4de504ced1530d03a62151e92918652b62cd04bcdc2f11b4735ae8&",
+    "portrait_modified": "2026-09-05 22:17:31.621209",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
