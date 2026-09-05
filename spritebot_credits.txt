@@ -1169,3 +1169,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 	Portrait:
 		Sonic_The_Hedgehog: Normal
 
+Deeshura	Discord:<@!157796074457661440>	Contact:https://bsky.app/profile/deeshura.bsky.social
+	Portrait:
+		Cool_Rayquaza: Normal
+
