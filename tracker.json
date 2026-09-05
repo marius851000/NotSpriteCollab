@@ -89351,16 +89351,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1327761924011720837>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545739820314402866/portrait-0728.png?ex=6a9d3de3&is=6a9bec63&hm=a6beae414f9b2ca3d1152c0304184c43d02f37e21e01b450a2d21582ac8f25e2&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1545740674807103620": 948263579805683752
-    },
+    "portrait_modified": "2026-09-05 18:08:04.144350",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -89457,18 +89457,18 @@
     "modreward": false,
     "name": "Cool_Rayquaza",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1327761924011720837>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545748294985060442/portrait-0729.png?ex=6a9d45c8&is=6a9bf448&hm=968963b68f42878932e221cc64dec9507ac793955a4f1b7de487407711bc03dc&",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1545748594836111380": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545858070381596702/portrait-0729.png?ex=6a9dac04&is=6a9c5a84&hm=fc383288bca3603a31c2698eb216fda65696f3e12b21b4991f24e66c30384b93&",
+    "portrait_modified": "2026-09-05 18:08:04.292961",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
