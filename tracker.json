@@ -88925,8 +88925,10 @@
     "sprite_complete": 2,
     "sprite_credit": {
       "primary": "<@!916471466508304465>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!544245909639397378>"
+      ],
+      "total": 2
     },
     "sprite_files": {
       "Walk": false,
@@ -88965,7 +88967,7 @@
       "HitGround": false
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545902892555182191/sprite-0725.zip?ex=6a9dd5c3&is=6a9c8443&hm=3e9f0b7320cf865b7838601673e62e1487bc08d8767acf8541f5cd66c2a74d4a&",
-    "sprite_modified": "2026-09-05 21:06:10.579954",
+    "sprite_modified": "2026-09-05 21:07:50.236985",
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
