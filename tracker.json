@@ -88890,8 +88890,10 @@
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!544245909639397378>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Normal": false,
@@ -88913,8 +88915,8 @@
       "Sigh": false,
       "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1544824772792287252/portrait-0725.png?ex=6a99e9af&is=6a98982f&hm=1c0e599d2b938c0a05db9d32527a66e400d288327b0926d91e35400470677bd7&",
-    "portrait_modified": "2026-09-02 21:42:06.686589",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1545906085565567088/portrait-0725.png?ex=6a9dd8bc&is=6a9c873c&hm=af63fefd05cc439c9bb43b7cdcbb205efb3fd4c2e19c0229c56300b428df226f&",
+    "portrait_modified": "2026-09-05 21:19:46.458376",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
