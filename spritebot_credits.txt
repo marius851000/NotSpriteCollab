@@ -1055,6 +1055,7 @@ Kjell	Discord:<@!1327761924011720837>	Contact:Kjellfrederikjansen@web.de
 		Sonic_The_Hedgehog Shiny: Normal
 		Kleavor_Alternate_Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Alternate_Missingno_: Normal,Angry
+		Alternate_Missingno_ Shiny: Normal,Angry
 		Cool_Rayquaza: Normal
 
 FantasyGuy	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
