@@ -89962,7 +89962,7 @@
     "modreward": false,
     "name": "Mafia_Jolteon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
       "secondary": [],
@@ -89971,7 +89971,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848775874678854/portrait-0733.png?ex=6aa146af&is=6a9ff52f&hm=14a74ae4923392ec944faefe45d72de1460e8882ebba2e194f5776d61148f7f8&",
     "portrait_modified": "2026-09-08 11:44:46.769017",
     "portrait_pending": {},
     "portrait_recolor_link": "",
