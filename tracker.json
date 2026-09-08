@@ -90070,18 +90070,18 @@
     "modreward": false,
     "name": "Mafia_Flareon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843681498333235": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848827099586621/portrait-0734.png?ex=6aa146bb&is=6a9ff53b&hm=28cf4fddd4a622adea24876090cf18d12295d30b665620d80fcec828b4c8dc09&",
+    "portrait_modified": "2026-09-08 11:44:58.817652",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -90180,16 +90180,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843737026732032": 948263579805683752
-    },
+    "portrait_modified": "2026-09-08 11:44:59.301346",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -90288,16 +90288,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843775819710544": 948263579805683752
-    },
+    "portrait_modified": "2026-09-08 11:44:59.628100",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -90396,16 +90396,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843826897952828": 948263579805683752
-    },
+    "portrait_modified": "2026-09-08 11:44:59.912043",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
