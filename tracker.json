@@ -90178,7 +90178,7 @@
     "modreward": false,
     "name": "Mafia_Espeon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
       "secondary": [],
@@ -90187,7 +90187,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848829926678639/portrait-0735.png?ex=6aa146bc&is=6a9ff53c&hm=eacce23dec1a4e69afeadc846bf76aee71c1781bba8fd294ed7fef559b5766c2&",
     "portrait_modified": "2026-09-08 11:44:59.301346",
     "portrait_pending": {},
     "portrait_recolor_link": "",
