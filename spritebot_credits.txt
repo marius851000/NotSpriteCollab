@@ -1028,6 +1028,7 @@ Cuadrupl	Discord:<@!916471466508304465>	Contact:https://www.reddit.com/user/Exte
 		Mafia_Leafeon: Normal
 		Mafia_Glaceon: Normal
 		Mafia_Sylveon: Normal,Normal^
+		Armored_Ponyta: Normal
 	Sprite:
 		Salandit_Nerd: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
