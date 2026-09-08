@@ -90719,18 +90719,18 @@
     "modreward": false,
     "name": "Armored_Ponyta",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546874307844767914": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546883729618640907/portrait-0740.png?ex=6aa1673c&is=6aa015bc&hm=d76868ee22cc5d1b5de1f200575e762dadf3981bfde9691dce561dfeb08e64fc&",
+    "portrait_modified": "2026-09-08 14:03:40.346896",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
