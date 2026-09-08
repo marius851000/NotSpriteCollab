@@ -90394,7 +90394,7 @@
     "modreward": false,
     "name": "Mafia_Leafeon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
       "secondary": [],
@@ -90403,7 +90403,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848843809689802/portrait-0737.png?ex=6aa146bf&is=6a9ff53f&hm=26ba0ef918f35d06cff8ea1e577debed20a591359fff81a9d8a4bb13e2cf1414&",
     "portrait_modified": "2026-09-08 11:44:59.912043",
     "portrait_pending": {},
     "portrait_recolor_link": "",
