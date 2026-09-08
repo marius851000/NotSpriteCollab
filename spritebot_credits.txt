@@ -1020,6 +1020,14 @@ Cuadrupl	Discord:<@!916471466508304465>	Contact:https://www.reddit.com/user/Exte
 	Portrait:
 		Kecleon_Bowtie: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Salandit_Nerd: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mafia_Vaporeon: Normal
+		Mafia_Jolteon: Normal
+		Mafia_Flareon: Normal
+		Mafia_Espeon: Normal
+		Mafia_Umbreon: Normal
+		Mafia_Leafeon: Normal
+		Mafia_Glaceon: Normal
+		Mafia_Sylveon: Normal,Normal^
 	Sprite:
 		Salandit_Nerd: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
