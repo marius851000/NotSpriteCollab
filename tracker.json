@@ -90286,7 +90286,7 @@
     "modreward": false,
     "name": "Mafia_Umbreon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
       "secondary": [],
@@ -90295,7 +90295,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848843998437506/portrait-0736.png?ex=6aa146bf&is=6a9ff53f&hm=374e85dfc9fd04b9cdd0b4429f809b077c2757389a38de8fd29b8048d24bd71b&",
     "portrait_modified": "2026-09-08 11:44:59.628100",
     "portrait_pending": {},
     "portrait_recolor_link": "",
