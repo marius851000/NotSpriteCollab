@@ -89854,18 +89854,18 @@
     "modreward": false,
     "name": "Mafia_Vaporeon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843591505219626": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848775073562644/portrait-0732.png?ex=6aa146af&is=6a9ff52f&hm=c50d9e917326de263a7d68e38e2ded9fa49943a121471baaf1a46850243283db&",
+    "portrait_modified": "2026-09-08 11:44:46.311380",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -89964,16 +89964,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843641383755887": 948263579805683752
-    },
+    "portrait_modified": "2026-09-08 11:44:46.769017",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
