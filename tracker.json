@@ -90502,7 +90502,7 @@
     "modreward": false,
     "name": "Mafia_Glaceon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
       "primary": "<@!916471466508304465>",
       "secondary": [],
@@ -90511,7 +90511,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848875879342090/portrait-0738.png?ex=6aa146c7&is=6a9ff547&hm=61d862a5bf460fa07e417ea444e62438dc6c00069cfe10f6b1306732dc78622a&",
     "portrait_modified": "2026-09-08 11:45:10.724248",
     "portrait_pending": {},
     "portrait_recolor_link": "",
