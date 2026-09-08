@@ -90504,16 +90504,16 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843871688925249": 948263579805683752
-    },
+    "portrait_modified": "2026-09-08 11:45:10.724248",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -90610,18 +90610,19 @@
     "modreward": false,
     "name": "Mafia_Sylveon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!916471466508304465>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1546843907302621246": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1546848875380473856/portrait-0739.png?ex=6aa146c6&is=6a9ff546&hm=ad467650de7c945191e5f0b2aceab9c57d4d667ae85f66a8f23f0b7e32d9279c&",
+    "portrait_modified": "2026-09-08 11:45:10.258171",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
