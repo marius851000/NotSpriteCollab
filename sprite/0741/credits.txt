@@ -1,0 +1,1 @@
+2026-09-15 18:36:16.949869	<@!235162117785911297>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Laying,Head,Cringe,TumbleBack

@@ -90829,34 +90829,71 @@
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!235162117785911297>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1549488064672301096": 948263579805683752
-    },
+    "portrait_modified": "2026-09-15 18:36:17.893345",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
       "918857608591458364": 1549488055361212417
     },
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!235162117785911297>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1549488052836245514": 948263579805683752
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Float": false,
+      "Nod": false,
+      "Laying": false,
+      "Head": false,
+      "Cringe": false,
+      "TumbleBack": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1549489050115903610/sprite-0741.zip?ex=6aaae1a1&is=6aa99021&hm=812d1f382bfe1905f1f3eac7d8a73aa3d0f27c070efd03ac61881fce3f3a474e&",
+    "sprite_modified": "2026-09-15 18:36:16.971241",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
