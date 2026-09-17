@@ -90976,18 +90976,34 @@
     "modreward": false,
     "name": "Cinnamoth",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!235162117785911297>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1550206541972512909": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1550222765192253440/portrait-0742.png?ex=6aad8cf4&is=6aac3b74&hm=f60e9aa2f69fbe80a2490f8ed549174dfea1f26e6733b0a8e11381a2beaf3140&",
+    "portrait_modified": "2026-09-17 19:11:48.541765",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
