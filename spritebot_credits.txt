@@ -1020,6 +1020,7 @@ Charry	Discord:<@!235162117785911297>	Contact:<@235162117785911297>
 		Wistella: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Float,Laying,Head,Cringe,TumbleBack
 		Silvance: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Laying,Head,Cringe,TumbleBack
 		Cinnamoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Dupin: Idle,Walk,Sleep,Hurt,Attack,Charge,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Laying,LeapForth,Head,Cringe,TumbleBack
 
 Cuadrupl	Discord:<@!916471466508304465>	Contact:https://www.reddit.com/user/Extension_Spirit8805/
 	Portrait:
