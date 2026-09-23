@@ -89580,6 +89580,77 @@
         "sprite_recolor_link": "",
         "sprite_required": false,
         "sprite_talk": {}
+      },
+      "0001": {
+        "subgroups": {
+          "0001": {
+            "subgroups": {},
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "past_work": []
+          }
+        },
+        "canon": true,
+        "modreward": false,
+        "name": "Alt",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "sprite_talk": {},
+        "past_work": []
       }
     },
     "canon": true,
@@ -89605,18 +89676,30 @@
       "918857608591458364": 1536143014932643981
     },
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!276369635304275968>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1552374454309363782/sprite-0712.zip?ex=6ab560df&is=6ab40f5f&hm=197edb2307ba2be489692d3257772cfae8b63ecd2a7910274488269e81b072aa&",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1552374817313787954": 948263579805683752
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Twirl": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1552378181724676157/sprite-0712.zip?ex=6ab56458&is=6ab412d8&hm=5e6d4da7c841a65f4f81bcc76e9edea8961cd673a49249507b041da221672047&",
+    "sprite_modified": "2026-09-23 17:56:39.736574",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
