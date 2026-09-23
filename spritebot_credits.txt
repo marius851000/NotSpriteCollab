@@ -114,6 +114,7 @@ FunnyKecleonMeme	Discord:<@!276369635304275968>	Contact:FunnyKecleonMeme#1075
 		Feraligatr_Pirate: OLD
 		Bidoof_Spamton: OLD
 		Garchomp_Alternate_Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Void_Shadow: Normal,Normal^
 	Sprite:
 		Feraligatr_Pirate: OLD
 		Cinderace_Pirate: "
