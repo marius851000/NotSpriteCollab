@@ -89623,24 +89623,19 @@
         "modreward": true,
         "name": "Alternate",
         "portrait_bounty": {},
-        "portrait_complete": 1,
+        "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "<@!276369635304275968>",
+          "primary": "",
           "secondary": [],
-          "total": 1
+          "total": 0
         },
-        "portrait_files": {
-          "Normal": false,
-          "Normal^": false
-        },
+        "portrait_files": {},
         "portrait_link": "",
-        "portrait_modified": "2026-09-23 18:13:15.573035",
+        "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {
-          "918857608591458364": 1536143014932643981
-        },
+        "portrait_talk": {},
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -89663,19 +89658,24 @@
     "name": "Void_Shadow",
     "past_work": [],
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!276369635304275968>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
+    },
     "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_modified": "2026-09-23 18:13:15.573035",
     "portrait_pending": {},
     "portrait_recolor_link": "",
-    "portrait_required": false,
-    "portrait_talk": {},
+    "portrait_required": true,
+    "portrait_talk": {
+      "918857608591458364": 1536143014932643981
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
