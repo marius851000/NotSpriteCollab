@@ -89612,12 +89612,16 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1552374454309363782/sprite-0712.zip?ex=6ab560df&is=6ab40f5f&hm=197edb2307ba2be489692d3257772cfae8b63ecd2a7910274488269e81b072aa&",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1552374817313787954": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "918857608591458364": 1552374754860597259
+    }
   },
   "0713": {
     "subgroups": {
