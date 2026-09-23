@@ -117,6 +117,7 @@ FunnyKecleonMeme	Discord:<@!276369635304275968>	Contact:FunnyKecleonMeme#1075
 	Sprite:
 		Feraligatr_Pirate: OLD
 		Cinderace_Pirate: "
+		Void_Shadow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
 JFain	Discord:<@!702275233125630042>
 	Portrait:
