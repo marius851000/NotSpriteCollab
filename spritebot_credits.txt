@@ -1,5 +1,5 @@
-All custom graphics not originating from official PMD games are licensed under Attribution-NonCommercial 4.0 International http://creativecommons.org/licenses/by-nc/4.0/.
-All graphics referred to in this file can be found in http://sprites.pmdcollab.org/
+No formal licenses unify those sprites and portraits. License for some of them are detailed at https://hacknews.pmdcollab.org/page:notspritecollab_credit
+All graphics referred to in this file can be found in https://nsc.pmdcollab.org/
 
 Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 	Portrait:
