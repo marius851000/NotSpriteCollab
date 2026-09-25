@@ -1,1 +1,1 @@
-2026-09-22 19:46:26.644404	<@!235162117785911297>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Laying,LeapForth,Head,Cringe,TumbleBack
+2026-09-22 19:46:26.644404	<@!235162117785911297>	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,RearUp,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Laying,LeapForth,Head,Cringe,TumbleBack
