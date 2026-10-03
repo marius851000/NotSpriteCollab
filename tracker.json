@@ -93920,6 +93920,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -93947,13 +93948,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -93981,13 +93982,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Carnibora",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -94023,7 +94024,6 @@
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1555919937652924517
-    },
-    "past_work": []
+    }
   }
 }
