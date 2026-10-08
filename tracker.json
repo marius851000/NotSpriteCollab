@@ -15919,7 +15919,7 @@
               "total": 0
             },
             "sprite_files": {},
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1557597571797483651/sprite-0111-0000-0001.zip?ex=6ac86147&is=6ac70fc7&hm=c125aae49da9921ad6ab0e18be94b838d8d2cd8272ea38bea11d49dbcc34758d&",
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -16008,12 +16008,16 @@
       "total": 0
     },
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1557597235070500976/sprite-0111.zip?ex=6ac860f7&is=6ac70f77&hm=9afdd1bb66cbb32b7def78aaf39e7c9f13810af33e8fd7f9f7c2b363cba66baa&",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1557597631465791508": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "918857608591458364": 1557597568685449300
+    }
   },
   "0112": {
     "subgroups": {
