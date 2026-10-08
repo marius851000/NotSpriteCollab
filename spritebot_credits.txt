@@ -1194,6 +1194,7 @@ EeveeSanta	Contact:https://eeveesanta-deactivated20121215.tumblr.com
 JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 	Portrait:
 		Sonic_The_Hedgehog: Normal
+		Sexy: Normal
 
 Deeshura	Discord:<@!157796074457661440>	Contact:https://bsky.app/profile/deeshura.bsky.social
 	Portrait:
