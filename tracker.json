@@ -94378,18 +94378,18 @@
     "modreward": false,
     "name": "Sprite",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!1377429093997477928>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1557911993523118110": 948263579805683752
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1557913251411402802/portrait-0749.png?ex=6ac98747&is=6ac835c7&hm=3b1215bc7881469bd70b750cbbe80643e83cd3d5ce9746faec91a0acfad54f01&",
+    "portrait_modified": "2026-10-09 00:31:03.298316",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
