@@ -94508,7 +94508,7 @@
     "modreward": false,
     "name": "Lyleen",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!235162117785911297>",
       "secondary": [],
@@ -94532,7 +94532,7 @@
       "Sigh": false,
       "Stunned": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1558969468758003742/portrait-0750.png?ex=6acd5ef5&is=6acc0d75&hm=f3612a60ddf09b285d41b5e40c6fd92d2a088bbb8016472d5509f6d962581515&",
     "portrait_modified": "2026-10-11 22:28:02.836440",
     "portrait_pending": {},
     "portrait_recolor_link": "",
