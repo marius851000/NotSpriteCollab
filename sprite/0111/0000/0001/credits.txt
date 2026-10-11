@@ -1,0 +1,1 @@
+2026-10-11 01:36:58.955997	<@!702275233125630042>	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
