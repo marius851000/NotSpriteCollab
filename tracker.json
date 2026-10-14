@@ -55471,19 +55471,23 @@
         "modreward": true,
         "name": "Alternate",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_modified": "2026-01-07 12:07:43.739762",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "918857608591458364": 1428545623312961567
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -55506,26 +55510,19 @@
     "name": "Tailmon",
     "past_work": [],
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "<@!319945906600411179>",
+      "primary": "",
       "secondary": [],
-      "total": 1
+      "total": 0
     },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1560056981958565979/portrait-0417.png?ex=6ad153c8&is=6ad00248&hm=79f92d5164e26b786b93282eeecc637b9ddde902b6920d72141985154edcd323&",
-    "portrait_modified": "2026-01-07 12:07:43.739762",
-    "portrait_pending": {
-      "1560057126121115738": 948263579805683752,
-      "1560057375447060485": 948263579805683752
-    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {
-      "918857608591458364": 1428545623312961567
-    },
+    "portrait_talk": {},
     "sprite_bounty": {},
     "sprite_complete": 0,
     "sprite_credit": {
