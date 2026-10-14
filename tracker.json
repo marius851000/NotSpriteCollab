@@ -55515,9 +55515,12 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1559265726534258688/portrait-0417.png?ex=6ace72de&is=6acd215e&hm=94a2740a2e2c2315b4323c29701236a08a01281b0958baef035697f2d888d512&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1560056981958565979/portrait-0417.png?ex=6ad153c8&is=6ad00248&hm=79f92d5164e26b786b93282eeecc637b9ddde902b6920d72141985154edcd323&",
     "portrait_modified": "2026-01-07 12:07:43.739762",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1560057126121115738": 948263579805683752,
+      "1560057375447060485": 948263579805683752
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -55533,10 +55536,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1560057131342889010": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "918857608591458364": 1560056978657640482
+    }
   },
   "0418": {
     "subgroups": {
