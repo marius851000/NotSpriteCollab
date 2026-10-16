@@ -959,6 +959,7 @@ LunalaScout	Discord:<@!262065429109932035>	Contact:https://bsky.app/profile/dust
 		Sonic_Boom: Normal,Sad,Joyous,Special1,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meepit: Normal
 		Doug_Bs: Normal
+		Doug_Bs Knight: Normal
 		Viger: Normal
 		Cattiva: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Candygrief: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
