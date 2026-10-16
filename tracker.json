@@ -24920,18 +24920,18 @@
         "modreward": false,
         "name": "Knight",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!262065429109932035>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1560444611481305158": 948263579805683752
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1560450954489241650/portrait-0149-0001.png?ex=6ad2c2b3&is=6ad17133&hm=ce503e5107bd342ba1c34d07bf405155c956bbb2dcd9f865560e23e679186cb9&",
+        "portrait_modified": "2026-10-16 00:34:58.868517",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
