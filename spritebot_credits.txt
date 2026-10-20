@@ -154,6 +154,7 @@ JFain	Discord:<@!702275233125630042>
 		Surfing_Pikachu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Surfing_Pikachu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Sulphur_Nimbus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Kawkaw: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
 NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntruder
 	Portrait:
