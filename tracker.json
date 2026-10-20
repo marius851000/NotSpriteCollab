@@ -15936,7 +15936,9 @@
             },
             "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1558970588343828661/sprite-0111-0000-0001.zip?ex=6acd6000&is=6acc0e80&hm=bc9fa393ae0cfef26f333b1feef7a4cb635edb73244f0eb339cc8c55606e262d&",
             "sprite_modified": "2026-10-11 22:32:31.757209",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1561992295639683103": 948263579805683752
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
@@ -16040,7 +16042,7 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1558651881604255764/sprite-0111.zip?ex=6acc372e&is=6acae5ae&hm=77324fd58c4d9f9e305054b586614b54b6c6906e8e80e6ba40bdcb1c213df3ff&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1561991225530388592/sprite-0111.zip?ex=6ad85d30&is=6ad70bb0&hm=312f28d949ffb2faec7c8c46d8acb23cbda03664693e3398e291cc1b2b11811a&",
     "sprite_modified": "2026-10-08 03:52:43.390881",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -94898,6 +94900,117 @@
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {},
+    "past_work": []
+  },
+  "0752": {
+    "subgroups": {
+      "0000": {
+        "subgroups": {
+          "0001": {
+            "subgroups": {},
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "past_work": []
+          }
+        },
+        "canon": true,
+        "modreward": false,
+        "name": "",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": false,
+        "portrait_talk": {},
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": false,
+        "sprite_talk": {},
+        "past_work": []
+      }
+    },
+    "canon": true,
+    "modreward": false,
+    "name": "Kawkaw",
+    "portrait_bounty": {},
+    "portrait_complete": 0,
+    "portrait_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
+    "portrait_required": true,
+    "portrait_talk": {},
+    "sprite_bounty": {},
+    "sprite_complete": 0,
+    "sprite_credit": {
+      "primary": "",
+      "secondary": [],
+      "total": 0
+    },
+    "sprite_files": {},
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1561992294494634014/sprite-0752.zip?ex=6ad85e2f&is=6ad70caf&hm=ea2181c185cff8854dce96fd06985620d2ba9e458610c7927814189a9e8c3d82&",
+    "sprite_modified": "",
+    "sprite_pending": {
+      "1561993753021907057": 948263579805683752
+    },
+    "sprite_recolor_link": "",
+    "sprite_required": true,
+    "sprite_talk": {
+      "918857608591458364": 1561993699137818756
+    },
     "past_work": []
   }
 }
