@@ -24885,6 +24885,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -24912,13 +24913,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "Knight",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 1,
         "portrait_credit": {
@@ -24950,8 +24951,7 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
@@ -55511,6 +55511,7 @@
             "canon": false,
             "modreward": true,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -55538,13 +55539,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": false,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": false,
         "modreward": true,
         "name": "Alternate",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 1,
         "portrait_credit": {
@@ -55576,8 +55577,7 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
@@ -94312,6 +94312,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94339,13 +94340,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94373,13 +94374,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Terreon",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -94407,8 +94408,7 @@
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
-    "past_work": []
+    "sprite_talk": {}
   },
   "0748": {
     "subgroups": {
@@ -94419,6 +94419,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94446,13 +94447,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94480,13 +94481,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Sexy",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 1,
     "portrait_credit": {
@@ -94518,8 +94519,7 @@
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
-    "past_work": []
+    "sprite_talk": {}
   },
   "0749": {
     "subgroups": {
@@ -94530,6 +94530,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94557,13 +94558,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94591,13 +94592,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Sprite",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 1,
     "portrait_credit": {
@@ -94629,8 +94630,7 @@
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
-    "past_work": []
+    "sprite_talk": {}
   },
   "0750": {
     "subgroups": {
@@ -94641,6 +94641,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94668,13 +94669,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94702,13 +94703,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Lyleen",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": {
@@ -94771,8 +94772,7 @@
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1558831180948705284
-    },
-    "past_work": []
+    }
   },
   "0751": {
     "subgroups": {
@@ -94783,6 +94783,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94810,13 +94811,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94844,13 +94845,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Om_Nom",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": {
@@ -94897,8 +94898,7 @@
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
-    "past_work": []
+    "sprite_talk": {}
   },
   "0752": {
     "subgroups": {
@@ -94909,6 +94909,7 @@
             "canon": true,
             "modreward": false,
             "name": "Shiny",
+            "past_work": [],
             "portrait_bounty": {},
             "portrait_complete": 0,
             "portrait_credit": {
@@ -94936,13 +94937,13 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
-            "past_work": []
+            "sprite_talk": {}
           }
         },
         "canon": true,
         "modreward": false,
         "name": "",
+        "past_work": [],
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": {
@@ -94970,13 +94971,13 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
-        "sprite_talk": {},
-        "past_work": []
+        "sprite_talk": {}
       }
     },
     "canon": true,
     "modreward": false,
     "name": "Kawkaw",
+    "past_work": [],
     "portrait_bounty": {},
     "portrait_complete": 0,
     "portrait_credit": {
@@ -95020,7 +95021,6 @@
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1561993699137818756
-    },
-    "past_work": []
+    }
   }
 }
