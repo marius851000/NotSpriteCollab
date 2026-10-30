@@ -94382,18 +94382,33 @@
     "name": "Terreon",
     "past_work": [],
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "",
+      "primary": "<@!544245909639397378>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "1565609171477471313": 948263579805683752
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Sigh": false,
+      "Stunned": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1565679730252849252/portrait-0747.png?ex=6ae5c860&is=6ae476e0&hm=b9888408a9564bc1bd86c2eb471149bde8d0c11ac988c51ee0d95aa78796aa0e&",
+    "portrait_modified": "2026-10-30 10:52:16.167581",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
