@@ -1,1 +1,2 @@
 2026-10-30 10:52:16.148432	<@!544245909639397378>	CUR	Unspecified	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2026-11-07 01:55:19.171589	EEVEESANTA	CUR	Unspecified	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
