@@ -1,1 +1,2 @@
 2026-11-06 15:08:50.719868	<@!235162117785911297>	CUR	Unspecified	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2026-11-07 19:55:47.776900	<@!235162117785911297>	CUR	Unspecified	Shouting
