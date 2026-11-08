@@ -94352,8 +94352,10 @@
             "sprite_complete": 1,
             "sprite_credit": {
               "primary": "<@!544245909639397378>",
-              "secondary": [],
-              "total": 1
+              "secondary": [
+                "EEVEESANTA"
+              ],
+              "total": 2
             },
             "sprite_files": {
               "Walk": false,
@@ -94372,7 +94374,7 @@
               "Rotate": false
             },
             "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1568853173035081789/sprite-0747-0000-0001.zip?ex=6af153e0&is=6af00260&hm=8ce50deaf46f988b9192f8ef0fbeb07c871a9d7b48f116d47be4021458487f9e&",
-            "sprite_modified": "2026-11-08 05:02:23.632177",
+            "sprite_modified": "2026-11-08 05:09:43.002610",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
