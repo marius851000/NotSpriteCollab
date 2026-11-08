@@ -94349,19 +94349,36 @@
               "918857608591458364": 1565823814468767836
             },
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!544245909639397378>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Strike": false,
+              "Shoot": false,
+              "Appeal": false,
+              "TailWhip": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
+            },
+            "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1568853173035081789/sprite-0747-0000-0001.zip?ex=6af153e0&is=6af00260&hm=8ce50deaf46f988b9192f8ef0fbeb07c871a9d7b48f116d47be4021458487f9e&",
+            "sprite_modified": "2026-11-08 05:02:23.632177",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {}
+            "sprite_talk": {
+              "918857608591458364": 1568852215647445105
+            }
           }
         },
         "canon": true,
@@ -94465,7 +94482,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1568848165669572648/sprite-0747.zip?ex=6af14f36&is=6aeffdb6&hm=916702f879cf214ebc43001694c08c2b54a60d661003d8a0e9708667ab004602&",
     "sprite_modified": "2026-11-08 04:43:26.805414",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/1568851841582637217/sprite_recolor-0747-0000-0001.png?ex=6af152a2&is=6af00122&hm=8e736cd5221d946696db93a23db2635e73f5a4449d4c7162a260ab00d7f3630b&",
     "sprite_required": true,
     "sprite_talk": {
       "918857608591458364": 1568831002338529366
