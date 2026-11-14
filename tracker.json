@@ -40945,7 +40945,7 @@
         "modreward": true,
         "name": "Alternate",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": {
           "primary": "<@!235162117785911297>",
           "secondary": [],
@@ -40969,7 +40969,7 @@
           "Sigh": false,
           "Stunned": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1570948718641815715/portrait-0291-0001.png?ex=6af8f381&is=6af7a201&hm=ba2b5779eb5ea3bde0ade0e7c789d2d63d439d21800e3f7f4a251e5492703874&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1570954217923805244/portrait-0291-0001.png?ex=6af8f8a0&is=6af7a720&hm=1ba7cb379b7780e1cf79b15dffa8fd71f6dea3461192921cfc5b2a4f34699f1b&",
         "portrait_modified": "2026-11-14 00:10:58.136577",
         "portrait_pending": {},
         "portrait_recolor_link": "",
