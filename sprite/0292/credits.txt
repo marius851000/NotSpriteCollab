@@ -1,0 +1,1 @@
+2026-11-18 00:29:23.208793	<@!235162117785911297>	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Pose,Pain,Nod,Sit,Laying
