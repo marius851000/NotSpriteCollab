@@ -41142,6 +41142,81 @@
         "sprite_recolor_link": "",
         "sprite_required": false,
         "sprite_talk": {}
+      },
+      "0001": {
+        "subgroups": {
+          "0001": {
+            "subgroups": {},
+            "canon": false,
+            "modreward": true,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "past_work": []
+          }
+        },
+        "canon": false,
+        "modreward": true,
+        "name": "Alternate",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1572399622285033582/portrait-0292-0001.png?ex=6afe3ac3&is=6afce943&hm=1632d31a963c1c79e289d8186288af53d5d964a08a1a30ce43570fc9ac5f5bd5&",
+        "portrait_modified": "",
+        "portrait_pending": {
+          "1572400308745674814": 948263579805683752
+        },
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "portrait_talk": {
+          "918857608591458364": 1572400184628088923
+        },
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "sprite_talk": {},
+        "past_work": []
       }
     },
     "canon": true,
@@ -41176,10 +41251,14 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1572400308431233128": 948263579805683752
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "918857608591458364": 1572400181050085447
+    }
   },
   "0293": {
     "subgroups": {
