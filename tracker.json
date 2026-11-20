@@ -41400,7 +41400,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "past_work": []
           }
@@ -41438,7 +41438,7 @@
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
-        "sprite_required": true,
+        "sprite_required": false,
         "sprite_talk": {},
         "past_work": []
       }
