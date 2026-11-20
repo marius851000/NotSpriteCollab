@@ -1,1 +1,1 @@
-2025-10-16 02:18:16.010142	<@!319945906600411179>	CUR	Unspecified	Normal
+2026-11-20 11:24:09.131030	<@!235162117785911297>	CUR	Unspecified	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0

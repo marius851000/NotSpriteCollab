@@ -41409,38 +41409,22 @@
         "modreward": true,
         "name": "Alternate",
         "portrait_bounty": {},
-        "portrait_complete": 2,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "<@!235162117785911297>",
+          "primary": "<@!319945906600411179>",
           "secondary": [],
           "total": 1
         },
         "portrait_files": {
-          "Normal": false,
-          "Happy": false,
-          "Pain": false,
-          "Angry": false,
-          "Worried": false,
-          "Sad": false,
-          "Crying": false,
-          "Shouting": false,
-          "Teary-Eyed": false,
-          "Determined": false,
-          "Joyous": false,
-          "Inspired": false,
-          "Surprised": false,
-          "Dizzy": false,
-          "Special0": false,
-          "Sigh": false,
-          "Stunned": false
+          "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1573297898878140436/portrait-0293-0001.png?ex=6b017f59&is=6b002dd9&hm=f0fb048dd45bfba0879c0fcecbc703d8de7c8373f41f019e70877f4e0bf85215&",
-        "portrait_modified": "2026-11-20 11:24:09.178183",
+        "portrait_link": "",
+        "portrait_modified": "2026-01-07 12:07:43.733787",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
-          "918857608591458364": 1573296433707094148
+          "918857608591458364": 1428205349613338636
         },
         "sprite_bounty": {},
         "sprite_complete": 0,
@@ -41464,22 +41448,38 @@
     "name": "Andiramon",
     "past_work": [],
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "<@!319945906600411179>",
+      "primary": "<@!235162117785911297>",
       "secondary": [],
       "total": 1
     },
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Happy": false,
+      "Pain": false,
+      "Angry": false,
+      "Worried": false,
+      "Sad": false,
+      "Crying": false,
+      "Shouting": false,
+      "Teary-Eyed": false,
+      "Determined": false,
+      "Joyous": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Dizzy": false,
+      "Special0": false,
+      "Sigh": false,
+      "Stunned": false
     },
     "portrait_link": "",
-    "portrait_modified": "2026-01-07 12:07:43.733787",
+    "portrait_modified": "2026-11-20 11:24:09.178183",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
-      "918857608591458364": 1428205349613338636
+      "918857608591458364": 1573296433707094148
     },
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -41505,7 +41505,7 @@
       "EventSleep": false,
       "Wake": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1573297915064090754/sprite-0293.zip?ex=6b017f5d&is=6b002ddd&hm=f6e8a017fdbae5fd56d15e90be3247466913b09618c2c90f5ee74941e83d99ad&",
+    "sprite_link": "",
     "sprite_modified": "2026-11-20 11:24:10.187332",
     "sprite_pending": {},
     "sprite_recolor_link": "",
