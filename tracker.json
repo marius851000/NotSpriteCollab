@@ -91229,11 +91229,9 @@
       "SpAttack": false,
       "RearUp": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1575662668638060717/sprite-0720.zip?ex=6b0a19b6&is=6b08c836&hm=1873066b97d89aab1e5a7986c54eb498b49c9c3cac555e2c6c9bcc94fdf8db5c&",
-    "sprite_modified": "2026-11-26 23:59:26.781614",
-    "sprite_pending": {
-      "1575792657672962078": 948263579805683752
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1575895660148953270/sprite-0720.zip?ex=6b0af2b4&is=6b09a134&hm=e2e122b8216fd06ecabac9ae9ac0c6d0ddfda132c58f298cd80e1ab890a89dfb&",
+    "sprite_modified": "2026-11-27 15:26:42.565329",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {

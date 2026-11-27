@@ -1,2 +1,3 @@
 2026-08-20 21:23:35.655918	<@!235162117785911297>	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,MultiStrike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2026-11-26 23:59:26.778491	<@!235162117785911297>	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,MultiStrike,Kick,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2026-11-27 15:26:42.529446	<@!235162117785911297>	CUR	Unspecified	Nod,TumbleBack
