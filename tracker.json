@@ -91182,13 +91182,13 @@
       "Surprised": false,
       "Dizzy": false,
       "Sigh": false,
-      "Stunned": false
+      "Stunned": false,
+      "Special0": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1575645017366601808/portrait-0720.png?ex=6b0a0946&is=6b08b7c6&hm=eef80bda779bf2ee058961cc58e47364a3da9595192556b50e8711aca1c67ef2&",
-    "portrait_modified": "2026-08-20 21:23:27.272659",
-    "portrait_pending": {
-      "1575645027575791888": 948263579805683752
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/899668565077139486/1575662293377749032/portrait-0720.png?ex=6b0a195d&is=6b08c7dd&hm=dfb64691e503d64b653312b2c3ddfba2e4a2659b517e29bc57e431a2a90cf566&",
+    "portrait_modified": "2026-11-26 23:59:24.621988",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -91204,9 +91204,6 @@
     "sprite_files": {
       "Walk": false,
       "Attack": false,
-      "Punch": false,
-      "MultiStrike": false,
-      "Shoot": false,
       "Kick": false,
       "Sleep": false,
       "Hurt": false,
@@ -91221,29 +91218,20 @@
       "Eat": false,
       "Tumble": false,
       "Pose": false,
-      "Pull": false,
       "Pain": false,
       "Float": false,
-      "DeepBreath": false,
       "Nod": false,
-      "Sit": false,
-      "LookUp": false,
-      "Sink": false,
-      "Trip": false,
       "Laying": false,
-      "LeapForth": false,
       "Head": false,
       "Cringe": false,
-      "LostBalance": false,
       "TumbleBack": false,
-      "Faint": false,
-      "HitGround": false
+      "Strike": false,
+      "SpAttack": false,
+      "RearUp": false
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/1540109071405809715/sprite-0720.zip?ex=6a88c1d8&is=6a877058&hm=79c930509c393cd04c6f5cabf44411185d59ab3c6432e6e9046f0c9901b8e9a6&",
-    "sprite_modified": "2026-08-20 21:23:35.661882",
-    "sprite_pending": {
-      "1575645476861247649": 948263579805683752
-    },
+    "sprite_modified": "2026-11-26 23:59:26.781614",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
